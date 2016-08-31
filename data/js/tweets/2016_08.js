@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 14:04:55 +0000 2016",
+		"id": 770985724623544300,
+		"id_str": "770985724623544322",
+		"text": "Most appropriate! Today at noon Guadalajara time first #udgagora live video hangout. Watch https://t.co/dBdwRRJug8 https://t.co/VyIztzl0vF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "udgagora",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dBdwRRJug8",
+					"expanded_url": "http://bit.ly/udgagora-live",
+					"display_url": "bit.ly/udgagora-live",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/VyIztzl0vF",
+					"expanded_url": "https://twitter.com/AgoraUdG/status/770954817531359232",
+					"display_url": "twitter.com/AgoraUdG/statu…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9744,
+			"friends_count": 1225,
+			"listed_count": 765,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 694,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 770954817531359200,
+		"quoted_status_id_str": "770954817531359232",
+		"quoted_status": {
+			"created_at": "Wed Aug 31 12:02:06 +0000 2016",
+			"id": 770954817531359200,
+			"id_str": "770954817531359232",
+			"text": "#UdGAgora Daily Try: reply to me w/ tag: #agoratry218 DILO (Ugh?) Let’s Mambo! https://t.co/djOKN6soeI https://t.co/vwmYcZO0ku",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UdGAgora",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "agoratry218",
+						"indices": [
+							41,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/djOKN6soeI",
+						"expanded_url": "http://dlvr.it/M8kpNt",
+						"display_url": "dlvr.it/M8kpNt",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 770954815509712900,
+						"id_str": "770954815509712896",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CrL7UexVUAAs1dk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrL7UexVUAAs1dk.jpg",
+						"url": "https://t.co/vwmYcZO0ku",
+						"display_url": "pic.twitter.com/vwmYcZO0ku",
+						"expanded_url": "https://twitter.com/AgoraUdG/status/770954817531359232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 794,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 794,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770954815509712900,
+						"id_str": "770954815509712896",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CrL7UexVUAAs1dk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrL7UexVUAAs1dk.jpg",
+						"url": "https://t.co/vwmYcZO0ku",
+						"display_url": "pic.twitter.com/vwmYcZO0ku",
+						"expanded_url": "https://twitter.com/AgoraUdG/status/770954817531359232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 794,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 794,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3300945346,
+				"id_str": "3300945346",
+				"name": "Un ágora en la UdG",
+				"screen_name": "AgoraUdG",
+				"location": "Guadalajara, Jalisco",
+				"description": "A public gathering spot for mobile, active learning at University of Guadalajara",
+				"url": "http://t.co/BM4JJ8cQHy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BM4JJ8cQHy",
+								"expanded_url": "http://udg.theagoraonline.net",
+								"display_url": "udg.theagoraonline.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 623,
+				"friends_count": 232,
+				"listed_count": 9,
+				"created_at": "Wed May 27 20:56:54 +0000 2015",
+				"favourites_count": 47,
+				"utc_offset": -18000,
+				"time_zone": "Mexico City",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 343,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/603666418895167489/b7C_QP2b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/603666418895167489/b7C_QP2b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3300945346/1437448282",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 31 04:40:45 +0000 2016",
 		"id": 770843746241957900,
 		"id_str": "770843746241957889",

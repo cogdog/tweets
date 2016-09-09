@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 18:28:45 +0000 2016",
+		"id": 774313611787251700,
+		"id_str": "774313611787251712",
+		"text": "And ZOMG those jackets HURT MY BRAIN https://t.co/lTLp4qbl2L",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lTLp4qbl2L",
+					"expanded_url": "https://twitter.com/DannyDutch/status/761762229914066944",
+					"display_url": "twitter.com/DannyDutch/sta…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9755,
+			"friends_count": 1226,
+			"listed_count": 765,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 697,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 761762229914067000,
+		"quoted_status_id_str": "761762229914066944",
+		"quoted_status": {
+			"created_at": "Sat Aug 06 03:14:03 +0000 2016",
+			"id": 761762229914067000,
+			"id_str": "761762229914066944",
+			"text": "I'm pretty sure this is the same guy just wearing a different wig and fake beard. @BadAlbumCovers https://t.co/FD5MC5PGYX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BadAlbumCovers",
+						"name": "Bad Record Covers",
+						"id": 2206374113,
+						"id_str": "2206374113",
+						"indices": [
+							82,
+							97
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 761762227737260000,
+						"id_str": "761762227737260032",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CpJStcuW8AAyXR2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CpJStcuW8AAyXR2.jpg",
+						"url": "https://t.co/FD5MC5PGYX",
+						"display_url": "pic.twitter.com/FD5MC5PGYX",
+						"expanded_url": "http://twitter.com/DannyDutch/status/761762229914066944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 864,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 761762227737260000,
+						"id_str": "761762227737260032",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CpJStcuW8AAyXR2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CpJStcuW8AAyXR2.jpg",
+						"url": "https://t.co/FD5MC5PGYX",
+						"display_url": "pic.twitter.com/FD5MC5PGYX",
+						"expanded_url": "http://twitter.com/DannyDutch/status/761762229914066944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 864,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20857273,
+				"id_str": "20857273",
+				"name": "Daniel Holland",
+				"screen_name": "DannyDutch",
+				"location": "United Kingdom",
+				"description": "A #socialmedia editor for some people. Likes a good heist and a squeaky bit of Halloumi. https://t.co/VwXaQHmnLn",
+				"url": "https://t.co/HBWeOXe9NI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HBWeOXe9NI",
+								"expanded_url": "http://danielhollandphotography.com",
+								"display_url": "danielhollandphotography.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VwXaQHmnLn",
+								"expanded_url": "https://www.instagram.com/dannydutch/?hl=en",
+								"display_url": "instagram.com/dannydutch/?hl…",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13698,
+				"friends_count": 1068,
+				"listed_count": 158,
+				"created_at": "Sat Feb 14 16:52:47 +0000 2009",
+				"favourites_count": 15933,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55242,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/832616083/38ff541537aa34ed231a1fc810653e32.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/832616083/38ff541537aa34ed231a1fc810653e32.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639857607990202368/Ksr9DwYQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639857607990202368/Ksr9DwYQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20857273/1434037309",
+				"profile_link_color": "11A0D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 09 18:09:26 +0000 2016",
 		"id": 774308750836457500,
 		"id_str": "774308750836457472",

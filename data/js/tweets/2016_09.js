@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 18:37:42 +0000 2016",
+		"id": 776852576163631100,
+		"id_str": "776852576163631104",
+		"text": "This is dumb, dumber, dumbest... #dumblr https://t.co/lpbPWP0JIt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dumblr",
+					"indices": [
+						33,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lpbPWP0JIt",
+					"expanded_url": "https://twitter.com/brainpicker/status/776836113033990144",
+					"display_url": "twitter.com/brainpicker/st…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9774,
+			"friends_count": 1230,
+			"listed_count": 767,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 697,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 776836113033990100,
+		"quoted_status_id_str": "776836113033990144",
+		"quoted_status": {
+			"created_at": "Fri Sep 16 17:32:16 +0000 2016",
+			"id": 776836113033990100,
+			"id_str": "776836113033990144",
+			"text": "This is absurd! I’ve received no such notices, @tumblr, nor do I “upload” copyrighted material. And no recourse?! https://t.co/9tdpMcicvR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tumblr",
+						"name": "Tumblr",
+						"id": 52484614,
+						"id_str": "52484614",
+						"indices": [
+							47,
+							54
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 776836000404439000,
+						"id_str": "776836000404439045",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CsfgOfzXgAUJbr9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsfgOfzXgAUJbr9.jpg",
+						"url": "https://t.co/9tdpMcicvR",
+						"display_url": "pic.twitter.com/9tdpMcicvR",
+						"expanded_url": "https://twitter.com/brainpicker/status/776836113033990144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 422,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 713,
+								"h": 442,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 713,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776836000404439000,
+						"id_str": "776836000404439045",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CsfgOfzXgAUJbr9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsfgOfzXgAUJbr9.jpg",
+						"url": "https://t.co/9tdpMcicvR",
+						"display_url": "pic.twitter.com/9tdpMcicvR",
+						"expanded_url": "https://twitter.com/brainpicker/status/776836113033990144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 422,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 713,
+								"h": 442,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 713,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9207632,
+				"id_str": "9207632",
+				"name": "Maria Popova",
+				"screen_name": "brainpicker",
+				"location": "Brooklyn, NY",
+				"description": "Reader/writer. Founder of @brainpickings. MIT Fellow.",
+				"url": "http://t.co/j1Rss5YgMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j1Rss5YgMu",
+								"expanded_url": "http://brainpickings.org",
+								"display_url": "brainpickings.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 694946,
+				"friends_count": 298,
+				"listed_count": 25357,
+				"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+				"favourites_count": 242,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 109082,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFDB00",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1430428764",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEAE5",
+				"profile_text_color": "3F3F3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 18:26:43 +0000 2016",
+		"id": 776849815892131800,
+		"id_str": "776849815892131841",
+		"text": "A Thinkathon with We Are Open Co-Op #ccquest https://t.co/VzajirHwbh https://t.co/jDSF6BCO7J",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ccquest",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzajirHwbh",
+					"expanded_url": "https://certificates.creativecommons.org/2016/09/thinkathon/",
+					"display_url": "certificates.creativecommons.org/2016/09/thinka…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776849813379756000,
+					"id_str": "776849813379756032",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CsfsyhJUMAAzkwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsfsyhJUMAAzkwi.jpg",
+					"url": "https://t.co/jDSF6BCO7J",
+					"display_url": "pic.twitter.com/jDSF6BCO7J",
+					"expanded_url": "https://twitter.com/cogdog/status/776849815892131841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776849813379756000,
+					"id_str": "776849813379756032",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CsfsyhJUMAAzkwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsfsyhJUMAAzkwi.jpg",
+					"url": "https://t.co/jDSF6BCO7J",
+					"display_url": "pic.twitter.com/jDSF6BCO7J",
+					"expanded_url": "https://twitter.com/cogdog/status/776849815892131841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9774,
+			"friends_count": 1230,
+			"listed_count": 767,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 697,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 16 17:24:03 +0000 2016",
 		"id": 776834041672634400,
 		"id_str": "776834041672634368",

@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 23:26:32 +0000 2016",
+		"id": 780911530615279600,
+		"id_str": "780911530615279617",
+		"text": "Great google search gizmo: try \"speed test\" https://t.co/J0MnJZj55I I got 28.0 down / 6.8 up https://t.co/OJEhXMlUKW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0MnJZj55I",
+					"expanded_url": "https://www.google.com/search?q=speed+test",
+					"display_url": "google.com/search?q=speed…",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/OJEhXMlUKW",
+					"expanded_url": "https://twitter.com/ProfHacker/status/780889335134650369",
+					"display_url": "twitter.com/ProfHacker/sta…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9781,
+			"friends_count": 1235,
+			"listed_count": 770,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 698,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 780889335134650400,
+		"quoted_status_id_str": "780889335134650369",
+		"quoted_status": {
+			"created_at": "Tue Sep 27 21:58:20 +0000 2016",
+			"id": 780889335134650400,
+			"id_str": "780889335134650369",
+			"text": "New post by @jbj: “Get Your Internet Connection’s Speed from Google”: https://t.co/EAeCdybTAU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jbj",
+						"name": "jbj",
+						"id": 35993,
+						"id_str": "35993",
+						"indices": [
+							12,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EAeCdybTAU",
+						"expanded_url": "http://www.chronicle.com/blogs/profhacker/get-your-internet-connections-speed-from-google/62874",
+						"display_url": "chronicle.com/blogs/profhack…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60462205,
+				"id_str": "60462205",
+				"name": "ProfHacker",
+				"screen_name": "ProfHacker",
+				"location": "On Campus",
+				"description": "http://t.co/kuppVHsEt9: Tips, tutorials, and commentary on pedagogy, productivity, and technology in higher education.",
+				"url": "http://t.co/kuppVHsEt9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kuppVHsEt9",
+								"expanded_url": "http://ProfHacker.com",
+								"display_url": "ProfHacker.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/kuppVHsEt9",
+								"expanded_url": "http://ProfHacker.com",
+								"display_url": "ProfHacker.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22354,
+				"friends_count": 559,
+				"listed_count": 1509,
+				"created_at": "Mon Jul 27 02:25:17 +0000 2009",
+				"favourites_count": 54,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/35456858/profhacker_background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/35456858/profhacker_background.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/405601290/logo2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/405601290/logo2_normal.jpg",
+				"profile_link_color": "382EC2",
+				"profile_sidebar_border_color": "F0F0F0",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "595859",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 27 21:50:54 +0000 2016",
 		"id": 780887465586413600,
 		"id_str": "780887465586413572",

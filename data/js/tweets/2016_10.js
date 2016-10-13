@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 22:57:24 +0000 2016",
+		"id": 786702407279505400,
+		"id_str": "786702407279505408",
+		"text": "\"Basic human decency\" - is that really so much to ask for in 2016? I respect this woman's powerful voice so much. W… https://t.co/ZA41xhZQGg",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZA41xhZQGg",
+					"expanded_url": "https://twitter.com/i/web/status/786702407279505408",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9825,
+			"friends_count": 1241,
+			"listed_count": 770,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 786663906693480400,
+		"quoted_status_id_str": "786663906693480448",
+		"quoted_status": {
+			"created_at": "Thu Oct 13 20:24:25 +0000 2016",
+			"id": 786663906693480400,
+			"id_str": "786663906693480448",
+			"text": "Michelle Obama’s raw response to Donald Trump and misogyny in this election: “it has shaken me to my core.\" https://t.co/dvLioBoAac",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786654740104884200,
+						"id_str": "786654740104884224",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CurD-1kUsAAjBEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CurD-1kUsAAjBEv.jpg",
+						"url": "https://t.co/dvLioBoAac",
+						"display_url": "pic.twitter.com/dvLioBoAac",
+						"expanded_url": "https://twitter.com/voxdotcom/status/786663906693480448/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786654740104884200,
+						"id_str": "786654740104884224",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CurD-1kUsAAjBEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CurD-1kUsAAjBEv.jpg",
+						"url": "https://t.co/dvLioBoAac",
+						"display_url": "pic.twitter.com/dvLioBoAac",
+						"expanded_url": "https://twitter.com/voxdotcom/status/786663906693480448/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 210944,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/786654740104884224/pl/EZti5sN_zyf6KN2Q.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/786654740104884224/vid/240x240/ofwlh_83aQkT6k5W.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/786654740104884224/vid/720x720/adaQXE5WoYC4xG6v.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/786654740104884224/vid/480x480/mvO8njNAWsRm9Yqo.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/786654740104884224/pl/EZti5sN_zyf6KN2Q.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Michelle Obama on Donald Trump's sexism",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2347049341,
+				"id_str": "2347049341",
+				"name": "Vox",
+				"screen_name": "voxdotcom",
+				"location": "",
+				"description": "Understand the news.",
+				"url": "http://t.co/RnqX4a68G1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RnqX4a68G1",
+								"expanded_url": "http://vox.com",
+								"display_url": "vox.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 448202,
+				"friends_count": 197,
+				"listed_count": 10910,
+				"created_at": "Sun Feb 16 15:46:00 +0000 2014",
+				"favourites_count": 1941,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 47135,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442786507103813632/KXUzQph4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442786507103813632/KXUzQph4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/442785905246347265/v6W3UuIL_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/442785905246347265/v6W3UuIL_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2347049341/1413926998",
+				"profile_link_color": "67818B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1628,
+			"favorite_count": 2088,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 13 22:29:55 +0000 2016",
+		"id": 786695488351400000,
+		"id_str": "786695488351399937",
+		"text": "@DrScherf It's from a friend who does a large garden and sells at a local farmers market. He gives half the $ to local charity.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrScherf",
+					"name": "Dr. Kathleen Scherf",
+					"id": 2717953052,
+					"id_str": "2717953052",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 786693260630716400,
+		"in_reply_to_status_id_str": "786693260630716416",
+		"in_reply_to_user_id": 2717953052,
+		"in_reply_to_user_id_str": "2717953052",
+		"in_reply_to_screen_name": "DrScherf",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9825,
+			"friends_count": 1241,
+			"listed_count": 770,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 13 22:03:41 +0000 2016",
 		"id": 786688885921288200,
 		"id_str": "786688885921288193",

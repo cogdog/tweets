@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 03:50:12 +0000 2016",
+		"id": 787500866697699300,
+		"id_str": "787500866697699328",
+		"text": "It's weird and sad that a top search term on my site at https://t.co/ccGWFf8Nd9 is \"https://t.co/ccGWFf8Nd9\" What can I conclude?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ccGWFf8Nd9",
+					"expanded_url": "http://cogdogblog.com",
+					"display_url": "cogdogblog.com",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/ccGWFf8Nd9",
+					"expanded_url": "http://cogdogblog.com",
+					"display_url": "cogdogblog.com",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9826,
+			"friends_count": 1241,
+			"listed_count": 771,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 706,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74970,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 16 03:38:37 +0000 2016",
+		"id": 787497953262915600,
+		"id_str": "787497953262915585",
+		"text": "RT @SK13movie: A thing of beauty: photo by #Kubrick of his editing room notes for Dr. Strangelove. We love #details! https://t.co/ys3YODqvA2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kubrick",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "details",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SK13movie",
+					"name": "SK13Movie",
+					"id": 540547401,
+					"id_str": "540547401",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 787437434048909300,
+					"id_str": "787437434048909312",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+					"url": "https://t.co/ys3YODqvA2",
+					"display_url": "pic.twitter.com/ys3YODqvA2",
+					"expanded_url": "https://twitter.com/SK13movie/status/787437435898646528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 787437435898646500,
+					"source_status_id_str": "787437435898646528",
+					"source_user_id": 540547401,
+					"source_user_id_str": "540547401"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 787437434048909300,
+					"id_str": "787437434048909312",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+					"url": "https://t.co/ys3YODqvA2",
+					"display_url": "pic.twitter.com/ys3YODqvA2",
+					"expanded_url": "https://twitter.com/SK13movie/status/787437435898646528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 787437435898646500,
+					"source_status_id_str": "787437435898646528",
+					"source_user_id": 540547401,
+					"source_user_id_str": "540547401"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9826,
+			"friends_count": 1241,
+			"listed_count": 771,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 706,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74970,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 15 23:38:09 +0000 2016",
+			"id": 787437435898646500,
+			"id_str": "787437435898646528",
+			"text": "A thing of beauty: photo by #Kubrick of his editing room notes for Dr. Strangelove. We love #details! https://t.co/ys3YODqvA2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Kubrick",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"text": "details",
+						"indices": [
+							92,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 787437434048909300,
+						"id_str": "787437434048909312",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+						"url": "https://t.co/ys3YODqvA2",
+						"display_url": "pic.twitter.com/ys3YODqvA2",
+						"expanded_url": "https://twitter.com/SK13movie/status/787437435898646528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 740,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 740,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 787437434048909300,
+						"id_str": "787437434048909312",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cu2KLJtUkAATLjy.jpg",
+						"url": "https://t.co/ys3YODqvA2",
+						"display_url": "pic.twitter.com/ys3YODqvA2",
+						"expanded_url": "https://twitter.com/SK13movie/status/787437435898646528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 740,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 740,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 540547401,
+				"id_str": "540547401",
+				"name": "SK13Movie",
+				"screen_name": "SK13movie",
+				"location": "",
+				"description": "Hard at work on two upcoming documentaries that will take you deep into the world of Kubrick : Exclusive!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2714,
+				"friends_count": 1863,
+				"listed_count": 65,
+				"created_at": "Fri Mar 30 02:37:16 +0000 2012",
+				"favourites_count": 2147,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4798,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F70505",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/760299148/be11df9025f4f335c5fa8b1182fc1c95.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/760299148/be11df9025f4f335c5fa8b1182fc1c95.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/465543670855249920/lQ76bjmE_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/465543670855249920/lQ76bjmE_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/540547401/1398206732",
+				"profile_link_color": "1B49E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 16 02:43:47 +0000 2016",
 		"id": 787484154485100500,
 		"id_str": "787484154485100545",

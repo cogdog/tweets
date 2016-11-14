@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 20:13:49 +0000 2016",
+		"id": 798257650886582300,
+		"id_str": "798257650886582272",
+		"text": "Brilliant on all levels, this is maximal #ds106 https://t.co/rhfeO4G5aF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rhfeO4G5aF",
+					"expanded_url": "https://twitter.com/brimac106/status/798257330445922304",
+					"display_url": "twitter.com/brimac106/stat…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9939,
+			"friends_count": 1254,
+			"listed_count": 774,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 707,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75631,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 798257330445922300,
+		"quoted_status_id_str": "798257330445922304",
+		"quoted_status": {
+			"created_at": "Mon Nov 14 20:12:33 +0000 2016",
+			"id": 798257330445922300,
+			"id_str": "798257330445922304",
+			"text": "@ds106dc #tdc1772 #ds106 https://t.co/czuU8CowVy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tdc1772",
+						"indices": [
+							9,
+							17
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							18,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 798257320752877600,
+						"id_str": "798257320752877568",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/CxP6zcrUkAAabre.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxP6zcrUkAAabre.jpg",
+						"url": "https://t.co/czuU8CowVy",
+						"display_url": "pic.twitter.com/czuU8CowVy",
+						"expanded_url": "https://twitter.com/brimac106/status/798257330445922304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 741,
+								"h": 797,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 741,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798257320752877600,
+						"id_str": "798257320752877568",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/CxP6zcrUkAAabre.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxP6zcrUkAAabre.jpg",
+						"url": "https://t.co/czuU8CowVy",
+						"display_url": "pic.twitter.com/czuU8CowVy",
+						"expanded_url": "https://twitter.com/brimac106/status/798257330445922304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 741,
+								"h": 797,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 741,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 798104988396372000,
+			"in_reply_to_status_id_str": "798104988396371968",
+			"in_reply_to_user_id": 995562187,
+			"in_reply_to_user_id_str": "995562187",
+			"in_reply_to_screen_name": "ds106dc",
+			"user": {
+				"id": 530836352,
+				"id_str": "530836352",
+				"name": "Brianna McClain",
+				"screen_name": "brimac106",
+				"location": "Salina, KS",
+				"description": "Hey, my name is Brianna! My friends call me Bri, well they would if I had any friends.",
+				"url": "https://t.co/5cqLV46Irc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5cqLV46Irc",
+								"expanded_url": "http://www.briannamcclain.wordpress.com",
+								"display_url": "briannamcclain.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55,
+				"friends_count": 142,
+				"listed_count": 1,
+				"created_at": "Tue Mar 20 02:15:03 +0000 2012",
+				"favourites_count": 300,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 164,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788391384919052288/6GHJKSZr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788391384919052288/6GHJKSZr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/530836352/1476802497",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e7bae49f1ac7f22e",
+				"url": "https://api.twitter.com/1.1/geo/id/e7bae49f1ac7f22e.json",
+				"place_type": "city",
+				"name": "Salina",
+				"full_name": "Salina, KS",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.676631,
+								38.768801
+							],
+							[
+								-97.557719,
+								38.768801
+							],
+							[
+								-97.557719,
+								38.885242
+							],
+							[
+								-97.676631,
+								38.885242
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 20:11:39 +0000 2016",
+		"id": 798257106587512800,
+		"id_str": "798257106587512833",
+		"text": "Gracias @RosalesCinco for your #udgagora enthusiasm -I remember how excited you were making videos @NancyWhite @bkiddjibc @brlamb @tanbob",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "udgagora",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RosalesCinco",
+					"name": "Rosa Cinco",
+					"id": 742188054857666600,
+					"id_str": "742188054857666562",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "NancyWhite",
+					"name": "Nancy White",
+					"id": 25793,
+					"id_str": "25793",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"screen_name": "bkiddjibc",
+					"name": "Barb Kidd",
+					"id": 2927683728,
+					"id_str": "2927683728",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"screen_name": "tanbob",
+					"name": "Tannis Morgan",
+					"id": 10817782,
+					"id_str": "10817782",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 798247779386544100,
+		"in_reply_to_status_id_str": "798247779386544128",
+		"in_reply_to_user_id": 742188054857666600,
+		"in_reply_to_user_id_str": "742188054857666562",
+		"in_reply_to_screen_name": "RosalesCinco",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9939,
+			"friends_count": 1254,
+			"listed_count": 774,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 707,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75631,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 14 19:13:13 +0000 2016",
 		"id": 798242401584193500,
 		"id_str": "798242401584193536",

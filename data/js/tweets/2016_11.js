@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 17:20:45 +0000 2016",
+		"id": 798938872151298000,
+		"id_str": "798938872151298048",
+		"text": "RT @olgamariab: #CCQuest What did you hear in a What If @creativecommons Certification video that fits you?… https://t.co/YjScjmVoKu https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CCQuest",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "olgamariab",
+					"name": "Olga Belikov",
+					"id": 431042434,
+					"id_str": "431042434",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						56,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YjScjmVoKu",
+					"expanded_url": "https://certificates.creativecommons.org/2016/11/ccquest-07/",
+					"display_url": "certificates.creativecommons.org/2016/11/ccques…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9946,
+			"friends_count": 1255,
+			"listed_count": 774,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 708,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 15 18:53:38 +0000 2016",
+			"id": 798599858328256500,
+			"id_str": "798599858328256513",
+			"text": "#CCQuest What did you hear in a What If @creativecommons Certification video that fits you?… https://t.co/YjScjmVoKu https://t.co/p3fkchBvNX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CCQuest",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							40,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YjScjmVoKu",
+						"expanded_url": "https://certificates.creativecommons.org/2016/11/ccquest-07/",
+						"display_url": "certificates.creativecommons.org/2016/11/ccques…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798599855560007700,
+						"id_str": "798599855560007684",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"url": "https://t.co/p3fkchBvNX",
+						"display_url": "pic.twitter.com/p3fkchBvNX",
+						"expanded_url": "https://twitter.com/olgamariab/status/798599858328256513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798599855560007700,
+						"id_str": "798599855560007684",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"url": "https://t.co/p3fkchBvNX",
+						"display_url": "pic.twitter.com/p3fkchBvNX",
+						"expanded_url": "https://twitter.com/olgamariab/status/798599858328256513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 431042434,
+				"id_str": "431042434",
+				"name": "Olga Belikov",
+				"screen_name": "olgamariab",
+				"location": "Utah // British Columbia",
+				"description": "Teacher, Learner, #EdTech Grad Student, Researcher, Instructional Designer, Nature Lover, Bob Dylan Enthusiast, Donut Consumer. BYU. Open Education.",
+				"url": "https://t.co/6mOO8WbeyW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6mOO8WbeyW",
+								"expanded_url": "http://olgambelikov.net",
+								"display_url": "olgambelikov.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 404,
+				"friends_count": 479,
+				"listed_count": 12,
+				"created_at": "Wed Dec 07 21:14:05 +0000 2011",
+				"favourites_count": 13516,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1162,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6482C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/377744481/sunshine-tape.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/377744481/sunshine-tape.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776932197416570880/iclVxxwH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776932197416570880/iclVxxwH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/431042434/1462640132",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C6482C",
+				"profile_sidebar_fill_color": "C6482C",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 16 17:20:38 +0000 2016",
+		"id": 798938842115903500,
+		"id_str": "798938842115903488",
+		"text": "@econproph brings economists skepticism on certification (3 party interplay), identifies understanding gaps… https://t.co/2R7Xob4l2z",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "econproph",
+					"name": "Jim Luke",
+					"id": 26559701,
+					"id_str": "26559701",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2R7Xob4l2z",
+					"expanded_url": "https://twitter.com/i/web/status/798938842115903488",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 26559701,
+		"in_reply_to_user_id_str": "26559701",
+		"in_reply_to_screen_name": "econproph",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9946,
+			"friends_count": 1255,
+			"listed_count": 774,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 708,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 798599858328256500,
+		"quoted_status_id_str": "798599858328256513",
+		"quoted_status": {
+			"created_at": "Tue Nov 15 18:53:38 +0000 2016",
+			"id": 798599858328256500,
+			"id_str": "798599858328256513",
+			"text": "#CCQuest What did you hear in a What If @creativecommons Certification video that fits you?… https://t.co/YjScjmVoKu https://t.co/p3fkchBvNX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CCQuest",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							40,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YjScjmVoKu",
+						"expanded_url": "https://certificates.creativecommons.org/2016/11/ccquest-07/",
+						"display_url": "certificates.creativecommons.org/2016/11/ccques…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798599855560007700,
+						"id_str": "798599855560007684",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"url": "https://t.co/p3fkchBvNX",
+						"display_url": "pic.twitter.com/p3fkchBvNX",
+						"expanded_url": "https://twitter.com/olgamariab/status/798599858328256513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798599855560007700,
+						"id_str": "798599855560007684",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxUyVmRVIAQIigM.jpg",
+						"url": "https://t.co/p3fkchBvNX",
+						"display_url": "pic.twitter.com/p3fkchBvNX",
+						"expanded_url": "https://twitter.com/olgamariab/status/798599858328256513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 431042434,
+				"id_str": "431042434",
+				"name": "Olga Belikov",
+				"screen_name": "olgamariab",
+				"location": "Utah // British Columbia",
+				"description": "Teacher, Learner, #EdTech Grad Student, Researcher, Instructional Designer, Nature Lover, Bob Dylan Enthusiast, Donut Consumer. BYU. Open Education.",
+				"url": "https://t.co/6mOO8WbeyW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6mOO8WbeyW",
+								"expanded_url": "http://olgambelikov.net",
+								"display_url": "olgambelikov.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 404,
+				"friends_count": 479,
+				"listed_count": 12,
+				"created_at": "Wed Dec 07 21:14:05 +0000 2011",
+				"favourites_count": 13516,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1162,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6482C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/377744481/sunshine-tape.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/377744481/sunshine-tape.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776932197416570880/iclVxxwH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776932197416570880/iclVxxwH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/431042434/1462640132",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C6482C",
+				"profile_sidebar_fill_color": "C6482C",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 16 16:50:41 +0000 2016",
 		"id": 798931305857712100,
 		"id_str": "798931305857712132",

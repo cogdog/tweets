@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 15:05:35 +0000 2016",
+		"id": 799267246782627800,
+		"id_str": "799267246782627840",
+		"text": "@EHolmes86 @ds106dc That logo is HOT! Blazing, burning hot! What's the smell? My hair is on fir....",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EHolmes86",
+					"name": "Eric Holmes",
+					"id": 767861128223268900,
+					"id_str": "767861128223268864",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 799220406930538500,
+		"in_reply_to_status_id_str": "799220406930538500",
+		"in_reply_to_user_id": 767861128223268900,
+		"in_reply_to_user_id_str": "767861128223268864",
+		"in_reply_to_screen_name": "EHolmes86",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9950,
+			"friends_count": 1255,
+			"listed_count": 772,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 708,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 17 15:02:21 +0000 2016",
+		"id": 799266432760488000,
+		"id_str": "799266432760487936",
+		"text": "@patlockley The effects are cool but #ds106 does not push $9.99 apps",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patlockley",
+					"name": "(((patlockley)))",
+					"id": 18833145,
+					"id_str": "18833145",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 799217751185309700,
+		"in_reply_to_status_id_str": "799217751185309696",
+		"in_reply_to_user_id": 18833145,
+		"in_reply_to_user_id_str": "18833145",
+		"in_reply_to_screen_name": "patlockley",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9950,
+			"friends_count": 1255,
+			"listed_count": 772,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 708,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 17 13:04:02 +0000 2016",
 		"id": 799236657799000000,
 		"id_str": "799236657799000064",

@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 05:01:31 +0000 2016",
+		"id": 799477612934369300,
+		"id_str": "799477612934369280",
+		"text": "An amazing body of writing, art by @ywpvt  young writers responding to the election. Listen to their voices. https://t.co/RGxIWr71F7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ywpvt",
+					"name": "YoungWritersProject",
+					"id": 77241549,
+					"id_str": "77241549",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RGxIWr71F7",
+					"expanded_url": "https://twitter.com/ywpvt/status/799447585027162112",
+					"display_url": "twitter.com/ywpvt/status/7…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9948,
+			"friends_count": 1256,
+			"listed_count": 772,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 799447585027162100,
+		"quoted_status_id_str": "799447585027162112",
+		"quoted_status": {
+			"created_at": "Fri Nov 18 03:02:11 +0000 2016",
+			"id": 799447585027162100,
+			"id_str": "799447585027162112",
+			"text": "The Voice is out! @ywpvt writers share extraordinary views on election. https://t.co/TSdilKv3aT #digiwrimo @laura_ritchie @Bali_Maha @cogdog",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digiwrimo",
+						"indices": [
+							96,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ywpvt",
+						"name": "YoungWritersProject",
+						"id": 77241549,
+						"id_str": "77241549",
+						"indices": [
+							18,
+							24
+						]
+					},
+					{
+						"screen_name": "laura_ritchie",
+						"name": "laura ritchie",
+						"id": 17862408,
+						"id_str": "17862408",
+						"indices": [
+							107,
+							121
+						]
+					},
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi مها بالي",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							122,
+							132
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							133,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TSdilKv3aT",
+						"expanded_url": "http://thevoice.youngwritersproject.org",
+						"display_url": "thevoice.youngwritersproject.org",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77241549,
+				"id_str": "77241549",
+				"name": "YoungWritersProject",
+				"screen_name": "ywpvt",
+				"location": "Vermont",
+				"description": "A nonprofit dedicated to helping youth find their voice and gain the power to be heard. #edtech #litchat #writing @ggevalt @DougDeMaio",
+				"url": "https://t.co/QCEX8oh2VW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QCEX8oh2VW",
+								"expanded_url": "http://youngwritersproject.org",
+								"display_url": "youngwritersproject.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3374,
+				"friends_count": 2752,
+				"listed_count": 146,
+				"created_at": "Fri Sep 25 15:43:19 +0000 2009",
+				"favourites_count": 6082,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6613,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/39937298/twitter2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/39937298/twitter2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771355509303676928/SydzbLi2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771355509303676928/SydzbLi2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77241549/1472740279",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 18 03:51:31 +0000 2016",
 		"id": 799459996241195000,
 		"id_str": "799459996241195008",

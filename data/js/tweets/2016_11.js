@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 20 23:33:58 +0000 2016",
+		"id": 800482346134667300,
+		"id_str": "800482346134667264",
+		"text": "@holden Can't say I miss a thing. https://t.co/YrcIjgaq6G",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 800482292892188700,
+					"id_str": "800482292892188672",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxviZ3zUQAAXC8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxviZ3zUQAAXC8V.jpg",
+					"url": "https://t.co/YrcIjgaq6G",
+					"display_url": "pic.twitter.com/YrcIjgaq6G",
+					"expanded_url": "https://twitter.com/cogdog/status/800482346134667264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 800482292892188700,
+					"id_str": "800482292892188672",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxviZ3zUQAAXC8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxviZ3zUQAAXC8V.jpg",
+					"url": "https://t.co/YrcIjgaq6G",
+					"display_url": "pic.twitter.com/YrcIjgaq6G",
+					"expanded_url": "https://twitter.com/cogdog/status/800482346134667264/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CxviZ3zUQAAXC8V.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 800460875106684900,
+		"in_reply_to_status_id_str": "800460875106684928",
+		"in_reply_to_user_id": 1912681,
+		"in_reply_to_user_id_str": "1912681",
+		"in_reply_to_screen_name": "holden",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9949,
+			"friends_count": 1256,
+			"listed_count": 771,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 20 23:28:49 +0000 2016",
+		"id": 800481050224799700,
+		"id_str": "800481050224799744",
+		"text": "@Pinboard @noahlz @anantshri I deleted FB acct in 2014. When I made one for project in 2015 all info was gone. Does mean true deleted but...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pinboard",
+					"name": "Pinboard",
+					"id": 55525953,
+					"id_str": "55525953",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "noahlz",
+					"name": "Noah Zucker",
+					"id": 14253476,
+					"id_str": "14253476",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "anantshri",
+					"name": "anantshri",
+					"id": 8789982,
+					"id_str": "8789982",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 800460970816512000,
+		"in_reply_to_status_id_str": "800460970816512000",
+		"in_reply_to_user_id": 55525953,
+		"in_reply_to_user_id_str": "55525953",
+		"in_reply_to_screen_name": "Pinboard",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9949,
+			"friends_count": 1256,
+			"listed_count": 771,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 20 20:13:45 +0000 2016",
 		"id": 800431961487470600,
 		"id_str": "800431961487470592",

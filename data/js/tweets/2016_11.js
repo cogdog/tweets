@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 17:04:57 +0000 2016",
+		"id": 801834000754974700,
+		"id_str": "801834000754974720",
+		"text": "Hopefully/hopelessly optimistic for first winter snow... https://t.co/mcdqGIfDuW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mcdqGIfDuW",
+					"expanded_url": "https://twitter.com/NWSFlagstaff/status/801750453910405121",
+					"display_url": "twitter.com/NWSFlagstaff/s…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9955,
+			"friends_count": 1258,
+			"listed_count": 773,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 801750453910405100,
+		"quoted_status_id_str": "801750453910405121",
+		"quoted_status": {
+			"created_at": "Thu Nov 24 11:32:58 +0000 2016",
+			"id": 801750453910405100,
+			"id_str": "801750453910405121",
+			"text": "Plan ahead for winter driving conditions in Nrn #AZ Sunday &amp; Monday. #azwx @ArizonaDOT https://t.co/e9pFtkp3K5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AZ",
+						"indices": [
+							48,
+							51
+						]
+					},
+					{
+						"text": "azwx",
+						"indices": [
+							73,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArizonaDOT",
+						"name": "Arizona DOT",
+						"id": 16221481,
+						"id_str": "16221481",
+						"indices": [
+							79,
+							90
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 801750340882178000,
+						"id_str": "801750340882178048",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyBjr-rUoAANUuD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyBjr-rUoAANUuD.jpg",
+						"url": "https://t.co/e9pFtkp3K5",
+						"display_url": "pic.twitter.com/e9pFtkp3K5",
+						"expanded_url": "https://twitter.com/NWSFlagstaff/status/801750453910405121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 801750340882178000,
+						"id_str": "801750340882178048",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyBjr-rUoAANUuD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyBjr-rUoAANUuD.jpg",
+						"url": "https://t.co/e9pFtkp3K5",
+						"display_url": "pic.twitter.com/e9pFtkp3K5",
+						"expanded_url": "https://twitter.com/NWSFlagstaff/status/801750453910405121/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CyBjr-rUoAANUuD.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 590099044,
+				"id_str": "590099044",
+				"name": "NWS Flagstaff",
+				"screen_name": "NWSFlagstaff",
+				"location": "Flagstaff, AZ",
+				"description": "Official Twitter account for the National Weather Service Flagstaff. Details: http://t.co/KKTK7cZlhK",
+				"url": "http://t.co/m8so120v7j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/m8so120v7j",
+								"expanded_url": "http://weather.gov/Flagstaff",
+								"display_url": "weather.gov/Flagstaff",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/KKTK7cZlhK",
+								"expanded_url": "http://weather.gov/twitter",
+								"display_url": "weather.gov/twitter",
+								"indices": [
+									78,
+									100
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11760,
+				"friends_count": 149,
+				"listed_count": 363,
+				"created_at": "Fri May 25 15:49:58 +0000 2012",
+				"favourites_count": 281,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6348,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561450045/NWS_twitterbackground.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561450045/NWS_twitterbackground.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711693832581087232/30ulWOxe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711693832581087232/30ulWOxe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/590099044/1479375607",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 24 17:03:55 +0000 2016",
+		"id": 801833740611686400,
+		"id_str": "801833740611686400",
+		"text": "Brilliant creative output by high school students of @Type217 being part of #ds106 from Australia - see… https://t.co/EBZgghd513",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Type217",
+					"name": "Dean Groom",
+					"id": 9593882,
+					"id_str": "9593882",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EBZgghd513",
+					"expanded_url": "https://twitter.com/i/web/status/801833740611686400",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9955,
+			"friends_count": 1258,
+			"listed_count": 773,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 801676452286513200,
+		"quoted_status_id_str": "801676452286513152",
+		"quoted_status": {
+			"created_at": "Thu Nov 24 06:38:55 +0000 2016",
+			"id": 801676452286513200,
+			"id_str": "801676452286513152",
+			"text": "Pleased that our #ds106 has boomed to over 700 posts in 7 weeks. 3 weeks to go.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ds106",
+						"indices": [
+							17,
+							23
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9593882,
+				"id_str": "9593882",
+				"name": "Dean Groom",
+				"screen_name": "Type217",
+				"location": "Australia",
+				"description": "teacher, researcher, parent mediation of screen time, video games. game based learning, media education. NSW, Australia.",
+				"url": "https://t.co/mxXRNt2FWd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mxXRNt2FWd",
+								"expanded_url": "http://about.me/deangroom",
+								"display_url": "about.me/deangroom",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3981,
+				"friends_count": 1510,
+				"listed_count": 402,
+				"created_at": "Mon Oct 22 09:06:08 +0000 2007",
+				"favourites_count": 4359,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458466976084422656/HMoniKwa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458466976084422656/HMoniKwa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785218731962011648/FLdycy05_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785218731962011648/FLdycy05_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9593882/1419305413",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 24 14:22:05 +0000 2016",
 		"id": 801793012695056400,
 		"id_str": "801793012695056385",

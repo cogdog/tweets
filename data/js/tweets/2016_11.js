@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 29 17:17:40 +0000 2016",
+		"id": 803649140206932000,
+		"id_str": "803649140206931968",
+		"text": "RT @kasliwowski: Can you share an effective visual explanation of @creativecommons? - Include link, attribution, license. https://t.co/Npfx…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kasliwowski",
+					"name": "Kamil Śliwowski",
+					"id": 30648732,
+					"id_str": "30648732",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						66,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9956,
+			"friends_count": 1258,
+			"listed_count": 773,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 712,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75917,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 29 17:01:02 +0000 2016",
+			"id": 803644953222119400,
+			"id_str": "803644953222119424",
+			"text": "Can you share an effective visual explanation of @creativecommons? - Include link, attribution, license. https://t.co/NpfxbOq9MW #CCquest",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CCquest",
+						"indices": [
+							129,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							49,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NpfxbOq9MW",
+						"expanded_url": "https://certificates.creativecommons.org/2016/11/ccquest-09/",
+						"display_url": "certificates.creativecommons.org/2016/11/ccques…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30648732,
+				"id_str": "30648732",
+				"name": "Kamil Śliwowski",
+				"screen_name": "kasliwowski",
+				"location": "Warsaw, Poland",
+				"description": "Media literacy, #OER Open Educational Resources and #privacy activist&instructor. Working with @ccpolska @panoptykon and writing on https://t.co/0ZzEtbLJr4",
+				"url": "http://t.co/nYkFc7LC2w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nYkFc7LC2w",
+								"expanded_url": "http://otwartezasoby.pl",
+								"display_url": "otwartezasoby.pl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0ZzEtbLJr4",
+								"expanded_url": "http://www.otwartezasoby.pl",
+								"display_url": "otwartezasoby.pl",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 863,
+				"friends_count": 403,
+				"listed_count": 42,
+				"created_at": "Sun Apr 12 13:24:14 +0000 2009",
+				"favourites_count": 247,
+				"utc_offset": -10800,
+				"time_zone": "Greenland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2192,
+				"lang": "pl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/850661703/3901b6a7aadbc8a18c56445a060f14c1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/850661703/3901b6a7aadbc8a18c56445a060f14c1.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791020332220022785/4hMjT2Ks_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791020332220022785/4hMjT2Ks_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30648732/1401641222",
+				"profile_link_color": "1D6600",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 29 15:51:40 +0000 2016",
 		"id": 803627496201539600,
 		"id_str": "803627496201539584",

@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 29 22:25:00 +0000 2016",
+		"id": 803726481394257900,
+		"id_str": "803726481394257922",
+		"text": "These are awesome alt fiction and great art to boot, thanks @Kyle Tagging #netnarr https://t.co/CxuJh0sAol",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyle",
+					"name": "Kyle Sollenberger",
+					"id": 7280862,
+					"id_str": "7280862",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CxuJh0sAol",
+					"expanded_url": "https://twitter.com/kyleejohnson/status/803724538852687873",
+					"display_url": "twitter.com/kyleejohnson/s…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9956,
+			"friends_count": 1258,
+			"listed_count": 773,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 712,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 803724538852687900,
+		"quoted_status_id_str": "803724538852687873",
+		"quoted_status": {
+			"created_at": "Tue Nov 29 22:17:17 +0000 2016",
+			"id": 803724538852687900,
+			"id_str": "803724538852687873",
+			"text": "@cogdog @ds106dc you might check out some of  @gaileyfrey ’s stuff like:\nhttps://t.co/HPVKJ2ONMI\nand:\nhttps://t.co/jzYnFaQZw4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							8,
+							16
+						]
+					},
+					{
+						"screen_name": "gaileyfrey",
+						"name": "Sarah Gailey",
+						"id": 23715059,
+						"id_str": "23715059",
+						"indices": [
+							46,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HPVKJ2ONMI",
+						"expanded_url": "http://www.tor.com/2016/10/31/women-of-harry-potter-ginny-weasley-is-not-impressed/",
+						"display_url": "tor.com/2016/10/31/wom…",
+						"indices": [
+							73,
+							96
+						]
+					},
+					{
+						"url": "https://t.co/jzYnFaQZw4",
+						"expanded_url": "http://www.tor.com/2016/11/28/women-of-harry-potter-evil-in-authority/",
+						"display_url": "tor.com/2016/11/28/wom…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": 803723611831824400,
+			"in_reply_to_status_id_str": "803723611831824385",
+			"in_reply_to_user_id": 740343,
+			"in_reply_to_user_id_str": "740343",
+			"in_reply_to_screen_name": "cogdog",
+			"user": {
+				"id": 1314811,
+				"id_str": "1314811",
+				"name": "Kyle Johnson",
+				"screen_name": "kyleejohnson",
+				"location": "Honolulu, HI",
+				"description": "Unexpected activist. Ed Tech instigator. Runs with scissors.  CIO at a private college. My tweets are my own.",
+				"url": "https://t.co/vWaRikIBxE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vWaRikIBxE",
+								"expanded_url": "http://kyleejohnson.me",
+								"display_url": "kyleejohnson.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1318,
+				"friends_count": 1006,
+				"listed_count": 124,
+				"created_at": "Fri Mar 16 21:35:19 +0000 2007",
+				"favourites_count": 1180,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12600,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3567141903/005b6fa0c292e89ce401edc1cd392b80_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3567141903/005b6fa0c292e89ce401edc1cd392b80_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1314811/1472867997",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 29 22:13:36 +0000 2016",
 		"id": 803723611831824400,
 		"id_str": "803723611831824385",

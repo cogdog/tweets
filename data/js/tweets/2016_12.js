@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 15:57:31 +0000 2016",
+		"id": 808702398067830800,
+		"id_str": "808702398067830784",
+		"text": "RT @ladivregor: And then .... @NancyWhite @bkiddjibc @cogdog @bellcobian @AgoraUdG @TurismoUdeG @ElmoreGuevara #udgagora is it? Is the end?…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "udgagora",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ladivregor",
+					"name": "Roger Vidal",
+					"id": 279082236,
+					"id_str": "279082236",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "NancyWhite",
+					"name": "Nancy White",
+					"id": 25793,
+					"id_str": "25793",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "bkiddjibc",
+					"name": "Barb Kidd",
+					"id": 2927683728,
+					"id_str": "2927683728",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"screen_name": "bellcobian",
+					"name": "Sandra Cobian",
+					"id": 208409155,
+					"id_str": "208409155",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "AgoraUdG",
+					"name": "Un ágora en la UdG",
+					"id": 3300945346,
+					"id_str": "3300945346",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"screen_name": "TurismoUdeG",
+					"name": "Turismo UdeG 🍥",
+					"id": 1582132441,
+					"id_str": "1582132441",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"screen_name": "ElmoreGuevara",
+					"name": "Lucho Guevara",
+					"id": 742501652830126100,
+					"id_str": "742501652830126080",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9993,
+			"friends_count": 1266,
+			"listed_count": 774,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 717,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 15:44:36 +0000 2016",
+			"id": 808699149130600400,
+			"id_str": "808699149130600449",
+			"text": "And then .... @NancyWhite @bkiddjibc @cogdog @bellcobian @AgoraUdG @TurismoUdeG @ElmoreGuevara #udgagora is it? Is… https://t.co/KpCxeVg2ao",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "udgagora",
+						"indices": [
+							95,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NancyWhite",
+						"name": "Nancy White",
+						"id": 25793,
+						"id_str": "25793",
+						"indices": [
+							14,
+							25
+						]
+					},
+					{
+						"screen_name": "bkiddjibc",
+						"name": "Barb Kidd",
+						"id": 2927683728,
+						"id_str": "2927683728",
+						"indices": [
+							26,
+							36
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							37,
+							44
+						]
+					},
+					{
+						"screen_name": "bellcobian",
+						"name": "Sandra Cobian",
+						"id": 208409155,
+						"id_str": "208409155",
+						"indices": [
+							45,
+							56
+						]
+					},
+					{
+						"screen_name": "AgoraUdG",
+						"name": "Un ágora en la UdG",
+						"id": 3300945346,
+						"id_str": "3300945346",
+						"indices": [
+							57,
+							66
+						]
+					},
+					{
+						"screen_name": "TurismoUdeG",
+						"name": "Turismo UdeG 🍥",
+						"id": 1582132441,
+						"id_str": "1582132441",
+						"indices": [
+							67,
+							79
+						]
+					},
+					{
+						"screen_name": "ElmoreGuevara",
+						"name": "Lucho Guevara",
+						"id": 742501652830126100,
+						"id_str": "742501652830126080",
+						"indices": [
+							80,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KpCxeVg2ao",
+						"expanded_url": "https://twitter.com/i/web/status/808699149130600449",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 279082236,
+				"id_str": "279082236",
+				"name": "Roger Vidal",
+				"screen_name": "ladivregor",
+				"location": "",
+				"description": "Founding Partner & CEO of RGR Arquitectos + Urban Strategy & Trademark Arquitectos University professor at UDG and UVA.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 207,
+				"friends_count": 144,
+				"listed_count": 10,
+				"created_at": "Fri Apr 08 15:08:16 +0000 2011",
+				"favourites_count": 414,
+				"utc_offset": -21600,
+				"time_zone": "Guadalajara",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3645,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/432210756172382208/LORSBv3S_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/432210756172382208/LORSBv3S_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/279082236/1453425561",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 13 06:04:47 +0000 2016",
 		"id": 808553234289848300,
 		"id_str": "808553234289848320",

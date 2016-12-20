@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 01:30:53 +0000 2016",
+		"id": 811021019221610500,
+		"id_str": "811021019221610497",
+		"text": "Brilliant. Period... Is that Larry the cat? https://t.co/cf4VkcyUNx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cf4VkcyUNx",
+					"expanded_url": "https://twitter.com/amclay09/status/810981853972742144",
+					"display_url": "twitter.com/amclay09/statu…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9997,
+			"friends_count": 1268,
+			"listed_count": 775,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 717,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 810981853972742100,
+		"quoted_status_id_str": "810981853972742144",
+		"quoted_status": {
+			"created_at": "Mon Dec 19 22:55:15 +0000 2016",
+			"id": 810981853972742100,
+			"id_str": "810981853972742144",
+			"text": "@ds106dc #tdc1807 My response for Today's #ds106 Daily Create. https://t.co/wl3vjN2obV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tdc1807",
+						"indices": [
+							9,
+							17
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							42,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 810981825996787700,
+						"id_str": "810981825996787712",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C0EvrInWEAAwUir.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0EvrInWEAAwUir.jpg",
+						"url": "https://t.co/wl3vjN2obV",
+						"display_url": "pic.twitter.com/wl3vjN2obV",
+						"expanded_url": "https://twitter.com/amclay09/status/810981853972742144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 892,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 892,
+								"h": 642,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 810981825996787700,
+						"id_str": "810981825996787712",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C0EvrInWEAAwUir.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0EvrInWEAAwUir.jpg",
+						"url": "https://t.co/wl3vjN2obV",
+						"display_url": "pic.twitter.com/wl3vjN2obV",
+						"expanded_url": "https://twitter.com/amclay09/status/810981853972742144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 892,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 892,
+								"h": 642,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 995562187,
+			"in_reply_to_user_id_str": "995562187",
+			"in_reply_to_screen_name": "ds106dc",
+			"user": {
+				"id": 18942881,
+				"id_str": "18942881",
+				"name": "Andrew Clay",
+				"screen_name": "amclay09",
+				"location": "Leicester, England",
+				"description": "media, education, yorkshireman, De Montfort University Lecturer",
+				"url": "https://t.co/AJ21QgLxrN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AJ21QgLxrN",
+								"expanded_url": "https://www.facebook.com/pages/Insert-Yourself-Here/152914958196128?ref=hl",
+								"display_url": "facebook.com/pages/Insert-Y…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 614,
+				"friends_count": 648,
+				"listed_count": 30,
+				"created_at": "Tue Jan 13 16:26:53 +0000 2009",
+				"favourites_count": 1988,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5607,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784928705/ec9f0015c0dff282b8f6df571e9e927e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784928705/ec9f0015c0dff282b8f6df571e9e927e.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708733170523373568/EDfGUbIA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708733170523373568/EDfGUbIA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18942881/1360280303",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 19 22:39:09 +0000 2016",
 		"id": 810977800937013200,
 		"id_str": "810977800937013250",

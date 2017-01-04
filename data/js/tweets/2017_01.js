@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 03 23:38:18 +0000 2017",
+		"id": 816428505109930000,
+		"id_str": "816428505109929984",
+		"text": "@judell @vasvir2 query by URL looks safer; for upload search I blogged returns results but lost original image https://t.co/oQAJhAupBf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "judell",
+					"name": "Jon Udell",
+					"id": 2937071,
+					"id_str": "2937071",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "vasvir2",
+					"name": "Vassilis Virvilis",
+					"id": 2491153530,
+					"id_str": "2491153530",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oQAJhAupBf",
+					"expanded_url": "https://www.google.com/search?tbs=sbi:AMhZZitEh0OwwGkuwVwh0hgrmmMXKxq_1nNb0fAap7-ZzOyR1q5IhcIi_1xQJOfj0NLjWXeVNZC-EnXt6Hzs_1CeMcrx9qmHpxLF6BbZnfvE3SbsUp5cpLTnj655_1J-q0J_1vMEv3tzhsmxVIrE2Wq2T6VKD0uBbDsjdJWusZDHFbxv7XcQlbI_1FxPabZ3VB93YyPKjvHcljghl-Ikj_1MlemuzBIIt7Mx2AiIieickEqAl-qA156MUoNYXiPC1VZOunGdkQHxnGVLQHg7xO5AT4gHg9Mhck9nh7C9W6Oy8dMZPz-hELt8Bz2bqMNg_1aokrrG7E9oWjsTbnOOh7E3RjwKBMx48mMM50hBQXvo3amwFiL8d4sKO_1PrIQwRlP814NIuyaDH4yQCke-ICvI5Pq8kpDfhcSDzLEAsN67_1DPG0_1ugCJq7Y5LBMdDs0fqdj_1sDlfdtelbtDDmibiRACnEKig47WHf18yeJxcborqbj0qZkRb_1FqYEOKu3rPHVnug3mfF8aHxOSzsQfI3G1aFdlg4jmGxMl7N528my3-Zn-h_1Tr-EpLzjaCaUIUq_1RGUFifd4N08wsd3VE4-bZPyw1a8LoEJ9tR_10i1YezkVvnXyQVN4EaFWxrQnH8EuYS3Lr7c5x5E3Q89bmdzthLB-3R4H1vjsIynvp7Prctea0xvmIvlTm74dMFpSOktYsjM6Dja94UNqUhm_1a6jsHN4aJgAlJDCeCv06Y4w7STvTKyPWRgaVWPi7sZEFV2eCSC-N7SymEZZxBeevur6GK2X6TmS4_1cxAbuA7iG5VMHVI3usIserN8i7u2tTpt8CtUq3ys5yL9-0PZqJXCYQmZnQ_138zLy512Xw6E7ddXycHlRbwBoc6yeOGTi287m6eXnRh2j5P1qSp6xl6_1i-SyMzLNqFs-k2YRR0yL27gS4gSM24WPW1HeQSkyxXZd-aupgquac3NS0KB7XefwpzRrz2EahMzrqCSkqP3hoqqDpJ4QQqjDVhocC0aNUPs-l4W-Eure3qvswwB829BYXsNxF-2v1CLVvXfTrEnjkHyEAbRmjadj1KQCPc31kz7hu2uC78cYHg4W1W7kwbtt6FFTN8AUhcZ1R9hbuOldy-X8T0YMMPBRRhegL9-2E54TGoWPSdXUcAmhSPyUwi441NaZJSH2RRLfkpyYTGI4_1dvk7BomDc3RrtNGVrhk_14fX9mKU_1CBotZvUXZ8IRvFltL6L1ZeIFX9pjur5HlDsfSiYruKIRdgsM6FU0BDaoHLaAy5Rxub2TxgfbEB89j1VqzQONk8bzl06K3wDSSWSSD9AIl9I1hN08mBewcyn_1rtbiXA4sEbNPipDCY4_1xQHsRe3-fyIhvSeVfHf-b9DFkG1mAwuTdiM0ayImz5-d3RVumDU8cLyMWfMFUV3zvas3r9WukZHCkuDo-LYF02T7DVtgQqGp6gXBwifjj2ZEBGLkBBQvPx4H6mCJNrTc_1AxC4uRgbRKgr5E8mfZF22bpOtmOdLsbH3gQ-oHjecyZNNxYwa7Bv9g0JgwnKJTWUmU9_1kRGA9qiQXuJoEiFMN0TQi12W9iTVhjjEs_10VqRWxAM18ikDHqYl39yNPPc1raE0SbXzG3y0CnSuYPuXQp9-csZAlP45mPo_1Xo3hkkToAAxic_1w",
+					"display_url": "google.com/search?tbs=sbi…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 816420346022608900,
+		"in_reply_to_status_id_str": "816420346022608896",
+		"in_reply_to_user_id": 2937071,
+		"in_reply_to_user_id_str": "2937071",
+		"in_reply_to_screen_name": "judell",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9999,
+			"friends_count": 1269,
+			"listed_count": 778,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 717,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76583,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 03 22:33:23 +0000 2017",
 		"id": 816412165930258400,
 		"id_str": "816412165930258432",

@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 17:46:15 +0000 2017",
+		"id": 823587664083329000,
+		"id_str": "823587664083329024",
+		"text": "@GoogleGuacamole maybe you get  a better parking spot or a discount at coffee shops?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleGuacamole",
+					"name": "Laura Gogia",
+					"id": 1164293858,
+					"id_str": "1164293858",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 823586903194792000,
+		"in_reply_to_status_id_str": "823586903194791936",
+		"in_reply_to_user_id": 1164293858,
+		"in_reply_to_user_id_str": "1164293858",
+		"in_reply_to_screen_name": "GoogleGuacamole",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10050,
+			"friends_count": 1282,
+			"listed_count": 778,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 23 17:16:42 +0000 2017",
+		"id": 823580227800428500,
+		"id_str": "823580227800428544",
+		"text": "Wow, this is fascinating! There's some alchemy happening here, thanks @arasbozkurt for this social network map for… https://t.co/ZXVKgdeNz7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arasbozkurt",
+					"name": "Aras BOZKURT",
+					"id": 83447547,
+					"id_str": "83447547",
+					"indices": [
+						70,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZXVKgdeNz7",
+					"expanded_url": "https://twitter.com/i/web/status/823580227800428544",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10050,
+			"friends_count": 1282,
+			"listed_count": 778,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 823577891787116500,
+		"quoted_status_id_str": "823577891787116545",
+		"quoted_status": {
+			"created_at": "Mon Jan 23 17:07:25 +0000 2017",
+			"id": 823577891787116500,
+			"id_str": "823577891787116545",
+			"text": "Social Network Analysis for #netnarr via #NodeXL https://t.co/3RBjHSV0xF #SNA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "netnarr",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"text": "NodeXL",
+						"indices": [
+							41,
+							48
+						]
+					},
+					{
+						"text": "SNA",
+						"indices": [
+							73,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3RBjHSV0xF",
+						"expanded_url": "http://bit.ly/2kkmBWE",
+						"display_url": "bit.ly/2kkmBWE",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83447547,
+				"id_str": "83447547",
+				"name": "Aras BOZKURT",
+				"screen_name": "arasbozkurt",
+				"location": "Neverland",
+				"description": "Netizen, freelance scholar ;) leisure learner, connectivist, hard-core gamer, clubber and ex green beret at NATO KFOR KIKPC. MA&PhD at Distance Education",
+				"url": "https://t.co/GhKiwXp4WO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GhKiwXp4WO",
+								"expanded_url": "https://independent.academia.edu/ArasBOZKURT",
+								"display_url": "independent.academia.edu/ArasBOZKURT",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 882,
+				"friends_count": 1069,
+				"listed_count": 100,
+				"created_at": "Sun Oct 18 21:11:32 +0000 2009",
+				"favourites_count": 2711,
+				"utc_offset": 7200,
+				"time_zone": "Istanbul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3025,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/288807137/TWITTER_BACKGROUND555.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/288807137/TWITTER_BACKGROUND555.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/604900359958622208/ZFwuCGMt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/604900359958622208/ZFwuCGMt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83447547/1399733407",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "682c5a667856ef42",
+				"url": "https://api.twitter.com/1.1/geo/id/682c5a667856ef42.json",
+				"place_type": "country",
+				"name": "Turkey",
+				"full_name": "Turkey",
+				"country_code": "TR",
+				"country": "Turkey",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								25.668509,
+								35.8084193
+							],
+							[
+								44.817931,
+								35.8084193
+							],
+							[
+								44.817931,
+								42.1047857
+							],
+							[
+								25.668509,
+								42.1047857
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 23 16:20:42 +0000 2017",
 		"id": 823566137669472300,
 		"id_str": "823566137669472257",

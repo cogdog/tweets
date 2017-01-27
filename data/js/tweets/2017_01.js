@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Fri Jan 27 16:13:43 +0000 2017",
+		"id": 825013927650025500,
+		"id_str": "825013927650025473",
+		"text": "*This* is beautiful book spine poetry and #netnarr spell making https://t.co/48Vne9wNNi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/48Vne9wNNi",
+					"expanded_url": "https://twitter.com/helterskelliter/status/825005457127383046",
+					"display_url": "twitter.com/helterskellite…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10069,
+			"friends_count": 1296,
+			"listed_count": 779,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 825005457127383000,
+		"quoted_status_id_str": "825005457127383046",
+		"quoted_status": {
+			"created_at": "Fri Jan 27 15:40:03 +0000 2017",
+			"id": 825005457127383000,
+			"id_str": "825005457127383046",
+			"text": "@netnarr \nhush, hush\nunder the never sky\nstars above\nnever fade\n#dda27 #spellforhope https://t.co/CTcSKcnEfA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dda27",
+						"indices": [
+							64,
+							70
+						]
+					},
+					{
+						"text": "spellforhope",
+						"indices": [
+							71,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "netnarr",
+						"name": "Networked Narratives",
+						"id": 801306049663893500,
+						"id_str": "801306049663893504",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 825005446981226500,
+						"id_str": "825005446981226496",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C3MCFT0UEAA8Ssd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3MCFT0UEAA8Ssd.jpg",
+						"url": "https://t.co/CTcSKcnEfA",
+						"display_url": "pic.twitter.com/CTcSKcnEfA",
+						"expanded_url": "https://twitter.com/helterskelliter/status/825005457127383046/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1604,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 940,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 825005446981226500,
+						"id_str": "825005446981226496",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C3MCFT0UEAA8Ssd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3MCFT0UEAA8Ssd.jpg",
+						"url": "https://t.co/CTcSKcnEfA",
+						"display_url": "pic.twitter.com/CTcSKcnEfA",
+						"expanded_url": "https://twitter.com/helterskelliter/status/825005457127383046/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1604,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 940,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 801306049663893500,
+			"in_reply_to_user_id_str": "801306049663893504",
+			"in_reply_to_screen_name": "netnarr",
+			"user": {
+				"id": 326921748,
+				"id_str": "326921748",
+				"name": "Kelli",
+				"screen_name": "helterskelliter",
+				"location": "New Jersey, USA",
+				"description": "21. Pisces. Ace. Slytherin. Fannibal. Ghoul Sympathizer. University Student. Writer. Why are people so loud?",
+				"url": "https://t.co/feLl66z3z9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/feLl66z3z9",
+								"expanded_url": "https://helterskelliter.wordpress.com/",
+								"display_url": "helterskelliter.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50,
+				"friends_count": 200,
+				"listed_count": 0,
+				"created_at": "Thu Jun 30 18:14:37 +0000 2011",
+				"favourites_count": 231,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 111,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/281031166/wallpaper5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/281031166/wallpaper5.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823239337399689217/WSkGHXI1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823239337399689217/WSkGHXI1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326921748/1485110292",
+				"profile_link_color": "361E52",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 27 16:05:06 +0000 2017",
+		"id": 825011762684571600,
+		"id_str": "825011762684571648",
+		"text": "Since the new president is a fan of torture, keep torturing him that he cannot lie his way out of losing the popular vote. 2nd place, dude",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10069,
+			"friends_count": 1296,
+			"listed_count": 779,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 27 14:27:54 +0000 2017",
 		"id": 824987300132118500,
 		"id_str": "824987300132118528",

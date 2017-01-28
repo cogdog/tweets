@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 28 17:43:34 +0000 2017",
+		"id": 825398928086487000,
+		"id_str": "825398928086487040",
+		"text": "RT @HindMakki: 2016 called and said it's keeping Paul Ryan's spine hostage and will never give it back. https://t.co/pRQomb7n9t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HindMakki",
+					"name": "Hind Makki",
+					"id": 190705200,
+					"id_str": "190705200",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pRQomb7n9t",
+					"expanded_url": "https://twitter.com/SpeakerRyan/status/759845524132524032",
+					"display_url": "twitter.com/SpeakerRyan/st…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10073,
+			"friends_count": 1295,
+			"listed_count": 779,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77182,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 28 17:31:21 +0000 2017",
+			"id": 825395854072827900,
+			"id_str": "825395854072827904",
+			"text": "2016 called and said it's keeping Paul Ryan's spine hostage and will never give it back. https://t.co/pRQomb7n9t",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pRQomb7n9t",
+						"expanded_url": "https://twitter.com/SpeakerRyan/status/759845524132524032",
+						"display_url": "twitter.com/SpeakerRyan/st…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190705200,
+				"id_str": "190705200",
+				"name": "Hind Makki",
+				"screen_name": "HindMakki",
+				"location": "",
+				"description": "Interfaith, MENA, Africa, Muslims in the West, pop culture | Founder @SideEntrance http://t.co/qSzw6EEGey HMakkiSpeaking@gmail.com",
+				"url": "http://t.co/mtXHfyPqdZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mtXHfyPqdZ",
+								"expanded_url": "http://www.patheos.com/blogs/hindtrospectives/",
+								"display_url": "patheos.com/blogs/hindtros…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/qSzw6EEGey",
+								"expanded_url": "http://sideentrance.tumblr.com",
+								"display_url": "sideentrance.tumblr.com",
+								"indices": [
+									83,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18162,
+				"friends_count": 4100,
+				"listed_count": 424,
+				"created_at": "Tue Sep 14 16:48:06 +0000 2010",
+				"favourites_count": 16493,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46743,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117022109/d72a3438ff0004dc276d9cd3ff6828ff.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117022109/d72a3438ff0004dc276d9cd3ff6828ff.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748091187702046720/pfU20Hd7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748091187702046720/pfU20Hd7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190705200/1467194488",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 759845524132524000,
+			"quoted_status_id_str": "759845524132524032",
+			"quoted_status": {
+				"created_at": "Sun Jul 31 20:17:44 +0000 2016",
+				"id": 759845524132524000,
+				"id_str": "759845524132524032",
+				"text": "A religious test for entering our country is not reflective of America's fundamental values. I reject it. https://t.co/DdsYj2XoLS",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 759845497100263400,
+							"id_str": "759845497100263425",
+							"indices": [
+								106,
+								129
+							],
+							"media_url": "http://pbs.twimg.com/media/CouDdCrXYAEK0ou.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CouDdCrXYAEK0ou.jpg",
+							"url": "https://t.co/DdsYj2XoLS",
+							"display_url": "pic.twitter.com/DdsYj2XoLS",
+							"expanded_url": "https://twitter.com/SpeakerRyan/status/759845524132524032/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 610,
+									"h": 343,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 610,
+									"h": 343,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 610,
+									"h": 343,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 759845497100263400,
+							"id_str": "759845497100263425",
+							"indices": [
+								106,
+								129
+							],
+							"media_url": "http://pbs.twimg.com/media/CouDdCrXYAEK0ou.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CouDdCrXYAEK0ou.jpg",
+							"url": "https://t.co/DdsYj2XoLS",
+							"display_url": "pic.twitter.com/DdsYj2XoLS",
+							"expanded_url": "https://twitter.com/SpeakerRyan/status/759845524132524032/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 610,
+									"h": 343,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 610,
+									"h": 343,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 610,
+									"h": 343,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 18916432,
+					"id_str": "18916432",
+					"name": "Paul Ryan",
+					"screen_name": "SpeakerRyan",
+					"location": "Janesville, WI",
+					"description": "Office of the 54th Speaker of the House, Paul Ryan.",
+					"url": "https://t.co/VgAmH7pt35",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VgAmH7pt35",
+									"expanded_url": "http://www.speaker.gov",
+									"display_url": "speaker.gov",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1407040,
+					"friends_count": 172,
+					"listed_count": 10956,
+					"created_at": "Mon Jan 12 21:31:25 +0000 2009",
+					"favourites_count": 89,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 10229,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/816642042000535552/dU_6-LFL_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/816642042000535552/dU_6-LFL_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/18916432/1472140990",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12050,
+				"favorite_count": 16509,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 759845524132524000,
+		"quoted_status_id_str": "759845524132524032",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 28 16:55:27 +0000 2017",
 		"id": 825386818371588100,
 		"id_str": "825386818371588096",

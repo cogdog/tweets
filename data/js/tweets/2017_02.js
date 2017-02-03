@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 03:03:12 +0000 2017",
+		"id": 827351704790192100,
+		"id_str": "827351704790192128",
+		"text": "Made with https://t.co/zFGJrMn95Z https://t.co/5HunPwTIAI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zFGJrMn95Z",
+					"expanded_url": "http://hepwori.github.io/execorder/",
+					"display_url": "hepwori.github.io/execorder/",
+					"indices": [
+						10,
+						33
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 827351632752959500,
+					"id_str": "827351632752959489",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/C3tX7S6UYAEu_wP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3tX7S6UYAEu_wP.jpg",
+					"url": "https://t.co/5HunPwTIAI",
+					"display_url": "pic.twitter.com/5HunPwTIAI",
+					"expanded_url": "https://twitter.com/cogdog/status/827351704790192128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1111,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1246,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 827351632752959500,
+					"id_str": "827351632752959489",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/C3tX7S6UYAEu_wP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3tX7S6UYAEu_wP.jpg",
+					"url": "https://t.co/5HunPwTIAI",
+					"display_url": "pic.twitter.com/5HunPwTIAI",
+					"expanded_url": "https://twitter.com/cogdog/status/827351704790192128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1111,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1246,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10073,
+			"friends_count": 1305,
+			"listed_count": 780,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 723,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 03 02:47:07 +0000 2017",
+		"id": 827347655453872100,
+		"id_str": "827347655453872128",
+		"text": "@mattwhouse Chief Ryany &amp; #Senate crew realize that they might have underestimated what lurks beneath the waters… https://t.co/fKh07Rn34f",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Senate",
+					"indices": [
+						30,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattwhouse",
+					"name": "Matt House",
+					"id": 126085496,
+					"id_str": "126085496",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fKh07Rn34f",
+					"expanded_url": "https://twitter.com/i/web/status/827347655453872128",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 827270299615785000,
+		"in_reply_to_status_id_str": "827270299615784961",
+		"in_reply_to_user_id": 126085496,
+		"in_reply_to_user_id_str": "126085496",
+		"in_reply_to_screen_name": "mattwhouse",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10073,
+			"friends_count": 1305,
+			"listed_count": 780,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 723,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 827270299615785000,
+		"quoted_status_id_str": "827270299615784961",
+		"quoted_status": {
+			"created_at": "Thu Feb 02 21:39:44 +0000 2017",
+			"id": 827270299615785000,
+			"id_str": "827270299615784961",
+			"text": "#Senate offices are being flooded with an average of 1.5 million calls/day this week. Just look at the floor and you'll see they're working",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Senate",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 126085496,
+				"id_str": "126085496",
+				"name": "Matt House",
+				"screen_name": "mattwhouse",
+				"location": "Washington, DC",
+				"description": "Communications Director for @SenSchumer. Opinions here are my own. Twitter pic from @billclarkphotos.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4211,
+				"friends_count": 2414,
+				"listed_count": 112,
+				"created_at": "Wed Mar 24 20:00:56 +0000 2010",
+				"favourites_count": 193,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2811,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800355511216599040/I9HpAfwa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800355511216599040/I9HpAfwa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/126085496/1480939203",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 968,
+			"favorite_count": 1597,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 02 23:44:15 +0000 2017",
 		"id": 827301637588820000,
 		"id_str": "827301637588819968",

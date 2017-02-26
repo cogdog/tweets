@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 20:10:44 +0000 2017",
+		"id": 835945211649916900,
+		"id_str": "835945211649916928",
+		"text": "Here's to all the great Boatswains in the world. Humans have much to learn from them. https://t.co/bnFil4i4uM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bnFil4i4uM",
+					"expanded_url": "https://twitter.com/Wordsworthians/status/835844114423787520",
+					"display_url": "twitter.com/Wordsworthians…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10103,
+			"friends_count": 1323,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 731,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 835844114423787500,
+		"quoted_status_id_str": "835844114423787520",
+		"quoted_status": {
+			"created_at": "Sun Feb 26 13:29:00 +0000 2017",
+			"id": 835844114423787500,
+			"id_str": "835844114423787520",
+			"text": "\"‘I love not man the less, but Nature more\" Byron, bears, badgers, and Boatswain https://t.co/4TruVyGEes @tiffins11  https://t.co/fstmiaJ3US",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffins11",
+						"name": "Tiffany Francis",
+						"id": 81219394,
+						"id_str": "81219394",
+						"indices": [
+							105,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4TruVyGEes",
+						"expanded_url": "http://wordsworth.org.uk/blog/2015/04/21/bears-badgers-and-boatswain-lord-byron-and-his-animals/",
+						"display_url": "wordsworth.org.uk/blog/2015/04/2…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 710880062061547500,
+						"id_str": "710880062061547521",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Cd2NpmkWEAE5O4J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cd2NpmkWEAE5O4J.jpg",
+						"url": "https://t.co/fstmiaJ3US",
+						"display_url": "pic.twitter.com/fstmiaJ3US",
+						"expanded_url": "http://twitter.com/Wordsworthians/status/714065939721953280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 624,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 259,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 458,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 714065939721953300,
+						"source_status_id_str": "714065939721953280",
+						"source_user_id": 2296062121,
+						"source_user_id_str": "2296062121"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 710880062061547500,
+						"id_str": "710880062061547521",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Cd2NpmkWEAE5O4J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cd2NpmkWEAE5O4J.jpg",
+						"url": "https://t.co/fstmiaJ3US",
+						"display_url": "pic.twitter.com/fstmiaJ3US",
+						"expanded_url": "http://twitter.com/Wordsworthians/status/714065939721953280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 624,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 259,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 458,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 714065939721953300,
+						"source_status_id_str": "714065939721953280",
+						"source_user_id": 2296062121,
+						"source_user_id_str": "2296062121"
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2296062121,
+				"id_str": "2296062121",
+				"name": "The Romanticism blog",
+				"screen_name": "Wordsworthians",
+				"location": "Grasmere",
+				"description": "A blog from The Wordsworth Trust exploring the Romantic poets and the literature and culture of the period. Do get in touch if you'd like to contribute a post",
+				"url": "http://t.co/rWRKLRoY56",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rWRKLRoY56",
+								"expanded_url": "http://wordsworth.org.uk/blog/",
+								"display_url": "wordsworth.org.uk/blog/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16709,
+				"friends_count": 14999,
+				"listed_count": 282,
+				"created_at": "Fri Jan 17 12:42:38 +0000 2014",
+				"favourites_count": 2550,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11234,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437260416280838144/QTENMUQy.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437260416280838144/QTENMUQy.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/430736757059878914/FxUdB0QD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/430736757059878914/FxUdB0QD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2296062121/1393085549",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 26 18:22:24 +0000 2017",
 		"id": 835917951379243000,
 		"id_str": "835917951379243008",

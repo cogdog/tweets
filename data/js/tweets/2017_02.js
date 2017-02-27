@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 18:18:07 +0000 2017",
+		"id": 836279261728120800,
+		"id_str": "836279261728120833",
+		"text": "@ronald_2008 It's just old fashioned hypocrisy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ronald_2008",
+					"name": "Ronald_2008",
+					"id": 211458710,
+					"id_str": "211458710",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 836279137304252400,
+		"in_reply_to_status_id_str": "836279137304252422",
+		"in_reply_to_user_id": 211458710,
+		"in_reply_to_user_id_str": "211458710",
+		"in_reply_to_screen_name": "ronald_2008",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10101,
+			"friends_count": 1323,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 731,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 27 18:17:31 +0000 2017",
+		"id": 836279108015288300,
+		"id_str": "836279108015288320",
+		"text": "Do you notice the asterisks when people talk about getting Federal Government out of the way of States? https://t.co/KwVokoJzD3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KwVokoJzD3",
+					"expanded_url": "https://twitter.com/fox32news/status/834868385548738562",
+					"display_url": "twitter.com/fox32news/stat…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10101,
+			"friends_count": 1323,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 731,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 834868385548738600,
+		"quoted_status_id_str": "834868385548738562",
+		"quoted_status": {
+			"created_at": "Thu Feb 23 20:51:48 +0000 2017",
+			"id": 834868385548738600,
+			"id_str": "834868385548738562",
+			"text": "#BREAKING: President Trump's press secretary says DOJ will be \"taking action\" against states that have legalized re… https://t.co/sOr3pzdmYJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sOr3pzdmYJ",
+						"expanded_url": "https://twitter.com/i/web/status/834868385548738562",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7663702,
+				"id_str": "7663702",
+				"name": "FOX 32 News",
+				"screen_name": "fox32news",
+				"location": "Chicago, IL",
+				"description": "FOX 32 News has got you covered for breaking news, weather, traffic, politics, and investigations. Join the conversation: #Fox32News",
+				"url": "http://t.co/q4scpU7ZK4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/q4scpU7ZK4",
+								"expanded_url": "http://www.Fox32Chicago.com",
+								"display_url": "Fox32Chicago.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90938,
+				"friends_count": 830,
+				"listed_count": 2019,
+				"created_at": "Mon Jul 23 17:45:08 +0000 2007",
+				"favourites_count": 1700,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 100007,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "010244",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/709832064/9862e1289ce7c3a4d25952ae3330d428.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/709832064/9862e1289ce7c3a4d25952ae3330d428.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/667378430694944768/Z2QWaeAe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/667378430694944768/Z2QWaeAe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7663702/1392061598",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "84C2FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1729,
+			"favorite_count": 1474,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 27 17:57:43 +0000 2017",
 		"id": 836274127824527400,
 		"id_str": "836274127824527360",

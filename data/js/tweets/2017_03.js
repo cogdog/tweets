@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 15:15:59 +0000 2017",
+		"id": 839132528686440400,
+		"id_str": "839132528686440448",
+		"text": "The output of the #dgagora project continue to make us proud of professors like @Omato1Omar and their students. https://t.co/rWZyxS4DKm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dgagora",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Omato1Omar",
+					"name": "omar martinez torres",
+					"id": 866643390,
+					"id_str": "866643390",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rWZyxS4DKm",
+					"expanded_url": "https://twitter.com/zaiDGuadalupe16/status/837839159742058497",
+					"display_url": "twitter.com/zaiDGuadalupe1…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10106,
+			"friends_count": 1325,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 733,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78232,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 837839159742058500,
+		"quoted_status_id_str": "837839159742058497",
+		"quoted_status": {
+			"created_at": "Sat Mar 04 01:36:36 +0000 2017",
+			"id": 837839159742058500,
+			"id_str": "837839159742058497",
+			"text": "#emprendedoresprepa16 #Proceso_administrativo\nhttps://t.co/Ga2JdBdSrh\n@Pixton \n@Omato1Omar #UdGagora @AgoraUdG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "emprendedoresprepa16",
+						"indices": [
+							0,
+							21
+						]
+					},
+					{
+						"text": "Proceso_administrativo",
+						"indices": [
+							22,
+							45
+						]
+					},
+					{
+						"text": "UdGagora",
+						"indices": [
+							91,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Pixton",
+						"name": "Pixton Comics",
+						"id": 15067399,
+						"id_str": "15067399",
+						"indices": [
+							70,
+							77
+						]
+					},
+					{
+						"screen_name": "Omato1Omar",
+						"name": "omar martinez torres",
+						"id": 866643390,
+						"id_str": "866643390",
+						"indices": [
+							79,
+							90
+						]
+					},
+					{
+						"screen_name": "AgoraUdG",
+						"name": "Un ágora en la UdG",
+						"id": 3300945346,
+						"id_str": "3300945346",
+						"indices": [
+							101,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ga2JdBdSrh",
+						"expanded_url": "https://Pixton.com/es/:p1m3zrk9",
+						"display_url": "Pixton.com/es/:p1m3zrk9",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 825159411257614300,
+				"id_str": "825159411257614337",
+				"name": "Díaz Guadalupe",
+				"screen_name": "zaiDGuadalupe16",
+				"location": "México ",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2,
+				"friends_count": 25,
+				"listed_count": 0,
+				"created_at": "Sat Jan 28 01:51:49 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825178922031607808/8HlZxg6d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825178922031607808/8HlZxg6d_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 07 14:42:03 +0000 2017",
 		"id": 839123987963654100,
 		"id_str": "839123987963654144",

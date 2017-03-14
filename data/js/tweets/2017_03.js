@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 01:41:41 +0000 2017",
+		"id": 841464316058452000,
+		"id_str": "841464316058451968",
+		"text": "@ds106dc #tdc1891 #ds106 It's Zen o'clock (no DST flipping at all) https://t.co/iQOH0V8dHo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc1891",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 841464291802849300,
+					"id_str": "841464291802849280",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/C617UKwVoAAt0MR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C617UKwVoAAt0MR.jpg",
+					"url": "https://t.co/iQOH0V8dHo",
+					"display_url": "pic.twitter.com/iQOH0V8dHo",
+					"expanded_url": "https://twitter.com/cogdog/status/841464316058451968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 845,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 845,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841464291802849300,
+					"id_str": "841464291802849280",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/C617UKwVoAAt0MR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C617UKwVoAAt0MR.jpg",
+					"url": "https://t.co/iQOH0V8dHo",
+					"display_url": "pic.twitter.com/iQOH0V8dHo",
+					"expanded_url": "https://twitter.com/cogdog/status/841464316058451968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 845,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 845,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10104,
+			"friends_count": 1325,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 734,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 14 01:34:10 +0000 2017",
+		"id": 841462424809029600,
+		"id_str": "841462424809029632",
+		"text": "RT @mcsweeneys: “Tell me ’bout the rallies, Steve. Are we gonna have rallies?” https://t.co/cb4objDXXt https://t.co/Q6VEol3Jm0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcsweeneys",
+					"name": "Timothy McSweeney",
+					"id": 30109507,
+					"id_str": "30109507",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cb4objDXXt",
+					"expanded_url": "https://www.mcsweeneys.net/articles/of-mice-and-bannon",
+					"display_url": "mcsweeneys.net/articles/of-mi…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 841266995915976700,
+					"id_str": "841266995915976705",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+					"url": "https://t.co/Q6VEol3Jm0",
+					"display_url": "pic.twitter.com/Q6VEol3Jm0",
+					"expanded_url": "https://twitter.com/mcsweeneys/status/841461382826536961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841461382826537000,
+					"source_status_id_str": "841461382826536961",
+					"source_user_id": 30109507,
+					"source_user_id_str": "30109507"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841266995915976700,
+					"id_str": "841266995915976705",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+					"url": "https://t.co/Q6VEol3Jm0",
+					"display_url": "pic.twitter.com/Q6VEol3Jm0",
+					"expanded_url": "https://twitter.com/mcsweeneys/status/841461382826536961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841461382826537000,
+					"source_status_id_str": "841461382826536961",
+					"source_user_id": 30109507,
+					"source_user_id_str": "30109507"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10104,
+			"friends_count": 1325,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 734,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 01:30:01 +0000 2017",
+			"id": 841461382826537000,
+			"id_str": "841461382826536961",
+			"text": "“Tell me ’bout the rallies, Steve. Are we gonna have rallies?” https://t.co/cb4objDXXt https://t.co/Q6VEol3Jm0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cb4objDXXt",
+						"expanded_url": "https://www.mcsweeneys.net/articles/of-mice-and-bannon",
+						"display_url": "mcsweeneys.net/articles/of-mi…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 841266995915976700,
+						"id_str": "841266995915976705",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+						"url": "https://t.co/Q6VEol3Jm0",
+						"display_url": "pic.twitter.com/Q6VEol3Jm0",
+						"expanded_url": "https://twitter.com/mcsweeneys/status/841461382826536961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 550,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 374,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841266995915976700,
+						"id_str": "841266995915976705",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6zH4CTU8AEOp8b.jpg",
+						"url": "https://t.co/Q6VEol3Jm0",
+						"display_url": "pic.twitter.com/Q6VEol3Jm0",
+						"expanded_url": "https://twitter.com/mcsweeneys/status/841461382826536961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 550,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 374,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30109507,
+				"id_str": "30109507",
+				"name": "Timothy McSweeney",
+				"screen_name": "mcsweeneys",
+				"location": "San Francisco, CA",
+				"description": "The Twitter feed of McSweeney's Quarterly Concern, McSweeney's Internet Tendency, & McSweeney's Books. We also publish @believermag and @VoiceofWitness books.",
+				"url": "https://t.co/arwJcwocQf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/arwJcwocQf",
+								"expanded_url": "http://www.mcsweeneys.net/pages/donate",
+								"display_url": "mcsweeneys.net/pages/donate",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 258519,
+				"friends_count": 795,
+				"listed_count": 5956,
+				"created_at": "Fri Apr 10 00:33:36 +0000 2009",
+				"favourites_count": 6014,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28473,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595277737960476672/bgan0ohl.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595277737960476672/bgan0ohl.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753636910656958465/PZMyIsPO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753636910656958465/PZMyIsPO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30109507/1468517820",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 13 22:58:19 +0000 2017",
 		"id": 841423203218026500,
 		"id_str": "841423203218026496",

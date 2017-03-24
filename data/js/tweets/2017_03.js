@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 09:59:20 +0000 2017",
+		"id": 845213432710291500,
+		"id_str": "845213432710291456",
+		"text": "RT @FullFrontalSamB: One of our staffers has been keeping an actual log of who's paying for Trump's wall. https://t.co/P1C6xW41vd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FullFrontalSamB",
+					"name": "Full Frontal",
+					"id": 3420477195,
+					"id_str": "3420477195",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 842495323759132700,
+					"id_str": "842495323759132672",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+					"url": "https://t.co/P1C6xW41vd",
+					"display_url": "pic.twitter.com/P1C6xW41vd",
+					"expanded_url": "https://twitter.com/FullFrontalSamB/status/842495663388737538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842495663388737500,
+					"source_status_id_str": "842495663388737538",
+					"source_user_id": 3420477195,
+					"source_user_id_str": "3420477195"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 842495323759132700,
+					"id_str": "842495323759132672",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+					"url": "https://t.co/P1C6xW41vd",
+					"display_url": "pic.twitter.com/P1C6xW41vd",
+					"expanded_url": "https://twitter.com/FullFrontalSamB/status/842495663388737538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842495663388737500,
+					"source_status_id_str": "842495663388737538",
+					"source_user_id": 3420477195,
+					"source_user_id_str": "3420477195"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10122,
+			"friends_count": 1326,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78583,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 16 21:59:53 +0000 2017",
+			"id": 842495663388737500,
+			"id_str": "842495663388737538",
+			"text": "One of our staffers has been keeping an actual log of who's paying for Trump's wall. https://t.co/P1C6xW41vd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 842495323759132700,
+						"id_str": "842495323759132672",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+						"url": "https://t.co/P1C6xW41vd",
+						"display_url": "pic.twitter.com/P1C6xW41vd",
+						"expanded_url": "https://twitter.com/FullFrontalSamB/status/842495663388737538/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 842495323759132700,
+						"id_str": "842495323759132672",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7ElCIGXQAAHC-_.jpg",
+						"url": "https://t.co/P1C6xW41vd",
+						"display_url": "pic.twitter.com/P1C6xW41vd",
+						"expanded_url": "https://twitter.com/FullFrontalSamB/status/842495663388737538/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3420477195,
+				"id_str": "3420477195",
+				"name": "Full Frontal",
+				"screen_name": "FullFrontalSamB",
+				"location": "",
+				"description": "Samantha Bee: The Woman America Needs Half an Hour a Week. Wednesdays at 10:30/9:30c on @TBSNetwork.",
+				"url": "https://t.co/9Q1vXrCKK2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Q1vXrCKK2",
+								"expanded_url": "http://www.samanthabee.com",
+								"display_url": "samanthabee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 373560,
+				"friends_count": 116,
+				"listed_count": 2876,
+				"created_at": "Thu Aug 13 17:29:33 +0000 2015",
+				"favourites_count": 927,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1671,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834488494940491776/3Lf8sgeV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834488494940491776/3Lf8sgeV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3420477195/1489041102",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18145,
+			"favorite_count": 36504,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18145,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 24 07:06:19 +0000 2017",
 		"id": 845169890738683900,
 		"id_str": "845169890738683904",

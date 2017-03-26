@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 26 18:12:30 +0000 2017",
+		"id": 846062317758406700,
+		"id_str": "846062317758406656",
+		"text": "@sandramardene @felixadog and I wag back (though I am in British Columbia and he is in Phoenix). Have you converted to canine?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandramardene",
+					"name": "Sandy Brown Jensen",
+					"id": 99817560,
+					"id_str": "99817560",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "felixadog",
+					"name": "Felix",
+					"id": 725029637609381900,
+					"id_str": "725029637609381891",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 846059384442536000,
+		"in_reply_to_status_id_str": "846059384442535937",
+		"in_reply_to_user_id": 99817560,
+		"in_reply_to_user_id_str": "99817560",
+		"in_reply_to_screen_name": "sandramardene",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10125,
+			"friends_count": 1326,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 734,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 26 17:37:35 +0000 2017",
+		"id": 846053530028785700,
+		"id_str": "846053530028785665",
+		"text": "Excellent remix execution in an under than 1 minute video remix. If we gave A's in #ds106 this would earn one. https://t.co/ALaWeU1uM3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ALaWeU1uM3",
+					"expanded_url": "https://twitter.com/ToddDracula/status/845702339788988417",
+					"display_url": "twitter.com/ToddDracula/st…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10125,
+			"friends_count": 1326,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 734,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845702339788988400,
+		"quoted_status_id_str": "845702339788988417",
+		"quoted_status": {
+			"created_at": "Sat Mar 25 18:22:04 +0000 2017",
+			"id": 845702339788988400,
+			"id_str": "845702339788988417",
+			"text": "Here's the full version of my Marty McFly/Donald Trump Back to the Future edit @realmikefox @realDonaldTrump https://t.co/kTO77W3Vkz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realmikefox",
+						"name": "Michael J. Fox",
+						"id": 398092540,
+						"id_str": "398092540",
+						"indices": [
+							79,
+							91
+						]
+					},
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							92,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 845699553961504800,
+						"id_str": "845699553961504769",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845699553961504769/pu/img/A1RbcgMb-j0MnleP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845699553961504769/pu/img/A1RbcgMb-j0MnleP.jpg",
+						"url": "https://t.co/kTO77W3Vkz",
+						"display_url": "pic.twitter.com/kTO77W3Vkz",
+						"expanded_url": "https://twitter.com/ToddDracula/status/845702339788988417/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845699553961504800,
+						"id_str": "845699553961504769",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845699553961504769/pu/img/A1RbcgMb-j0MnleP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845699553961504769/pu/img/A1RbcgMb-j0MnleP.jpg",
+						"url": "https://t.co/kTO77W3Vkz",
+						"display_url": "pic.twitter.com/kTO77W3Vkz",
+						"expanded_url": "https://twitter.com/ToddDracula/status/845702339788988417/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 44678,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845699553961504769/pu/vid/320x180/ajTt7wMzUDHGuXO5.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845699553961504769/pu/vid/1280x720/DntIxdQm9t1pKojd.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/845699553961504769/pu/pl/T3ydigdfh7eRm0Yj.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845699553961504769/pu/vid/640x360/U3EuuNcfbsb1Wil0.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3527098936,
+				"id_str": "3527098936",
+				"name": "Todd Dracula",
+				"screen_name": "ToddDracula",
+				"location": "United States",
+				"description": "Edited videos. Contributor to @cafedotcom. todddracula@gmail.com",
+				"url": "https://t.co/aFulel5LPT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aFulel5LPT",
+								"expanded_url": "https://goo.gl/yL2a2x",
+								"display_url": "goo.gl/yL2a2x",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8714,
+				"friends_count": 676,
+				"listed_count": 120,
+				"created_at": "Wed Sep 02 21:05:01 +0000 2015",
+				"favourites_count": 2412,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2349,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639868152793337856/yO9Gh0UZ.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639868152793337856/yO9Gh0UZ.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/642159288568426497/5l1KTeGs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/642159288568426497/5l1KTeGs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3527098936/1483841870",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 358,
+			"favorite_count": 565,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 26 00:38:35 +0000 2017",
 		"id": 845797090605224000,
 		"id_str": "845797090605223936",

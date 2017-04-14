@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 22:31:45 +0000 2017",
+		"id": 853012931583148000,
+		"id_str": "853012931583148033",
+		"text": "It's a new ice cream flavor! Progressive Socialist Vanilla Cookie Dream Cruch https://t.co/Ag3DJu7DQY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ag3DJu7DQY",
+					"expanded_url": "https://twitter.com/SenSanders/status/852973977333006342",
+					"display_url": "twitter.com/SenSanders/sta…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10162,
+			"friends_count": 1344,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 852973977333006300,
+		"quoted_status_id_str": "852973977333006342",
+		"quoted_status": {
+			"created_at": "Fri Apr 14 19:56:58 +0000 2017",
+			"id": 852973977333006300,
+			"id_str": "852973977333006342",
+			"text": "When we stand up and fight back we can change the country in very positive ways. https://t.co/U4jSzrFaK5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852973966264324100,
+						"id_str": "852973966264324097",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/C9ZfTZXXUAEt3Xm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9ZfTZXXUAEt3Xm.jpg",
+						"url": "https://t.co/U4jSzrFaK5",
+						"display_url": "pic.twitter.com/U4jSzrFaK5",
+						"expanded_url": "https://twitter.com/SenSanders/status/852973977333006342/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852973966264324100,
+						"id_str": "852973966264324097",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/C9ZfTZXXUAEt3Xm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9ZfTZXXUAEt3Xm.jpg",
+						"url": "https://t.co/U4jSzrFaK5",
+						"display_url": "pic.twitter.com/U4jSzrFaK5",
+						"expanded_url": "https://twitter.com/SenSanders/status/852973977333006342/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29442313,
+				"id_str": "29442313",
+				"name": "Bernie Sanders",
+				"screen_name": "SenSanders",
+				"location": "Vermont/DC",
+				"description": "Sen. Bernie Sanders is the longest serving independent in congressional history. Tweets ending in -B are from Bernie, and all others are from a staffer.",
+				"url": "http://t.co/8AS4FI1oge",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8AS4FI1oge",
+								"expanded_url": "http://www.sanders.senate.gov/",
+								"display_url": "sanders.senate.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4804503,
+				"friends_count": 2006,
+				"listed_count": 21574,
+				"created_at": "Tue Apr 07 13:02:35 +0000 2009",
+				"favourites_count": 25,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16645,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+				"profile_link_color": "44506A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D6CCB6",
+				"profile_text_color": "304562",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2956,
+			"favorite_count": 10712,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 14 20:58:39 +0000 2017",
 		"id": 852989499533443100,
 		"id_str": "852989499533443072",

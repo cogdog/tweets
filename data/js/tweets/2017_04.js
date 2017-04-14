@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 15:32:02 +0000 2017",
+		"id": 852907304374554600,
+		"id_str": "852907304374554624",
+		"text": "RT @tristanreveur: The Road (2009) https://t.co/aI79vIMjex",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tristanreveur",
+					"name": "avalanche engineer",
+					"id": 8255002,
+					"id_str": "8255002",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 827787231008006100,
+					"id_str": "827787231008006144",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+					"url": "https://t.co/aI79vIMjex",
+					"display_url": "pic.twitter.com/aI79vIMjex",
+					"expanded_url": "https://twitter.com/tristanreveur/status/827787279938703360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827787279938703400,
+					"source_status_id_str": "827787279938703360",
+					"source_user_id": 8255002,
+					"source_user_id_str": "8255002"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 827787231008006100,
+					"id_str": "827787231008006144",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+					"url": "https://t.co/aI79vIMjex",
+					"display_url": "pic.twitter.com/aI79vIMjex",
+					"expanded_url": "https://twitter.com/tristanreveur/status/827787279938703360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827787279938703400,
+					"source_status_id_str": "827787279938703360",
+					"source_user_id": 8255002,
+					"source_user_id_str": "8255002"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10164,
+			"friends_count": 1344,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 04 07:54:01 +0000 2017",
+			"id": 827787279938703400,
+			"id_str": "827787279938703360",
+			"text": "The Road (2009) https://t.co/aI79vIMjex",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827787231008006100,
+						"id_str": "827787231008006144",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+						"url": "https://t.co/aI79vIMjex",
+						"display_url": "pic.twitter.com/aI79vIMjex",
+						"expanded_url": "https://twitter.com/tristanreveur/status/827787279938703360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1156,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827787231008006100,
+						"id_str": "827787231008006144",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3zkGc3WIAAkvVP.jpg",
+						"url": "https://t.co/aI79vIMjex",
+						"display_url": "pic.twitter.com/aI79vIMjex",
+						"expanded_url": "https://twitter.com/tristanreveur/status/827787279938703360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1156,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8255002,
+				"id_str": "8255002",
+				"name": "avalanche engineer",
+				"screen_name": "tristanreveur",
+				"location": "San Francisco, CA",
+				"description": "vaguely occult",
+				"url": "https://t.co/d4ChGC4UWy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d4ChGC4UWy",
+								"expanded_url": "http://industrialfire.tumblr.com",
+								"display_url": "industrialfire.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5082,
+				"friends_count": 745,
+				"listed_count": 138,
+				"created_at": "Fri Aug 17 21:43:45 +0000 2007",
+				"favourites_count": 152851,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54628,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D0101",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550163308997644288/W6NvKOhK.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550163308997644288/W6NvKOhK.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827238093719629824/-QjiajHL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827238093719629824/-QjiajHL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8255002/1428270517",
+				"profile_link_color": "9F2F21",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 285,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 14 15:31:16 +0000 2017",
+		"id": 852907112422285300,
+		"id_str": "852907112422285313",
+		"text": "@wanderer_920 @rebegmaestro @netnarr At your service. Good alchemy is not a solitary act, it happens best in a grou… https://t.co/u1yNIOhLqP",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wanderer_920",
+					"name": "Laura Lopez",
+					"id": 821869873164906500,
+					"id_str": "821869873164906497",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "rebegmaestro",
+					"name": "Rebeg Maestro",
+					"id": 778291119415103500,
+					"id_str": "778291119415103488",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "netnarr",
+					"name": "Networked Narratives",
+					"id": 801306049663893500,
+					"id_str": "801306049663893504",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u1yNIOhLqP",
+					"expanded_url": "https://twitter.com/i/web/status/852907112422285313",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 852899043151949800,
+		"in_reply_to_status_id_str": "852899043151949825",
+		"in_reply_to_user_id": 821869873164906500,
+		"in_reply_to_user_id_str": "821869873164906497",
+		"in_reply_to_screen_name": "wanderer_920",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10164,
+			"friends_count": 1344,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 14 15:30:04 +0000 2017",
+		"id": 852906809799065600,
+		"id_str": "852906809799065600",
+		"text": "@sensor63 @slamteacher @Bali_Maha @sheilmcn @josiefraser @jimgroom @LornaMCampbell @KellyATerrell @BryanMMathers… https://t.co/oQtlHIV0I4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "slamteacher",
+					"name": "Sean Michael Morris",
+					"id": 565218468,
+					"id_str": "565218468",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "josiefraser",
+					"name": "Josie Fraser",
+					"id": 746923,
+					"id_str": "746923",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						67,
+						82
+					]
+				},
+				{
+					"screen_name": "KellyATerrell",
+					"name": "Kelly Terrell",
+					"id": 264872340,
+					"id_str": "264872340",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "BryanMMathers",
+					"name": "Bryan Mathers",
+					"id": 37933636,
+					"id_str": "37933636",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oQtlHIV0I4",
+					"expanded_url": "https://twitter.com/i/web/status/852906809799065600",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 852889676407025700,
+		"in_reply_to_status_id_str": "852889676407025664",
+		"in_reply_to_user_id": 84562932,
+		"in_reply_to_user_id_str": "84562932",
+		"in_reply_to_screen_name": "sensor63",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10164,
+			"friends_count": 1344,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 14 15:01:26 +0000 2017",
 		"id": 852899604471226400,
 		"id_str": "852899604471226368",

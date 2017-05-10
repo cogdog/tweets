@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 16:18:57 +0000 2017",
+		"id": 862341195191664600,
+		"id_str": "862341195191664640",
+		"text": "#BorschtForBreakfast too https://t.co/4tnBQiwvcF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BorschtForBreakfast",
+					"indices": [
+						0,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4tnBQiwvcF",
+					"expanded_url": "https://twitter.com/jimsciutto/status/862330633569398784",
+					"display_url": "twitter.com/jimsciutto/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10193,
+			"friends_count": 1354,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 717,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 862330633569398800,
+		"quoted_status_id_str": "862330633569398784",
+		"quoted_status": {
+			"created_at": "Wed May 10 15:36:59 +0000 2017",
+			"id": 862330633569398800,
+			"id_str": "862330633569398784",
+			"text": "These photos of Trump-Russia meetings are courtesy solely of Russian MFA because no US press allowed in. https://t.co/PI4cSPIqvG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862330624249659400,
+						"id_str": "862330624249659392",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C_edIklXgAA8gLb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_edIklXgAA8gLb.jpg",
+						"url": "https://t.co/PI4cSPIqvG",
+						"display_url": "pic.twitter.com/PI4cSPIqvG",
+						"expanded_url": "https://twitter.com/jimsciutto/status/862330633569398784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1069,
+								"h": 743,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1069,
+								"h": 743,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862330624249659400,
+						"id_str": "862330624249659392",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C_edIklXgAA8gLb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_edIklXgAA8gLb.jpg",
+						"url": "https://t.co/PI4cSPIqvG",
+						"display_url": "pic.twitter.com/PI4cSPIqvG",
+						"expanded_url": "https://twitter.com/jimsciutto/status/862330633569398784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1069,
+								"h": 743,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1069,
+								"h": 743,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 862330624253861900,
+						"id_str": "862330624253861889",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C_edIkmXoAE91xC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_edIkmXoAE91xC.jpg",
+						"url": "https://t.co/PI4cSPIqvG",
+						"display_url": "pic.twitter.com/PI4cSPIqvG",
+						"expanded_url": "https://twitter.com/jimsciutto/status/862330633569398784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 716,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 716,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22129280,
+				"id_str": "22129280",
+				"name": "Jim Sciutto",
+				"screen_name": "jimsciutto",
+				"location": "Washington, DC",
+				"description": "CNN Chief National Security Correspondent, Dad, New Yorker, avid traveler, NY Mets fan",
+				"url": "https://t.co/QzackVpdlc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QzackVpdlc",
+								"expanded_url": "http://www.jimsciutto.com",
+								"display_url": "jimsciutto.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141398,
+				"friends_count": 465,
+				"listed_count": 3696,
+				"created_at": "Fri Feb 27 11:07:05 +0000 2009",
+				"favourites_count": 1210,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18414,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000090610187/ffc4f39d79a11b89fb5709703719aac2.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000090610187/ffc4f39d79a11b89fb5709703719aac2.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/450818997353578496/Pwxkb5rA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/450818997353578496/Pwxkb5rA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22129280/1391184572",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6191,
+			"favorite_count": 4406,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed May 10 15:45:25 +0000 2017",
 		"id": 862332758382620700,
 		"id_str": "862332758382620672",

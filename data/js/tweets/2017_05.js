@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 23 04:01:30 +0000 2017",
+		"id": 866866652301770800,
+		"id_str": "866866652301770752",
+		"text": "He's running the country just like a business... like the casino business he flopped https://t.co/oiNUunOWAs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oiNUunOWAs",
+					"expanded_url": "https://twitter.com/latimes/status/865766544059625472",
+					"display_url": "twitter.com/latimes/status…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10197,
+			"friends_count": 1356,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 717,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79775,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 865766544059625500,
+		"quoted_status_id_str": "865766544059625472",
+		"quoted_status": {
+			"created_at": "Sat May 20 03:10:03 +0000 2017",
+			"id": 865766544059625500,
+			"id_str": "865766544059625472",
+			"text": "Health insurers plan big Obamacare rate hikes — and they blame Trump https://t.co/eUu3x3Utpl https://t.co/yb8kTD3rX3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eUu3x3Utpl",
+						"expanded_url": "http://lat.ms/2pQ96oW",
+						"display_url": "lat.ms/2pQ96oW",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 865766541081575400,
+						"id_str": "865766541081575424",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DAPSFQOWAAA0nvF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAPSFQOWAAA0nvF.jpg",
+						"url": "https://t.co/yb8kTD3rX3",
+						"display_url": "pic.twitter.com/yb8kTD3rX3",
+						"expanded_url": "https://twitter.com/latimes/status/865766544059625472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865766541081575400,
+						"id_str": "865766541081575424",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DAPSFQOWAAA0nvF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAPSFQOWAAA0nvF.jpg",
+						"url": "https://t.co/yb8kTD3rX3",
+						"display_url": "pic.twitter.com/yb8kTD3rX3",
+						"expanded_url": "https://twitter.com/latimes/status/865766544059625472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16664681,
+				"id_str": "16664681",
+				"name": "Los Angeles Times",
+				"screen_name": "latimes",
+				"location": "Los Angeles, CA",
+				"description": "News from Los Angeles and the world. Staffed by http://t.co/zb8HyvYyAJ editors.",
+				"url": "http://t.co/JvbZRDfNzf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JvbZRDfNzf",
+								"expanded_url": "http://latimes.com/",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/zb8HyvYyAJ",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									48,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2845040,
+				"friends_count": 10695,
+				"listed_count": 29496,
+				"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+				"favourites_count": 1871,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 168181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/596769492/sp4uqn6gr7cwmjefat2j.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/596769492/sp4uqn6gr7cwmjefat2j.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/546329819919560704/XMWy2Z50_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/546329819919560704/XMWy2Z50_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1402448809",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "615F61",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 641,
+			"favorite_count": 437,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 23 02:36:05 +0000 2017",
 		"id": 866845157844320300,
 		"id_str": "866845157844320256",

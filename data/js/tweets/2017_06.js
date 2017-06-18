@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 18 19:15:01 +0000 2017",
+		"id": 876518632846639100,
+		"id_str": "876518632846639104",
+		"text": "RT @BraddJaffy: Father's Day morning messages from presidents 44 and 45 https://t.co/UBslsOLDKd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BraddJaffy",
+					"name": "Bradd Jaffy",
+					"id": 299802277,
+					"id_str": "299802277",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 876466335219241000,
+					"id_str": "876466335219240960",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+					"url": "https://t.co/UBslsOLDKd",
+					"display_url": "pic.twitter.com/UBslsOLDKd",
+					"expanded_url": "https://twitter.com/BraddJaffy/status/876466351426199552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 981,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876466351426199600,
+					"source_status_id_str": "876466351426199552",
+					"source_user_id": 299802277,
+					"source_user_id_str": "299802277"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 876466335219241000,
+					"id_str": "876466335219240960",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+					"url": "https://t.co/UBslsOLDKd",
+					"display_url": "pic.twitter.com/UBslsOLDKd",
+					"expanded_url": "https://twitter.com/BraddJaffy/status/876466351426199552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 981,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876466351426199600,
+					"source_status_id_str": "876466351426199552",
+					"source_user_id": 299802277,
+					"source_user_id_str": "299802277"
+				},
+				{
+					"id": 876466335223435300,
+					"id_str": "876466335223435264",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DCnVfPiU0AA1nge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCnVfPiU0AA1nge.jpg",
+					"url": "https://t.co/UBslsOLDKd",
+					"display_url": "pic.twitter.com/UBslsOLDKd",
+					"expanded_url": "https://twitter.com/BraddJaffy/status/876466351426199552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1172,
+							"h": 652,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1172,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 876466351426199600,
+					"source_status_id_str": "876466351426199552",
+					"source_user_id": 299802277,
+					"source_user_id_str": "299802277"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10248,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 711,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 18 15:47:16 +0000 2017",
+			"id": 876466351426199600,
+			"id_str": "876466351426199552",
+			"text": "Father's Day morning messages from presidents 44 and 45 https://t.co/UBslsOLDKd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 876466335219241000,
+						"id_str": "876466335219240960",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+						"url": "https://t.co/UBslsOLDKd",
+						"display_url": "pic.twitter.com/UBslsOLDKd",
+						"expanded_url": "https://twitter.com/BraddJaffy/status/876466351426199552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 1040,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 556,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 981,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 876466335219241000,
+						"id_str": "876466335219240960",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCnVfPhU0AAlkZr.jpg",
+						"url": "https://t.co/UBslsOLDKd",
+						"display_url": "pic.twitter.com/UBslsOLDKd",
+						"expanded_url": "https://twitter.com/BraddJaffy/status/876466351426199552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 1040,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 556,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 981,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 876466335223435300,
+						"id_str": "876466335223435264",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DCnVfPiU0AA1nge.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCnVfPiU0AA1nge.jpg",
+						"url": "https://t.co/UBslsOLDKd",
+						"display_url": "pic.twitter.com/UBslsOLDKd",
+						"expanded_url": "https://twitter.com/BraddJaffy/status/876466351426199552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1172,
+								"h": 652,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1172,
+								"h": 652,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299802277,
+				"id_str": "299802277",
+				"name": "Bradd Jaffy",
+				"screen_name": "BraddJaffy",
+				"location": "New York",
+				"description": "NBC News • Senior news editor and writer, NBC Nightly News. The more em dashes — the merrier.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 207510,
+				"friends_count": 1265,
+				"listed_count": 4160,
+				"created_at": "Mon May 16 18:07:07 +0000 2011",
+				"favourites_count": 7268,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25564,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842893382955491332/GangpxUe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842893382955491332/GangpxUe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299802277/1453305171",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8149,
+			"favorite_count": 14146,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8149,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 18 19:10:24 +0000 2017",
+		"id": 876517470202241000,
+		"id_str": "876517470202241025",
+		"text": "RT @MuslimIQ: 90 days later:\nRefugees:\n•0 Attacks\n•0 Deaths\n•2 Travel Bans\n\nAmericans:\n•21,290 Shootings\n•5,214 Deaths\n•121 Mass Shootings…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MuslimIQ",
+					"name": "Qasim Rashid, Esq.",
+					"id": 85583894,
+					"id_str": "85583894",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10248,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 711,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 10:29:53 +0000 2017",
+			"id": 861890964012625900,
+			"id_str": "861890964012625920",
+			"text": "90 days later:\nRefugees:\n•0 Attacks\n•0 Deaths\n•2 Travel Bans\n\nAmericans:\n•21,290 Shootings\n•5,214 Deaths\n•121 Mass… https://t.co/t3ddteOIon",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t3ddteOIon",
+						"expanded_url": "https://twitter.com/i/web/status/861890964012625920",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85583894,
+				"id_str": "85583894",
+				"name": "Qasim Rashid, Esq.",
+				"screen_name": "MuslimIQ",
+				"location": "Washington, DC",
+				"description": "American Muslim • Islamic Educator • Women's Rights Defender • Black Lives Matter • Dad-joke Extraordinaire",
+				"url": "https://t.co/JcdA9BndhG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JcdA9BndhG",
+								"expanded_url": "http://www.qasimrashid.com/contact",
+								"display_url": "qasimrashid.com/contact",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86623,
+				"friends_count": 649,
+				"listed_count": 1018,
+				"created_at": "Tue Oct 27 14:47:28 +0000 2009",
+				"favourites_count": 24834,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 93671,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/610863584298565632/9lp4bMac.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/610863584298565632/9lp4bMac.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863874077550944257/obk8krNd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863874077550944257/obk8krNd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85583894/1491113572",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 829836231802515500,
+			"quoted_status_id_str": "829836231802515457",
+			"quoted_status": {
+				"created_at": "Thu Feb 09 23:35:49 +0000 2017",
+				"id": 829836231802515500,
+				"id_str": "829836231802515457",
+				"text": "SEE YOU IN COURT, THE SECURITY OF OUR NATION IS AT STAKE!",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 25073877,
+					"id_str": "25073877",
+					"name": "Donald J. Trump",
+					"screen_name": "realDonaldTrump",
+					"location": "Washington, DC",
+					"description": "45th President of the United States of America",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 32516200,
+					"friends_count": 45,
+					"listed_count": 71407,
+					"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+					"favourites_count": 22,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 35074,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "6D5C18",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1496423644",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "BDDCAD",
+					"profile_sidebar_fill_color": "C5CEC0",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 66731,
+				"favorite_count": 237154,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 15773,
+			"favorite_count": 21277,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 829836231802515500,
+		"quoted_status_id_str": "829836231802515457",
+		"retweet_count": 15773,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 18 17:56:45 +0000 2017",
 		"id": 876498934792728600,
 		"id_str": "876498934792728576",

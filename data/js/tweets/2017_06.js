@@ -1,6 +1,1566 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 22 20:08:35 +0000 2017",
+		"id": 877981663808020500,
+		"id_str": "877981663808020480",
+		"text": "I wish GOP would just admit they don't give a rat's whisker about healthcare, they just want revenge on a previous administration.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10254,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 20:05:14 +0000 2017",
+		"id": 877980820874510300,
+		"id_str": "877980820874510336",
+		"text": "@ds106dc Me, a loon, all alone, making lunes #tdc1991 https://t.co/6aK9LVOsvi https://t.co/KrZWRvkO5a",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc1991",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6aK9LVOsvi",
+					"expanded_url": "http://johnjohnston.info/lunes/?tag=loon",
+					"display_url": "johnjohnston.info/lunes/?tag=loon",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 877980784786911200,
+					"id_str": "877980784786911232",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DC823zzXsAAK2b_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC823zzXsAAK2b_.jpg",
+					"url": "https://t.co/KrZWRvkO5a",
+					"display_url": "pic.twitter.com/KrZWRvkO5a",
+					"expanded_url": "https://twitter.com/cogdog/status/877980820874510336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 302,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 302,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 877980784786911200,
+					"id_str": "877980784786911232",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DC823zzXsAAK2b_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC823zzXsAAK2b_.jpg",
+					"url": "https://t.co/KrZWRvkO5a",
+					"display_url": "pic.twitter.com/KrZWRvkO5a",
+					"expanded_url": "https://twitter.com/cogdog/status/877980820874510336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 302,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 302,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10254,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 19:53:33 +0000 2017",
+		"id": 877977881556656100,
+		"id_str": "877977881556656129",
+		"text": "@JeffFlake seems to have a busy phone. But call like I did and leave a message. Trumpcare is bad for Arizona people… https://t.co/jy90Bak8SF",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffFlake",
+					"name": "Jeff Flake",
+					"id": 16056306,
+					"id_str": "16056306",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jy90Bak8SF",
+					"expanded_url": "https://twitter.com/i/web/status/877977881556656129",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16056306,
+		"in_reply_to_user_id_str": "16056306",
+		"in_reply_to_screen_name": "JeffFlake",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10254,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877976162344906800,
+		"quoted_status_id_str": "877976162344906752",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 19:46:43 +0000 2017",
+			"id": 877976162344906800,
+			"id_str": "877976162344906752",
+			"text": ".@JeffFlake The new Senate #TrumpCare still rips Medicaid from Arizonans. What more do you need to know to say no?  https://t.co/1rhbYV8VCJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TrumpCare",
+						"indices": [
+							27,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JeffFlake",
+						"name": "Jeff Flake",
+						"id": 16056306,
+						"id_str": "16056306",
+						"indices": [
+							1,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1rhbYV8VCJ",
+						"expanded_url": "https://www.trumpcareten.org/arizona/",
+						"display_url": "trumpcareten.org/arizona/",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 810590628727914500,
+				"id_str": "810590628727914496",
+				"name": "Indivisible Guide",
+				"screen_name": "IndivisibleTeam",
+				"location": "Washington, DC",
+				"description": "Former congressional staffers reveal best practices for making Congress listen.",
+				"url": "https://t.co/JENZ9MAQ9K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JENZ9MAQ9K",
+								"expanded_url": "http://www.indivisibleguide.com",
+								"display_url": "indivisibleguide.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 179584,
+				"friends_count": 1418,
+				"listed_count": 2097,
+				"created_at": "Sun Dec 18 21:00:40 +0000 2016",
+				"favourites_count": 5772,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13160,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865708443285454852/9wB7T8px_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865708443285454852/9wB7T8px_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/810590628727914496/1495235716",
+				"profile_link_color": "001D59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 19:46:15 +0000 2017",
+		"id": 877976043448959000,
+		"id_str": "877976043448958976",
+		"text": "Arizona people want to know @JeffFlake @SenJohnMcCain Is this the Trumpcare wagon you are going to hitch yourself t… https://t.co/LbZb6n9ruf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffFlake",
+					"name": "Jeff Flake",
+					"id": 16056306,
+					"id_str": "16056306",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "SenJohnMcCain",
+					"name": "John McCain",
+					"id": 19394188,
+					"id_str": "19394188",
+					"indices": [
+						39,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LbZb6n9ruf",
+					"expanded_url": "https://twitter.com/i/web/status/877976043448958976",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10254,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877932005593301000,
+		"quoted_status_id_str": "877932005593300993",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 16:51:15 +0000 2017",
+			"id": 877932005593301000,
+			"id_str": "877932005593300993",
+			"text": "A horrific metaphor for Trumpcare: this disabled woman literally being ripped from her wheelchair. \n#StopTrumpcare  \nhttps://t.co/F5kmz8rnCv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StopTrumpcare",
+						"indices": [
+							100,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 877929630719762400,
+						"id_str": "877929630719762434",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"url": "https://t.co/F5kmz8rnCv",
+						"display_url": "pic.twitter.com/F5kmz8rnCv",
+						"expanded_url": "https://twitter.com/JordanUhl/status/877929837549293569/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877929837549293600,
+						"source_status_id_str": "877929837549293569",
+						"source_user_id": 68752979,
+						"source_user_id_str": "68752979"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877929630719762400,
+						"id_str": "877929630719762434",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"url": "https://t.co/F5kmz8rnCv",
+						"display_url": "pic.twitter.com/F5kmz8rnCv",
+						"expanded_url": "https://twitter.com/JordanUhl/status/877929837549293569/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877929837549293600,
+						"source_status_id_str": "877929837549293569",
+						"source_user_id": 68752979,
+						"source_user_id_str": "68752979",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 40133,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/vid/640x360/d_0-WVj3LEMEs9w8.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/pl/7PsXdbeffoRFUlQ4.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/vid/1280x720/9Bks_cSB2Nm3kSmw.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/vid/320x180/n0K4chY_Q5gJaXo4.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 68752979,
+								"id_str": "68752979",
+								"name": "jordan 🌹",
+								"screen_name": "JordanUhl",
+								"location": "Washington, D.C.",
+								"description": "Editor, @oppstn. Co-host, @ThinkTwicePod. Organizer, #MarchForTruth.",
+								"url": "https://t.co/QyNeRJrUAK",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/QyNeRJrUAK",
+												"expanded_url": "http://amzn.to/2k5Xrv9",
+												"display_url": "amzn.to/2k5Xrv9",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 64053,
+								"friends_count": 2616,
+								"listed_count": 830,
+								"created_at": "Tue Aug 25 17:33:14 +0000 2009",
+								"favourites_count": 80645,
+								"utc_offset": -14400,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 13237,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472070391385427971/pLvFjN8z.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472070391385427971/pLvFjN8z.jpeg",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/871145082195410944/LBrT0B2t_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/871145082195410944/LBrT0B2t_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/68752979/1484660667",
+								"profile_link_color": "2FC2EF",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "252429",
+								"profile_text_color": "666666",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15418628,
+				"id_str": "15418628",
+				"name": "Matt McDermott",
+				"screen_name": "mattmfm",
+				"location": "RI → DC → NYC",
+				"description": "Pollster by trade | Associate Director @ Whitman Insight Strategies | Resistance is the best medicine",
+				"url": "https://t.co/ODBRHUkfwl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ODBRHUkfwl",
+								"expanded_url": "http://www.matthewfmcdermott.com/",
+								"display_url": "matthewfmcdermott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49855,
+				"friends_count": 1614,
+				"listed_count": 1338,
+				"created_at": "Sun Jul 13 20:52:38 +0000 2008",
+				"favourites_count": 24329,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46089,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875731973553221632/oRkuWLIT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875731973553221632/oRkuWLIT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15418628/1462327977",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a9a39529b27f36",
+				"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+				"place_type": "city",
+				"name": "Manhattan",
+				"full_name": "Manhattan, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.026675,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.877483
+							],
+							[
+								-74.026675,
+								40.877483
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10922,
+			"favorite_count": 8142,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 19:44:22 +0000 2017",
+		"id": 877975570595721200,
+		"id_str": "877975570595721220",
+		"text": "Let this video represent the stench of Trumpcare, McConnell, Ryan, and all the other lackey elves who do not give a… https://t.co/k7ZRQAU3el",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k7ZRQAU3el",
+					"expanded_url": "https://twitter.com/i/web/status/877975570595721220",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10254,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877932005593301000,
+		"quoted_status_id_str": "877932005593300993",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 16:51:15 +0000 2017",
+			"id": 877932005593301000,
+			"id_str": "877932005593300993",
+			"text": "A horrific metaphor for Trumpcare: this disabled woman literally being ripped from her wheelchair. \n#StopTrumpcare  \nhttps://t.co/F5kmz8rnCv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StopTrumpcare",
+						"indices": [
+							100,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 877929630719762400,
+						"id_str": "877929630719762434",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"url": "https://t.co/F5kmz8rnCv",
+						"display_url": "pic.twitter.com/F5kmz8rnCv",
+						"expanded_url": "https://twitter.com/JordanUhl/status/877929837549293569/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877929837549293600,
+						"source_status_id_str": "877929837549293569",
+						"source_user_id": 68752979,
+						"source_user_id_str": "68752979"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877929630719762400,
+						"id_str": "877929630719762434",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877929630719762434/pu/img/LPZDv1brfumBvnBe.jpg",
+						"url": "https://t.co/F5kmz8rnCv",
+						"display_url": "pic.twitter.com/F5kmz8rnCv",
+						"expanded_url": "https://twitter.com/JordanUhl/status/877929837549293569/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877929837549293600,
+						"source_status_id_str": "877929837549293569",
+						"source_user_id": 68752979,
+						"source_user_id_str": "68752979",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 40133,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/vid/640x360/d_0-WVj3LEMEs9w8.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/pl/7PsXdbeffoRFUlQ4.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/vid/1280x720/9Bks_cSB2Nm3kSmw.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877929630719762434/pu/vid/320x180/n0K4chY_Q5gJaXo4.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 68752979,
+								"id_str": "68752979",
+								"name": "jordan 🌹",
+								"screen_name": "JordanUhl",
+								"location": "Washington, D.C.",
+								"description": "Editor, @oppstn. Co-host, @ThinkTwicePod. Organizer, #MarchForTruth.",
+								"url": "https://t.co/QyNeRJrUAK",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/QyNeRJrUAK",
+												"expanded_url": "http://amzn.to/2k5Xrv9",
+												"display_url": "amzn.to/2k5Xrv9",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 64053,
+								"friends_count": 2616,
+								"listed_count": 830,
+								"created_at": "Tue Aug 25 17:33:14 +0000 2009",
+								"favourites_count": 80645,
+								"utc_offset": -14400,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 13237,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472070391385427971/pLvFjN8z.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472070391385427971/pLvFjN8z.jpeg",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/871145082195410944/LBrT0B2t_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/871145082195410944/LBrT0B2t_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/68752979/1484660667",
+								"profile_link_color": "2FC2EF",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "252429",
+								"profile_text_color": "666666",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15418628,
+				"id_str": "15418628",
+				"name": "Matt McDermott",
+				"screen_name": "mattmfm",
+				"location": "RI → DC → NYC",
+				"description": "Pollster by trade | Associate Director @ Whitman Insight Strategies | Resistance is the best medicine",
+				"url": "https://t.co/ODBRHUkfwl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ODBRHUkfwl",
+								"expanded_url": "http://www.matthewfmcdermott.com/",
+								"display_url": "matthewfmcdermott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49855,
+				"friends_count": 1614,
+				"listed_count": 1338,
+				"created_at": "Sun Jul 13 20:52:38 +0000 2008",
+				"favourites_count": 24329,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46089,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875731973553221632/oRkuWLIT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875731973553221632/oRkuWLIT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15418628/1462327977",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a9a39529b27f36",
+				"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+				"place_type": "city",
+				"name": "Manhattan",
+				"full_name": "Manhattan, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.026675,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.877483
+							],
+							[
+								-74.026675,
+								40.877483
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10922,
+			"favorite_count": 8142,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 19:37:52 +0000 2017",
+		"id": 877973933584040000,
+		"id_str": "877973933584039936",
+		"text": "@Rockylou22 @ds106dc @IamTalkyTina @johnjohnston The dog's name was \"Cadu\" she is using a 2002 iBook.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rockylou22",
+					"name": "Rochelle Lockridge",
+					"id": 58716218,
+					"id_str": "58716218",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "IamTalkyTina",
+					"name": "Talky Tina",
+					"id": 1149090684,
+					"id_str": "1149090684",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877970369851699200,
+		"in_reply_to_status_id_str": "877970369851699200",
+		"in_reply_to_user_id": 58716218,
+		"in_reply_to_user_id_str": "58716218",
+		"in_reply_to_screen_name": "Rockylou22",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10254,
+			"friends_count": 1361,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 22 18:50:57 +0000 2017",
 		"id": 877962126802927600,
 		"id_str": "877962126802927617",

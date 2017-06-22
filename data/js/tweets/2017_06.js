@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 22 23:04:39 +0000 2017",
+		"id": 878025972448084000,
+		"id_str": "878025972448083968",
+		"text": "RT @DCAdapt: Dawn Russell being loaded onto police bus for processing with her fist raised in POWER! #ADAPTandRESIST #SaveMedicaid #FreeOur…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADAPTandRESIST",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"text": "SaveMedicaid",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DCAdapt",
+					"name": "DC Metro ADAPT",
+					"id": 836267670035132400,
+					"id_str": "836267670035132416",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10253,
+			"friends_count": 1362,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80447,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 17:23:29 +0000 2017",
+			"id": 877940114428747800,
+			"id_str": "877940114428747776",
+			"text": "Dawn Russell being loaded onto police bus for processing with her fist raised in POWER! #ADAPTandRESIST… https://t.co/SZG7PystIB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ADAPTandRESIST",
+						"indices": [
+							88,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SZG7PystIB",
+						"expanded_url": "https://twitter.com/i/web/status/877940114428747776",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 836267670035132400,
+				"id_str": "836267670035132416",
+				"name": "DC Metro ADAPT",
+				"screen_name": "DCAdapt",
+				"location": "Washington, DC",
+				"description": "We are D.C. Metro ADAPT, a grassroots organization focused on disability rights #freeourpeople https://t.co/YaBy7k9JdT",
+				"url": "https://t.co/umldOKE7km",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/umldOKE7km",
+								"expanded_url": "http://dcadapt.org",
+								"display_url": "dcadapt.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YaBy7k9JdT",
+								"expanded_url": "http://Facebook.com/dcmetroadapt",
+								"display_url": "Facebook.com/dcmetroadapt",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 514,
+				"friends_count": 132,
+				"listed_count": 3,
+				"created_at": "Mon Feb 27 17:32:04 +0000 2017",
+				"favourites_count": 68,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 277,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836324157814112256/58ux_mY2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836324157814112256/58ux_mY2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/836267670035132416/1490478015",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1984,
+			"favorite_count": 3277,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1984,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 23:04:21 +0000 2017",
+		"id": 878025896195530800,
+		"id_str": "878025896195530752",
+		"text": "Kiss the shit covered pig you chose. https://t.co/dbWV61LoSJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dbWV61LoSJ",
+					"expanded_url": "https://twitter.com/doctorow/status/878022840611504129",
+					"display_url": "twitter.com/doctorow/statu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10253,
+			"friends_count": 1362,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80447,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 878022840611504100,
+		"quoted_status_id_str": "878022840611504129",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 22:52:12 +0000 2017",
+			"id": 878022840611504100,
+			"id_str": "878022840611504129",
+			"text": "Watch Trump saying he doesn't want a poor person working in his cabinet https://t.co/xIQS3ARfux https://t.co/tYETVQ6m6W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xIQS3ARfux",
+						"expanded_url": "https://boingboing.net/2017/06/22/watch-trump-saying-he-doesnt.html",
+						"display_url": "boingboing.net/2017/06/22/wat…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 878022832457830400,
+						"id_str": "878022832457830401",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DC9dHTlU0AEtnom.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC9dHTlU0AEtnom.jpg",
+						"url": "https://t.co/tYETVQ6m6W",
+						"display_url": "pic.twitter.com/tYETVQ6m6W",
+						"expanded_url": "https://twitter.com/doctorow/status/878022840611504129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 379,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 379,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 368,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 878022832457830400,
+						"id_str": "878022832457830401",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DC9dHTlU0AEtnom.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC9dHTlU0AEtnom.jpg",
+						"url": "https://t.co/tYETVQ6m6W",
+						"display_url": "pic.twitter.com/tYETVQ6m6W",
+						"expanded_url": "https://twitter.com/doctorow/status/878022840611504129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 379,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 379,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 368,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2729061,
+				"id_str": "2729061",
+				"name": "Cory Doctorow",
+				"screen_name": "doctorow",
+				"location": "Beautiful Downtown Burbank",
+				"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: http://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+				"url": "http://t.co/x4ih0X9WgH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/x4ih0X9WgH",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/rS9kTnTcWs",
+								"expanded_url": "http://boingboing.net/s",
+								"display_url": "boingboing.net/s",
+								"indices": [
+									82,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 430933,
+				"friends_count": 1476,
+				"listed_count": 13247,
+				"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+				"favourites_count": 67,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 106529,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624066725/98x7v5ui9rwka1cc41ku.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624066725/98x7v5ui9rwka1cc41ku.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+				"profile_link_color": "3F3FC4",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 22 21:28:47 +0000 2017",
 		"id": 878001846878576600,
 		"id_str": "878001846878576640",

@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 24 05:20:39 +0000 2017",
+		"id": 878482985179242500,
+		"id_str": "878482985179242496",
+		"text": "Look how organized Tine is with her #30daytdc I think she wants her own badge #ds106 https://t.co/60ZBpyAfNt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "30daytdc",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/60ZBpyAfNt",
+					"expanded_url": "https://twitter.com/IamTalkyTina/status/878431347559346176",
+					"display_url": "twitter.com/IamTalkyTina/s…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10251,
+			"friends_count": 1363,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 708,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80467,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 878431347559346200,
+		"quoted_status_id_str": "878431347559346176",
+		"quoted_status": {
+			"created_at": "Sat Jun 24 01:55:28 +0000 2017",
+			"id": 878431347559346200,
+			"id_str": "878431347559346176",
+			"text": "Do you have a tracking list page for your #30DayTDC?  https://t.co/eDoBcVZMvF Will you get your CREATORIST badge?  #ds106 @ds106dc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "30DayTDC",
+						"indices": [
+							42,
+							51
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							115,
+							121
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							122,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eDoBcVZMvF",
+						"expanded_url": "http://iamtalkytina.com/june-2017-30-day-challenge/",
+						"display_url": "iamtalkytina.com/june-2017-30-d…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1149090684,
+				"id_str": "1149090684",
+				"name": "Talky Tina",
+				"screen_name": "IamTalkyTina",
+				"location": "Where am I? Right beside you. ",
+				"description": "I am Talky Tina. I do so hope you will be my Friend. #TrueFriend of #ds106",
+				"url": "https://t.co/MSsIWdJnJf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MSsIWdJnJf",
+								"expanded_url": "http://iamTalkyTina.com",
+								"display_url": "iamTalkyTina.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 218,
+				"friends_count": 144,
+				"listed_count": 15,
+				"created_at": "Mon Feb 04 21:20:09 +0000 2013",
+				"favourites_count": 86,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3909,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000125833215/1ZZEnG4q.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000125833215/1ZZEnG4q.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816130650487083008/ZWpT54Na_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816130650487083008/ZWpT54Na_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1149090684/1483415686",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 24 05:09:01 +0000 2017",
 		"id": 878480056363896800,
 		"id_str": "878480056363896833",

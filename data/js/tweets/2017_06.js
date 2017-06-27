@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 27 04:30:59 +0000 2017",
+		"id": 879557649766817800,
+		"id_str": "879557649766817793",
+		"text": "The Senate is full of con men. https://t.co/uhbzdqUOau",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uhbzdqUOau",
+					"expanded_url": "https://twitter.com/politico/status/879548137874042880",
+					"display_url": "twitter.com/politico/statu…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10248,
+			"friends_count": 1363,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 879548137874042900,
+		"quoted_status_id_str": "879548137874042880",
+		"quoted_status": {
+			"created_at": "Tue Jun 27 03:53:11 +0000 2017",
+			"id": 879548137874042900,
+			"id_str": "879548137874042880",
+			"text": "Republicans eye billions in side deals to win Obamacare repeal votes https://t.co/1nlM1mhCk6 https://t.co/LpeFEbTRdh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1nlM1mhCk6",
+						"expanded_url": "http://politi.co/2rVZo18",
+						"display_url": "politi.co/2rVZo18",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 879548135491723300,
+						"id_str": "879548135491723268",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DDTIXoLXYAQ__8i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDTIXoLXYAQ__8i.jpg",
+						"url": "https://t.co/LpeFEbTRdh",
+						"display_url": "pic.twitter.com/LpeFEbTRdh",
+						"expanded_url": "https://twitter.com/politico/status/879548137874042880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1160,
+								"h": 629,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1160,
+								"h": 629,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 879548135491723300,
+						"id_str": "879548135491723268",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DDTIXoLXYAQ__8i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDTIXoLXYAQ__8i.jpg",
+						"url": "https://t.co/LpeFEbTRdh",
+						"display_url": "pic.twitter.com/LpeFEbTRdh",
+						"expanded_url": "https://twitter.com/politico/status/879548137874042880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1160,
+								"h": 629,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1160,
+								"h": 629,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9300262,
+				"id_str": "9300262",
+				"name": "POLITICO",
+				"screen_name": "politico",
+				"location": "Washington, D.C.",
+				"description": "Nobody knows politics like POLITICO.\n\nSign up for the only politics newsletter you need in the link below.",
+				"url": "https://t.co/Gx3bYuc9cF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gx3bYuc9cF",
+								"expanded_url": "http://politi.co/2rPNohs",
+								"display_url": "politi.co/2rPNohs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3215846,
+				"friends_count": 1275,
+				"listed_count": 35400,
+				"created_at": "Mon Oct 08 00:29:38 +0000 2007",
+				"favourites_count": 9,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 230366,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/796212188/bbdc5e3f7842b5b33f418ac5bc9685ee.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/796212188/bbdc5e3f7842b5b33f418ac5bc9685ee.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9300262/1479760803",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 479,
+			"favorite_count": 228,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 27 03:10:20 +0000 2017",
 		"id": 879537353823404000,
 		"id_str": "879537353823404033",

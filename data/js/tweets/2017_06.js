@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 29 07:26:59 +0000 2017",
+		"id": 880326715318255600,
+		"id_str": "880326715318255617",
+		"text": "Sound of people lacking $35k to splurge on dinner hosted by profiteering President at his luxury hotel leased from… https://t.co/J3VdVcta7q",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J3VdVcta7q",
+					"expanded_url": "https://twitter.com/i/web/status/880326715318255617",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10247,
+			"friends_count": 1364,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80541,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 880201121234436100,
+		"quoted_status_id_str": "880201121234436096",
+		"quoted_status": {
+			"created_at": "Wed Jun 28 23:07:55 +0000 2017",
+			"id": 880201121234436100,
+			"id_str": "880201121234436096",
+			"text": "Loud, angry chants of SHAME as Trump's motorcade arrives @ Trump Hotel for fundraiser https://t.co/0PqIhdMHf9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 880200962987749400,
+						"id_str": "880200962987749377",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/880200962987749377/pu/img/GYK9d2KADiyTc28R.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/880200962987749377/pu/img/GYK9d2KADiyTc28R.jpg",
+						"url": "https://t.co/0PqIhdMHf9",
+						"display_url": "pic.twitter.com/0PqIhdMHf9",
+						"expanded_url": "https://twitter.com/aletweetsnews/status/880201121234436096/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880200962987749400,
+						"id_str": "880200962987749377",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/880200962987749377/pu/img/GYK9d2KADiyTc28R.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/880200962987749377/pu/img/GYK9d2KADiyTc28R.jpg",
+						"url": "https://t.co/0PqIhdMHf9",
+						"display_url": "pic.twitter.com/0PqIhdMHf9",
+						"expanded_url": "https://twitter.com/aletweetsnews/status/880201121234436096/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30287,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/880200962987749377/pu/pl/AcQpIfRGfB_lBDXi.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/880200962987749377/pu/vid/640x360/1_BK25ZLRfwimDqC.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/880200962987749377/pu/vid/320x180/RxdtSSIVmLPMFcmE.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/880200962987749377/pu/vid/1280x720/hb_dCDGB7rztqAe9.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 464067709,
+				"id_str": "464067709",
+				"name": "Alejandro Alvarez",
+				"screen_name": "aletweetsnews",
+				"location": "Washington, DC",
+				"description": "Multimedia journalist covering activism and politics in the nation's capital. News director @N2Sreports. Bylines: @politico, @AtlanticCouncil, @DurangoHerald.",
+				"url": "https://t.co/5wOaGYBVa0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5wOaGYBVa0",
+								"expanded_url": "https://alealvarez.net/news/",
+								"display_url": "alealvarez.net/news/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4301,
+				"friends_count": 995,
+				"listed_count": 181,
+				"created_at": "Sat Jan 14 20:12:46 +0000 2012",
+				"favourites_count": 5645,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16469,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877607909198266369/qJrDS0yX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877607909198266369/qJrDS0yX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/464067709/1497377506",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07fed9241dd6b001",
+				"url": "https://api.twitter.com/1.1/geo/id/07fed9241dd6b001.json",
+				"place_type": "poi",
+				"name": "Trump international Hotel",
+				"full_name": "Trump international Hotel",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.027859,
+								38.894111
+							],
+							[
+								-77.027859,
+								38.894111
+							],
+							[
+								-77.027859,
+								38.894111
+							],
+							[
+								-77.027859,
+								38.894111
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1757,
+			"favorite_count": 2741,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 29 06:24:35 +0000 2017",
 		"id": 880311010929684500,
 		"id_str": "880311010929684480",

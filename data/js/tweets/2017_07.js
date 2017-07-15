@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 15 22:15:48 +0000 2017",
+		"id": 886348600447344600,
+		"id_str": "886348600447344642",
+		"text": "@BreakingBand_ @dkernohan @RMoeJo @jeffwgallant @brlamb @MyZenWays no I mean rock scraped by rubble at bottom of a glacier",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BreakingBand_",
+					"name": "Breaking Band",
+					"id": 806373242596421600,
+					"id_str": "806373242596421632",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "dkernohan",
+					"name": "David KernohⒶn",
+					"id": 12219232,
+					"id_str": "12219232",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "RMoeJo",
+					"name": "Rolin Moe",
+					"id": 170832237,
+					"id_str": "170832237",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "jeffwgallant",
+					"name": "Jeff Gallant",
+					"id": 2402102815,
+					"id_str": "2402102815",
+					"indices": [
+						34,
+						47
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"screen_name": "MyZenWays",
+					"name": "Limos and Lattes ~B~",
+					"id": 824079457237377000,
+					"id_str": "824079457237377024",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 886337857018843100,
+		"in_reply_to_status_id_str": "886337857018843137",
+		"in_reply_to_user_id": 806373242596421600,
+		"in_reply_to_user_id_str": "806373242596421632",
+		"in_reply_to_screen_name": "BreakingBand_",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10254,
+			"friends_count": 1363,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 15 21:12:02 +0000 2017",
 		"id": 886332554239909900,
 		"id_str": "886332554239909888",

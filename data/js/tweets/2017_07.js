@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 18 22:28:07 +0000 2017",
+		"id": 887438863873921000,
+		"id_str": "887438863873921024",
+		"text": "Or just go golfing again.\n\nOn our dimes.\n\nQuadruple quintuple bogey https://t.co/N4r3XcdE4K",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N4r3XcdE4K",
+					"expanded_url": "https://twitter.com/laurenduca/status/887366892800921601",
+					"display_url": "twitter.com/laurenduca/sta…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10262,
+			"friends_count": 1365,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 887366892800921600,
+		"quoted_status_id_str": "887366892800921601",
+		"quoted_status": {
+			"created_at": "Tue Jul 18 17:42:08 +0000 2017",
+			"id": 887366892800921600,
+			"id_str": "887366892800921601",
+			"text": "Make America Eventually Get Something Done https://t.co/8ZjEEIxbPr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 887366874295435300,
+						"id_str": "887366874295435264",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DFCPeH_UAAAgPYB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFCPeH_UAAAgPYB.jpg",
+						"url": "https://t.co/8ZjEEIxbPr",
+						"display_url": "pic.twitter.com/8ZjEEIxbPr",
+						"expanded_url": "https://twitter.com/laurenduca/status/887366892800921601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887366874295435300,
+						"id_str": "887366874295435264",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DFCPeH_UAAAgPYB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFCPeH_UAAAgPYB.jpg",
+						"url": "https://t.co/8ZjEEIxbPr",
+						"display_url": "pic.twitter.com/8ZjEEIxbPr",
+						"expanded_url": "https://twitter.com/laurenduca/status/887366892800921601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 289342771,
+				"id_str": "289342771",
+				"name": "Lauren Duca",
+				"screen_name": "laurenduca",
+				"location": "New York, New York ",
+				"description": "Award-winning & -losing freelance journalist!!! Tweets are my own and do not reflect the views of Clay Aiken. lauren.duca@gmail.com",
+				"url": "https://t.co/lJ0z9h8A6v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lJ0z9h8A6v",
+								"expanded_url": "http://laurenduca.com",
+								"display_url": "laurenduca.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 263384,
+				"friends_count": 3679,
+				"listed_count": 2525,
+				"created_at": "Thu Apr 28 13:41:19 +0000 2011",
+				"favourites_count": 48450,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31330,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFC1EB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/369393021/original.0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/369393021/original.0.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886657845902663680/sUtys72U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886657845902663680/sUtys72U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/289342771/1495775137",
+				"profile_link_color": "4E00B3",
+				"profile_sidebar_border_color": "D8C1EB",
+				"profile_sidebar_fill_color": "EBDCF5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7190,
+			"favorite_count": 18480,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 18 20:31:47 +0000 2017",
 		"id": 887409589049729000,
 		"id_str": "887409589049729025",

@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 28 03:32:32 +0000 2017",
+		"id": 890776963521982500,
+		"id_str": "890776963521982465",
+		"text": "So much skinnier than 23 or 32 million. Bravo.\n\nMay the stench of GOP shenanigans stick in 2018 &amp; beyond. That's a… https://t.co/CtpkD6thda",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CtpkD6thda",
+					"expanded_url": "https://twitter.com/i/web/status/890776963521982465",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10258,
+			"friends_count": 1365,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 707,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 890771751113830400,
+		"quoted_status_id_str": "890771751113830401",
+		"quoted_status": {
+			"created_at": "Fri Jul 28 03:11:49 +0000 2017",
+			"id": 890771751113830400,
+			"id_str": "890771751113830401",
+			"text": "BREAKING: Congressional Budget Office says 16 million more uninsured would result from GOP's pared-down health care bill.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51241574,
+				"id_str": "51241574",
+				"name": "The Associated Press",
+				"screen_name": "AP",
+				"location": "Global",
+				"description": "News from The Associated Press, and a taste of the great journalism produced by AP members and customers. Managed 24/7 by these editors: https://t.co/D0hLCc7ShX",
+				"url": "https://t.co/48pFaJVRcr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/48pFaJVRcr",
+								"expanded_url": "https://apnews.com/",
+								"display_url": "apnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/D0hLCc7ShX",
+								"expanded_url": "http://apne.ws/APSocial",
+								"display_url": "apne.ws/APSocial",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11256233,
+				"friends_count": 7236,
+				"listed_count": 87718,
+				"created_at": "Fri Jun 26 21:48:52 +0000 2009",
+				"favourites_count": 363,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 182969,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/734506342/b3be603514207db70cb0a991c26f2718.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/734506342/b3be603514207db70cb0a991c26f2718.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1475250875",
+				"profile_link_color": "CC3300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5122,
+			"favorite_count": 3774,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 28 02:10:56 +0000 2017",
 		"id": 890756427475591200,
 		"id_str": "890756427475591169",

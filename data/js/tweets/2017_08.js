@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 17:14:23 +0000 2017",
+		"id": 900043485838884900,
+		"id_str": "900043485838884864",
+		"text": "RT @voicEdcanada: .@cogdog talking about #ds106 on VoicEd Radio Now \nListen here: https://t.co/xrKKkZKy7D",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xrKKkZKy7D",
+					"expanded_url": "http://voiced.out.airtime.pro:8000/voiced_a",
+					"display_url": "voiced.out.airtime.pro:8000/voiced_a",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10291,
+			"friends_count": 1401,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 708,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 17:07:22 +0000 2017",
+			"id": 900041718275375100,
+			"id_str": "900041718275375105",
+			"text": ".@cogdog talking about #ds106 on VoicEd Radio Now \nListen here: https://t.co/xrKKkZKy7D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ds106",
+						"indices": [
+							23,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							1,
+							8
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xrKKkZKy7D",
+						"expanded_url": "http://voiced.out.airtime.pro:8000/voiced_a",
+						"display_url": "voiced.out.airtime.pro:8000/voiced_a",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://airtime.pro\" rel=\"nofollow\">Airtime Pro</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 514144436,
+				"id_str": "514144436",
+				"name": "voicEd.ca",
+				"screen_name": "voicEdcanada",
+				"location": "All across Canada",
+				"description": "The official twitter account for voicEd.ca and voicEdRadio. Visit our website to find out how you can participate and to listen live",
+				"url": "http://t.co/9pRjfurES1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9pRjfurES1",
+								"expanded_url": "http://voicEd.ca",
+								"display_url": "voicEd.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 794,
+				"friends_count": 1795,
+				"listed_count": 28,
+				"created_at": "Sun Mar 04 09:25:33 +0000 2012",
+				"favourites_count": 541,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3987,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815177247720165376/8v7YXrvf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815177247720165376/8v7YXrvf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514144436/1485529449",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 22 15:21:42 +0000 2017",
 		"id": 900015126149046300,
 		"id_str": "900015126149046272",

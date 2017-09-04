@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 04 21:06:56 +0000 2017",
+		"id": 904813048661123100,
+		"id_str": "904813048661123073",
+		"text": "There is a Daily Create lurking here.. https://t.co/wi79YfGbSy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wi79YfGbSy",
+					"expanded_url": "https://twitter.com/openculture/status/904811560635441153",
+					"display_url": "twitter.com/openculture/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10293,
+			"friends_count": 1400,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 904811560635441200,
+		"quoted_status_id_str": "904811560635441153",
+		"quoted_status": {
+			"created_at": "Mon Sep 04 21:01:01 +0000 2017",
+			"id": 904811560635441200,
+			"id_str": "904811560635441153",
+			"text": "The Museum of Failure: A New Museum Showcases Harley-Davidson Perfume, Colgate Beef Lasagne &amp; Other Failed Products… https://t.co/IRpgHSgPA1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IRpgHSgPA1",
+						"expanded_url": "https://twitter.com/i/web/status/904811560635441153",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19826509,
+				"id_str": "19826509",
+				"name": "Open Culture",
+				"screen_name": "openculture",
+				"location": "Mountain View, CA",
+				"description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+				"url": "http://t.co/HVA1Vpy2Ba",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HVA1Vpy2Ba",
+								"expanded_url": "http://www.openculture.com",
+								"display_url": "openculture.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 367603,
+				"friends_count": 876,
+				"listed_count": 12831,
+				"created_at": "Sat Jan 31 19:01:34 +0000 2009",
+				"favourites_count": 78,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "86ACB7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+				"profile_link_color": "306885",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "F6F2E3",
+				"profile_text_color": "62625D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 04 21:05:41 +0000 2017",
+		"id": 904812735187230700,
+		"id_str": "904812735187230720",
+		"text": "@ronald_2008 https://t.co/kpLlTdO99q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ronald_2008",
+					"name": "Ronald_2008",
+					"id": 211458710,
+					"id_str": "211458710",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kpLlTdO99q",
+					"expanded_url": "https://github.com/cogdog/wp-bigpicture",
+					"display_url": "github.com/cogdog/wp-bigp…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 904812440357044200,
+		"in_reply_to_status_id_str": "904812440357044224",
+		"in_reply_to_user_id": 211458710,
+		"in_reply_to_user_id_str": "211458710",
+		"in_reply_to_screen_name": "ronald_2008",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10293,
+			"friends_count": 1400,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Sep 04 20:56:43 +0000 2017",
+		"id": 904810480182583300,
+		"id_str": "904810480182583296",
+		"text": "@jimgroom @brlamb @funnymonkey @noiseprofessor @lambchopone That Bava is the Colin Fletcher of this era (from actua… https://t.co/YvNLhSXVDq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "funnymonkey",
+					"name": "Bill Fitzgerald",
+					"id": 12127972,
+					"id_str": "12127972",
+					"indices": [
+						18,
+						30
+					]
+				},
+				{
+					"screen_name": "noiseprofessor",
+					"name": "Zack Dowell",
+					"id": 23041881,
+					"id_str": "23041881",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "lambchopone",
+					"name": "Harry Lamb",
+					"id": 3286674991,
+					"id_str": "3286674991",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YvNLhSXVDq",
+					"expanded_url": "https://twitter.com/i/web/status/904810480182583296",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 904803496498745300,
+		"in_reply_to_status_id_str": "904803496498745344",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10293,
+			"friends_count": 1400,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 04 19:52:25 +0000 2017",
 		"id": 904794298918420500,
 		"id_str": "904794298918420480",

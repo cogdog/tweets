@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 05:33:33 +0000 2017",
+		"id": 910013973252104200,
+		"id_str": "910013973252104192",
+		"text": "I'm pretty sure I can make out @JeffFlake and @SenJohnMcCain driving the truck. Dudes, jump! Vote No on… https://t.co/sz7mg72Oy4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffFlake",
+					"name": "Jeff Flake",
+					"id": 16056306,
+					"id_str": "16056306",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "SenJohnMcCain",
+					"name": "John McCain",
+					"id": 19394188,
+					"id_str": "19394188",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sz7mg72Oy4",
+					"expanded_url": "https://twitter.com/i/web/status/910013973252104192",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10312,
+			"friends_count": 1403,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81926,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 909842404932558800,
+		"quoted_status_id_str": "909842404932558849",
+		"quoted_status": {
+			"created_at": "Mon Sep 18 18:11:48 +0000 2017",
+			"id": 909842404932558800,
+			"id_str": "909842404932558849",
+			"text": "THREAD: A short primer on all the ways the #GrahamCassidyBill is an intellectual and moral garbage truck fire. https://t.co/X8IjLLay56",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GrahamCassidyBill",
+						"indices": [
+							43,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 909842383545573400,
+						"id_str": "909842383545573376",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DKBo08jUIAAENfx.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKBo08jUIAAENfx.jpg",
+						"url": "https://t.co/X8IjLLay56",
+						"display_url": "pic.twitter.com/X8IjLLay56",
+						"expanded_url": "https://twitter.com/ChrisMurphyCT/status/909842404932558849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 909842383545573400,
+						"id_str": "909842383545573376",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DKBo08jUIAAENfx.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKBo08jUIAAENfx.jpg",
+						"url": "https://t.co/X8IjLLay56",
+						"display_url": "pic.twitter.com/X8IjLLay56",
+						"expanded_url": "https://twitter.com/ChrisMurphyCT/status/909842404932558849/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DKBo08jUIAAENfx.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150078976,
+				"id_str": "150078976",
+				"name": "Chris Murphy",
+				"screen_name": "ChrisMurphyCT",
+				"location": "",
+				"description": "U.S. Senator, Connecticut.",
+				"url": "https://t.co/aLch41i9qJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aLch41i9qJ",
+								"expanded_url": "https://chrismurphy.com/",
+								"display_url": "chrismurphy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 372254,
+				"friends_count": 180,
+				"listed_count": 3733,
+				"created_at": "Mon May 31 01:22:43 +0000 2010",
+				"favourites_count": 881,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14766,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871076844904361985/7NorOQHB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150078976/1493845670",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2742,
+			"favorite_count": 3958,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 19 04:45:34 +0000 2017",
 		"id": 910001898152796200,
 		"id_str": "910001898152796160",

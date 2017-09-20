@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 20 22:16:29 +0000 2017",
+		"id": 910628758385713200,
+		"id_str": "910628758385713152",
+		"text": "That's @gsiemens in a blue suit, right? https://t.co/hRBOd2boHT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hRBOd2boHT",
+					"expanded_url": "https://twitter.com/GIPHY/status/910628388263596032",
+					"display_url": "twitter.com/GIPHY/status/9…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10318,
+			"friends_count": 1403,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 910628388263596000,
+		"quoted_status_id_str": "910628388263596032",
+		"quoted_status": {
+			"created_at": "Wed Sep 20 22:15:01 +0000 2017",
+			"id": 910628388263596000,
+			"id_str": "910628388263596032",
+			"text": "Every. Flight. Ever. https://t.co/Y9ESUWuHxL https://t.co/xjwRAOvgNi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Y9ESUWuHxL",
+						"expanded_url": "http://gph.is/11yWsGE",
+						"display_url": "gph.is/11yWsGE",
+						"indices": [
+							21,
+							44
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 910613000750456800,
+						"id_str": "910613000750456832",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DKMlsxWVYAAE58T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKMlsxWVYAAE58T.jpg",
+						"url": "https://t.co/xjwRAOvgNi",
+						"display_url": "pic.twitter.com/xjwRAOvgNi",
+						"expanded_url": "https://twitter.com/GIPHY/status/910628388263596032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 314,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 214,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 314,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 910613000750456800,
+						"id_str": "910613000750456832",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DKMlsxWVYAAE58T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKMlsxWVYAAE58T.jpg",
+						"url": "https://t.co/xjwRAOvgNi",
+						"display_url": "pic.twitter.com/xjwRAOvgNi",
+						"expanded_url": "https://twitter.com/GIPHY/status/910628388263596032/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 314,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 214,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 314,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								157
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DKMlsxWVYAAE58T.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1020383864,
+				"id_str": "1020383864",
+				"name": "GIPHY",
+				"screen_name": "GIPHY",
+				"location": "New York, NY",
+				"description": "Search, Share, and Make All The GIFs: https://t.co/VDQ2LVHG83",
+				"url": "http://t.co/CFrDx2ofpD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CFrDx2ofpD",
+								"expanded_url": "http://giphy.com",
+								"display_url": "giphy.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VDQ2LVHG83",
+								"expanded_url": "http://www.giphy.com/",
+								"display_url": "giphy.com",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 324387,
+				"friends_count": 1524,
+				"listed_count": 1335,
+				"created_at": "Tue Dec 18 18:33:45 +0000 2012",
+				"favourites_count": 17473,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24696,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168903681/QAGNj7mA.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168903681/QAGNj7mA.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699676239620083713/WCUM0RqH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699676239620083713/WCUM0RqH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020383864/1500323171",
+				"profile_link_color": "00CCFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 20 22:10:15 +0000 2017",
 		"id": 910627192245166100,
 		"id_str": "910627192245166080",

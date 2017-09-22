@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 22 02:11:48 +0000 2017",
+		"id": 911050365440712700,
+		"id_str": "911050365440712704",
+		"text": "That charter jet flies right over the drained swamp full of cheering coal miners? https://t.co/B15oHwAaoK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B15oHwAaoK",
+					"expanded_url": "https://twitter.com/ddiamond/status/910526102942167041",
+					"display_url": "twitter.com/ddiamond/statu…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10317,
+			"friends_count": 1404,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 711,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82001,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 910526102942167000,
+		"quoted_status_id_str": "910526102942167041",
+		"quoted_status": {
+			"created_at": "Wed Sep 20 15:28:34 +0000 2017",
+			"id": 910526102942167000,
+			"id_str": "910526102942167041",
+			"text": "THE PLANE — Here’s the 30-seat charter that Tom Price, Kellyanne Conway took for their ~$25,000 DC-Philly roundtrip… https://t.co/3wUsNgpfq5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3wUsNgpfq5",
+						"expanded_url": "https://twitter.com/i/web/status/910526102942167041",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": 910330515970052100,
+			"in_reply_to_status_id_str": "910330515970052103",
+			"in_reply_to_user_id": 16868756,
+			"in_reply_to_user_id_str": "16868756",
+			"in_reply_to_screen_name": "ddiamond",
+			"user": {
+				"id": 16868756,
+				"id_str": "16868756",
+				"name": "Dan Diamond",
+				"screen_name": "ddiamond",
+				"location": "Washington, D.C.",
+				"description": "I write @POLITICO Pulse — the morning briefing on health care politics and policy — and host the PULSE CHECK podcast. Got tips? DM me for Signal.",
+				"url": "https://t.co/7QYKGBnpyX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7QYKGBnpyX",
+								"expanded_url": "http://www.politico.com/politicopulse",
+								"display_url": "politico.com/politicopulse",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 85184,
+				"friends_count": 897,
+				"listed_count": 2326,
+				"created_at": "Mon Oct 20 15:24:07 +0000 2008",
+				"favourites_count": 38814,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44906,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16868756/1398374401",
+				"profile_link_color": "0213CF",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2208,
+			"favorite_count": 1886,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 22 02:10:30 +0000 2017",
+		"id": 911050040650620900,
+		"id_str": "911050040650620928",
+		"text": "@ddiamond They can get $300 tickets on Jet Blue. Does the charter jet fly over the drained swamp? https://t.co/OvixM8izaK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddiamond",
+					"name": "Dan Diamond",
+					"id": 16868756,
+					"id_str": "16868756",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 911050031712452600,
+					"id_str": "911050031712452608",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DKSzLUjUQAAKUUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKSzLUjUQAAKUUs.jpg",
+					"url": "https://t.co/OvixM8izaK",
+					"display_url": "pic.twitter.com/OvixM8izaK",
+					"expanded_url": "https://twitter.com/cogdog/status/911050040650620928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2022,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 911050031712452600,
+					"id_str": "911050031712452608",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DKSzLUjUQAAKUUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKSzLUjUQAAKUUs.jpg",
+					"url": "https://t.co/OvixM8izaK",
+					"display_url": "pic.twitter.com/OvixM8izaK",
+					"expanded_url": "https://twitter.com/cogdog/status/911050040650620928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2022,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 910526102942167000,
+		"in_reply_to_status_id_str": "910526102942167041",
+		"in_reply_to_user_id": 16868756,
+		"in_reply_to_user_id_str": "16868756",
+		"in_reply_to_screen_name": "ddiamond",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10317,
+			"friends_count": 1404,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 711,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82001,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 22 01:11:50 +0000 2017",
 		"id": 911035274225782800,
 		"id_str": "911035274225782784",

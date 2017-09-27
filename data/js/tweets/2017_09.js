@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 27 05:57:01 +0000 2017",
+		"id": 912918984168788000,
+		"id_str": "912918984168787969",
+		"text": "RT @edwebb: RT @ali_naka The person who did this must report to my office https://t.co/kfJ1Xfhfd9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edwebb",
+					"name": "Ed Webb",
+					"id": 15810854,
+					"id_str": "15810854",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "ali_naka",
+					"name": "African",
+					"id": 338004749,
+					"id_str": "338004749",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 912745241106698200,
+					"id_str": "912745241106698240",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+					"url": "https://t.co/kfJ1Xfhfd9",
+					"display_url": "pic.twitter.com/kfJ1Xfhfd9",
+					"expanded_url": "https://twitter.com/ali_naka/status/912745255736414209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 912745255736414200,
+					"source_status_id_str": "912745255736414209",
+					"source_user_id": 338004749,
+					"source_user_id_str": "338004749"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 912745241106698200,
+					"id_str": "912745241106698240",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+					"url": "https://t.co/kfJ1Xfhfd9",
+					"display_url": "pic.twitter.com/kfJ1Xfhfd9",
+					"expanded_url": "https://twitter.com/ali_naka/status/912745255736414209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 912745255736414200,
+					"source_status_id_str": "912745255736414209",
+					"source_user_id": 338004749,
+					"source_user_id_str": "338004749"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10316,
+			"friends_count": 1404,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 712,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82083,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 27 05:29:39 +0000 2017",
+			"id": 912912096408539100,
+			"id_str": "912912096408539137",
+			"text": "RT @ali_naka The person who did this must report to my office https://t.co/kfJ1Xfhfd9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ali_naka",
+						"name": "African",
+						"id": 338004749,
+						"id_str": "338004749",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 912745241106698200,
+						"id_str": "912745241106698240",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+						"url": "https://t.co/kfJ1Xfhfd9",
+						"display_url": "pic.twitter.com/kfJ1Xfhfd9",
+						"expanded_url": "https://twitter.com/ali_naka/status/912745255736414209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 912745255736414200,
+						"source_status_id_str": "912745255736414209",
+						"source_user_id": 338004749,
+						"source_user_id_str": "338004749"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 912745241106698200,
+						"id_str": "912745241106698240",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKq49fqX0AASraF.jpg",
+						"url": "https://t.co/kfJ1Xfhfd9",
+						"display_url": "pic.twitter.com/kfJ1Xfhfd9",
+						"expanded_url": "https://twitter.com/ali_naka/status/912745255736414209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 912745255736414200,
+						"source_status_id_str": "912745255736414209",
+						"source_user_id": 338004749,
+						"source_user_id_str": "338004749"
+					}
+				]
+			},
+			"source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15810854,
+				"id_str": "15810854",
+				"name": "Ed Webb",
+				"screen_name": "edwebb",
+				"location": "PA, USA",
+				"description": "Educator, learner, Middle East politics specialist. Routinely fails Rorschach test. RTs not endorsements.",
+				"url": "http://t.co/zsFUv3H9lK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zsFUv3H9lK",
+								"expanded_url": "http://about.me/edwebb",
+								"display_url": "about.me/edwebb",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3340,
+				"friends_count": 2710,
+				"listed_count": 285,
+				"created_at": "Mon Aug 11 17:41:11 +0000 2008",
+				"favourites_count": 4205,
+				"utc_offset": -18000,
+				"time_zone": "Bogota",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 126984,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E2E3E4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453212589/twilk_background_4f67c7095738f.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453212589/twilk_background_4f67c7095738f.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839826470813908992/L2gB-q25_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839826470813908992/L2gB-q25_normal.jpg",
+				"profile_link_color": "7B9CA7",
+				"profile_sidebar_border_color": "B4E4DE",
+				"profile_sidebar_fill_color": "ACAEA7",
+				"profile_text_color": "532727",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 27 05:16:40 +0000 2017",
+		"id": 912908830773776400,
+		"id_str": "912908830773776384",
+		"text": "All Hat, No Congress https://t.co/dvLux4o9L6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 912908664687796200,
+					"id_str": "912908664687796226",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DKtNl_8XoAICyum.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKtNl_8XoAICyum.jpg",
+					"url": "https://t.co/dvLux4o9L6",
+					"display_url": "pic.twitter.com/dvLux4o9L6",
+					"expanded_url": "https://twitter.com/cogdog/status/912908830773776384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 912908664687796200,
+					"id_str": "912908664687796226",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DKtNl_8XoAICyum.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKtNl_8XoAICyum.jpg",
+					"url": "https://t.co/dvLux4o9L6",
+					"display_url": "pic.twitter.com/dvLux4o9L6",
+					"expanded_url": "https://twitter.com/cogdog/status/912908830773776384/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DKtNl_8XoAICyum.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10316,
+			"friends_count": 1404,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 712,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82083,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 27 04:42:50 +0000 2017",
 		"id": 912900313228693500,
 		"id_str": "912900313228693505",

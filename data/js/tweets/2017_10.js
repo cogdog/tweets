@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 01 17:22:17 +0000 2017",
+		"id": 914540986956521500,
+		"id_str": "914540986956521472",
+		"text": "RT @BeschlossDC: Jimmy Carter, second oldest living former President of the United States, is 93 today:         #Getty https://t.co/vGkTf4T…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Getty",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeschlossDC",
+					"name": "Michael Beschloss",
+					"id": 874916178,
+					"id_str": "874916178",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10322,
+			"friends_count": 1405,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 712,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 01 13:43:26 +0000 2017",
+			"id": 914485914126217200,
+			"id_str": "914485914126217216",
+			"text": "Jimmy Carter, second oldest living former President of the United States, is 93 today:         #Getty https://t.co/vGkTf4TmkW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Getty",
+						"indices": [
+							95,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 914485883809779700,
+						"id_str": "914485883809779712",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DLDoEPCXUAA0uXS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLDoEPCXUAA0uXS.jpg",
+						"url": "https://t.co/vGkTf4TmkW",
+						"display_url": "pic.twitter.com/vGkTf4TmkW",
+						"expanded_url": "https://twitter.com/BeschlossDC/status/914485914126217216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 850,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1450,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 914485883809779700,
+						"id_str": "914485883809779712",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DLDoEPCXUAA0uXS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLDoEPCXUAA0uXS.jpg",
+						"url": "https://t.co/vGkTf4TmkW",
+						"display_url": "pic.twitter.com/vGkTf4TmkW",
+						"expanded_url": "https://twitter.com/BeschlossDC/status/914485914126217216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 850,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1450,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874916178,
+				"id_str": "874916178",
+				"name": "Michael Beschloss",
+				"screen_name": "BeschlossDC",
+				"location": "@NewsHour about my Twitter:  ",
+				"description": "Presidential historian. Nine books. @NBCNews Presidential Historian. Contributor, PBS @NewsHour. Born Chicago. Williams College.",
+				"url": "https://t.co/G8iqcw1BnB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G8iqcw1BnB",
+								"expanded_url": "http://youtube.com/watch?v=12HlO6-urY4",
+								"display_url": "youtube.com/watch?v=12HlO6…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251402,
+				"friends_count": 2024,
+				"listed_count": 4028,
+				"created_at": "Fri Oct 12 04:25:45 +0000 2012",
+				"favourites_count": 3914,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10666,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810916034253385728/A3XUGGZu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810916034253385728/A3XUGGZu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/874916178/1489235227",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1441,
+			"favorite_count": 4385,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1441,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 01 17:07:30 +0000 2017",
 		"id": 914537266629853200,
 		"id_str": "914537266629853184",

@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 08 18:55:34 +0000 2017",
+		"id": 917101179426938900,
+		"id_str": "917101179426938880",
+		"text": "RT @NurseKillam: I am so happy @cambriancollege chose me for @ontarioextend &amp; I learned about #OER @eCampusOntario &amp; got back to blogging &amp;…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NurseKillam",
+					"name": "Laura Killam",
+					"id": 268432639,
+					"id_str": "268432639",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "cambriancollege",
+					"name": "Cambrian College",
+					"id": 202667107,
+					"id_str": "202667107",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10327,
+			"friends_count": 1410,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 18:14:45 +0000 2017",
+			"id": 917090904556654600,
+			"id_str": "917090904556654593",
+			"text": "I am so happy @cambriancollege chose me for @ontarioextend &amp; I learned about #OER @eCampusOntario &amp; got back to blogging &amp; #PLN via #twitter",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER",
+						"indices": [
+							81,
+							85
+						]
+					},
+					{
+						"text": "PLN",
+						"indices": [
+							135,
+							139
+						]
+					},
+					{
+						"text": "twitter",
+						"indices": [
+							144,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cambriancollege",
+						"name": "Cambrian College",
+						"id": 202667107,
+						"id_str": "202667107",
+						"indices": [
+							14,
+							30
+						]
+					},
+					{
+						"screen_name": "ontarioextend",
+						"name": "OntarioExtend",
+						"id": 885339669457776600,
+						"id_str": "885339669457776641",
+						"indices": [
+							44,
+							58
+						]
+					},
+					{
+						"screen_name": "eCampusOntario",
+						"name": "eCampusOntario",
+						"id": 3429881050,
+						"id_str": "3429881050",
+						"indices": [
+							86,
+							101
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 268432639,
+				"id_str": "268432639",
+				"name": "Laura Killam",
+				"screen_name": "NurseKillam",
+				"location": "Canada",
+				"description": "BScN, RN, MScN.\r\nProfessor. Researcher. Innovator. YouTube Video Creator. Opinions are my own. https://t.co/c0L1zx6HL3…",
+				"url": "https://t.co/1hi1HZjt7x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1hi1HZjt7x",
+								"expanded_url": "http://www.youtube.com/user/NurseKillam?feature=mhee",
+								"display_url": "youtube.com/user/NurseKill…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/c0L1zx6HL3",
+								"expanded_url": "http://youtube.com/NurseKill",
+								"display_url": "youtube.com/NurseKill",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 216,
+				"friends_count": 98,
+				"listed_count": 7,
+				"created_at": "Fri Mar 18 19:23:04 +0000 2011",
+				"favourites_count": 341,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 934,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3084262539/3b71243c48ad529f5b0015ed551b0b49_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3084262539/3b71243c48ad529f5b0015ed551b0b49_normal.jpeg",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 08 16:27:45 +0000 2017",
 		"id": 917063979184226300,
 		"id_str": "917063979184226309",

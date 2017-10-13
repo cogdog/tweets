@@ -1,6 +1,947 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 13 23:04:55 +0000 2017",
+		"id": 918975866729775100,
+		"id_str": "918975866729775106",
+		"text": "@greeneterry @livingkatstone @NurseKillam @ken_bauer @verenanz @ontarioextend what about paw tweets? https://t.co/KVWqw5O6x4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "👻 Scary Greene 👻",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "livingkatstone",
+					"name": "peg french",
+					"id": 9353512,
+					"id_str": "9353512",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "NurseKillam",
+					"name": "Laura Killam",
+					"id": 268432639,
+					"id_str": "268432639",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 918975862812287000,
+					"id_str": "918975862812286977",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DMDbraQVoAEovYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMDbraQVoAEovYJ.jpg",
+					"url": "https://t.co/KVWqw5O6x4",
+					"display_url": "pic.twitter.com/KVWqw5O6x4",
+					"expanded_url": "https://twitter.com/cogdog/status/918975866729775106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918975862812287000,
+					"id_str": "918975862812286977",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DMDbraQVoAEovYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMDbraQVoAEovYJ.jpg",
+					"url": "https://t.co/KVWqw5O6x4",
+					"display_url": "pic.twitter.com/KVWqw5O6x4",
+					"expanded_url": "https://twitter.com/cogdog/status/918975866729775106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 918971979918590000,
+		"in_reply_to_status_id_str": "918971979918589952",
+		"in_reply_to_user_id": 212019344,
+		"in_reply_to_user_id_str": "212019344",
+		"in_reply_to_screen_name": "greeneterry",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10339,
+			"friends_count": 1413,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 13 23:02:45 +0000 2017",
+		"id": 918975322204147700,
+		"id_str": "918975322204147714",
+		"text": "Back in PirateBox business. Now to rebrand it as the StoryBox https://t.co/JQbU3Gzlsv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 918975320396410900,
+					"id_str": "918975320396410880",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DMDbL1mUMAAFGxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMDbL1mUMAAFGxF.jpg",
+					"url": "https://t.co/JQbU3Gzlsv",
+					"display_url": "pic.twitter.com/JQbU3Gzlsv",
+					"expanded_url": "https://twitter.com/cogdog/status/918975322204147714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918975320396410900,
+					"id_str": "918975320396410880",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DMDbL1mUMAAFGxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMDbL1mUMAAFGxF.jpg",
+					"url": "https://t.co/JQbU3Gzlsv",
+					"display_url": "pic.twitter.com/JQbU3Gzlsv",
+					"expanded_url": "https://twitter.com/cogdog/status/918975322204147714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10339,
+			"friends_count": 1413,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 13 22:40:03 +0000 2017",
+		"id": 918969610178781200,
+		"id_str": "918969610178781184",
+		"text": "This is great, hey @RissaCandiloro  literature &amp; maps.\n\nAlso, one sort of simply does walk into Mordor… https://t.co/loDBMMEELO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RissaCandiloro",
+					"name": "Rissa Candiloro",
+					"id": 821866296493178900,
+					"id_str": "821866296493178880",
+					"indices": [
+						19,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/loDBMMEELO",
+					"expanded_url": "https://twitter.com/i/web/status/918969610178781184",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10339,
+			"friends_count": 1413,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 918967093588086800,
+		"quoted_status_id_str": "918967093588086784",
+		"quoted_status": {
+			"created_at": "Fri Oct 13 22:30:03 +0000 2017",
+			"id": 918967093588086800,
+			"id_str": "918967093588086784",
+			"text": "How far Frodo and Sam walked compared to real geography #geographyteacher : https://t.co/JEz40Em3DM https://t.co/FSzIKjKgTn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "geographyteacher",
+						"indices": [
+							56,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JEz40Em3DM",
+						"expanded_url": "http://flowingdata.com/2015/05/22/how-far-frodo-and-sam-walked-compared-to-real-geography/",
+						"display_url": "flowingdata.com/2015/05/22/how…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 918967090614362100,
+						"id_str": "918967090614362113",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DMDTszRX4AEfFd1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMDTszRX4AEfFd1.jpg",
+						"url": "https://t.co/FSzIKjKgTn",
+						"display_url": "pic.twitter.com/FSzIKjKgTn",
+						"expanded_url": "https://twitter.com/russeltarr/status/918967093588086784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 620,
+								"h": 251,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 251,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 251,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 918967090614362100,
+						"id_str": "918967090614362113",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DMDTszRX4AEfFd1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMDTszRX4AEfFd1.jpg",
+						"url": "https://t.co/FSzIKjKgTn",
+						"display_url": "pic.twitter.com/FSzIKjKgTn",
+						"expanded_url": "https://twitter.com/russeltarr/status/918967093588086784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 620,
+								"h": 251,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 251,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 251,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.classtools.net\" rel=\"nofollow\">russeltweets</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16912160,
+				"id_str": "16912160",
+				"name": "Russel Tarr",
+				"screen_name": "russeltarr",
+				"location": "Toulouse, France",
+				"description": "'A History Teaching Toolbox' out NOW (https://t.co/VWaUweWE7K). 'Mr. Men' Teacher, speaker, creator of @activehistory/@classtools/@pedagogies",
+				"url": "http://t.co/bI2pQ5pA8y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bI2pQ5pA8y",
+								"expanded_url": "http://www.activehistory.co.uk",
+								"display_url": "activehistory.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VWaUweWE7K",
+								"expanded_url": "http://www.activehistory.co.uk/book",
+								"display_url": "activehistory.co.uk/book",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26571,
+				"friends_count": 16866,
+				"listed_count": 1399,
+				"created_at": "Wed Oct 22 20:27:41 +0000 2008",
+				"favourites_count": 2679,
+				"utc_offset": 7200,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43976,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3865404/twit.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3865404/twit.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/777558552621752324/RP29Nlsc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/777558552621752324/RP29Nlsc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16912160/1507920147",
+				"profile_link_color": "001AB4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "F4E91A",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 13 22:17:28 +0000 2017",
+		"id": 918963926146072600,
+		"id_str": "918963926146072576",
+		"text": "Postcards for Puerto Rico #care4sagrado #inf115 #inf103 https://t.co/kroH5SetKI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "care4sagrado",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"text": "inf115",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "inf103",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 918963924342472700,
+					"id_str": "918963924342472705",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DMDQ0f_VAAEnHnu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMDQ0f_VAAEnHnu.jpg",
+					"url": "https://t.co/kroH5SetKI",
+					"display_url": "pic.twitter.com/kroH5SetKI",
+					"expanded_url": "https://twitter.com/cogdog/status/918963926146072576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918963924342472700,
+					"id_str": "918963924342472705",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DMDQ0f_VAAEnHnu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMDQ0f_VAAEnHnu.jpg",
+					"url": "https://t.co/kroH5SetKI",
+					"display_url": "pic.twitter.com/kroH5SetKI",
+					"expanded_url": "https://twitter.com/cogdog/status/918963926146072576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10339,
+			"friends_count": 1413,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 716,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
 		"created_at": "Fri Oct 13 22:10:21 +0000 2017",
 		"id": 918962138563076100,
 		"id_str": "918962138563076097",

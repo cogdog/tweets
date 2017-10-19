@@ -1,6 +1,787 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 19 21:08:31 +0000 2017",
+		"id": 921120901319368700,
+		"id_str": "921120901319368704",
+		"text": "RT @stryii: Thesis Tank is happening 🦈 #resnetsem https://t.co/W49yBGu5lZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "resnetsem",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stryii",
+					"name": "hailey",
+					"id": 124246957,
+					"id_str": "124246957",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921113465590128600,
+					"id_str": "921113465590128640",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+					"url": "https://t.co/W49yBGu5lZ",
+					"display_url": "pic.twitter.com/W49yBGu5lZ",
+					"expanded_url": "https://twitter.com/stryii/status/921113474654228480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1977,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921113474654228500,
+					"source_status_id_str": "921113474654228480",
+					"source_user_id": 124246957,
+					"source_user_id_str": "124246957"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921113465590128600,
+					"id_str": "921113465590128640",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+					"url": "https://t.co/W49yBGu5lZ",
+					"display_url": "pic.twitter.com/W49yBGu5lZ",
+					"expanded_url": "https://twitter.com/stryii/status/921113474654228480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1977,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921113474654228500,
+					"source_status_id_str": "921113474654228480",
+					"source_user_id": 124246957,
+					"source_user_id_str": "124246957"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10345,
+			"friends_count": 1414,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 718,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 20:39:00 +0000 2017",
+			"id": 921113474654228500,
+			"id_str": "921113474654228480",
+			"text": "Thesis Tank is happening 🦈 #resnetsem https://t.co/W49yBGu5lZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "resnetsem",
+						"indices": [
+							27,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921113465590128600,
+						"id_str": "921113465590128640",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+						"url": "https://t.co/W49yBGu5lZ",
+						"display_url": "pic.twitter.com/W49yBGu5lZ",
+						"expanded_url": "https://twitter.com/stryii/status/921113474654228480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1977,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921113465590128600,
+						"id_str": "921113465590128640",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMhz0RJUIAAZiXz.jpg",
+						"url": "https://t.co/W49yBGu5lZ",
+						"display_url": "pic.twitter.com/W49yBGu5lZ",
+						"expanded_url": "https://twitter.com/stryii/status/921113474654228480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1977,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124246957,
+				"id_str": "124246957",
+				"name": "hailey",
+				"screen_name": "stryii",
+				"location": "South Plainfield, NJ",
+				"description": "only bianca del rio can judge me",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75,
+				"friends_count": 192,
+				"listed_count": 4,
+				"created_at": "Thu Mar 18 19:17:48 +0000 2010",
+				"favourites_count": 3864,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 650,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897505322893545477/6u-PMTKP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897505322893545477/6u-PMTKP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124246957/1486502950",
+				"profile_link_color": "754A8A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 21:08:22 +0000 2017",
+		"id": 921120867194609700,
+		"id_str": "921120867194609665",
+		"text": "RT @stryii: Preparing for the Tank for #resnetsem .... @cogdog @MiaZamoraPhD https://t.co/SsT43LWbuH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "resnetsem",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stryii",
+					"name": "hailey",
+					"id": 124246957,
+					"id_str": "124246957",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine ☠",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						63,
+						76
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921112859018326000,
+					"id_str": "921112859018326016",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+					"url": "https://t.co/SsT43LWbuH",
+					"display_url": "pic.twitter.com/SsT43LWbuH",
+					"expanded_url": "https://twitter.com/stryii/status/921112868749275138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921112868749275100,
+					"source_status_id_str": "921112868749275138",
+					"source_user_id": 124246957,
+					"source_user_id_str": "124246957"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921112859018326000,
+					"id_str": "921112859018326016",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+					"url": "https://t.co/SsT43LWbuH",
+					"display_url": "pic.twitter.com/SsT43LWbuH",
+					"expanded_url": "https://twitter.com/stryii/status/921112868749275138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921112868749275100,
+					"source_status_id_str": "921112868749275138",
+					"source_user_id": 124246957,
+					"source_user_id_str": "124246957"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10345,
+			"friends_count": 1414,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 718,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 20:36:36 +0000 2017",
+			"id": 921112868749275100,
+			"id_str": "921112868749275138",
+			"text": "Preparing for the Tank for #resnetsem .... @cogdog @MiaZamoraPhD https://t.co/SsT43LWbuH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "resnetsem",
+						"indices": [
+							27,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine ☠",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							43,
+							50
+						]
+					},
+					{
+						"screen_name": "MiaZamoraPhD",
+						"name": "Mia Zamora",
+						"id": 579873574,
+						"id_str": "579873574",
+						"indices": [
+							51,
+							64
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 921112859018326000,
+						"id_str": "921112859018326016",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+						"url": "https://t.co/SsT43LWbuH",
+						"display_url": "pic.twitter.com/SsT43LWbuH",
+						"expanded_url": "https://twitter.com/stryii/status/921112868749275138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921112859018326000,
+						"id_str": "921112859018326016",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMhzQ9fU8AA34QU.jpg",
+						"url": "https://t.co/SsT43LWbuH",
+						"display_url": "pic.twitter.com/SsT43LWbuH",
+						"expanded_url": "https://twitter.com/stryii/status/921112868749275138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124246957,
+				"id_str": "124246957",
+				"name": "hailey",
+				"screen_name": "stryii",
+				"location": "South Plainfield, NJ",
+				"description": "only bianca del rio can judge me",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75,
+				"friends_count": 192,
+				"listed_count": 4,
+				"created_at": "Thu Mar 18 19:17:48 +0000 2010",
+				"favourites_count": 3864,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 650,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897505322893545477/6u-PMTKP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897505322893545477/6u-PMTKP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124246957/1486502950",
+				"profile_link_color": "754A8A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 19 20:10:01 +0000 2017",
 		"id": 921106181640273900,
 		"id_str": "921106181640273920",

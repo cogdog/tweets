@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 21 18:55:13 +0000 2017",
+		"id": 921812131749576700,
+		"id_str": "921812131749576704",
+		"text": "I must agree! Taco Cat will be by favorite palindrome too. #ds106 https://t.co/p89DqEHlP9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p89DqEHlP9",
+					"expanded_url": "https://twitter.com/mrsstolen/status/921781834110906368",
+					"display_url": "twitter.com/mrsstolen/stat…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10348,
+			"friends_count": 1414,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 720,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 921781834110906400,
+		"quoted_status_id_str": "921781834110906368",
+		"quoted_status": {
+			"created_at": "Sat Oct 21 16:54:49 +0000 2017",
+			"id": 921781834110906400,
+			"id_str": "921781834110906368",
+			"text": "Taco cat will forever be the best palindrome. Dexter disagrees obviously. #tacocat #ds106 #diglitclass #tdc2112 https://t.co/MvfRx4yQ2o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tacocat",
+						"indices": [
+							74,
+							82
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							83,
+							89
+						]
+					},
+					{
+						"text": "diglitclass",
+						"indices": [
+							90,
+							102
+						]
+					},
+					{
+						"text": "tdc2112",
+						"indices": [
+							103,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921781824799379500,
+						"id_str": "921781824799379456",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DMrTr5OUEAAc1dG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMrTr5OUEAAc1dG.jpg",
+						"url": "https://t.co/MvfRx4yQ2o",
+						"display_url": "pic.twitter.com/MvfRx4yQ2o",
+						"expanded_url": "https://twitter.com/mrsstolen/status/921781834110906368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921781824799379500,
+						"id_str": "921781824799379456",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DMrTr5OUEAAc1dG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMrTr5OUEAAc1dG.jpg",
+						"url": "https://t.co/MvfRx4yQ2o",
+						"display_url": "pic.twitter.com/MvfRx4yQ2o",
+						"expanded_url": "https://twitter.com/mrsstolen/status/921781834110906368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 899784607771508700,
+				"id_str": "899784607771508736",
+				"name": "Whitney Stolen",
+				"screen_name": "mrsstolen",
+				"location": "Nebraska, USA",
+				"description": "Para-educator, College Student, Awesome Aunt. I love to learn new things, sew, Netflix binge, and decorate. I hate folding laundry.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58,
+				"friends_count": 164,
+				"listed_count": 1,
+				"created_at": "Tue Aug 22 00:05:42 +0000 2017",
+				"favourites_count": 105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 267,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899787262811979777/8-Z8_mx2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899787262811979777/8-Z8_mx2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/899784607771508736/1503360996",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 21 15:46:45 +0000 2017",
 		"id": 921764702073495600,
 		"id_str": "921764702073495552",

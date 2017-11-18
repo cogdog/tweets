@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 18 00:55:20 +0000 2017",
+		"id": 931687229218418700,
+		"id_str": "931687229218418688",
+		"text": "@thatbrewery look what is going out for a ride in South Australia! https://t.co/tRChuYV0TP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThatBrewery",
+					"name": "THAT Brewing Company",
+					"id": 459818541,
+					"id_str": "459818541",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tRChuYV0TP",
+					"expanded_url": "https://twitter.com/mikecogh/status/931387531119157251",
+					"display_url": "twitter.com/mikecogh/statu…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 459818541,
+		"in_reply_to_user_id_str": "459818541",
+		"in_reply_to_screen_name": "ThatBrewery",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10379,
+			"friends_count": 1423,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 724,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 931387531119157200,
+		"quoted_status_id_str": "931387531119157251",
+		"quoted_status": {
+			"created_at": "Fri Nov 17 05:04:26 +0000 2017",
+			"id": 931387531119157200,
+			"id_str": "931387531119157251",
+			"text": "#sawthatbeer @thatbrewery https://t.co/FLwruOuP3d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sawthatbeer",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThatBrewery",
+						"name": "THAT Brewing Company",
+						"id": 459818541,
+						"id_str": "459818541",
+						"indices": [
+							13,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 931387510147637200,
+						"id_str": "931387510147637248",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DOz0AXqV4AATwO6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOz0AXqV4AATwO6.jpg",
+						"url": "https://t.co/FLwruOuP3d",
+						"display_url": "pic.twitter.com/FLwruOuP3d",
+						"expanded_url": "https://twitter.com/mikecogh/status/931387531119157251/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931387510147637200,
+						"id_str": "931387510147637248",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DOz0AXqV4AATwO6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOz0AXqV4AATwO6.jpg",
+						"url": "https://t.co/FLwruOuP3d",
+						"display_url": "pic.twitter.com/FLwruOuP3d",
+						"expanded_url": "https://twitter.com/mikecogh/status/931387531119157251/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8559702,
+				"id_str": "8559702",
+				"name": "mikecogh",
+				"screen_name": "mikecogh",
+				"location": "Adelaide",
+				"description": "eLearning Educator",
+				"url": "http://t.co/WjxVe4qiRD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WjxVe4qiRD",
+								"expanded_url": "http://about.me/mikecogh",
+								"display_url": "about.me/mikecogh",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1143,
+				"friends_count": 726,
+				"listed_count": 78,
+				"created_at": "Fri Aug 31 14:54:40 +0000 2007",
+				"favourites_count": 5,
+				"utc_offset": 37800,
+				"time_zone": "Adelaide",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2969,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/23373812/mc_oct03_sm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/23373812/mc_oct03_sm_normal.jpg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 17 23:10:10 +0000 2017",
 		"id": 931660763508367400,
 		"id_str": "931660763508367361",

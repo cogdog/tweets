@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 20 08:32:37 +0000 2017",
+		"id": 932527086333444100,
+		"id_str": "932527086333444096",
+		"text": "The ground has been stained the color  Pantone 16-1449 Gold Flame https://t.co/XOUxogGP7H https://t.co/ts1nLwcdJb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XOUxogGP7H",
+					"expanded_url": "https://www.fastcodesign.com/3063462/what-pantone-color-is-donald-trump",
+					"display_url": "fastcodesign.com/3063462/what-p…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/ts1nLwcdJb",
+					"expanded_url": "https://twitter.com/CBCNews/status/932435833814241281",
+					"display_url": "twitter.com/CBCNews/status…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10378,
+			"friends_count": 1423,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 726,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82973,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 932435833814241300,
+		"quoted_status_id_str": "932435833814241281",
+		"quoted_status": {
+			"created_at": "Mon Nov 20 02:30:01 +0000 2017",
+			"id": 932435833814241300,
+			"id_str": "932435833814241281",
+			"text": "TransCanada sends more crews to South Dakota's Keystone pipeline leak https://t.co/fTHwz30DaA https://t.co/tAGPJppXVd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fTHwz30DaA",
+						"expanded_url": "http://www.cbc.ca/1.4409464",
+						"display_url": "cbc.ca/1.4409464",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 932435831641456600,
+						"id_str": "932435831641456640",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DPCtctjVwAArqAS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPCtctjVwAArqAS.jpg",
+						"url": "https://t.co/tAGPJppXVd",
+						"display_url": "pic.twitter.com/tAGPJppXVd",
+						"expanded_url": "https://twitter.com/CBCNews/status/932435833814241281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1180,
+								"h": 664,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 664,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 932435831641456600,
+						"id_str": "932435831641456640",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DPCtctjVwAArqAS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPCtctjVwAArqAS.jpg",
+						"url": "https://t.co/tAGPJppXVd",
+						"display_url": "pic.twitter.com/tAGPJppXVd",
+						"expanded_url": "https://twitter.com/CBCNews/status/932435833814241281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1180,
+								"h": 664,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 664,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6433472,
+				"id_str": "6433472",
+				"name": "CBC News",
+				"screen_name": "CBCNews",
+				"location": "Canada",
+				"description": "Canadian breaking news and analysis from CBCNews.ca, TV and radio.",
+				"url": "http://t.co/ZLZObOnET1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZLZObOnET1",
+								"expanded_url": "http://www.cbc.ca/news/",
+								"display_url": "cbc.ca/news/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2481550,
+				"friends_count": 2701,
+				"listed_count": 13850,
+				"created_at": "Wed May 30 05:20:39 +0000 2007",
+				"favourites_count": 5742,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 185566,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/167724092/cbcnews_twitter_pg-yellow.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892416234771275777/23LkpO-n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892416234771275777/23LkpO-n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 20 07:13:15 +0000 2017",
 		"id": 932507114752188400,
 		"id_str": "932507114752188417",

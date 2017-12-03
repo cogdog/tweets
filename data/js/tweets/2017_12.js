@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 03 05:13:15 +0000 2017",
+		"id": 937187955893985300,
+		"id_str": "937187955893985280",
+		"text": "Heck if we knew it was so cheap to buy Senators, we could have arranged a bake sale. https://t.co/pZmwVQyGrU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pZmwVQyGrU",
+					"expanded_url": "https://twitter.com/charles_gaba/status/937174082348609536",
+					"display_url": "twitter.com/charles_gaba/s…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10388,
+			"friends_count": 1425,
+			"listed_count": 781,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 727,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83153,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 937174082348609500,
+		"quoted_status_id_str": "937174082348609536",
+		"quoted_status": {
+			"created_at": "Sun Dec 03 04:18:07 +0000 2017",
+			"id": 937174082348609500,
+			"id_str": "937174082348609536",
+			"text": "So @SenatorCollins sold out for bills which won’t help much and aren’t gonna happen anyway.\n@jeffflake sold out for… https://t.co/DU0GxHkiWl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SenatorCollins",
+						"name": "Sen. Susan Collins",
+						"id": 19726613,
+						"id_str": "19726613",
+						"indices": [
+							3,
+							18
+						]
+					},
+					{
+						"screen_name": "JeffFlake",
+						"name": "Jeff Flake",
+						"id": 16056306,
+						"id_str": "16056306",
+						"indices": [
+							92,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DU0GxHkiWl",
+						"expanded_url": "https://twitter.com/i/web/status/937174082348609536",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25911963,
+				"id_str": "25911963",
+				"name": "Charles GetCoveredBa",
+				"screen_name": "charles_gaba",
+				"location": "Bloomfield Township, MI",
+				"description": "Healthcare analyst at https://t.co/E2uQBKy14b. Website developer at https://t.co/VJgARxWKQ2. Support my work at https://t.co/BB0uxt0qHl",
+				"url": "https://t.co/jheWZfCvek",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jheWZfCvek",
+								"expanded_url": "http://www.acasignups.net",
+								"display_url": "acasignups.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/E2uQBKy14b",
+								"expanded_url": "http://ACASignups.net",
+								"display_url": "ACASignups.net",
+								"indices": [
+									22,
+									45
+								]
+							},
+							{
+								"url": "https://t.co/VJgARxWKQ2",
+								"expanded_url": "http://Brainwrap.com",
+								"display_url": "Brainwrap.com",
+								"indices": [
+									68,
+									91
+								]
+							},
+							{
+								"url": "https://t.co/BB0uxt0qHl",
+								"expanded_url": "https://Patreon.com/CharlesGaba",
+								"display_url": "Patreon.com/CharlesGaba",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23502,
+				"friends_count": 298,
+				"listed_count": 538,
+				"created_at": "Mon Mar 23 00:05:23 +0000 2009",
+				"favourites_count": 217387,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 195885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723145771663511552/rfElo8U0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723145771663511552/rfElo8U0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25911963/1480178331",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 205,
+			"favorite_count": 348,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 03 02:53:07 +0000 2017",
 		"id": 937152688843669500,
 		"id_str": "937152688843669504",

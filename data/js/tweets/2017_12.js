@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 08 04:13:05 +0000 2017",
+		"id": 938984754937978900,
+		"id_str": "938984754937978881",
+		"text": "RT @eliesaaab: 'Accidental Wes Anderson' what a concept. https://t.co/FRhvb5uCsD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliesaaab",
+					"name": "femme fatale",
+					"id": 800449564486447100,
+					"id_str": "800449564486447105",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 938709698332651500,
+					"id_str": "938709698332651520",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+					"url": "https://t.co/FRhvb5uCsD",
+					"display_url": "pic.twitter.com/FRhvb5uCsD",
+					"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938709721674080300,
+					"source_status_id_str": "938709721674080261",
+					"source_user_id": 800449564486447100,
+					"source_user_id_str": "800449564486447105"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938709698332651500,
+					"id_str": "938709698332651520",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+					"url": "https://t.co/FRhvb5uCsD",
+					"display_url": "pic.twitter.com/FRhvb5uCsD",
+					"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938709721674080300,
+					"source_status_id_str": "938709721674080261",
+					"source_user_id": 800449564486447100,
+					"source_user_id_str": "800449564486447105"
+				},
+				{
+					"id": 938709698357772300,
+					"id_str": "938709698357772288",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DQb3f0XUQAAXxsu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQb3f0XUQAAXxsu.jpg",
+					"url": "https://t.co/FRhvb5uCsD",
+					"display_url": "pic.twitter.com/FRhvb5uCsD",
+					"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938709721674080300,
+					"source_status_id_str": "938709721674080261",
+					"source_user_id": 800449564486447100,
+					"source_user_id_str": "800449564486447105"
+				},
+				{
+					"id": 938709698366152700,
+					"id_str": "938709698366152704",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DQb3f0ZUIAABePs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQb3f0ZUIAABePs.jpg",
+					"url": "https://t.co/FRhvb5uCsD",
+					"display_url": "pic.twitter.com/FRhvb5uCsD",
+					"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 609,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 609,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938709721674080300,
+					"source_status_id_str": "938709721674080261",
+					"source_user_id": 800449564486447100,
+					"source_user_id_str": "800449564486447105"
+				},
+				{
+					"id": 938709698412363800,
+					"id_str": "938709698412363778",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DQb3f0kVQAIWK_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQb3f0kVQAIWK_8.jpg",
+					"url": "https://t.co/FRhvb5uCsD",
+					"display_url": "pic.twitter.com/FRhvb5uCsD",
+					"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938709721674080300,
+					"source_status_id_str": "938709721674080261",
+					"source_user_id": 800449564486447100,
+					"source_user_id_str": "800449564486447105"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10386,
+			"friends_count": 1423,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 07 10:00:12 +0000 2017",
+			"id": 938709721674080300,
+			"id_str": "938709721674080261",
+			"text": "'Accidental Wes Anderson' what a concept. https://t.co/FRhvb5uCsD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 938709698332651500,
+						"id_str": "938709698332651520",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+						"url": "https://t.co/FRhvb5uCsD",
+						"display_url": "pic.twitter.com/FRhvb5uCsD",
+						"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 408,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938709698332651500,
+						"id_str": "938709698332651520",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQb3f0RU8AA_r89.jpg",
+						"url": "https://t.co/FRhvb5uCsD",
+						"display_url": "pic.twitter.com/FRhvb5uCsD",
+						"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 408,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 938709698357772300,
+						"id_str": "938709698357772288",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DQb3f0XUQAAXxsu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQb3f0XUQAAXxsu.jpg",
+						"url": "https://t.co/FRhvb5uCsD",
+						"display_url": "pic.twitter.com/FRhvb5uCsD",
+						"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 488,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 538,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 938709698366152700,
+						"id_str": "938709698366152704",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DQb3f0ZUIAABePs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQb3f0ZUIAABePs.jpg",
+						"url": "https://t.co/FRhvb5uCsD",
+						"display_url": "pic.twitter.com/FRhvb5uCsD",
+						"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 609,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 609,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 938709698412363800,
+						"id_str": "938709698412363778",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DQb3f0kVQAIWK_8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQb3f0kVQAIWK_8.jpg",
+						"url": "https://t.co/FRhvb5uCsD",
+						"display_url": "pic.twitter.com/FRhvb5uCsD",
+						"expanded_url": "https://twitter.com/eliesaaab/status/938709721674080261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 498,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 800449564486447100,
+				"id_str": "800449564486447105",
+				"name": "femme fatale",
+				"screen_name": "eliesaaab",
+				"location": "",
+				"description": "la mode est un art",
+				"url": "https://t.co/vKCX40lxJX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vKCX40lxJX",
+								"expanded_url": "https://letterboxd.com/heathldgr",
+								"display_url": "letterboxd.com/heathldgr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70211,
+				"friends_count": 42,
+				"listed_count": 921,
+				"created_at": "Sun Nov 20 21:23:42 +0000 2016",
+				"favourites_count": 345,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1058,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/934002727495008257/wNMS-fVV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/934002727495008257/wNMS-fVV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/800449564486447105/1511518949",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3936,
+			"favorite_count": 10325,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3936,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 07 16:43:10 +0000 2017",
 		"id": 938811131593764900,
 		"id_str": "938811131593764864",

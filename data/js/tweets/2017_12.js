@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 11 21:59:51 +0000 2017",
+		"id": 940340380238725100,
+		"id_str": "940340380238725126",
+		"text": "I'd appreciate if anyone in my network can give a #resnetsem student some advice, resourcea on the validity of auth… https://t.co/ubpZJrkjBC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "resnetsem",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ubpZJrkjBC",
+					"expanded_url": "https://twitter.com/i/web/status/940340380238725126",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10391,
+			"friends_count": 1423,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 940279684092317700,
+		"quoted_status_id_str": "940279684092317696",
+		"quoted_status": {
+			"created_at": "Mon Dec 11 17:58:40 +0000 2017",
+			"id": 940279684092317700,
+			"id_str": "940279684092317696",
+			"text": "PSA: New blog post \"i was thinking and...\" is up now! https://t.co/w5FvslWFfT Check it out! #resnetsem #gradstudent #thesis",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "resnetsem",
+						"indices": [
+							92,
+							102
+						]
+					},
+					{
+						"text": "gradstudent",
+						"indices": [
+							103,
+							115
+						]
+					},
+					{
+						"text": "thesis",
+						"indices": [
+							116,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w5FvslWFfT",
+						"expanded_url": "https://wp.me/p9b5iL-4n",
+						"display_url": "wp.me/p9b5iL-4n",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2704876296,
+				"id_str": "2704876296",
+				"name": "Richonda",
+				"screen_name": "apoeticlife",
+				"location": "",
+				"description": "Graduate Student | \nWriter | \nStars Hollow Resident 📝♍️🎤🎾",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49,
+				"friends_count": 53,
+				"listed_count": 2,
+				"created_at": "Sun Aug 03 20:55:32 +0000 2014",
+				"favourites_count": 594,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 623,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/496046488179322880/8zL_XOHS.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/496046488179322880/8zL_XOHS.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923550268507279360/MXvfcTEj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923550268507279360/MXvfcTEj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2704876296/1452576338",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 11 20:45:32 +0000 2017",
 		"id": 940321675941261300,
 		"id_str": "940321675941261312",

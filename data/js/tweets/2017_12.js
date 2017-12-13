@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 13 18:31:55 +0000 2017",
+		"id": 941012825614381000,
+		"id_str": "941012825614381056",
+		"text": "This is so beautiful, the idea of our homes having a literacy that is personal to each of us. And kudos to the prod… https://t.co/KZ5qqZlR3A",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZ5qqZlR3A",
+					"expanded_url": "https://twitter.com/i/web/status/941012825614381056",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10393,
+			"friends_count": 1423,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 941004814418190300,
+		"quoted_status_id_str": "941004814418190336",
+		"quoted_status": {
+			"created_at": "Wed Dec 13 18:00:05 +0000 2017",
+			"id": 941004814418190300,
+			"id_str": "941004814418190336",
+			"text": "Reflective projects for literacy studies are stunning. Like opening a present. Sylvia Pape’s Literacy of a Home: https://t.co/MxTsrrmusQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MxTsrrmusQ",
+						"expanded_url": "http://vimeo.com/247179991",
+						"display_url": "vimeo.com/247179991",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68211507,
+				"id_str": "68211507",
+				"name": "Kim Jaxon",
+				"screen_name": "drjaxon",
+				"location": "Chico, CA",
+				"description": "Associate Professor Composition & Literacy CSU, Chico. UC, Berkeley GSE alumni. Co-author Composing Science (TCPress). Northern CA Writing Project. Gamer. Geek.",
+				"url": "https://t.co/uEDewm6Ahh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uEDewm6Ahh",
+								"expanded_url": "http://www.kimjaxon.com/me/",
+								"display_url": "kimjaxon.com/me/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2259,
+				"friends_count": 908,
+				"listed_count": 98,
+				"created_at": "Sun Aug 23 19:06:46 +0000 2009",
+				"favourites_count": 6859,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7879,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783917305/Photo_on_2009-12-09_at_16.57__3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783917305/Photo_on_2009-12-09_at_16.57__3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68211507/1485572176",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 13 17:44:25 +0000 2017",
 		"id": 941000873089495000,
 		"id_str": "941000873089495040",

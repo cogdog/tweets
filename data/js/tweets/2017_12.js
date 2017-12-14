@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 14 20:28:31 +0000 2017",
+		"id": 941404556121878500,
+		"id_str": "941404556121878528",
+		"text": "YEAH! F the CC ought to blast through Pai's Alexa\n\nhttps://t.co/6goB0sz6rQ https://t.co/ia89JKnVy9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6goB0sz6rQ",
+					"expanded_url": "https://www.youtube.com/watch?v=GOQKoCf27HM",
+					"display_url": "youtube.com/watch?v=GOQKoC…",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/ia89JKnVy9",
+					"expanded_url": "https://twitter.com/grantpotter/status/941385034174533634",
+					"display_url": "twitter.com/grantpotter/st…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10394,
+			"friends_count": 1424,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 729,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 941385034174533600,
+		"quoted_status_id_str": "941385034174533634",
+		"quoted_status": {
+			"created_at": "Thu Dec 14 19:10:56 +0000 2017",
+			"id": 941385034174533600,
+			"id_str": "941385034174533634",
+			"text": "@cogdog https://t.co/7S48JjPH9n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine ☠",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7S48JjPH9n",
+						"expanded_url": "https://youtu.be/GOQKoCf27HM",
+						"display_url": "youtu.be/GOQKoCf27HM",
+						"indices": [
+							8,
+							31
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 941365925663555600,
+			"in_reply_to_status_id_str": "941365925663555585",
+			"in_reply_to_user_id": 740343,
+			"in_reply_to_user_id_str": "740343",
+			"in_reply_to_screen_name": "cogdog",
+			"user": {
+				"id": 6271482,
+				"id_str": "6271482",
+				"name": "Grant Potter",
+				"screen_name": "grantpotter",
+				"location": "a land of shadow & substance",
+				"description": "Educator, instructional technologist, tinkerer, musicmaker, hauler of bootstraps",
+				"url": "http://t.co/faKnijBAxb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/faKnijBAxb",
+								"expanded_url": "http://known.networkeffects.ca",
+								"display_url": "known.networkeffects.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2300,
+				"friends_count": 2660,
+				"listed_count": 236,
+				"created_at": "Wed May 23 20:55:07 +0000 2007",
+				"favourites_count": 2301,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19420,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E7E9E9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7749731/twitterback2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7749731/twitterback2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639833921228640256/S63CDenk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639833921228640256/S63CDenk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6271482/1417024686",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C2A394",
+				"profile_text_color": "121111",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 14 18:49:35 +0000 2017",
 		"id": 941379658242654200,
 		"id_str": "941379658242654208",

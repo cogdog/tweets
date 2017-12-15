@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 15 04:03:06 +0000 2017",
+		"id": 941518955977482200,
+		"id_str": "941518955977482240",
+		"text": "@BobbyBigWheel @DonaldJTrumpJr Seriously SHOW HIM THE \"GOOD\" MONEY or go home. https://t.co/M4EF0ugCax",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BobbyBigWheel",
+					"name": "Christmas (Bobby please come home)",
+					"id": 77608185,
+					"id_str": "77608185",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "DonaldJTrumpJr",
+					"name": "Donald Trump Jr.",
+					"id": 39344374,
+					"id_str": "39344374",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 941518856769507300,
+					"id_str": "941518856769507330",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DRDyaW8UEAIwEd5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DRDyaW8UEAIwEd5.jpg",
+					"url": "https://t.co/M4EF0ugCax",
+					"display_url": "pic.twitter.com/M4EF0ugCax",
+					"expanded_url": "https://twitter.com/cogdog/status/941518955977482240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941518856769507300,
+					"id_str": "941518856769507330",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DRDyaW8UEAIwEd5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DRDyaW8UEAIwEd5.jpg",
+					"url": "https://t.co/M4EF0ugCax",
+					"display_url": "pic.twitter.com/M4EF0ugCax",
+					"expanded_url": "https://twitter.com/cogdog/status/941518955977482240/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 222,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							230,
+							111
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DRDyaW8UEAIwEd5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 941481668740878300,
+		"in_reply_to_status_id_str": "941481668740878337",
+		"in_reply_to_user_id": 77608185,
+		"in_reply_to_user_id_str": "77608185",
+		"in_reply_to_screen_name": "BobbyBigWheel",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10394,
+			"friends_count": 1424,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 729,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 15 03:53:57 +0000 2017",
+		"id": 941516652243386400,
+		"id_str": "941516652243386369",
+		"text": "RT @GeeksOfColor: Verify us first then we can talk. https://t.co/CspJyxjxjV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeeksOfColor",
+					"name": "Geeks of Color",
+					"id": 4669412971,
+					"id_str": "4669412971",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CspJyxjxjV",
+					"expanded_url": "https://twitter.com/twitternotify/status/941508572118097920",
+					"display_url": "twitter.com/twitternotify/…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10394,
+			"friends_count": 1424,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 729,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 15 03:24:23 +0000 2017",
+			"id": 941509215310381000,
+			"id_str": "941509215310381062",
+			"text": "Verify us first then we can talk. https://t.co/CspJyxjxjV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CspJyxjxjV",
+						"expanded_url": "https://twitter.com/twitternotify/status/941508572118097920",
+						"display_url": "twitter.com/twitternotify/…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4669412971,
+				"id_str": "4669412971",
+				"name": "Geeks of Color",
+				"screen_name": "GeeksOfColor",
+				"location": "Los Angeles, CA",
+				"description": "Welcome to Geeks Of Color! We are a community of Geeks that strives to be a leading voice in the fight for Diversity & Inclusion in all aspects of entertainment",
+				"url": "https://t.co/RcjswBK9kj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RcjswBK9kj",
+								"expanded_url": "http://geeksofcolor.co/",
+								"display_url": "geeksofcolor.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56517,
+				"friends_count": 2911,
+				"listed_count": 779,
+				"created_at": "Mon Dec 28 20:38:55 +0000 2015",
+				"favourites_count": 13472,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852884595712380928/TXwHyuHY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852884595712380928/TXwHyuHY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4669412971/1511136022",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 941508572118097900,
+			"quoted_status_id_str": "941508572118097920",
+			"quoted_status": {
+				"created_at": "Fri Dec 15 03:21:50 +0000 2017",
+				"id": 941508572118097900,
+				"id_str": "941508572118097920",
+				"text": "@GeeksOfColor Hi! We'd like to spotlight this Tweet in Twitter and Star Wars: The Last Jedi Billboards on 12/15/201… https://t.co/jx9vpZwObP",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "GeeksOfColor",
+							"name": "Geeks of Color",
+							"id": 4669412971,
+							"id_str": "4669412971",
+							"indices": [
+								0,
+								13
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/jx9vpZwObP",
+							"expanded_url": "https://twitter.com/i/web/status/941508572118097920",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 940116104327807000,
+				"in_reply_to_status_id_str": "940116104327806976",
+				"in_reply_to_user_id": 4669412971,
+				"in_reply_to_user_id_str": "4669412971",
+				"in_reply_to_screen_name": "GeeksOfColor",
+				"user": {
+					"id": 1347677268,
+					"id_str": "1347677268",
+					"name": "Twitter Notify",
+					"screen_name": "TwitterNotify",
+					"location": "",
+					"description": "As often as possible, we give you a heads up when we feature your profile, Tweets, Vine videos or other content.",
+					"url": "https://t.co/aNz1dRCDsV",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/aNz1dRCDsV",
+									"expanded_url": "https://support.twitter.com/articles/20170391-about-twitternotify",
+									"display_url": "support.twitter.com/articles/20170…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8500,
+					"friends_count": 4,
+					"listed_count": 90,
+					"created_at": "Fri Apr 12 20:43:07 +0000 2013",
+					"favourites_count": 55,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 3644,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875148801320796160/fDOqITEt_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875148801320796160/fDOqITEt_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1347677268/1497486716",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 78,
+			"favorite_count": 418,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 941508572118097900,
+		"quoted_status_id_str": "941508572118097920",
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 15 02:18:05 +0000 2017",
 		"id": 941492529572151300,
 		"id_str": "941492529572151297",

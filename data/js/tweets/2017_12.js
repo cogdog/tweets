@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 05:31:21 +0000 2017",
+		"id": 945527432487960600,
+		"id_str": "945527432487960576",
+		"text": "Give these United States citizens electricity #care4sagrado https://t.co/7N2xv3HSKI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "care4sagrado",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7N2xv3HSKI",
+					"expanded_url": "https://twitter.com/PuertoRicoPUR/status/944939377599434752",
+					"display_url": "twitter.com/PuertoRicoPUR/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10403,
+			"friends_count": 1423,
+			"listed_count": 781,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 731,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 944939377599434800,
+		"quoted_status_id_str": "944939377599434752",
+		"quoted_status": {
+			"created_at": "Sun Dec 24 14:34:38 +0000 2017",
+			"id": 944939377599434800,
+			"id_str": "944939377599434752",
+			"text": "In Puerto Rico,\n\n             💡\n             W\n            WE\n           WE N\n          WE NE\n         WE NEE… https://t.co/yvUTiLQNkV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yvUTiLQNkV",
+						"expanded_url": "https://twitter.com/i/web/status/944939377599434752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28631611,
+				"id_str": "28631611",
+				"name": "Puerto Rico 🇵🇷",
+				"screen_name": "PuertoRicoPUR",
+				"location": "Puerto Rico",
+				"description": "Travel to Puerto Rico, The Island of Enchantment! Viaje a @PuertoRicoPUR la Isla Del Encanto. Share your Puerto Rico experience: @PuertoRicoPUR",
+				"url": "https://t.co/xTaAQFYcbm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xTaAQFYcbm",
+								"expanded_url": "https://twitter.com/PuertoRicoPUR",
+								"display_url": "twitter.com/PuertoRicoPUR",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 186508,
+				"friends_count": 440,
+				"listed_count": 965,
+				"created_at": "Fri Apr 03 19:21:44 +0000 2009",
+				"favourites_count": 104771,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60391,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455962665/hhh.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455962665/hhh.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1400229658/tw_8900727_1307723295_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400229658/tw_8900727_1307723295_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28631611/1399849705",
+				"profile_link_color": "1C4797",
+				"profile_sidebar_border_color": "FF5608",
+				"profile_sidebar_fill_color": "F57C20",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 97331,
+			"favorite_count": 193687,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 26 04:04:48 +0000 2017",
 		"id": 945505651748364300,
 		"id_str": "945505651748364288",

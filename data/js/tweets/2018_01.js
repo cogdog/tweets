@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 03 01:06:05 +0000 2018",
+		"id": 948359780032221200,
+		"id_str": "948359780032221184",
+		"text": "@jstein @redwards7 Probably not via the cliché \"Tell them what you are going to tell them...\" https://t.co/zl2BBYiALd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jstein",
+					"name": "Jared Stein",
+					"id": 10100932,
+					"id_str": "10100932",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "redwards7",
+					"name": "Richard L. Edwards",
+					"id": 17193591,
+					"id_str": "17193591",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 948359628139634700,
+					"id_str": "948359628139634688",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DSlADqKVoAAdcGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DSlADqKVoAAdcGo.jpg",
+					"url": "https://t.co/zl2BBYiALd",
+					"display_url": "pic.twitter.com/zl2BBYiALd",
+					"expanded_url": "https://twitter.com/cogdog/status/948359780032221184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948359628139634700,
+					"id_str": "948359628139634688",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DSlADqKVoAAdcGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DSlADqKVoAAdcGo.jpg",
+					"url": "https://t.co/zl2BBYiALd",
+					"display_url": "pic.twitter.com/zl2BBYiALd",
+					"expanded_url": "https://twitter.com/cogdog/status/948359780032221184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 246,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							123
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DSlADqKVoAAdcGo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 948358404313055200,
+		"in_reply_to_status_id_str": "948358404313055233",
+		"in_reply_to_user_id": 10100932,
+		"in_reply_to_user_id_str": "10100932",
+		"in_reply_to_screen_name": "jstein",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10395,
+			"friends_count": 1424,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 733,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 02 23:50:07 +0000 2018",
 		"id": 948340662805479400,
 		"id_str": "948340662805479424",

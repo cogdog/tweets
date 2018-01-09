@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 09 21:39:35 +0000 2018",
+		"id": 950844524766543900,
+		"id_str": "950844524766543873",
+		"text": "hah! #ds106 has jumped the cartoon shark.... https://t.co/mQmorPPMIK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						5,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mQmorPPMIK",
+					"expanded_url": "https://twitter.com/thatpsychprof/status/950844017431887872",
+					"display_url": "twitter.com/thatpsychprof/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10398,
+			"friends_count": 1423,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 736,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 950844017431887900,
+		"quoted_status_id_str": "950844017431887872",
+		"quoted_status": {
+			"created_at": "Tue Jan 09 21:37:34 +0000 2018",
+			"id": 950844017431887900,
+			"id_str": "950844017431887872",
+			"text": "@capt_info This really made me laugh! “some real ds106-level malfeasance” lol @cogdog https://t.co/1T3HlZ9CC8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "capt_info",
+						"name": "Justin Mason",
+						"id": 910753747,
+						"id_str": "910753747",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine ☠",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							78,
+							85
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 950843992853200900,
+						"id_str": "950843992853200896",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DTITkt7UQAAWbZx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTITkt7UQAAWbZx.jpg",
+						"url": "https://t.co/1T3HlZ9CC8",
+						"display_url": "pic.twitter.com/1T3HlZ9CC8",
+						"expanded_url": "https://twitter.com/thatpsychprof/status/950844017431887872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 704,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 598,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 704,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950843992853200900,
+						"id_str": "950843992853200896",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DTITkt7UQAAWbZx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTITkt7UQAAWbZx.jpg",
+						"url": "https://t.co/1T3HlZ9CC8",
+						"display_url": "pic.twitter.com/1T3HlZ9CC8",
+						"expanded_url": "https://twitter.com/thatpsychprof/status/950844017431887872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 704,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 598,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 704,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 950843059654287400,
+			"in_reply_to_status_id_str": "950843059654287360",
+			"in_reply_to_user_id": 910753747,
+			"in_reply_to_user_id_str": "910753747",
+			"in_reply_to_screen_name": "capt_info",
+			"user": {
+				"id": 39835900,
+				"id_str": "39835900",
+				"name": "Rajiv Jhangiani",
+				"screen_name": "thatpsychprof",
+				"location": "Unceded Coast Salish Territory",
+				"description": "Psych Prof @KwantlenU, Open Education Advisor @BCcampus, Ambassador @OSFramework 🍁 Father, club cricketer, retired dancer, & generally happy clam.",
+				"url": "https://t.co/sqBsSrABKA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sqBsSrABKA",
+								"expanded_url": "http://thatpsychprof.com",
+								"display_url": "thatpsychprof.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2873,
+				"friends_count": 1366,
+				"listed_count": 142,
+				"created_at": "Wed May 13 21:10:53 +0000 2009",
+				"favourites_count": 9097,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11033,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F9FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540593726/IMG_2790.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540593726/IMG_2790.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872284509772800001/95j6qDNs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872284509772800001/95j6qDNs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39835900/1433561354",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 09 19:19:25 +0000 2018",
 		"id": 950809251580067800,
 		"id_str": "950809251580067840",

@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 12 19:59:12 +0000 2018",
+		"id": 951906427160768500,
+		"id_str": "951906427160768512",
+		"text": "RT @NewYorker: Today's daily cartoon by Peter Kuper: https://t.co/YudhZM3M8w https://t.co/Nxtts50yeB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YudhZM3M8w",
+					"expanded_url": "http://nyer.cm/WG0oZsI",
+					"display_url": "nyer.cm/WG0oZsI",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 951901361989410800,
+					"id_str": "951901361989410817",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+					"url": "https://t.co/Nxtts50yeB",
+					"display_url": "pic.twitter.com/Nxtts50yeB",
+					"expanded_url": "https://twitter.com/NewYorker/status/951901364912836614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 727,
+							"h": 501,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951901364912836600,
+					"source_status_id_str": "951901364912836614",
+					"source_user_id": 14677919,
+					"source_user_id_str": "14677919"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951901361989410800,
+					"id_str": "951901361989410817",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+					"url": "https://t.co/Nxtts50yeB",
+					"display_url": "pic.twitter.com/Nxtts50yeB",
+					"expanded_url": "https://twitter.com/NewYorker/status/951901364912836614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 727,
+							"h": 501,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951901364912836600,
+					"source_status_id_str": "951901364912836614",
+					"source_user_id": 14677919,
+					"source_user_id_str": "14677919"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10412,
+			"friends_count": 1424,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 737,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83785,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 12 19:39:05 +0000 2018",
+			"id": 951901364912836600,
+			"id_str": "951901364912836614",
+			"text": "Today's daily cartoon by Peter Kuper: https://t.co/YudhZM3M8w https://t.co/Nxtts50yeB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YudhZM3M8w",
+						"expanded_url": "http://nyer.cm/WG0oZsI",
+						"display_url": "nyer.cm/WG0oZsI",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 951901361989410800,
+						"id_str": "951901361989410817",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+						"url": "https://t.co/Nxtts50yeB",
+						"display_url": "pic.twitter.com/Nxtts50yeB",
+						"expanded_url": "https://twitter.com/NewYorker/status/951901364912836614/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 727,
+								"h": 501,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 727,
+								"h": 501,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951901361989410800,
+						"id_str": "951901361989410817",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTXVPs6W4AEBze2.jpg",
+						"url": "https://t.co/Nxtts50yeB",
+						"display_url": "pic.twitter.com/Nxtts50yeB",
+						"expanded_url": "https://twitter.com/NewYorker/status/951901364912836614/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 727,
+								"h": 501,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 727,
+								"h": 501,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14677919,
+				"id_str": "14677919",
+				"name": "The New Yorker",
+				"screen_name": "NewYorker",
+				"location": "New York, NY",
+				"description": "The New Yorker is a weekly magazine with a mix of reporting on politics and culture, humor and cartoons, fiction and poetry, and reviews and criticism.",
+				"url": "https://t.co/RLTwD4Ft0i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RLTwD4Ft0i",
+								"expanded_url": "http://www.newyorker.com",
+								"display_url": "newyorker.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8393197,
+				"friends_count": 416,
+				"listed_count": 62682,
+				"created_at": "Tue May 06 19:36:33 +0000 2008",
+				"favourites_count": 1631,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 68346,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/55790865/Twitter_BG_Final_final.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/55790865/Twitter_BG_Final_final.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900059590586486784/fmY_4l3f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900059590586486784/fmY_4l3f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14677919/1478111474",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 542,
+			"favorite_count": 786,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 12 18:38:06 +0000 2018",
 		"id": 951886019434987500,
 		"id_str": "951886019434987520",

@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 17 17:26:15 +0000 2018",
+		"id": 953679877068136400,
+		"id_str": "953679877068136448",
+		"text": "@SkypeSupport with this new version of Skype  how the hell do I stop it from sending BLURB audio on chat notificati… https://t.co/yXgKe5Cx9U",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SkypeSupport",
+					"name": "Skype Support",
+					"id": 285605927,
+					"id_str": "285605927",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yXgKe5Cx9U",
+					"expanded_url": "https://twitter.com/i/web/status/953679877068136448",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 285605927,
+		"in_reply_to_user_id_str": "285605927",
+		"in_reply_to_screen_name": "SkypeSupport",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1430,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 737,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 17 17:22:09 +0000 2018",
+		"id": 953678844015161300,
+		"id_str": "953678844015161344",
+		"text": "@actualham @tanbob Without any algorithm, just a nice adjacency of tweets ;-) https://t.co/rgjkxOZ7St",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "tanbob",
+					"name": "Tannis Morgan",
+					"id": 10817782,
+					"id_str": "10817782",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 953678785106202600,
+					"id_str": "953678785106202626",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DTwlzWAU0AIxL1g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTwlzWAU0AIxL1g.jpg",
+					"url": "https://t.co/rgjkxOZ7St",
+					"display_url": "pic.twitter.com/rgjkxOZ7St",
+					"expanded_url": "https://twitter.com/cogdog/status/953678844015161344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 622,
+							"h": 954,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 622,
+							"h": 954,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 953678785106202600,
+					"id_str": "953678785106202626",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DTwlzWAU0AIxL1g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTwlzWAU0AIxL1g.jpg",
+					"url": "https://t.co/rgjkxOZ7St",
+					"display_url": "pic.twitter.com/rgjkxOZ7St",
+					"expanded_url": "https://twitter.com/cogdog/status/953678844015161344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 622,
+							"h": 954,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 622,
+							"h": 954,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2182862052,
+		"in_reply_to_user_id_str": "2182862052",
+		"in_reply_to_screen_name": "actualham",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1430,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 737,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 17 17:20:49 +0000 2018",
+		"id": 953678510127685600,
+		"id_str": "953678510127685632",
+		"text": "Hey #resnetsem - Thesis on a Scarf! https://t.co/qNyNrtIayE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "resnetsem",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qNyNrtIayE",
+					"expanded_url": "https://twitter.com/neurograce/status/953571035751821313",
+					"display_url": "twitter.com/neurograce/sta…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1430,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 737,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 953571035751821300,
+		"quoted_status_id_str": "953571035751821313",
+		"quoted_status": {
+			"created_at": "Wed Jan 17 10:13:46 +0000 2018",
+			"id": 953571035751821300,
+			"id_str": "953571035751821313",
+			"text": "I said I'd do it and I did. I got my thesis printed on a scarf. https://t.co/BxwDWwCJRV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 953570996375707600,
+						"id_str": "953570996375707648",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DTvDxNsW4AAvLes.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTvDxNsW4AAvLes.jpg",
+						"url": "https://t.co/BxwDWwCJRV",
+						"display_url": "pic.twitter.com/BxwDWwCJRV",
+						"expanded_url": "https://twitter.com/neurograce/status/953571035751821313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 756,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 953570996375707600,
+						"id_str": "953570996375707648",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DTvDxNsW4AAvLes.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTvDxNsW4AAvLes.jpg",
+						"url": "https://t.co/BxwDWwCJRV",
+						"display_url": "pic.twitter.com/BxwDWwCJRV",
+						"expanded_url": "https://twitter.com/neurograce/status/953571035751821313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 756,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 953571016550289400,
+						"id_str": "953571016550289409",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DTvDyY2WkAE_c5h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTvDyY2WkAE_c5h.jpg",
+						"url": "https://t.co/BxwDWwCJRV",
+						"display_url": "pic.twitter.com/BxwDWwCJRV",
+						"expanded_url": "https://twitter.com/neurograce/status/953571035751821313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1160,
+								"h": 1544,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21540543,
+				"id_str": "21540543",
+				"name": "Grace Lindsay",
+				"screen_name": "neurograce",
+				"location": "New York City/London",
+				"description": "Columbia University Postdoc (sometimes hanging out at UCL) | Co-host of @USTpodcast | Computational neuroscientist with an interest in attention.",
+				"url": "https://t.co/D3mPanQt2u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D3mPanQt2u",
+								"expanded_url": "https://neurdiness.wordpress.com/about-the-neurd/",
+								"display_url": "neurdiness.wordpress.com/about-the-neur…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1214,
+				"friends_count": 678,
+				"listed_count": 86,
+				"created_at": "Sun Feb 22 03:07:52 +0000 2009",
+				"favourites_count": 2968,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2842,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892045187421270021/iE0DZR94_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892045187421270021/iE0DZR94_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21540543/1495782332",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1181,
+			"favorite_count": 6849,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 17 15:34:24 +0000 2018",
 		"id": 953651729416953900,
 		"id_str": "953651729416953857",

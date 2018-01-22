@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 22 16:21:47 +0000 2018",
+		"id": 955475592496889900,
+		"id_str": "955475592496889857",
+		"text": "This is a fantastic series on digital detoxing. We're doing some of this in #NetNarr, starting with watching… https://t.co/Uf8O6nJv6A",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NetNarr",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uf8O6nJv6A",
+					"expanded_url": "https://twitter.com/i/web/status/955475592496889857",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1431,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 737,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 955471275979309000,
+		"quoted_status_id_str": "955471275979309056",
+		"quoted_status": {
+			"created_at": "Mon Jan 22 16:04:38 +0000 2018",
+			"id": 955471275979309000,
+			"id_str": "955471275979309056",
+			"text": "We’re halfway through a Digital Detox at Middlebury. https://t.co/PSgbm2aN72\n\nA thread…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PSgbm2aN72",
+						"expanded_url": "http://dlinq.middcreate.net/digitaldetox/",
+						"display_url": "dlinq.middcreate.net/digitaldetox/",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17300374,
+				"id_str": "17300374",
+				"name": "Anne of Green Mountains",
+				"screen_name": "amcollier",
+				"location": "Middlebury, VT",
+				"description": "associate provost for digital learning, Middlebury. Very nerdy, often geeky, a tad granola. Shenanigan-inciting and sparkly hockey player who sings the blues.",
+				"url": "http://t.co/f01x3pP8OB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/f01x3pP8OB",
+								"expanded_url": "http://redpincushion.me",
+								"display_url": "redpincushion.me",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4092,
+				"friends_count": 829,
+				"listed_count": 246,
+				"created_at": "Tue Nov 11 01:49:18 +0000 2008",
+				"favourites_count": 8047,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3506,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F194C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440441828/x4904df08860c04697149a53d73bcf84.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440441828/x4904df08860c04697149a53d73bcf84.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789485193228869632/tprvEsdS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789485193228869632/tprvEsdS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17300374/1508332709",
+				"profile_link_color": "634052",
+				"profile_sidebar_border_color": "9C2661",
+				"profile_sidebar_fill_color": "332D30",
+				"profile_text_color": "EB147E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 22 15:58:10 +0000 2018",
 		"id": 955469646865489900,
 		"id_str": "955469646865489922",

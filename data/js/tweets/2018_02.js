@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 11 15:54:36 +0000 2018",
+		"id": 962716507565277200,
+		"id_str": "962716507565277184",
+		"text": "#GifHistoryis is a brilliant resource we will used for #netnarr soon when we study animated gifs. https://t.co/G0keNp414Z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GifHistoryis",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "netnarr",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G0keNp414Z",
+					"expanded_url": "https://twitter.com/MatthewACherry/status/962011241815277568",
+					"display_url": "twitter.com/MatthewACherry…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10459,
+			"friends_count": 1434,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 742,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84306,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 962011241815277600,
+		"quoted_status_id_str": "962011241815277568",
+		"quoted_status": {
+			"created_at": "Fri Feb 09 17:12:08 +0000 2018",
+			"id": 962011241815277600,
+			"id_str": "962011241815277568",
+			"text": "I wanna create a thread called #GifHistory. Send a gif that you want to know the backstory to and we'll try to find… https://t.co/9RFAcQ0ONj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GifHistory",
+						"indices": [
+							31,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9RFAcQ0ONj",
+						"expanded_url": "https://twitter.com/i/web/status/962011241815277568",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27384718,
+				"id_str": "27384718",
+				"name": "Matthew A. Cherry",
+				"screen_name": "MatthewACherry",
+				"location": "Wakanda Junipero",
+				"description": "Filmmaker | NFL Alum | Gif Connoisseur | Credits: The Last Fall, 9Rides, Hair Love",
+				"url": "https://t.co/ZS1UnAGq5J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZS1UnAGq5J",
+								"expanded_url": "http://www.matthewacherry.com/",
+								"display_url": "matthewacherry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91042,
+				"friends_count": 8693,
+				"listed_count": 1958,
+				"created_at": "Sun Mar 29 05:09:42 +0000 2009",
+				"favourites_count": 68591,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 143477,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115460666/ca30487130a9660a237c0860e50e48ef.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115460666/ca30487130a9660a237c0860e50e48ef.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859464069912424448/xJA69oH6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859464069912424448/xJA69oH6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27384718/1499715745",
+				"profile_link_color": "57A8FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24753,
+			"favorite_count": 58046,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 11 04:23:57 +0000 2018",
 		"id": 962542698606485500,
 		"id_str": "962542698606485504",

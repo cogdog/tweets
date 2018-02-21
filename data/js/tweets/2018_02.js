@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 06:29:57 +0000 2018",
+		"id": 966198289178775600,
+		"id_str": "966198289178775553",
+		"text": "Attn @draggin Your sunflower seeds are flourishing in Hamilton, New Zealand. #seeditforward https://t.co/FyhcYqBB4L",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "seeditforward",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "draggin",
+					"name": "jason toal",
+					"id": 5690792,
+					"id_str": "5690792",
+					"indices": [
+						5,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FyhcYqBB4L",
+					"expanded_url": "https://twitter.com/teachernz/status/966162942692610048",
+					"display_url": "twitter.com/teachernz/stat…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10453,
+			"friends_count": 1434,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 744,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 966162942692610000,
+		"quoted_status_id_str": "966162942692610048",
+		"quoted_status": {
+			"created_at": "Wed Feb 21 04:09:30 +0000 2018",
+			"id": 966162942692610000,
+			"id_str": "966162942692610048",
+			"text": "Taller.than me and ready for harvest. #sunflower #seeditforward @cogdog @ Whatawhata School https://t.co/jNOrgMLBpN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sunflower",
+						"indices": [
+							38,
+							48
+						]
+					},
+					{
+						"text": "seeditforward",
+						"indices": [
+							49,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine ☠",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							64,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jNOrgMLBpN",
+						"expanded_url": "https://www.instagram.com/p/Bfcd5dAnOrO/",
+						"display_url": "instagram.com/p/Bfcd5dAnOrO/",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9495842,
+				"id_str": "9495842",
+				"name": "Michael Fawcett",
+				"screen_name": "teachernz",
+				"location": "Hamilton, New Zealand",
+				"description": "Primary school teacher in NZ. Nerd, geek...all round happy chappy :-)",
+				"url": "https://t.co/mT6wuOru3A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mT6wuOru3A",
+								"expanded_url": "http://teachernz.com",
+								"display_url": "teachernz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4924,
+				"friends_count": 4751,
+				"listed_count": 330,
+				"created_at": "Wed Oct 17 09:46:16 +0000 2007",
+				"favourites_count": 3124,
+				"utc_offset": 46800,
+				"time_zone": "Pacific/Auckland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49254,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/51144330/twit_back_2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/51144330/twit_back_2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982749596/Viking_me_Sunburst1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982749596/Viking_me_Sunburst1_normal.jpg",
+				"profile_link_color": "2CB8EB",
+				"profile_sidebar_border_color": "B12066",
+				"profile_sidebar_fill_color": "B6266C",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					-37.79203696,
+					175.15689715
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					175.15689715,
+					-37.79203696
+				]
+			},
+			"place": {
+				"id": "00843a0140de6e2d",
+				"url": "https://api.twitter.com/1.1/geo/id/00843a0140de6e2d.json",
+				"place_type": "city",
+				"name": "Waikato District",
+				"full_name": "Waikato District, New Zealand",
+				"country_code": "NZ",
+				"country": "New Zealand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								174.657743,
+								-38.01589
+							],
+							[
+								175.544166,
+								-38.01589
+							],
+							[
+								175.544166,
+								-37.015675
+							],
+							[
+								174.657743,
+								-37.015675
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 21 06:28:27 +0000 2018",
+		"id": 966197909774651400,
+		"id_str": "966197909774651394",
+		"text": "@grabe @KayOddone You can even do better/cheaper with the educators who run @ReclaimHosting https://t.co/yjDeDpoemv Insanely great service",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grabe",
+					"name": "grabe",
+					"id": 14868654,
+					"id_str": "14868654",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "KayOddone",
+					"name": "Kay Oddone",
+					"id": 8759292,
+					"id_str": "8759292",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						76,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yjDeDpoemv",
+					"expanded_url": "http://reclaimhosting.com",
+					"display_url": "reclaimhosting.com",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 966169732737941500,
+		"in_reply_to_status_id_str": "966169732737941504",
+		"in_reply_to_user_id": 14868654,
+		"in_reply_to_user_id_str": "14868654",
+		"in_reply_to_screen_name": "grabe",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10453,
+			"friends_count": 1434,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 744,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 21 02:12:35 +0000 2018",
 		"id": 966133519457005600,
 		"id_str": "966133519457005568",

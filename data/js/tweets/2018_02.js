@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 16:38:20 +0000 2018",
+		"id": 966713779080724500,
+		"id_str": "966713779080724480",
+		"text": "It's yet another \"Daily ______\" The #muraludg project will run a series of \"Daily Openers\" to open discussion about… https://t.co/2TDFkwQElD",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "muraludg",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2TDFkwQElD",
+					"expanded_url": "https://twitter.com/i/web/status/966713779080724480",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10453,
+			"friends_count": 1435,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 744,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 966625885984997400,
+		"quoted_status_id_str": "966625885984997378",
+		"quoted_status": {
+			"created_at": "Thu Feb 22 10:49:04 +0000 2018",
+			"id": 966625885984997400,
+			"id_str": "966625885984997378",
+			"text": "Daily Opener #opener2 Random Trip With Wikivoyage https://t.co/9wA2PQKGfs #muraludg https://t.co/L8oR2hjWnp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "opener2",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"text": "muraludg",
+						"indices": [
+							74,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9wA2PQKGfs",
+						"expanded_url": "http://dlvr.it/QHMfwW",
+						"display_url": "dlvr.it/QHMfwW",
+						"indices": [
+							50,
+							73
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 966625883527106600,
+						"id_str": "966625883527106560",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DWolHqJU0AAHQVO.png",
+						"media_url_https": "https://pbs.twimg.com/media/DWolHqJU0AAHQVO.png",
+						"url": "https://t.co/L8oR2hjWnp",
+						"display_url": "pic.twitter.com/L8oR2hjWnp",
+						"expanded_url": "https://twitter.com/muraludg/status/966625885984997378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 542,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 542,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966625883527106600,
+						"id_str": "966625883527106560",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DWolHqJU0AAHQVO.png",
+						"media_url_https": "https://pbs.twimg.com/media/DWolHqJU0AAHQVO.png",
+						"url": "https://t.co/L8oR2hjWnp",
+						"display_url": "pic.twitter.com/L8oR2hjWnp",
+						"expanded_url": "https://twitter.com/muraludg/status/966625885984997378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 542,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 542,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 959899165202395100,
+				"id_str": "959899165202395136",
+				"name": "Mural UDG",
+				"screen_name": "muraludg",
+				"location": "Guadalajara, Jalisco",
+				"description": "Advanced Certificate in Innovation and Open Education at the University of Guadalajara",
+				"url": "https://t.co/eRrNWLgdGX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eRrNWLgdGX",
+								"expanded_url": "https://muraludg.org/",
+								"display_url": "muraludg.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 14,
+				"listed_count": 0,
+				"created_at": "Sat Feb 03 21:19:29 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": -21600,
+				"time_zone": "Mexico City",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960979879083745281/1RT4tTcD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960979879083745281/1RT4tTcD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/959899165202395136/1517693562",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 22 15:56:07 +0000 2018",
 		"id": 966703156888453100,
 		"id_str": "966703156888453123",

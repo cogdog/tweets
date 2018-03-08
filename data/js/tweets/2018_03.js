@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 08 18:07:07 +0000 2018",
+		"id": 971809551422050300,
+		"id_str": "971809551422050304",
+		"text": "The #muraludg Mural of Women is filling the space #iwd2018 https://t.co/thaAErsvLE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "muraludg",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "iwd2018",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 971809528139231200,
+					"id_str": "971809528139231232",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXyPnfIUMAA_iNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXyPnfIUMAA_iNF.jpg",
+					"url": "https://t.co/thaAErsvLE",
+					"display_url": "pic.twitter.com/thaAErsvLE",
+					"expanded_url": "https://twitter.com/cogdog/status/971809551422050304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971809528139231200,
+					"id_str": "971809528139231232",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXyPnfIUMAA_iNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXyPnfIUMAA_iNF.jpg",
+					"url": "https://t.co/thaAErsvLE",
+					"display_url": "pic.twitter.com/thaAErsvLE",
+					"expanded_url": "https://twitter.com/cogdog/status/971809551422050304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 971809536775344100,
+					"id_str": "971809536775344128",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXyPn_TU0AAJA2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXyPn_TU0AAJA2Y.jpg",
+					"url": "https://t.co/thaAErsvLE",
+					"display_url": "pic.twitter.com/thaAErsvLE",
+					"expanded_url": "https://twitter.com/cogdog/status/971809551422050304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 971809545759567900,
+					"id_str": "971809545759567872",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXyPogxVMAAlo1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXyPogxVMAAlo1k.jpg",
+					"url": "https://t.co/thaAErsvLE",
+					"display_url": "pic.twitter.com/thaAErsvLE",
+					"expanded_url": "https://twitter.com/cogdog/status/971809551422050304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10469,
+			"friends_count": 1436,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 746,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 08 17:40:13 +0000 2018",
+		"id": 971802783589400600,
+		"id_str": "971802783589400576",
+		"text": "Wonderful art appearing in #muraludg Mural of Women https://t.co/fWNjpQjppH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "muraludg",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 971802777428025300,
+					"id_str": "971802777428025344",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DXyJeixV4AAr1UP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXyJeixV4AAr1UP.jpg",
+					"url": "https://t.co/fWNjpQjppH",
+					"display_url": "pic.twitter.com/fWNjpQjppH",
+					"expanded_url": "https://twitter.com/cogdog/status/971802783589400576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971802777428025300,
+					"id_str": "971802777428025344",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DXyJeixV4AAr1UP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXyJeixV4AAr1UP.jpg",
+					"url": "https://t.co/fWNjpQjppH",
+					"display_url": "pic.twitter.com/fWNjpQjppH",
+					"expanded_url": "https://twitter.com/cogdog/status/971802783589400576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10469,
+			"friends_count": 1436,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 746,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 08 17:35:35 +0000 2018",
+		"id": 971801616897708000,
+		"id_str": "971801616897708032",
+		"text": "#LMSWomenStockPhotos is a micro industry https://t.co/yqvtpO7iAe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LMSWomenStockPhotos",
+					"indices": [
+						0,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yqvtpO7iAe",
+					"expanded_url": "https://twitter.com/patlockley/status/971801229818032131",
+					"display_url": "twitter.com/patlockley/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10469,
+			"friends_count": 1436,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 746,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 971801229818032100,
+		"quoted_status_id_str": "971801229818032131",
+		"quoted_status": {
+			"created_at": "Thu Mar 08 17:34:03 +0000 2018",
+			"id": 971801229818032100,
+			"id_str": "971801229818032131",
+			"text": "So canvas did an IWD blog\nMoodle did an IWD blog\n\nhttps://t.co/EM1KWhPn6Z\n\nhttps://t.co/WluuzQkjak\n\nThe stock photo… https://t.co/3VA9m1ndvk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EM1KWhPn6Z",
+						"expanded_url": "https://blog.canvaslms.com/en-eu/pressing-progress-international-womens-day",
+						"display_url": "blog.canvaslms.com/en-eu/pressing…",
+						"indices": [
+							50,
+							73
+						]
+					},
+					{
+						"url": "https://t.co/WluuzQkjak",
+						"expanded_url": "https://moodle.com/community/international-womens-day-moodle/",
+						"display_url": "moodle.com/community/inte…",
+						"indices": [
+							75,
+							98
+						]
+					},
+					{
+						"url": "https://t.co/3VA9m1ndvk",
+						"expanded_url": "https://twitter.com/i/web/status/971801229818032131",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18833145,
+				"id_str": "18833145",
+				"name": "patlockley is supporting the strike",
+				"screen_name": "patlockley",
+				"location": "",
+				"description": "Awhimoway Awhimoway in the jungle the mighty jungle. One half (Gilbert) of conceptual artwork Gilbert and Gorge with @urbaneprofessor",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1814,
+				"friends_count": 710,
+				"listed_count": 171,
+				"created_at": "Sat Jan 10 12:30:10 +0000 2009",
+				"favourites_count": 360,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 119266,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000148500913/thgayYls.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000148500913/thgayYls.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000381392643/777e9a07382895103ebddaf602c37be1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000381392643/777e9a07382895103ebddaf602c37be1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18833145/1398204359",
+				"profile_link_color": "1100FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 08 17:04:21 +0000 2018",
 		"id": 971793755643809800,
 		"id_str": "971793755643809792",

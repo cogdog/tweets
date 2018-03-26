@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 26 21:11:35 +0000 2018",
+		"id": 978378955987157000,
+		"id_str": "978378955987156992",
+		"text": "SPLOT! https://t.co/WnuTsfoBZv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WnuTsfoBZv",
+					"expanded_url": "https://twitter.com/brlamb/status/978378094158336000",
+					"display_url": "twitter.com/brlamb/status/…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1438,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 748,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 978378094158336000,
+		"quoted_status_id_str": "978378094158336000",
+		"quoted_status": {
+			"created_at": "Mon Mar 26 21:08:09 +0000 2018",
+			"id": 978378094158336000,
+			"id_str": "978378094158336000",
+			"text": "How cool is this? @ammienoot is rolling out #myTRU Wikigames! https://t.co/gVoLIoybk3 https://t.co/WZ5msIUQHw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "myTRU",
+						"indices": [
+							44,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ammienoot",
+						"name": "Anne-Marie Scott",
+						"id": 22673907,
+						"id_str": "22673907",
+						"indices": [
+							18,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gVoLIoybk3",
+						"expanded_url": "https://ammienoot.com/tru-wikigames",
+						"display_url": "ammienoot.com/tru-wikigames",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 978378088445747200,
+						"id_str": "978378088445747200",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DZPlsBHVoAAE3sU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZPlsBHVoAAE3sU.jpg",
+						"url": "https://t.co/WZ5msIUQHw",
+						"display_url": "pic.twitter.com/WZ5msIUQHw",
+						"expanded_url": "https://twitter.com/brlamb/status/978378094158336000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 978378088445747200,
+						"id_str": "978378088445747200",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DZPlsBHVoAAE3sU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZPlsBHVoAAE3sU.jpg",
+						"url": "https://t.co/WZ5msIUQHw",
+						"display_url": "pic.twitter.com/WZ5msIUQHw",
+						"expanded_url": "https://twitter.com/brlamb/status/978378094158336000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 745903,
+				"id_str": "745903",
+				"name": "Brian Lamb",
+				"screen_name": "brlamb",
+				"location": "Kamloops, Canada",
+				"description": "Blind rage tempered by gentle incoherence. I'm a Re-Director of Innovation at Thompson Rivers University. Bombastic drummer. Displaced noise farmer.",
+				"url": "https://t.co/rljBnT2Sgb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rljBnT2Sgb",
+								"expanded_url": "http://abject.ca",
+								"display_url": "abject.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4917,
+				"friends_count": 2905,
+				"listed_count": 321,
+				"created_at": "Fri Feb 02 02:43:12 +0000 2007",
+				"favourites_count": 9659,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15974,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "539BB4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45772/HandOfDoom.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45772/HandOfDoom.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963979340542197760/-5Dh3ULA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963979340542197760/-5Dh3ULA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/745903/1354167636",
+				"profile_link_color": "539BB4",
+				"profile_sidebar_border_color": "080D01",
+				"profile_sidebar_fill_color": "E6EBDB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 26 19:42:32 +0000 2018",
 		"id": 978356548954071000,
 		"id_str": "978356548954071040",

@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 02 07:05:14 +0000 2018",
+		"id": 980702682292760600,
+		"id_str": "980702682292760576",
+		"text": "An extraordinary production, intiatated and carried out by open participants in #netnarr \n\nI bet your MOOC just sti… https://t.co/Xs0ogwAuBz",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xs0ogwAuBz",
+					"expanded_url": "https://twitter.com/i/web/status/980702682292760576",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10493,
+			"friends_count": 1439,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 749,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 980693866973032400,
+		"quoted_status_id_str": "980693866973032449",
+		"quoted_status": {
+			"created_at": "Mon Apr 02 06:30:12 +0000 2018",
+			"id": 980693866973032400,
+			"id_str": "980693866973032449",
+			"text": "A Museum of Digital Life. Thanks @dogtrax @NomadWarMachine @Todd_Conaway @EatcherVeggies and many more in #Netnarr… https://t.co/swt1qqwoIK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Netnarr",
+						"indices": [
+							106,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dogtrax",
+						"name": "KevinHodgson",
+						"id": 13307352,
+						"id_str": "13307352",
+						"indices": [
+							33,
+							41
+						]
+					},
+					{
+						"screen_name": "NomadWarMachine",
+						"name": "Sarah Honeychurch",
+						"id": 558091832,
+						"id_str": "558091832",
+						"indices": [
+							42,
+							58
+						]
+					},
+					{
+						"screen_name": "Todd_Conaway",
+						"name": "Todd Conaway",
+						"id": 7664302,
+						"id_str": "7664302",
+						"indices": [
+							59,
+							72
+						]
+					},
+					{
+						"screen_name": "EatcherVeggies",
+						"name": "Moshie🐝",
+						"id": 45637368,
+						"id_str": "45637368",
+						"indices": [
+							73,
+							88
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/swt1qqwoIK",
+						"expanded_url": "https://twitter.com/i/web/status/980693866973032449",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1072328905,
+				"id_str": "1072328905",
+				"name": "Wendy Taleo",
+				"screen_name": "wentale",
+				"location": "Australia",
+				"description": "Learning Technologist | #CDUni |  #OUStudent #TELedvisors | #VoiceThread Certified Educator | The University of Everywhere | Poetry | Crochet | Music",
+				"url": "https://t.co/Bp5Dl84oi4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bp5Dl84oi4",
+								"expanded_url": "http://about.me/wen.ta",
+								"display_url": "about.me/wen.ta",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1082,
+				"friends_count": 1528,
+				"listed_count": 139,
+				"created_at": "Tue Jan 08 23:36:09 +0000 2013",
+				"favourites_count": 9899,
+				"utc_offset": 34200,
+				"time_zone": "Darwin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7405,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774141594383429632/VCWNbSwk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774141594383429632/VCWNbSwk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072328905/1479686150",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 02 03:20:45 +0000 2018",
 		"id": 980646186347479000,
 		"id_str": "980646186347479040",

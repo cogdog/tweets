@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 13 02:22:18 +0000 2018",
+		"id": 984617744242040800,
+		"id_str": "984617744242040832",
+		"text": "Still have my 100Mb Zip disks and a later USB reader. Lost the SyQuest drive https://t.co/bDmrnZb4wu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bDmrnZb4wu",
+					"expanded_url": "https://twitter.com/KeithRParsons/status/984280397650378757",
+					"display_url": "twitter.com/KeithRParsons/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10494,
+			"friends_count": 1439,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 750,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 984280397650378800,
+		"quoted_status_id_str": "984280397650378757",
+		"quoted_status": {
+			"created_at": "Thu Apr 12 04:01:48 +0000 2018",
+			"id": 984280397650378800,
+			"id_str": "984280397650378757",
+			"text": "RT if you ever had one of these… https://t.co/8BTTAw2vVy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984280377714864100,
+						"id_str": "984280377714864128",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DajdyeEU8AAi3al.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DajdyeEU8AAi3al.jpg",
+						"url": "https://t.co/8BTTAw2vVy",
+						"display_url": "pic.twitter.com/8BTTAw2vVy",
+						"expanded_url": "https://twitter.com/KeithRParsons/status/984280397650378757/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1510,
+								"h": 1051,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 835,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984280377714864100,
+						"id_str": "984280377714864128",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DajdyeEU8AAi3al.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DajdyeEU8AAi3al.jpg",
+						"url": "https://t.co/8BTTAw2vVy",
+						"display_url": "pic.twitter.com/8BTTAw2vVy",
+						"expanded_url": "https://twitter.com/KeithRParsons/status/984280397650378757/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1510,
+								"h": 1051,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 835,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17860906,
+				"id_str": "17860906",
+				"name": "Keith R. Parsons",
+				"screen_name": "KeithRParsons",
+				"location": "Utah, USA",
+				"description": "Husband, Father, Teacher, Geek - Wifi, WLAN, Wireless, Travel, Gadgets, Networking, CWNE#3, 60+ network certifications, speaker",
+				"url": "http://t.co/uRgU76p2xu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uRgU76p2xu",
+								"expanded_url": "http://WirelessLANProfessionals.com",
+								"display_url": "WirelessLANProfessionals.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9725,
+				"friends_count": 1428,
+				"listed_count": 382,
+				"created_at": "Thu Dec 04 05:16:59 +0000 2008",
+				"favourites_count": 115,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "13738E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/72584565/KeithParson-TweetPage.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/72584565/KeithParson-TweetPage.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704369851171786752/RBOOGtf7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704369851171786752/RBOOGtf7_normal.jpg",
+				"profile_link_color": "13738E",
+				"profile_sidebar_border_color": "13738E",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "383838",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01864a8a64df9dc4",
+				"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+				"place_type": "city",
+				"name": "Melbourne",
+				"full_name": "Melbourne, Victoria",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								144.593741856,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-37.5112737225
+							],
+							[
+								144.593741856,
+								-37.5112737225
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1361,
+			"favorite_count": 1087,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 12 22:21:40 +0000 2018",
 		"id": 984557186922594300,
 		"id_str": "984557186922594304",

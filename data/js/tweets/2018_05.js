@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 05 14:22:45 +0000 2018",
+		"id": 992771584296271900,
+		"id_str": "992771584296271874",
+		"text": "RT @hailmika: I thought you might like this visualization of the terms and conditions of the different apps @pop_stefanija #vk18 https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vk18",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hailmika",
+					"name": "Mika",
+					"id": 156471512,
+					"id_str": "156471512",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "pop_stefanija",
+					"name": "Pop Stefanija",
+					"id": 258830782,
+					"id_str": "258830782",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10509,
+			"friends_count": 1443,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 752,
+			"utc_offset": -25200,
+			"time_zone": "Arizona",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 13:12:51 +0000 2018",
+			"id": 992391607302451200,
+			"id_str": "992391607302451200",
+			"text": "I thought you might like this visualization of the terms and conditions of the different apps @pop_stefanija #vk18 https://t.co/KzFXpPyOpy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vk18",
+						"indices": [
+							109,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pop_stefanija",
+						"name": "Pop Stefanija",
+						"id": 258830782,
+						"id_str": "258830782",
+						"indices": [
+							94,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 992391561886535700,
+						"id_str": "992391561886535681",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DcWu3hxXkAEGmcU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcWu3hxXkAEGmcU.jpg",
+						"url": "https://t.co/KzFXpPyOpy",
+						"display_url": "pic.twitter.com/KzFXpPyOpy",
+						"expanded_url": "https://twitter.com/hailmika/status/992391607302451200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 992391561886535700,
+						"id_str": "992391561886535681",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DcWu3hxXkAEGmcU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcWu3hxXkAEGmcU.jpg",
+						"url": "https://t.co/KzFXpPyOpy",
+						"display_url": "pic.twitter.com/KzFXpPyOpy",
+						"expanded_url": "https://twitter.com/hailmika/status/992391607302451200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156471512,
+				"id_str": "156471512",
+				"name": "Mika",
+				"screen_name": "hailmika",
+				"location": "From 🇵🇭 to 🇩🇰",
+				"description": "Design Voyager: I use my global perspective in my designs | Thesis: How Can AI and Design Improve City Life?",
+				"url": "https://t.co/A4fS3vNEVG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A4fS3vNEVG",
+								"expanded_url": "http://www.mika.design",
+								"display_url": "mika.design",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 411,
+				"friends_count": 333,
+				"listed_count": 25,
+				"created_at": "Thu Jun 17 01:30:45 +0000 2010",
+				"favourites_count": 3994,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4102,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933643413643235328/9uGQ7TTt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933643413643235328/9uGQ7TTt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156471512/1482992244",
+				"profile_link_color": "6FCACF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3115,
+			"favorite_count": 5241,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3115,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 05 13:49:15 +0000 2018",
 		"id": 992763153753587700,
 		"id_str": "992763153753587712",

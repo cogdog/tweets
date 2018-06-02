@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 02 03:20:13 +0000 2018",
+		"id": 1002751711906291700,
+		"id_str": "1002751711906291713",
+		"text": "The vows were perfect, and the crab dip tasty, and i do not tweet well on @corisaas ‘s photos phone https://t.co/JhUjpE44El",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corisaas",
+					"name": "Cori Saas",
+					"id": 69189398,
+					"id_str": "69189398",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JhUjpE44El",
+					"expanded_url": "https://twitter.com/corisaas/status/1002750772663201792",
+					"display_url": "twitter.com/corisaas/statu…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 1446,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1002750772663201800,
+		"quoted_status_id_str": "1002750772663201792",
+		"quoted_status": {
+			"created_at": "Sat Jun 02 03:16:29 +0000 2018",
+			"id": 1002750772663201800,
+			"id_str": "1002750772663201792",
+			"text": "We did a thing #alanandcori https://t.co/4aNB2EmlfL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "alanandcori",
+						"indices": [
+							15,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002750765205557200,
+						"id_str": "1002750765205557249",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/Dep8ghZUEAEE6mS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dep8ghZUEAEE6mS.jpg",
+						"url": "https://t.co/4aNB2EmlfL",
+						"display_url": "pic.twitter.com/4aNB2EmlfL",
+						"expanded_url": "https://twitter.com/corisaas/status/1002750772663201792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1538,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002750765205557200,
+						"id_str": "1002750765205557249",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/Dep8ghZUEAEE6mS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dep8ghZUEAEE6mS.jpg",
+						"url": "https://t.co/4aNB2EmlfL",
+						"display_url": "pic.twitter.com/4aNB2EmlfL",
+						"expanded_url": "https://twitter.com/corisaas/status/1002750772663201792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1538,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69189398,
+				"id_str": "69189398",
+				"name": "Cori Saas",
+				"screen_name": "corisaas",
+				"location": "sk, canada ",
+				"description": "adventurer, mom, friend, student, educator, storier.",
+				"url": "http://t.co/FYoK4NPFWz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FYoK4NPFWz",
+								"expanded_url": "http://www.coyotechalk.com",
+								"display_url": "coyotechalk.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1040,
+				"friends_count": 1186,
+				"listed_count": 62,
+				"created_at": "Thu Aug 27 03:33:12 +0000 2009",
+				"favourites_count": 8128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/655980191232069632/ub2MC4Xd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/655980191232069632/ub2MC4Xd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69189398/1370191103",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 01 22:15:06 +0000 2018",
 		"id": 1002674926791295000,
 		"id_str": "1002674926791294976",

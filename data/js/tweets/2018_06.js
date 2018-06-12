@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 12 17:52:57 +0000 2018",
+		"id": 1006595224108458000,
+		"id_str": "1006595224108457986",
+		"text": "Just finished recording a conversation with @dendroglyph about the @ontarioextend Scholar Module, to be blog publis… https://t.co/dkp2Fl6wlz",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dendroglyph",
+					"name": "David Porter",
+					"id": 15170764,
+					"id_str": "15170764",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dkp2Fl6wlz",
+					"expanded_url": "https://twitter.com/i/web/status/1006595224108457986",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10552,
+			"friends_count": 1450,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 12 17:41:23 +0000 2018",
+		"id": 1006592312170958800,
+		"id_str": "1006592312170958855",
+		"text": "@wiobyrne @actualham @calimorrison @econproph @Bali_Maha @tjoosten @Autumm @drgong @OnlineCrsLady @holden… https://t.co/nXwumlTEz4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wiobyrne",
+					"name": "William Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "calimorrison",
+					"name": "Cali Morrison, Ed.D.",
+					"id": 22952939,
+					"id_str": "22952939",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "econproph",
+					"name": "Jim Luke really needs a new longer name",
+					"id": 26559701,
+					"id_str": "26559701",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي 🌷",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "tjoosten",
+					"name": "Tanya Joosten",
+					"id": 25520985,
+					"id_str": "25520985",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"screen_name": "drgong",
+					"name": "Regina Gong",
+					"id": 19430162,
+					"id_str": "19430162",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield is tired, so tired.",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nXwumlTEz4",
+					"expanded_url": "https://twitter.com/i/web/status/1006592312170958855",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1006555246796070900,
+		"in_reply_to_status_id_str": "1006555246796070912",
+		"in_reply_to_user_id": 88676762,
+		"in_reply_to_user_id_str": "88676762",
+		"in_reply_to_screen_name": "wiobyrne",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10552,
+			"friends_count": 1450,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 12 17:30:19 +0000 2018",
+		"id": 1006589528738619400,
+		"id_str": "1006589528738619393",
+		"text": "@actualham @calimorrison @econproph @Bali_Maha @tjoosten @wiobyrne @Autumm @drgong @OnlineCrsLady @holden… https://t.co/oxyrQRFv0a",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "calimorrison",
+					"name": "Cali Morrison, Ed.D.",
+					"id": 22952939,
+					"id_str": "22952939",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "econproph",
+					"name": "Jim Luke really needs a new longer name",
+					"id": 26559701,
+					"id_str": "26559701",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي 🌷",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "tjoosten",
+					"name": "Tanya Joosten",
+					"id": 25520985,
+					"id_str": "25520985",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "William Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"screen_name": "drgong",
+					"name": "Regina Gong",
+					"id": 19430162,
+					"id_str": "19430162",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield is tired, so tired.",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oxyrQRFv0a",
+					"expanded_url": "https://twitter.com/i/web/status/1006589528738619393",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1006106891221549000,
+		"in_reply_to_status_id_str": "1006106891221549057",
+		"in_reply_to_user_id": 2182862052,
+		"in_reply_to_user_id_str": "2182862052",
+		"in_reply_to_screen_name": "actualham",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10552,
+			"friends_count": 1450,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 12 14:35:43 +0000 2018",
 		"id": 1006545589709033500,
 		"id_str": "1006545589709033480",

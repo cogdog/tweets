@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 16:50:02 +0000 2018",
+		"id": 1009478491111338000,
+		"id_str": "1009478491111337988",
+		"text": "RT @soledadobrien: You're a Senator, sir. You can do more than just tweet. https://t.co/kRXWlrdFQG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soledadobrien",
+					"name": "Soledad O'Brien",
+					"id": 26548315,
+					"id_str": "26548315",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kRXWlrdFQG",
+					"expanded_url": "https://twitter.com/jeffflake/status/1009403593936506880",
+					"display_url": "twitter.com/jeffflake/stat…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1447,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85899,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 13:25:30 +0000 2018",
+			"id": 1009427021485760500,
+			"id_str": "1009427021485760512",
+			"text": "You're a Senator, sir. You can do more than just tweet. https://t.co/kRXWlrdFQG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kRXWlrdFQG",
+						"expanded_url": "https://twitter.com/jeffflake/status/1009403593936506880",
+						"display_url": "twitter.com/jeffflake/stat…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26548315,
+				"id_str": "26548315",
+				"name": "Soledad O'Brien",
+				"screen_name": "soledadobrien",
+				"location": " New York",
+				"description": "CEO StarfishMedia. Host: @MatterofFacttv this weekend! https://t.co/XSrdriqWbJ Producer of many things including 4 kids. I ❤️wine and horses.",
+				"url": "https://t.co/zhCLNXZOfK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zhCLNXZOfK",
+								"expanded_url": "http://www.starfishmediagroup.com",
+								"display_url": "starfishmediagroup.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XSrdriqWbJ",
+								"expanded_url": "http://matteroffact.tv/on-tv/",
+								"display_url": "matteroffact.tv/on-tv/",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 845782,
+				"friends_count": 457041,
+				"listed_count": 9491,
+				"created_at": "Wed Mar 25 17:50:59 +0000 2009",
+				"favourites_count": 6246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57064,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080E1C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/807332626449068033/PZizLFnd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/807332626449068033/PZizLFnd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26548315/1481318074",
+				"profile_link_color": "092B9C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D0DBDB",
+				"profile_text_color": "0A010A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1009403593936506900,
+			"quoted_status_id_str": "1009403593936506880",
+			"quoted_status": {
+				"created_at": "Wed Jun 20 11:52:25 +0000 2018",
+				"id": 1009403593936506900,
+				"id_str": "1009403593936506880",
+				"text": "\"Tender Age\" shelters for toddlers? This gets even worse as the layers are peeled back. End the policy, Mr. Preside… https://t.co/ZFRWi5Fgcj",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ZFRWi5Fgcj",
+							"expanded_url": "https://twitter.com/i/web/status/1009403593936506880",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 16056306,
+					"id_str": "16056306",
+					"name": "Jeff Flake",
+					"screen_name": "JeffFlake",
+					"location": "Mesa, AZ",
+					"description": "Senator from Arizona",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 586488,
+					"friends_count": 215,
+					"listed_count": 3561,
+					"created_at": "Sat Aug 30 17:00:58 +0000 2008",
+					"favourites_count": 38,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 2600,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3088681915/62adc90774fc399d3722e3df422994ba_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3088681915/62adc90774fc399d3722e3df422994ba_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/16056306/1363359251",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2365,
+				"favorite_count": 6668,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1051,
+			"favorite_count": 4379,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1009403593936506900,
+		"quoted_status_id_str": "1009403593936506880",
+		"retweet_count": 1051,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 20 15:26:50 +0000 2018",
 		"id": 1009457553846173700,
 		"id_str": "1009457553846173696",

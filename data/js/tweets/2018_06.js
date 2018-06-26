@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 26 18:40:58 +0000 2018",
+		"id": 1011680735827255300,
+		"id_str": "1011680735827255298",
+		"text": "@LynnCartan @ontarioextend @PDCutup Woah thanks for sharing Freemix....",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LynnCartan",
+					"name": "Lynn Cartan",
+					"id": 967935351581966300,
+					"id_str": "967935351581966337",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "PDCutup",
+					"name": "Public Domain Cut-Up",
+					"id": 829891463769112600,
+					"id_str": "829891463769112577",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1011649307274108900,
+		"in_reply_to_status_id_str": "1011649307274108928",
+		"in_reply_to_user_id": 967935351581966300,
+		"in_reply_to_user_id_str": "967935351581966337",
+		"in_reply_to_screen_name": "LynnCartan",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10556,
+			"friends_count": 1446,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 26 18:40:23 +0000 2018",
+		"id": 1011680588389146600,
+		"id_str": "1011680588389146627",
+		"text": "@ontarioextend #oext215 Best seat at the Grotto room is near the Subterranean Roundhouse Dancers. Alt version of… https://t.co/ecCODP2rww",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oext215",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ecCODP2rww",
+					"expanded_url": "https://twitter.com/i/web/status/1011680588389146627",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 885339669457776600,
+		"in_reply_to_user_id_str": "885339669457776641",
+		"in_reply_to_screen_name": "ontarioextend",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Strawberry, Arizona",
+			"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70Ze4em",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10556,
+			"friends_count": 1446,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1011511207692587000,
+		"quoted_status_id_str": "1011511207692587008",
+		"quoted_status": {
+			"created_at": "Tue Jun 26 07:27:19 +0000 2018",
+			"id": 1011511207692587000,
+			"id_str": "1011511207692587008",
+			"text": "NYPL: Grottos, Caverns, Grunewald Hotel, Ne..\nhttps://t.co/xR8zPG0HyC\nMET: Dance in a Subterranean Roundhouse at..… https://t.co/yKYN6vHoUT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xR8zPG0HyC",
+						"expanded_url": "https://digitalcollections.nypl.org/items/1195a1c0-c631-012f-5e80-58d385a7bc34",
+						"display_url": "digitalcollections.nypl.org/items/1195a1c0…",
+						"indices": [
+							46,
+							69
+						]
+					},
+					{
+						"url": "https://t.co/yKYN6vHoUT",
+						"expanded_url": "https://twitter.com/i/web/status/1011511207692587008",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.nypl.org/publicdomain\" rel=\"nofollow\">PDCut-up</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 829891463769112600,
+				"id_str": "829891463769112577",
+				"name": "Public Domain Cut-Up",
+				"screen_name": "PDCutup",
+				"location": "New York, NY",
+				"description": "I'm a little bot creating cut-up collage from the NYPL and MET public domain images. All images CC0. I tweet every 4 hours. By @thisismmiller",
+				"url": "https://t.co/ihOTHsilPN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ihOTHsilPN",
+								"expanded_url": "https://medium.com/@thisismattmiller/public-domain-cut-up-bot-9b0d77cce7a8",
+								"display_url": "medium.com/@thisismattmil…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 274,
+				"friends_count": 0,
+				"listed_count": 19,
+				"created_at": "Fri Feb 10 03:15:18 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2632,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829919469711478784/Hlf6Px6q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829919469711478784/Hlf6Px6q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/829891463769112577/1486703162",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 26 13:13:53 +0000 2018",
 		"id": 1011598422330273800,
 		"id_str": "1011598422330273792",

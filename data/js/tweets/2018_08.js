@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 10 13:56:40 +0000 2018",
+		"id": 1027916645564657700,
+		"id_str": "1027916645564657665",
+		"text": "Sometimes when searching for open licensed images (looking for a shock wave) I find the oddest things-- and then re… https://t.co/zgb7MKzjTc",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zgb7MKzjTc",
+					"expanded_url": "https://twitter.com/i/web/status/1027916645564657665",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10317,
+			"friends_count": 1447,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 10 13:46:03 +0000 2018",
+		"id": 1027913973667180500,
+		"id_str": "1027913973667180544",
+		"text": "RT @clickbaitrobot: Most Younger People Won't Even Have A Clue What This Is. Share If You Know. https://t.co/QspytJy2D5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clickbaitrobot",
+					"name": "Clickbait Robot",
+					"id": 3532810277,
+					"id_str": "3532810277",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027913867370881000,
+					"id_str": "1027913867370881026",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+					"url": "https://t.co/QspytJy2D5",
+					"display_url": "pic.twitter.com/QspytJy2D5",
+					"expanded_url": "https://twitter.com/clickbaitrobot/status/1027913869044461568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1038,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027913869044461600,
+					"source_status_id_str": "1027913869044461568",
+					"source_user_id": 3532810277,
+					"source_user_id_str": "3532810277"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027913867370881000,
+					"id_str": "1027913867370881026",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+					"url": "https://t.co/QspytJy2D5",
+					"display_url": "pic.twitter.com/QspytJy2D5",
+					"expanded_url": "https://twitter.com/clickbaitrobot/status/1027913869044461568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1038,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027913869044461600,
+					"source_status_id_str": "1027913869044461568",
+					"source_user_id": 3532810277,
+					"source_user_id_str": "3532810277"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10317,
+			"friends_count": 1447,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 10 13:45:38 +0000 2018",
+			"id": 1027913869044461600,
+			"id_str": "1027913869044461568",
+			"text": "Most Younger People Won't Even Have A Clue What This Is. Share If You Know. https://t.co/QspytJy2D5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027913867370881000,
+						"id_str": "1027913867370881026",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+						"url": "https://t.co/QspytJy2D5",
+						"display_url": "pic.twitter.com/QspytJy2D5",
+						"expanded_url": "https://twitter.com/clickbaitrobot/status/1027913869044461568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 973,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 551,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027913867370881000,
+						"id_str": "1027913867370881026",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkPiN1xW4AIDskF.jpg",
+						"url": "https://t.co/QspytJy2D5",
+						"display_url": "pic.twitter.com/QspytJy2D5",
+						"expanded_url": "https://twitter.com/clickbaitrobot/status/1027913869044461568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 973,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 551,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://b3ta.com\" rel=\"nofollow\">clickbaitrobot2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3532810277,
+				"id_str": "3532810277",
+				"name": "Clickbait Robot",
+				"screen_name": "clickbaitrobot",
+				"location": "clickbaitrobot.tumblr.com",
+				"description": "Bot Made Headlines That Are Less Shit Than The Real Thing. By @robmanuel",
+				"url": "https://t.co/0EmJ0Mt1Ts",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0EmJ0Mt1Ts",
+								"expanded_url": "http://b3ta.com/blog/39-funniest-bits-of-clickbait-written-by-a-bot/",
+								"display_url": "b3ta.com/blog/39-funnie…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10775,
+				"friends_count": 1,
+				"listed_count": 187,
+				"created_at": "Thu Sep 03 09:59:28 +0000 2015",
+				"favourites_count": 79495,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11407,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876499373798166529/1rWCUvkt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876499373798166529/1rWCUvkt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3532810277/1489711403",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 10 04:09:40 +0000 2018",
 		"id": 1027768919803797500,
 		"id_str": "1027768919803797504",

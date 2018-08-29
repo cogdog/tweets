@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 29 23:10:33 +0000 2018",
+		"id": 1034941402264875000,
+		"id_str": "1034941402264875008",
+		"text": "@NeverSettleIT @colinmadland @timmmmyboy @twoodwar @grantpotter @TroyWelch1 Thanks, but we clicked the update butto… https://t.co/g66wN9wsD2",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeverSettleIT",
+					"name": "🅽🅴🆅🅴🆁 🆂🅴🆃🆃🅻🅴",
+					"id": 891857875,
+					"id_str": "891857875",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "colinmadland",
+					"name": "Colin Madland",
+					"id": 81038069,
+					"id_str": "81038069",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "TroyWelch1",
+					"name": "Troy Welch",
+					"id": 331120877,
+					"id_str": "331120877",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g66wN9wsD2",
+					"expanded_url": "https://twitter.com/i/web/status/1034941402264875008",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1034939530242138100,
+		"in_reply_to_status_id_str": "1034939530242138119",
+		"in_reply_to_user_id": 891857875,
+		"in_reply_to_user_id_str": "891857875",
+		"in_reply_to_screen_name": "NeverSettleIT",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10317,
+			"friends_count": 1446,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 29 22:20:38 +0000 2018",
+		"id": 1034928839430946800,
+		"id_str": "1034928839430946816",
+		"text": "@Pgogy @jimgroom https://t.co/qNZIFH89aZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pgogy",
+					"name": "Pgogy WebStuff",
+					"id": 291323178,
+					"id_str": "291323178",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1034928784598679600,
+					"id_str": "1034928784598679552",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DlzOPw3UwAAK55C.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DlzOPw3UwAAK55C.jpg",
+					"url": "https://t.co/qNZIFH89aZ",
+					"display_url": "pic.twitter.com/qNZIFH89aZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1034928839430946816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1034928784598679600,
+					"id_str": "1034928784598679552",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DlzOPw3UwAAK55C.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DlzOPw3UwAAK55C.jpg",
+					"url": "https://t.co/qNZIFH89aZ",
+					"display_url": "pic.twitter.com/qNZIFH89aZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1034928839430946816/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							159,
+							83
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DlzOPw3UwAAK55C.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1034924978884538400,
+		"in_reply_to_status_id_str": "1034924978884538373",
+		"in_reply_to_user_id": 291323178,
+		"in_reply_to_user_id_str": "291323178",
+		"in_reply_to_screen_name": "Pgogy",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10317,
+			"friends_count": 1446,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Aug 29 19:48:50 +0000 2018",
 		"id": 1034890637844394000,
 		"id_str": "1034890637844393984",

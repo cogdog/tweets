@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 30 13:33:25 +0000 2018",
+		"id": 1035158552548134900,
+		"id_str": "1035158552548134912",
+		"text": "RT @ontarioextend: Daily Extend: #oext280 #oextend Meme Out Your Assertion in one of the Ontario Extend Modules https://t.co/g3GV8U88R6 htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oext280",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "oextend",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g3GV8U88R6",
+					"expanded_url": "http://dlvr.it/QhXyyZ",
+					"display_url": "dlvr.it/QhXyyZ",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10320,
+			"friends_count": 1446,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 30 11:01:05 +0000 2018",
+			"id": 1035120213480460300,
+			"id_str": "1035120213480460289",
+			"text": "Daily Extend: #oext280 #oextend Meme Out Your Assertion in one of the Ontario Extend Modules https://t.co/g3GV8U88R6 https://t.co/6OMKH08obx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oext280",
+						"indices": [
+							14,
+							22
+						]
+					},
+					{
+						"text": "oextend",
+						"indices": [
+							23,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g3GV8U88R6",
+						"expanded_url": "http://dlvr.it/QhXyyZ",
+						"display_url": "dlvr.it/QhXyyZ",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1035120211114963000,
+						"id_str": "1035120211114962944",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Dl18WQNVsAAMdSF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dl18WQNVsAAMdSF.jpg",
+						"url": "https://t.co/6OMKH08obx",
+						"display_url": "pic.twitter.com/6OMKH08obx",
+						"expanded_url": "https://twitter.com/ontarioextend/status/1035120213480460289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 754,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 451,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 754,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1035120211114963000,
+						"id_str": "1035120211114962944",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Dl18WQNVsAAMdSF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dl18WQNVsAAMdSF.jpg",
+						"url": "https://t.co/6OMKH08obx",
+						"display_url": "pic.twitter.com/6OMKH08obx",
+						"expanded_url": "https://twitter.com/ontarioextend/status/1035120213480460289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 754,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 451,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 754,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 885339669457776600,
+				"id_str": "885339669457776641",
+				"name": "OntarioExtend",
+				"screen_name": "ontarioextend",
+				"location": "Toronto, Ontario",
+				"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+				"url": "https://t.co/VrJt2KX1mc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VrJt2KX1mc",
+								"expanded_url": "https://extend.ecampusontario.ca",
+								"display_url": "extend.ecampusontario.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 496,
+				"friends_count": 295,
+				"listed_count": 11,
+				"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+				"favourites_count": 1963,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1469,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 29 23:10:33 +0000 2018",
 		"id": 1034941402264875000,
 		"id_str": "1034941402264875008",

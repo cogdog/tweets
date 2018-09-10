@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 10 21:24:07 +0000 2018",
+		"id": 1039263272418127900,
+		"id_str": "1039263272418127873",
+		"text": "@Bali_Maha @whitneykilgore @Autumm @rjhogue @Profrehn That was an amazing, memorable moment on so many fronts. Than… https://t.co/NDdBB1s2Td",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌷",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "whitneykilgore",
+					"name": "Whitney Kilgore",
+					"id": 12915742,
+					"id_str": "12915742",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "The Autumm with 2 m's",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"screen_name": "rjhogue",
+					"name": "Rebecca Hogue",
+					"id": 63568814,
+					"id_str": "63568814",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"screen_name": "Profrehn",
+					"name": "Andrea Rehn",
+					"id": 1199595018,
+					"id_str": "1199595018",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NDdBB1s2Td",
+					"expanded_url": "https://twitter.com/i/web/status/1039263272418127873",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1039253364436095000,
+		"in_reply_to_status_id_str": "1039253364436094976",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10336,
+			"friends_count": 1447,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 722821717580755000,
+		"quoted_status_id_str": "722821717580754944",
+		"quoted_status": {
+			"created_at": "Wed Apr 20 16:18:21 +0000 2016",
+			"id": 722821717580755000,
+			"id_str": "722821717580754944",
+			"text": "@vconnecting #olcinnovate bringing virtual presenters to the table. https://t.co/xaIQKvU0HU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "olcinnovate",
+						"indices": [
+							13,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VConnecting",
+						"name": "Virtually Connecting conversation not presentation",
+						"id": 3230962884,
+						"id_str": "3230962884",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 722821447719235600,
+						"id_str": "722821447719235584",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/Cgf6RutWsAAVgSw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cgf6RutWsAAVgSw.jpg",
+						"url": "https://t.co/xaIQKvU0HU",
+						"display_url": "pic.twitter.com/xaIQKvU0HU",
+						"expanded_url": "https://twitter.com/rjhogue/status/722821717580754944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 722821447719235600,
+						"id_str": "722821447719235584",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/Cgf6RutWsAAVgSw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cgf6RutWsAAVgSw.jpg",
+						"url": "https://t.co/xaIQKvU0HU",
+						"display_url": "pic.twitter.com/xaIQKvU0HU",
+						"expanded_url": "https://twitter.com/rjhogue/status/722821717580754944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3230962884,
+			"in_reply_to_user_id_str": "3230962884",
+			"in_reply_to_screen_name": "VConnecting",
+			"user": {
+				"id": 63568814,
+				"id_str": "63568814",
+				"name": "Rebecca Hogue",
+				"screen_name": "rjhogue",
+				"location": "Sunnyvale, CA",
+				"description": "blogger, writer, scholar, educator, eBook producer, ePatient, recumbent bike rider, breast cancer survivor. Founder https://t.co/EcGNRsLWKN",
+				"url": "http://t.co/B7U5y74JRU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/B7U5y74JRU",
+								"expanded_url": "http://rjh.goingeast.ca",
+								"display_url": "rjh.goingeast.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EcGNRsLWKN",
+								"expanded_url": "http://epatients.virtuallyconnecting.org",
+								"display_url": "epatients.virtuallyconnecting.org",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1821,
+				"friends_count": 1609,
+				"listed_count": 177,
+				"created_at": "Thu Aug 06 23:04:54 +0000 2009",
+				"favourites_count": 1486,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12653,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025178582086180864/3KJDZRsf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025178582086180864/3KJDZRsf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63568814/1431319477",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 10 20:11:47 +0000 2018",
 		"id": 1039245070619357200,
 		"id_str": "1039245070619357189",

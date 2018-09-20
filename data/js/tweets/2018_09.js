@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 20 14:22:47 +0000 2018",
+		"id": 1042781118557237200,
+		"id_str": "1042781118557237249",
+		"text": "I'd definitely recommend any open course @Jonathan_Worth is involved with. Connected Academy audio notetaking featu… https://t.co/Z4e4ZywcAj",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jonathan_Worth",
+					"name": "Jonathan Worth",
+					"id": 17687064,
+					"id_str": "17687064",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z4e4ZywcAj",
+					"expanded_url": "https://twitter.com/i/web/status/1042781118557237249",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10334,
+			"friends_count": 1448,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1042701286435704800,
+		"quoted_status_id_str": "1042701286435704832",
+		"quoted_status": {
+			"created_at": "Thu Sep 20 09:05:33 +0000 2018",
+			"id": 1042701286435704800,
+			"id_str": "1042701286435704832",
+			"text": "Hopefully one for @s_j_lancaster @dkernohan @lawrie @jimgroom @cogdog and the #CClasses cool kids. https://t.co/rj5sg4qyD3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CClasses",
+						"indices": [
+							78,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "S_J_Lancaster",
+						"name": "Simon Lancaster",
+						"id": 240186025,
+						"id_str": "240186025",
+						"indices": [
+							18,
+							32
+						]
+					},
+					{
+						"screen_name": "dkernohan",
+						"name": "David Kernohan",
+						"id": 12219232,
+						"id_str": "12219232",
+						"indices": [
+							33,
+							43
+						]
+					},
+					{
+						"screen_name": "Lawrie",
+						"name": "Lawrie",
+						"id": 3250741,
+						"id_str": "3250741",
+						"indices": [
+							44,
+							51
+						]
+					},
+					{
+						"screen_name": "jimgroom",
+						"name": "Jim Groom",
+						"id": 3362981,
+						"id_str": "3362981",
+						"indices": [
+							52,
+							61
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine ☠",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							62,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rj5sg4qyD3",
+						"expanded_url": "https://twitter.com/ca_addiction/status/1042699873420750848",
+						"display_url": "twitter.com/ca_addiction/s…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17687064,
+				"id_str": "17687064",
+				"name": "Jonathan Worth",
+				"screen_name": "Jonathan_Worth",
+				"location": "UK",
+				"description": "I'm a photographer, educator and senior researcher at Open Lab. #Phonar #Picbod #CClasses #4Cplus  Views my own (but you can borrow CC-BY).",
+				"url": "http://t.co/PjQQmAy2wI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PjQQmAy2wI",
+								"expanded_url": "http://about.me/jonathan_worth",
+								"display_url": "about.me/jonathan_worth",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5726,
+				"friends_count": 957,
+				"listed_count": 383,
+				"created_at": "Thu Nov 27 19:56:56 +0000 2008",
+				"favourites_count": 3708,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17508,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874907505972924416/iWcwzt6o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874907505972924416/iWcwzt6o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17687064/1399670019",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8F8D8C",
+				"profile_text_color": "262411",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1042699873420750800,
+			"quoted_status_id_str": "1042699873420750848",
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 20 14:15:33 +0000 2018",
+		"id": 1042779297801535500,
+		"id_str": "1042779297801535488",
+		"text": "@bonstewart Yep, good point. I'd say that that the Equifax data was something people did not enroll in. And even wi… https://t.co/sljqQW1A4i",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonstewart",
+					"name": "Bonnie Stewart",
+					"id": 6532522,
+					"id_str": "6532522",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sljqQW1A4i",
+					"expanded_url": "https://twitter.com/i/web/status/1042779297801535488",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1042775641874227200,
+		"in_reply_to_status_id_str": "1042775641874227200",
+		"in_reply_to_user_id": 6532522,
+		"in_reply_to_user_id_str": "6532522",
+		"in_reply_to_screen_name": "bonstewart",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10334,
+			"friends_count": 1448,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 20 14:08:03 +0000 2018",
 		"id": 1042777413627912200,
 		"id_str": "1042777413627912192",

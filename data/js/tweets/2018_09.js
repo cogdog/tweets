@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 26 17:39:40 +0000 2018",
+		"id": 1045004993177284600,
+		"id_str": "1045004993177284609",
+		"text": "Well worth doing for checking and getting notified if your email address shows up in data breaches #unboundeq https://t.co/Ene1ofsXU5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "unboundeq",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ene1ofsXU5",
+					"expanded_url": "https://twitter.com/BoingBoing/status/1044937025995120640",
+					"display_url": "twitter.com/BoingBoing/sta…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10347,
+			"friends_count": 1448,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1044937025995120600,
+		"quoted_status_id_str": "1044937025995120640",
+		"quoted_status": {
+			"created_at": "Wed Sep 26 13:09:35 +0000 2018",
+			"id": 1044937025995120600,
+			"id_str": "1044937025995120640",
+			"text": "Firefox Monitor: get alerts if your data shows up in a breach https://t.co/OLS8hW4bYC https://t.co/kvbFvvYpYx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OLS8hW4bYC",
+						"expanded_url": "https://boingboing.net/2018/09/26/authentication-crisis.html",
+						"display_url": "boingboing.net/2018/09/26/aut…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1044937024036196400,
+						"id_str": "1044937024036196352",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DoBcr-JU0AApIgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DoBcr-JU0AApIgv.jpg",
+						"url": "https://t.co/kvbFvvYpYx",
+						"display_url": "pic.twitter.com/kvbFvvYpYx",
+						"expanded_url": "https://twitter.com/BoingBoing/status/1044937025995120640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 930,
+								"h": 465,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 930,
+								"h": 465,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1044937024036196400,
+						"id_str": "1044937024036196352",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DoBcr-JU0AApIgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DoBcr-JU0AApIgv.jpg",
+						"url": "https://t.co/kvbFvvYpYx",
+						"display_url": "pic.twitter.com/kvbFvvYpYx",
+						"expanded_url": "https://twitter.com/BoingBoing/status/1044937025995120640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 930,
+								"h": 465,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 930,
+								"h": 465,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5971922,
+				"id_str": "5971922",
+				"name": "Boing Boing",
+				"screen_name": "BoingBoing",
+				"location": "Directory of Wonderful Things",
+				"description": "SUBSCRIBE: https://t.co/b3WS3ZtmB2",
+				"url": "https://t.co/84Dq61NblP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/84Dq61NblP",
+								"expanded_url": "http://www.boingboing.net",
+								"display_url": "boingboing.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/b3WS3ZtmB2",
+								"expanded_url": "http://eepurl.com/dEkrNX",
+								"display_url": "eepurl.com/dEkrNX",
+								"indices": [
+									11,
+									34
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 231174,
+				"friends_count": 2182,
+				"listed_count": 13081,
+				"created_at": "Fri May 11 19:14:39 +0000 2007",
+				"favourites_count": 14157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 229591,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5971922/1435347157",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DCDCDC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 26 17:32:57 +0000 2018",
+		"id": 1045003304013631500,
+		"id_str": "1045003304013631488",
+		"text": "Big Picture WordPress Theme Goes to Unexpected Places https://t.co/NxKbfxakqs https://t.co/w5dh6sik3A",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NxKbfxakqs",
+					"expanded_url": "http://cogdogblog.com/2018/09/big-picture-unexpected-places/",
+					"display_url": "cogdogblog.com/2018/09/big-pi…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1045003302138597400,
+					"id_str": "1045003302138597376",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DoCY93UU0AA12zX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DoCY93UU0AA12zX.jpg",
+					"url": "https://t.co/w5dh6sik3A",
+					"display_url": "pic.twitter.com/w5dh6sik3A",
+					"expanded_url": "https://twitter.com/cogdog/status/1045003304013631488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1045003302138597400,
+					"id_str": "1045003302138597376",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DoCY93UU0AA12zX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DoCY93UU0AA12zX.jpg",
+					"url": "https://t.co/w5dh6sik3A",
+					"display_url": "pic.twitter.com/w5dh6sik3A",
+					"expanded_url": "https://twitter.com/cogdog/status/1045003304013631488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10347,
+			"friends_count": 1448,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 26 15:42:57 +0000 2018",
 		"id": 1044975623251398700,
 		"id_str": "1044975623251398656",

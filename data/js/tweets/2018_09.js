@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 26 18:35:25 +0000 2018",
+		"id": 1045019025372328000,
+		"id_str": "1045019025372327936",
+		"text": "@jgmac1106 @cherylcolan @butwait @UnboundEq @paulineridley @IrenequStewart @NomadWarMachine @yinbk @dogtrax I love… https://t.co/L01uQuH4vJ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jgmac1106",
+					"name": "Greg McVerry",
+					"id": 27620289,
+					"id_str": "27620289",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "cherylcolan",
+					"name": "Cheryl Colan 🖤",
+					"id": 1836791,
+					"id_str": "1836791",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "butwait",
+					"name": "Shelley Krause (Call your reps! 202-224-3121)",
+					"id": 1692171,
+					"id_str": "1692171",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "UnboundEq",
+					"name": "Equity Unbound",
+					"id": 1020191831861219300,
+					"id_str": "1020191831861219329",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "paulineridley",
+					"name": "paulineridley",
+					"id": 15621381,
+					"id_str": "15621381",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "IrenequStewart",
+					"name": "Irene Stewart",
+					"id": 66824757,
+					"id_str": "66824757",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"screen_name": "yinbk",
+					"name": "Yin Wah Kreher",
+					"id": 459903,
+					"id_str": "459903",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L01uQuH4vJ",
+					"expanded_url": "https://twitter.com/i/web/status/1045019025372327936",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1045016998659457000,
+		"in_reply_to_status_id_str": "1045016998659457025",
+		"in_reply_to_user_id": 27620289,
+		"in_reply_to_user_id_str": "27620289",
+		"in_reply_to_screen_name": "jgmac1106",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10347,
+			"friends_count": 1448,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 26 18:34:04 +0000 2018",
+		"id": 1045018682810863600,
+		"id_str": "1045018682810863617",
+		"text": "@greeneterry @taevans @ontarioextend @OExtend Thanks Tom. \n\nI was deeply worried.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "taevans",
+					"name": "Tom Evans",
+					"id": 17996583,
+					"id_str": "17996583",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"screen_name": "OExtend",
+					"name": "Ondrea Extend",
+					"id": 702074216447873000,
+					"id_str": "702074216447873025",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1045018359950118900,
+		"in_reply_to_status_id_str": "1045018359950118913",
+		"in_reply_to_user_id": 212019344,
+		"in_reply_to_user_id_str": "212019344",
+		"in_reply_to_screen_name": "greeneterry",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10347,
+			"friends_count": 1448,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 26 17:39:40 +0000 2018",
 		"id": 1045004993177284600,
 		"id_str": "1045004993177284609",

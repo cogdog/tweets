@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 03 22:46:19 +0000 2018",
+		"id": 1047618880926076900,
+		"id_str": "1047618880926076928",
+		"text": "For some iteration of #netnarr because #bots https://t.co/Q4gAkBlXRJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "bots",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q4gAkBlXRJ",
+					"expanded_url": "https://twitter.com/MTeson/status/1047573058268147715",
+					"display_url": "twitter.com/MTeson/status/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10349,
+			"friends_count": 1447,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86583,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1047573058268147700,
+		"quoted_status_id_str": "1047573058268147715",
+		"quoted_status": {
+			"created_at": "Wed Oct 03 19:44:14 +0000 2018",
+			"id": 1047573058268147700,
+			"id_str": "1047573058268147715",
+			"text": "@scalzi Okay, Nancy ;) https://t.co/jP2s3PIadR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "scalzi",
+						"name": "John Scalzi",
+						"id": 14202817,
+						"id_str": "14202817",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1047573052853116900,
+						"id_str": "1047573052853116928",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Dom6JCuU4AA5qV2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dom6JCuU4AA5qV2.jpg",
+						"url": "https://t.co/jP2s3PIadR",
+						"display_url": "pic.twitter.com/jP2s3PIadR",
+						"expanded_url": "https://twitter.com/MTeson/status/1047573058268147715/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 214,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 283,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 283,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1047573052853116900,
+						"id_str": "1047573052853116928",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Dom6JCuU4AA5qV2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dom6JCuU4AA5qV2.jpg",
+						"url": "https://t.co/jP2s3PIadR",
+						"display_url": "pic.twitter.com/jP2s3PIadR",
+						"expanded_url": "https://twitter.com/MTeson/status/1047573058268147715/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 214,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 283,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 283,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1047562647217029100,
+			"in_reply_to_status_id_str": "1047562647217029120",
+			"in_reply_to_user_id": 14202817,
+			"in_reply_to_user_id_str": "14202817",
+			"in_reply_to_screen_name": "scalzi",
+			"user": {
+				"id": 20010538,
+				"id_str": "20010538",
+				"name": "Marcelo Teson",
+				"screen_name": "MTeson",
+				"location": "Austin, TX",
+				"description": "Hollywood refugee, film teacher, and lover of USC football, my wife, and 2.8 cats.",
+				"url": "https://t.co/SMKtRS34MT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SMKtRS34MT",
+								"expanded_url": "http://marceloteson.com",
+								"display_url": "marceloteson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 327,
+				"friends_count": 295,
+				"listed_count": 40,
+				"created_at": "Tue Feb 03 22:40:37 +0000 2009",
+				"favourites_count": 384,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7877,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046229201911775232/8s7_I0uC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046229201911775232/8s7_I0uC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20010538/1359768275",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 143,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ht"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 03 21:09:26 +0000 2018",
 		"id": 1047594498203811800,
 		"id_str": "1047594498203811847",
@@ -308,7 +616,7 @@ Grailbird.data.tweets_2018_10 =
 				"name": "((wendymacnaughton))",
 				"screen_name": "wendymac",
 				"location": "sf, etc.",
-				"description": "i draw from life. graphic journalist, Illustrator, MSW. columnist for @calsunday. co-founder of @thewomenwhodraw. hitched to @carowriter & 3 furry beasts.🏳️‍🌈",
+				"description": "i draw from life. graphic journalist, Illustrator, MSW. columnist for @calsunday. co-founder of @thewomenwhodraw. hitched to @carowriter & 3 furry beasts.🏳️🌈",
 				"url": "https://t.co/EV61ASy9xG",
 				"entities": {
 					"url": {

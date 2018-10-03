@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 03 21:09:26 +0000 2018",
+		"id": 1047594498203811800,
+		"id_str": "1047594498203811847",
+		"text": "RT @wendymac: Fixed it. #vote https://t.co/cezv2CXNlt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vote",
+					"indices": [
+						24,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wendymac",
+					"name": "((wendymacnaughton))",
+					"id": 8412262,
+					"id_str": "8412262",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1047567598810890200,
+					"id_str": "1047567598810890240",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+					"url": "https://t.co/cezv2CXNlt",
+					"display_url": "pic.twitter.com/cezv2CXNlt",
+					"expanded_url": "https://twitter.com/wendymac/status/1047567606863908864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2023,
+							"h": 2023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047567606863908900,
+					"source_status_id_str": "1047567606863908864",
+					"source_user_id": 8412262,
+					"source_user_id_str": "8412262"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047567598810890200,
+					"id_str": "1047567598810890240",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+					"url": "https://t.co/cezv2CXNlt",
+					"display_url": "pic.twitter.com/cezv2CXNlt",
+					"expanded_url": "https://twitter.com/wendymac/status/1047567606863908864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2023,
+							"h": 2023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047567606863908900,
+					"source_status_id_str": "1047567606863908864",
+					"source_user_id": 8412262,
+					"source_user_id_str": "8412262"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10349,
+			"friends_count": 1447,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86582,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 03 19:22:34 +0000 2018",
+			"id": 1047567606863908900,
+			"id_str": "1047567606863908864",
+			"text": "Fixed it. #vote https://t.co/cezv2CXNlt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vote",
+						"indices": [
+							10,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1047567598810890200,
+						"id_str": "1047567598810890240",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+						"url": "https://t.co/cezv2CXNlt",
+						"display_url": "pic.twitter.com/cezv2CXNlt",
+						"expanded_url": "https://twitter.com/wendymac/status/1047567606863908864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2023,
+								"h": 2023,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1047567598810890200,
+						"id_str": "1047567598810890240",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dom1Lk1VAAA2lDT.jpg",
+						"url": "https://t.co/cezv2CXNlt",
+						"display_url": "pic.twitter.com/cezv2CXNlt",
+						"expanded_url": "https://twitter.com/wendymac/status/1047567606863908864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2023,
+								"h": 2023,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8412262,
+				"id_str": "8412262",
+				"name": "((wendymacnaughton))",
+				"screen_name": "wendymac",
+				"location": "sf, etc.",
+				"description": "i draw from life. graphic journalist, Illustrator, MSW. columnist for @calsunday. co-founder of @thewomenwhodraw. hitched to @carowriter & 3 furry beasts.🏳️‍🌈",
+				"url": "https://t.co/EV61ASy9xG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EV61ASy9xG",
+								"expanded_url": "http://wendymacnaughton.com",
+								"display_url": "wendymacnaughton.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13964,
+				"friends_count": 1032,
+				"listed_count": 555,
+				"created_at": "Fri Aug 24 19:50:14 +0000 2007",
+				"favourites_count": 16559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16315,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839919222037737472/GxMxt7pf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839919222037737472/GxMxt7pf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8412262/1400636525",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 03 18:32:30 +0000 2018",
 		"id": 1047555003156783100,
 		"id_str": "1047555003156783104",

@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 12:54:04 +0000 2018",
+		"id": 1052543265310949400,
+		"id_str": "1052543265310949376",
+		"full_text": "They've got #SPLOT Fever for #OWLTEH18 I believe the official name for a group of them together is a \"clump\" of SPLOTs https://t.co/IXqzp0GhGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPLOT",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "OWLTEH18",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IXqzp0GhGs",
+					"expanded_url": "https://twitter.com/villaronrubia/status/1052502321396162560",
+					"display_url": "twitter.com/villaronrubia/…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10397,
+			"friends_count": 1450,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86680,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052502321396162600,
+		"quoted_status_id_str": "1052502321396162560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IXqzp0GhGs",
+			"expanded": "https://twitter.com/villaronrubia/status/1052502321396162560",
+			"display": "twitter.com/villaronrubia/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 10:11:22 +0000 2018",
+			"id": 1052502321396162600,
+			"id_str": "1052502321396162560",
+			"full_text": "#OWLTEH18 is a SPLOT-powered conference! Abstracts published on a TRU Writer: https://t.co/icRFR5zv1r. Directory of participants https://t.co/UGK5dStqWY &amp; photo gallery https://t.co/upOa6hiP8t built on TRU Image collector. cc: @cogdog @brlamb @jimgroom @OWLTEH @disrupt_learn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OWLTEH18",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine ☠",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							231,
+							238
+						]
+					},
+					{
+						"screen_name": "brlamb",
+						"name": "Brian Lamb",
+						"id": 745903,
+						"id_str": "745903",
+						"indices": [
+							239,
+							246
+						]
+					},
+					{
+						"screen_name": "jimgroom",
+						"name": "Jim Groom",
+						"id": 3362981,
+						"id_str": "3362981",
+						"indices": [
+							247,
+							256
+						]
+					},
+					{
+						"screen_name": "OWLTEH",
+						"name": "OWLTEH",
+						"id": 961318235831488500,
+						"id_str": "961318235831488512",
+						"indices": [
+							257,
+							264
+						]
+					},
+					{
+						"screen_name": "disrupt_learn",
+						"name": "Disruptive Media Learning Lab",
+						"id": 2521466321,
+						"id_str": "2521466321",
+						"indices": [
+							265,
+							279
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/icRFR5zv1r",
+						"expanded_url": "https://conf.owlteh.org/contributions/",
+						"display_url": "conf.owlteh.org/contributions/",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/UGK5dStqWY",
+						"expanded_url": "https://conf.owlteh.org/participants/",
+						"display_url": "conf.owlteh.org/participants/",
+						"indices": [
+							129,
+							152
+						]
+					},
+					{
+						"url": "https://t.co/upOa6hiP8t",
+						"expanded_url": "https://www.conf.owlteh.org/photos/",
+						"display_url": "conf.owlteh.org/photos/",
+						"indices": [
+							173,
+							196
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41424326,
+				"id_str": "41424326",
+				"name": "Daniel Villar",
+				"screen_name": "villaronrubia",
+				"location": "Coventry, England",
+				"description": "Principal Innovation Lead at Coventry University's @disrupt_learn // @oiioxford DPhil alumnus. Views my own.",
+				"url": "http://t.co/JV6Tos7PAX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JV6Tos7PAX",
+								"expanded_url": "http://uk.linkedin.com/in/danielvillaronrubia/",
+								"display_url": "uk.linkedin.com/in/danielvilla…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 937,
+				"friends_count": 763,
+				"listed_count": 68,
+				"created_at": "Wed May 20 19:05:29 +0000 2009",
+				"favourites_count": 1545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2525,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They've got #SPLOT Fever for #OWLTEH18 I believe the official name for a group of them together is a \"clump\" of SPLOTs https://t.co/IXqzp0GhGs"
+	},
+	{
 		"created_at": "Wed Oct 17 04:55:35 +0000 2018",
 		"id": 1052422852320919600,
 		"id_str": "1052422852320919553",

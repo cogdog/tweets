@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 18:57:09 +0000 2018",
+		"id": 1052997026575724500,
+		"id_str": "1052997026575724544",
+		"full_text": "Friendly reminder: Mendeley has also been purchased by Elsevier and has locked its data to prevent Zotero, the academic, nonprofit citation manager, from being able to import its data. Don’t use predatory for-profits. Avoid Mendeley.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1052629352473681900,
+		"in_reply_to_status_id_str": "1052629352473681921",
+		"in_reply_to_user_id": 65375759,
+		"in_reply_to_user_id_str": "65375759",
+		"in_reply_to_screen_name": "zeynep",
+		"user": {
+			"id": 65375759,
+			"id_str": "65375759",
+			"name": "zeynep tufekci",
+			"screen_name": "zeynep",
+			"location": "floating in a most peculiar way",
+			"description": "Thinking about our tools, ourselves. @UNCSILS prof + @NYTimes writer. Newsletter: https://t.co/klJwJ6vkB5 Book: https://t.co/RmMouki39B",
+			"url": "https://t.co/32zLRNuGBE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/32zLRNuGBE",
+							"expanded_url": "http://www.technosociology.org",
+							"display_url": "technosociology.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/klJwJ6vkB5",
+							"expanded_url": "https://tinyletter.com/zeynepnotes",
+							"display_url": "tinyletter.com/zeynepnotes",
+							"indices": [
+								82,
+								105
+							]
+						},
+						{
+							"url": "https://t.co/RmMouki39B",
+							"expanded_url": "https://www.twitterandteargas.org/",
+							"display_url": "twitterandteargas.org",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304893,
+			"friends_count": 851,
+			"listed_count": 5069,
+			"created_at": "Thu Aug 13 14:32:22 +0000 2009",
+			"favourites_count": 24639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042040726534668288/z-TxsjAw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042040726534668288/z-TxsjAw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65375759/1491228723",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Friendly reminder: Mendeley has also been purchased by Elsevier and has locked its data to prevent Zotero, the academic, nonprofit citation manager, from being able to import its data. Don’t use predatory for-profits. Avoid Mendeley."
+	},
+	{
 		"created_at": "Thu Oct 18 17:06:14 +0000 2018",
 		"id": 1052969114204016600,
 		"id_str": "1052969114204016642",

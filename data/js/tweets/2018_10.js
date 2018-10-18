@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 21:17:09 +0000 2018",
+		"id": 1053032258502832100,
+		"id_str": "1053032258502832129",
+		"full_text": "Twitter has an uncanny knack for taking anything good that emerges from use of its platform and then shitting all over it. \n\nBots are a problem? Solution: kill the net art bots. https://t.co/HFG7WnElFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HFG7WnElFY",
+					"expanded_url": "https://twitter.com/ResearchBuzz/status/1053001771860279296",
+					"display_url": "twitter.com/ResearchBuzz/s…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10398,
+			"friends_count": 1450,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053001771860279300,
+		"quoted_status_id_str": "1053001771860279296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HFG7WnElFY",
+			"expanded": "https://twitter.com/ResearchBuzz/status/1053001771860279296",
+			"display": "twitter.com/ResearchBuzz/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 18 19:16:00 +0000 2018",
+			"id": 1053001771860279300,
+			"id_str": "1053001771860279296",
+			"full_text": "Quartz: Your favorite Twitter bots are about die, thanks to upcoming rule changes  -https://t.co/yQ9JvD1Sr4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yQ9JvD1Sr4",
+						"expanded_url": "https://buff.ly/2AfqyGQ",
+						"display_url": "buff.ly/2AfqyGQ",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6979102,
+				"id_str": "6979102",
+				"name": "Tara Calishain",
+				"screen_name": "ResearchBuzz",
+				"location": "",
+				"description": "Obsessed with search engines, info collections, and databases since forever. News and resources covering same since 1998. Wrote a stack of books. Say hi.",
+				"url": "http://t.co/N8gqhQKHJ5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/N8gqhQKHJ5",
+								"expanded_url": "http://www.researchbuzz.com",
+								"display_url": "researchbuzz.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5408,
+				"friends_count": 3184,
+				"listed_count": 594,
+				"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+				"favourites_count": 3196,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42326,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+				"profile_link_color": "243A8F",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter has an uncanny knack for taking anything good that emerges from use of its platform and then shitting all over it. \n\nBots are a problem? Solution: kill the net art bots. https://t.co/HFG7WnElFY"
+	},
+	{
+		"created_at": "Thu Oct 18 18:57:09 +0000 2018",
+		"id": 1052997026575724500,
+		"id_str": "1052997026575724544",
+		"full_text": "Friendly reminder: Mendeley has also been purchased by Elsevier and has locked its data to prevent Zotero, the academic, nonprofit citation manager, from being able to import its data. Don’t use predatory for-profits. Avoid Mendeley.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1052629352473681900,
+		"in_reply_to_status_id_str": "1052629352473681921",
+		"in_reply_to_user_id": 65375759,
+		"in_reply_to_user_id_str": "65375759",
+		"in_reply_to_screen_name": "zeynep",
+		"user": {
+			"id": 65375759,
+			"id_str": "65375759",
+			"name": "zeynep tufekci",
+			"screen_name": "zeynep",
+			"location": "floating in a most peculiar way",
+			"description": "Thinking about our tools, ourselves. @UNCSILS prof + @NYTimes writer. Newsletter: https://t.co/klJwJ6vkB5 Book: https://t.co/RmMouki39B",
+			"url": "https://t.co/32zLRNuGBE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/32zLRNuGBE",
+							"expanded_url": "http://www.technosociology.org",
+							"display_url": "technosociology.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/klJwJ6vkB5",
+							"expanded_url": "https://tinyletter.com/zeynepnotes",
+							"display_url": "tinyletter.com/zeynepnotes",
+							"indices": [
+								82,
+								105
+							]
+						},
+						{
+							"url": "https://t.co/RmMouki39B",
+							"expanded_url": "https://www.twitterandteargas.org/",
+							"display_url": "twitterandteargas.org",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304893,
+			"friends_count": 851,
+			"listed_count": 5071,
+			"created_at": "Thu Aug 13 14:32:22 +0000 2009",
+			"favourites_count": 24639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042040726534668288/z-TxsjAw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042040726534668288/z-TxsjAw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65375759/1491228723",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Friendly reminder: Mendeley has also been purchased by Elsevier and has locked its data to prevent Zotero, the academic, nonprofit citation manager, from being able to import its data. Don’t use predatory for-profits. Avoid Mendeley."
+	},
+	{
 		"created_at": "Thu Oct 18 18:57:09 +0000 2018",
 		"id": 1052997026575724500,
 		"id_str": "1052997026575724544",

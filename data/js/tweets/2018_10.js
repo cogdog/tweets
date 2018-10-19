@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 22:05:23 +0000 2018",
+		"id": 1053406784738725900,
+		"id_str": "1053406784738725894",
+		"full_text": "@ammienoot @brlamb @realdlnorman @MarenDeepwell @edtechfactotum The post I started in Classic saved as draft? When I go back to finish I just get Gutencrap. Yeah I can hand edit it as HTML.\n\nI'm nuking this now. It is totally taking changing the  blog experience from writing to cussing.",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						48,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1053398403764371500,
+		"in_reply_to_status_id_str": "1053398403764371456",
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10400,
+			"friends_count": 1451,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ammienoot @brlamb @realdlnorman @MarenDeepwell @edtechfactotum The post I started in Classic saved as draft? When I go back to finish I just get Gutencrap. Yeah I can hand edit it as HTML.\n\nI'm nuking this now. It is totally taking changing the  blog experience from writing to cussing."
+	},
+	{
+		"created_at": "Fri Oct 19 22:00:30 +0000 2018",
+		"id": 1053405555551821800,
+		"id_str": "1053405555551821826",
+		"full_text": "@MarenDeepwell @brlamb @edtechfactotum @realdlnorman That was a tricky one too, editing post permalinks. You have to click the title like you mean to edit that, and the permalink editing field appears above.\n\nTotally intuitive. \n\nNot. https://t.co/QEuJ3M90rT",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						23,
+						38
+					]
+				},
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053405439403024400,
+					"id_str": "1053405439403024384",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp5yqnwU4AArMSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp5yqnwU4AArMSM.jpg",
+					"url": "https://t.co/QEuJ3M90rT",
+					"display_url": "pic.twitter.com/QEuJ3M90rT",
+					"expanded_url": "https://twitter.com/cogdog/status/1053405555551821826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1398,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 407,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 231,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053405439403024400,
+					"id_str": "1053405439403024384",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp5yqnwU4AArMSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp5yqnwU4AArMSM.jpg",
+					"url": "https://t.co/QEuJ3M90rT",
+					"display_url": "pic.twitter.com/QEuJ3M90rT",
+					"expanded_url": "https://twitter.com/cogdog/status/1053405555551821826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1398,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 407,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 231,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1053355479844470800,
+		"in_reply_to_status_id_str": "1053355479844470785",
+		"in_reply_to_user_id": 323173367,
+		"in_reply_to_user_id_str": "323173367",
+		"in_reply_to_screen_name": "MarenDeepwell",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10400,
+			"friends_count": 1451,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MarenDeepwell @brlamb @edtechfactotum @realdlnorman That was a tricky one too, editing post permalinks. You have to click the title like you mean to edit that, and the permalink editing field appears above.\n\nTotally intuitive. \n\nNot. https://t.co/QEuJ3M90rT"
+	},
+	{
+		"created_at": "Fri Oct 19 21:40:21 +0000 2018",
+		"id": 1053400486542491600,
+		"id_str": "1053400486542491649",
+		"full_text": "@realdlnorman @brlamb @ammienoot @MarenDeepwell @edtechfactotum Cmon, it’s best to do hand coded HTML, ftp to tilde space",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						48,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1053387838690013200,
+		"in_reply_to_status_id_str": "1053387838690013184",
+		"in_reply_to_user_id": 817493053527113700,
+		"in_reply_to_user_id_str": "817493053527113729",
+		"in_reply_to_screen_name": "realdlnorman",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10400,
+			"friends_count": 1451,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@realdlnorman @brlamb @ammienoot @MarenDeepwell @edtechfactotum Cmon, it’s best to do hand coded HTML, ftp to tilde space"
+	},
+	{
 		"created_at": "Fri Oct 19 18:06:35 +0000 2018",
 		"id": 1053346686888824800,
 		"id_str": "1053346686888824832",

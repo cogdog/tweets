@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 24 01:24:22 +0000 2018",
+		"id": 1054906413166800900,
+		"id_str": "1054906413166800896",
+		"full_text": "@avunque One is sufficient from you, my friend.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avunque",
+					"name": "Antonio Vantaggiato",
+					"id": 16528394,
+					"id_str": "16528394",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1054905950811947000,
+		"in_reply_to_status_id_str": "1054905950811947010",
+		"in_reply_to_user_id": 16528394,
+		"in_reply_to_user_id_str": "16528394",
+		"in_reply_to_screen_name": "avunque",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10403,
+			"friends_count": 1451,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86728,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@avunque One is sufficient from you, my friend."
+	},
+	{
+		"created_at": "Wed Oct 24 01:23:53 +0000 2018",
+		"id": 1054906288419803100,
+		"id_str": "1054906288419803136",
+		"full_text": "Definitely appears that @twitter is flagging any tweet as spam that includes a flic DOT kr url  (changing . to DOT enables it). \n\nYou got a reason @TwitterSupport or just doing this for fun? https://t.co/PaZLudkZC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054906142525014000,
+					"id_str": "1054906142525014016",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DqPHjCiUwAA7i2T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqPHjCiUwAA7i2T.jpg",
+					"url": "https://t.co/PaZLudkZC4",
+					"display_url": "pic.twitter.com/PaZLudkZC4",
+					"expanded_url": "https://twitter.com/cogdog/status/1054906288419803136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 722,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054906142525014000,
+					"id_str": "1054906142525014016",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DqPHjCiUwAA7i2T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqPHjCiUwAA7i2T.jpg",
+					"url": "https://t.co/PaZLudkZC4",
+					"display_url": "pic.twitter.com/PaZLudkZC4",
+					"expanded_url": "https://twitter.com/cogdog/status/1054906288419803136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 722,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10403,
+			"friends_count": 1451,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86728,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Definitely appears that @twitter is flagging any tweet as spam that includes a flic DOT kr url  (changing . to DOT enables it). \n\nYou got a reason @TwitterSupport or just doing this for fun? https://t.co/PaZLudkZC4"
+	},
+	{
+		"created_at": "Wed Oct 24 01:21:38 +0000 2018",
+		"id": 1054905722356617200,
+		"id_str": "1054905722356617216",
+		"full_text": "@FlickrHelp every photo I try to tweet from your site or hand typing into https://t.co/TigDLjoHkY via a flic dot kr URL is getting swatted down as spam by @twitter WTF??\n\nIf you call me spam, then 'splain it. https://t.co/r6QezZIHxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FlickrHelp",
+					"name": "Flickr Help",
+					"id": 2533229838,
+					"id_str": "2533229838",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TigDLjoHkY",
+					"expanded_url": "https://twitter.com",
+					"display_url": "twitter.com",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054905536397762600,
+					"id_str": "1054905536397762560",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/DqPG_wiU4AATv31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqPG_wiU4AATv31.jpg",
+					"url": "https://t.co/r6QezZIHxu",
+					"display_url": "pic.twitter.com/r6QezZIHxu",
+					"expanded_url": "https://twitter.com/cogdog/status/1054905722356617216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1228,
+							"h": 274,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054905536397762600,
+					"id_str": "1054905536397762560",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/DqPG_wiU4AATv31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqPG_wiU4AATv31.jpg",
+					"url": "https://t.co/r6QezZIHxu",
+					"display_url": "pic.twitter.com/r6QezZIHxu",
+					"expanded_url": "https://twitter.com/cogdog/status/1054905722356617216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1228,
+							"h": 274,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2533229838,
+		"in_reply_to_user_id_str": "2533229838",
+		"in_reply_to_screen_name": "FlickrHelp",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10403,
+			"friends_count": 1451,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86728,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@FlickrHelp every photo I try to tweet from your site or hand typing into https://t.co/TigDLjoHkY via a flic dot kr URL is getting swatted down as spam by @twitter WTF??\n\nIf you call me spam, then 'splain it. https://t.co/r6QezZIHxu"
+	},
+	{
+		"created_at": "Wed Oct 24 01:18:40 +0000 2018",
+		"id": 1054904977150357500,
+		"id_str": "1054904977150357504",
+		"full_text": "How Dinosaurs Really Went Extinct https://t.co/Z6qlcpt3mv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z6qlcpt3mv",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/31656130818/",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10403,
+			"friends_count": 1451,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86728,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Dinosaurs Really Went Extinct https://t.co/Z6qlcpt3mv"
+	},
+	{
 		"created_at": "Wed Oct 24 00:55:08 +0000 2018",
 		"id": 1054899055594258400,
 		"id_str": "1054899055594258432",

@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 15:16:16 +0000 2018",
+		"id": 1055840542502871000,
+		"id_str": "1055840542502871040",
+		"full_text": "Making great use of the WP-Tiles plugin with TRU Collector #SPLOT Just added info to the theme docs https://t.co/zG8k2R8QCs https://t.co/3nIiL9sOZh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPLOT",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zG8k2R8QCs",
+					"expanded_url": "https://github.com/cogdog/tru-collector#tiled-displays",
+					"display_url": "github.com/cogdog/tru-col…",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/3nIiL9sOZh",
+					"expanded_url": "https://twitter.com/villaronrubia/status/1055780059288604672",
+					"display_url": "twitter.com/villaronrubia/…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine ☠",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10406,
+			"friends_count": 1452,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86784,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055780059288604700,
+		"quoted_status_id_str": "1055780059288604672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3nIiL9sOZh",
+			"expanded": "https://twitter.com/villaronrubia/status/1055780059288604672",
+			"display": "twitter.com/villaronrubia/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 26 11:15:56 +0000 2018",
+			"id": 1055780059288604700,
+			"id_str": "1055780059288604672",
+			"full_text": "Here some photos from yesterday at #owlteh18: https://t.co/upOa6hiP8t If you took picts, please share some too @jimgroom @MiaZamoraPhD @time_motion @disrupt_learn @wikimediauk @leohavemann @catherinecronin https://t.co/Bw0OImWFUh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "owlteh18",
+						"indices": [
+							35,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jimgroom",
+						"name": "Jim Groom",
+						"id": 3362981,
+						"id_str": "3362981",
+						"indices": [
+							111,
+							120
+						]
+					},
+					{
+						"screen_name": "MiaZamoraPhD",
+						"name": "Mia Zamora",
+						"id": 579873574,
+						"id_str": "579873574",
+						"indices": [
+							121,
+							134
+						]
+					},
+					{
+						"screen_name": "time_motion",
+						"name": "Jonathan Shaw",
+						"id": 66360983,
+						"id_str": "66360983",
+						"indices": [
+							135,
+							147
+						]
+					},
+					{
+						"screen_name": "disrupt_learn",
+						"name": "Disruptive Media Learning Lab",
+						"id": 2521466321,
+						"id_str": "2521466321",
+						"indices": [
+							148,
+							162
+						]
+					},
+					{
+						"screen_name": "wikimediauk",
+						"name": "Wikimedia UK",
+						"id": 66773314,
+						"id_str": "66773314",
+						"indices": [
+							163,
+							175
+						]
+					},
+					{
+						"screen_name": "leohavemann",
+						"name": "Leo Havemann",
+						"id": 14788950,
+						"id_str": "14788950",
+						"indices": [
+							176,
+							188
+						]
+					},
+					{
+						"screen_name": "catherinecronin",
+						"name": "Dr. Catherine Cronin",
+						"id": 59833587,
+						"id_str": "59833587",
+						"indices": [
+							189,
+							205
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/upOa6hiP8t",
+						"expanded_url": "https://www.conf.owlteh.org/photos/",
+						"display_url": "conf.owlteh.org/photos/",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1055776562505834500,
+						"id_str": "1055776562505834496",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/DqbfMJpX4AA0uWN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqbfMJpX4AA0uWN.jpg",
+						"url": "https://t.co/Bw0OImWFUh",
+						"display_url": "pic.twitter.com/Bw0OImWFUh",
+						"expanded_url": "https://twitter.com/villaronrubia/status/1055780059288604672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1085,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 636,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055776562505834500,
+						"id_str": "1055776562505834496",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/DqbfMJpX4AA0uWN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqbfMJpX4AA0uWN.jpg",
+						"url": "https://t.co/Bw0OImWFUh",
+						"display_url": "pic.twitter.com/Bw0OImWFUh",
+						"expanded_url": "https://twitter.com/villaronrubia/status/1055780059288604672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1085,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 636,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41424326,
+				"id_str": "41424326",
+				"name": "Daniel Villar",
+				"screen_name": "villaronrubia",
+				"location": "Coventry, England",
+				"description": "Principal Innovation Lead at Coventry University's @disrupt_learn // @oiioxford DPhil alumnus. Views my own.",
+				"url": "http://t.co/JV6Tos7PAX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JV6Tos7PAX",
+								"expanded_url": "http://uk.linkedin.com/in/danielvillaronrubia/",
+								"display_url": "uk.linkedin.com/in/danielvilla…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 948,
+				"friends_count": 772,
+				"listed_count": 68,
+				"created_at": "Wed May 20 19:05:29 +0000 2009",
+				"favourites_count": 1679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2590,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Making great use of the WP-Tiles plugin with TRU Collector #SPLOT Just added info to the theme docs https://t.co/zG8k2R8QCs https://t.co/3nIiL9sOZh"
+	},
+	{
 		"created_at": "Fri Oct 26 14:20:00 +0000 2018",
 		"id": 1055826382264111100,
 		"id_str": "1055826382264111104",

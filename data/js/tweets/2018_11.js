@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 03 18:53:07 +0000 2018",
+		"id": 1058794215948337200,
+		"id_str": "1058794215948337153",
+		"full_text": "@greeneterry @BoingBoing Always, it’s quite fatal",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BoingBoing",
+					"name": "Boing Boing",
+					"id": 5971922,
+					"id_str": "5971922",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1058733216725643300,
+		"in_reply_to_status_id_str": "1058733216725643264",
+		"in_reply_to_user_id": 212019344,
+		"in_reply_to_user_id_str": "212019344",
+		"in_reply_to_screen_name": "greeneterry",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@greeneterry @BoingBoing Always, it’s quite fatal"
+	},
+	{
+		"created_at": "Fri Nov 02 21:19:19 +0000 2018",
+		"id": 1058468621742161900,
+		"id_str": "1058468621742161921",
+		"full_text": "A message from me, an undocumented citizen who has lived in the US for 25 years and cannot vote. Please don’t take your right and privilege for granted. Vote. #DearAmerica https://t.co/67vi2N3O9I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DearAmerica",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1058468448584446000,
+					"id_str": "1058468448584445952",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058468448584445952/pu/img/ePqm2RUeQqIffMAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058468448584445952/pu/img/ePqm2RUeQqIffMAH.jpg",
+					"url": "https://t.co/67vi2N3O9I",
+					"display_url": "pic.twitter.com/67vi2N3O9I",
+					"expanded_url": "https://twitter.com/joseiswriting/status/1058468621742161921/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058468448584446000,
+					"id_str": "1058468448584445952",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058468448584445952/pu/img/ePqm2RUeQqIffMAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058468448584445952/pu/img/ePqm2RUeQqIffMAH.jpg",
+					"url": "https://t.co/67vi2N3O9I",
+					"display_url": "pic.twitter.com/67vi2N3O9I",
+					"expanded_url": "https://twitter.com/joseiswriting/status/1058468621742161921/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 60095,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058468448584445952/pu/vid/360x640/enBByS7zH5gyphg1.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058468448584445952/pu/vid/180x320/tZJrvH8_EX_hPbsG.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1058468448584445952/pu/pl/YOJYsywYiVAQ2HSd.m3u8?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058468448584445952/pu/vid/720x1280/vmXNEN9aojqircdl.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15956067,
+			"id_str": "15956067",
+			"name": "Jose Antonio Vargas",
+			"screen_name": "joseiswriting",
+			"location": "United States",
+			"description": "Founder, @DefineAmerican. \nAuthor, \"Dear America: Notes of an Undocumented Citizen\": https://t.co/YVeZkSofbe. Journalist. Filmmaker. Storyteller.",
+			"url": "https://t.co/yO3UM8BX16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yO3UM8BX16",
+							"expanded_url": "https://joseantoniovargas.com/",
+							"display_url": "joseantoniovargas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YVeZkSofbe",
+							"expanded_url": "http://hc.com/dearamerica",
+							"display_url": "hc.com/dearamerica",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 104454,
+			"friends_count": 18193,
+			"listed_count": 2574,
+			"created_at": "Sat Aug 23 11:18:35 +0000 2008",
+			"favourites_count": 19825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953348158112768000/-6ZhOAG1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953348158112768000/-6ZhOAG1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15956067/1537039856",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A message from me, an undocumented citizen who has lived in the US for 25 years and cannot vote. Please don’t take your right and privilege for granted. Vote. #DearAmerica https://t.co/67vi2N3O9I"
+	},
+	{
 		"created_at": "Fri Nov 02 21:19:19 +0000 2018",
 		"id": 1058468621742161900,
 		"id_str": "1058468621742161921",

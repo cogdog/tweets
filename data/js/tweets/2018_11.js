@@ -1,6 +1,1008 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 21:11:02 +0000 2018",
+		"id": 1059553701558472700,
+		"id_str": "1059553701558472705",
+		"full_text": "This tweet is kind of a big deal for web site I worked on, and that's my photoshop rework of the announcement for the #MotherOfAllDemos https://t.co/WF3PsbBWmT #theDemoat50",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MotherOfAllDemos",
+					"indices": [
+						118,
+						135
+					]
+				},
+				{
+					"text": "theDemoat50",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WF3PsbBWmT",
+					"expanded_url": "https://twitter.com/stephenfry/status/1057361501026103296",
+					"display_url": "twitter.com/stephenfry/sta…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1057361501026103300,
+		"quoted_status_id_str": "1057361501026103296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WF3PsbBWmT",
+			"expanded": "https://twitter.com/stephenfry/status/1057361501026103296",
+			"display": "twitter.com/stephenfry/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 30 20:00:01 +0000 2018",
+			"id": 1057361501026103300,
+			"id_str": "1057361501026103296",
+			"full_text": "Celebrate the legacy and inspiration of the legendary Doug Engelbart on the 9th of December at a special symposium in California. He brought us personal computing. How can we bring it further? #thedemoat50 https://t.co/W6Ew7FuHqp https://t.co/hdfbxnFZSn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "thedemoat50",
+						"indices": [
+							193,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/W6Ew7FuHqp",
+						"expanded_url": "https://thedemoat50.org/symposium/",
+						"display_url": "thedemoat50.org/symposium/",
+						"indices": [
+							206,
+							229
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1057207718459699200,
+						"id_str": "1057207718459699202",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqv00ZCXcAIaPCI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqv00ZCXcAIaPCI.jpg",
+						"url": "https://t.co/hdfbxnFZSn",
+						"display_url": "pic.twitter.com/hdfbxnFZSn",
+						"expanded_url": "https://twitter.com/stephenfry/status/1057361501026103296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 308,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1057207718459699200,
+						"id_str": "1057207718459699202",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqv00ZCXcAIaPCI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqv00ZCXcAIaPCI.jpg",
+						"url": "https://t.co/hdfbxnFZSn",
+						"display_url": "pic.twitter.com/hdfbxnFZSn",
+						"expanded_url": "https://twitter.com/stephenfry/status/1057361501026103296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 308,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15439395,
+				"id_str": "15439395",
+				"name": "Stephen Fry",
+				"screen_name": "stephenfry",
+				"location": "Los Angeles, CA/ London UK",
+				"description": "How can I tell you what I think until I’ve heard what I’m going to say? 🏳️‍🌈 (Never read DMs I’m afraid)",
+				"url": "https://t.co/32DSMgAK1c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/32DSMgAK1c",
+								"expanded_url": "http://www.stephenfry.com/",
+								"display_url": "stephenfry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12844401,
+				"friends_count": 49936,
+				"listed_count": 56380,
+				"created_at": "Tue Jul 15 11:45:30 +0000 2008",
+				"favourites_count": 712,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23168,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842053173757984768/ZYLuzKYt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842053173757984768/ZYLuzKYt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15439395/1541153051",
+				"profile_link_color": "005192",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 258,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This tweet is kind of a big deal for web site I worked on, and that's my photoshop rework of the announcement for the #MotherOfAllDemos https://t.co/WF3PsbBWmT #theDemoat50"
+	},
+	{
+		"created_at": "Mon Nov 05 21:01:23 +0000 2018",
+		"id": 1059551271940771800,
+		"id_str": "1059551271940771840",
+		"full_text": "@brlamb @grantpotter @webrecorder_io @freemusicarchiv There's been so much bad news today, but this one hurts. The FMA was a beacon of openness of quality original sharable music. But look how classy they take care of their content, in contrast so so many commercial web sites that just fold up shop and kill content.",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			317
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "webrecorder_io",
+					"name": "Webrecorder",
+					"id": 2536466947,
+					"id_str": "2536466947",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "freemusicarchiv",
+					"name": "Free Music Archive",
+					"id": 30502115,
+					"id_str": "30502115",
+					"indices": [
+						37,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1059550400372604900,
+		"in_reply_to_status_id_str": "1059550400372604928",
+		"in_reply_to_user_id": 745903,
+		"in_reply_to_user_id_str": "745903",
+		"in_reply_to_screen_name": "brlamb",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brlamb @grantpotter @webrecorder_io @freemusicarchiv There's been so much bad news today, but this one hurts. The FMA was a beacon of openness of quality original sharable music. But look how classy they take care of their content, in contrast so so many commercial web sites that just fold up shop and kill content."
+	},
+	{
+		"created_at": "Mon Nov 05 20:58:28 +0000 2018",
+		"id": 1059550539002925000,
+		"id_str": "1059550539002925056",
+		"full_text": "It's a longshot but how I wish to read tomorrow that the Arizona 4th Congressional District will stop the pain inflicted on it by Paul Gosar who made a career of Obama bashing. #GosarMustGo send him back to doing pain via the dental chair. Vote @Brill4Congress",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GosarMustGo",
+					"indices": [
+						177,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Brill4Congress",
+					"name": "Brill for Congress",
+					"id": 977271571680145400,
+					"id_str": "977271571680145408",
+					"indices": [
+						245,
+						260
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It's a longshot but how I wish to read tomorrow that the Arizona 4th Congressional District will stop the pain inflicted on it by Paul Gosar who made a career of Obama bashing. #GosarMustGo send him back to doing pain via the dental chair. Vote @Brill4Congress"
+	},
+	{
+		"created_at": "Mon Nov 05 20:49:34 +0000 2018",
+		"id": 1059548299596841000,
+		"id_str": "1059548299596840962",
+		"full_text": "Pretty ragged but the Fox toy @patlockley sent to felixadog is still in regular play use https://t.co/DrTn4AYyLH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patlockley",
+					"name": "patlockley",
+					"id": 18833145,
+					"id_str": "18833145",
+					"indices": [
+						30,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DrTn4AYyLH",
+					"expanded_url": "https://www.instagram.com/p/Bp0AogilUN3/?utm_source=ig_twitter_share&igshid=1hh3lk5v2370i",
+					"display_url": "instagram.com/p/Bp0AogilUN3/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty ragged but the Fox toy @patlockley sent to felixadog is still in regular play use https://t.co/DrTn4AYyLH"
+	},
+	{
+		"created_at": "Mon Nov 05 20:27:01 +0000 2018",
+		"id": 1059542624066003000,
+		"id_str": "1059542624066002945",
+		"full_text": "@ds106dc #tdc2490 #ds106 I made this challenge, I should do it too. \n\nResorting to an old photo- If it's Free why Can I Not Enter? https://t.co/viZh6SsgWH",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc2490",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/viZh6SsgWH",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/8189888572/",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1059401965778612200,
+		"in_reply_to_status_id_str": "1059401965778612224",
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc2490 #ds106 I made this challenge, I should do it too. \n\nResorting to an old photo- If it's Free why Can I Not Enter? https://t.co/viZh6SsgWH"
+	},
+	{
+		"created_at": "Mon Nov 05 20:24:56 +0000 2018",
+		"id": 1059542098943402000,
+		"id_str": "1059542098943401985",
+		"full_text": "@Alexis54552906 @ds106dc \"I dig koalas\"?? #ds106",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						42,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alexis54552906",
+					"name": "Alexis",
+					"id": 1034953295880773600,
+					"id_str": "1034953295880773638",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1059532149462851600,
+		"in_reply_to_status_id_str": "1059532149462851585",
+		"in_reply_to_user_id": 1034953295880773600,
+		"in_reply_to_user_id_str": "1034953295880773638",
+		"in_reply_to_screen_name": "Alexis54552906",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "no",
+		"text": "@Alexis54552906 @ds106dc \"I dig koalas\"?? #ds106"
+	},
+	{
 		"created_at": "Mon Nov 05 20:11:33 +0000 2018",
 		"id": 1059538732779487200,
 		"id_str": "1059538732779487232",

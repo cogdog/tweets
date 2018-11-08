@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 15:22:03 +0000 2018",
+		"id": 1060553039742943200,
+		"id_str": "1060553039742943232",
+		"full_text": "That's funny that Pai praises his friends at Verizon. I've been reporting robocalls for years and Verizon's response has always been a massive shrug https://t.co/0QR9W70h5c https://t.co/x0wsznokip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QR9W70h5c",
+					"expanded_url": "https://cogdogblog.com/2015/02/if-this-was-1895/",
+					"display_url": "cogdogblog.com/2015/02/if-thi…",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/x0wsznokip",
+					"expanded_url": "https://twitter.com/NakedSecurity/status/1060551326378135552",
+					"display_url": "twitter.com/NakedSecurity/…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060551326378135600,
+		"quoted_status_id_str": "1060551326378135552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x0wsznokip",
+			"expanded": "https://twitter.com/NakedSecurity/status/1060551326378135552",
+			"display": "twitter.com/NakedSecurity/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 15:15:14 +0000 2018",
+			"id": 1060551326378135600,
+			"id_str": "1060551326378135552",
+			"full_text": "Phone companies slammed by FCC for lousy robocall efforts https://t.co/J5JIFgeKCX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J5JIFgeKCX",
+						"expanded_url": "https://wp.me/p120rT-1Obh",
+						"display_url": "wp.me/p120rT-1Obh",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 198365324,
+				"id_str": "198365324",
+				"name": "Naked Security",
+				"screen_name": "NakedSecurity",
+				"location": "",
+				"description": "Award-winning security news, opinion, advice and research from Sophos. Enquiries? Talk to @sophos",
+				"url": "http://t.co/xOLRCy9nPS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xOLRCy9nPS",
+								"expanded_url": "http://nakedsecurity.sophos.com",
+								"display_url": "nakedsecurity.sophos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68503,
+				"friends_count": 167,
+				"listed_count": 2211,
+				"created_at": "Mon Oct 04 02:49:14 +0000 2010",
+				"favourites_count": 492,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12983,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E5E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/667033512403476480/HPSTaLj2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/667033512403476480/HPSTaLj2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/198365324/1450794074",
+				"profile_link_color": "674B1A",
+				"profile_sidebar_border_color": "3FA687",
+				"profile_sidebar_fill_color": "F8EAAD",
+				"profile_text_color": "BC1A29",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That's funny that Pai praises his friends at Verizon. I've been reporting robocalls for years and Verizon's response has always been a massive shrug https://t.co/0QR9W70h5c https://t.co/x0wsznokip"
+	},
+	{
 		"created_at": "Thu Nov 08 14:59:05 +0000 2018",
 		"id": 1060547260587610100,
 		"id_str": "1060547260587610112",

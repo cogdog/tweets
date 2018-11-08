@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 14:59:05 +0000 2018",
+		"id": 1060547260587610100,
+		"id_str": "1060547260587610112",
+		"full_text": "Yesterday the US president personally took credit for lowering oil/gas prices. Guess what else he gets to put on his list?  #NoPickingAndChoosing #BuckStopping https://t.co/yJfY553uym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoPickingAndChoosing",
+					"indices": [
+						124,
+						145
+					]
+				},
+				{
+					"text": "BuckStopping",
+					"indices": [
+						146,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yJfY553uym",
+					"expanded_url": "https://twitter.com/BrianSpyros/status/1060489274297061382",
+					"display_url": "twitter.com/BrianSpyros/st…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1452,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86914,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060489274297061400,
+		"quoted_status_id_str": "1060489274297061382",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yJfY553uym",
+			"expanded": "https://twitter.com/BrianSpyros/status/1060489274297061382",
+			"display": "twitter.com/BrianSpyros/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 11:08:40 +0000 2018",
+			"id": 1060489274297061400,
+			"id_str": "1060489274297061382",
+			"full_text": "UPDATE: 12 people are dead after a mass shooting inside a bar in Thousand Oaks #California. One of the victims is a sheriff's sergeant who went in to help. The suspected gunman is also dead. Dozen others injured. @WTNH https://t.co/MNBZau71Rw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "California",
+						"indices": [
+							79,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WTNH",
+						"name": "WTNH News 8",
+						"id": 14262811,
+						"id_str": "14262811",
+						"indices": [
+							213,
+							218
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060488834625011700,
+						"id_str": "1060488834625011714",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/Drec-fQXgAIP_gZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Drec-fQXgAIP_gZ.jpg",
+						"url": "https://t.co/MNBZau71Rw",
+						"display_url": "pic.twitter.com/MNBZau71Rw",
+						"expanded_url": "https://twitter.com/BrianSpyros/status/1060489274297061382/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1156,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060488834625011700,
+						"id_str": "1060488834625011714",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/Drec-fQXgAIP_gZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Drec-fQXgAIP_gZ.jpg",
+						"url": "https://t.co/MNBZau71Rw",
+						"display_url": "pic.twitter.com/MNBZau71Rw",
+						"expanded_url": "https://twitter.com/BrianSpyros/status/1060489274297061382/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1156,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 293328030,
+				"id_str": "293328030",
+				"name": "Brian Spyros",
+				"screen_name": "BrianSpyros",
+				"location": "📍Connecticut ",
+				"description": "News Anchor & Reporter @WTNH / World Traveler / Father & Husband / Aviation Aficionado / CCSU Grad / Connecticut Native / 🇮🇹 / 🇬🇷 / Born on Halloween 🎃",
+				"url": "https://t.co/FadFi9nLkW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FadFi9nLkW",
+								"expanded_url": "http://www.wtnh.com",
+								"display_url": "wtnh.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1384,
+				"friends_count": 474,
+				"listed_count": 41,
+				"created_at": "Thu May 05 04:42:16 +0000 2011",
+				"favourites_count": 828,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2015,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039506219139035136/lEM44LLt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039506219139035136/lEM44LLt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/293328030/1541539215",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3063,
+			"favorite_count": 1677,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yesterday the US president personally took credit for lowering oil/gas prices. Guess what else he gets to put on his list?  #NoPickingAndChoosing #BuckStopping https://t.co/yJfY553uym"
+	},
+	{
 		"created_at": "Thu Nov 08 13:55:40 +0000 2018",
 		"id": 1060531299918757900,
 		"id_str": "1060531299918757892",

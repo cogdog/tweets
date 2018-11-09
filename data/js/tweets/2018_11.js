@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 12:33:04 +0000 2018",
+		"id": 1060510513401135100,
+		"id_str": "1060510513401135104",
+		"full_text": "‘And if all others accepted the lie which the Party imposed—if all records told the same tale—then the lie passed into history and became truth.’ — George Orwell, 1984 https://t.co/SKTAnM3BNP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SKTAnM3BNP",
+					"expanded_url": "https://twitter.com/presssec/status/1060374680991883265",
+					"display_url": "twitter.com/presssec/statu…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62513246,
+			"id_str": "62513246",
+			"name": "J.K. Rowling",
+			"screen_name": "jk_rowling",
+			"location": "Scotland",
+			"description": "Writer, sometimes known as Robert Galbraith",
+			"url": "https://t.co/7iaKMs3iC6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7iaKMs3iC6",
+							"expanded_url": "http://www.jkrowling.com",
+							"display_url": "jkrowling.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14444875,
+			"friends_count": 660,
+			"listed_count": 38192,
+			"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+			"favourites_count": 25327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057932161381294080/-LKw4m3i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057932161381294080/-LKw4m3i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1541065633",
+			"profile_link_color": "339966",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060374680991883300,
+		"quoted_status_id_str": "1060374680991883265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SKTAnM3BNP",
+			"expanded": "https://twitter.com/presssec/status/1060374680991883265",
+			"display": "twitter.com/presssec/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 03:33:19 +0000 2018",
+			"id": 1060374680991883300,
+			"id_str": "1060374680991883265",
+			"full_text": "We stand by our decision to revoke  this individual’s hard pass. We will not tolerate the inappropriate behavior clearly documented in this video. https://t.co/T8X1Ng912y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060374569075269600,
+						"id_str": "1060374569075269632",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060374569075269632/pu/img/xsAdsp5OSlKhCZId.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060374569075269632/pu/img/xsAdsp5OSlKhCZId.jpg",
+						"url": "https://t.co/T8X1Ng912y",
+						"display_url": "pic.twitter.com/T8X1Ng912y",
+						"expanded_url": "https://twitter.com/PressSec/status/1060374680991883265/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060374569075269600,
+						"id_str": "1060374569075269632",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060374569075269632/pu/img/xsAdsp5OSlKhCZId.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060374569075269632/pu/img/xsAdsp5OSlKhCZId.jpg",
+						"url": "https://t.co/T8X1Ng912y",
+						"display_url": "pic.twitter.com/T8X1Ng912y",
+						"expanded_url": "https://twitter.com/PressSec/status/1060374680991883265/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 14699,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060374569075269632/pu/vid/640x360/glCyi3lUQerl8jBe.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060374569075269632/pu/vid/320x180/nJnUpWbpj369su8K.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060374569075269632/pu/vid/1280x720/sPoKZYMhiGw6s6Ot.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1060374569075269632/pu/pl/SH80SAFDUfBYO2NE.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 818927131883356200,
+				"id_str": "818927131883356161",
+				"name": "Sarah Sanders",
+				"screen_name": "PressSec",
+				"location": "Washington, D.C.",
+				"description": "@WhiteHouse Press Secretary. Proudly representing @POTUS Trump's Administration. Tweets may be archived: https://t.co/eVVzoBb3Zr.",
+				"url": "https://t.co/wyOVgSLgBV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wyOVgSLgBV",
+								"expanded_url": "http://www.WhiteHouse.gov",
+								"display_url": "WhiteHouse.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/eVVzoBb3Zr",
+								"expanded_url": "http://wh.gov/privacy",
+								"display_url": "wh.gov/privacy",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3457826,
+				"friends_count": 266,
+				"listed_count": 8114,
+				"created_at": "Tue Jan 10 21:06:57 +0000 2017",
+				"favourites_count": 532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2313,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893600318025474048/CbCbznYp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893600318025474048/CbCbznYp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/818927131883356161/1522637682",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30610,
+			"favorite_count": 96016,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30476,
+		"favorite_count": 99802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘And if all others accepted the lie which the Party imposed—if all records told the same tale—then the lie passed into history and became truth.’ — George Orwell, 1984 https://t.co/SKTAnM3BNP"
+	},
+	{
 		"created_at": "Fri Nov 09 13:11:46 +0000 2018",
 		"id": 1060882641136902100,
 		"id_str": "1060882641136902145",

@@ -71,6 +71,242 @@ Grailbird.data.tweets_2018_11 =
 			"protected": false,
 			"followers_count": 5583,
 			"friends_count": 2299,
+			"listed_count": 477,
+			"created_at": "Fri Mar 30 04:52:58 +0000 2007",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5189,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061060197651644400,
+		"quoted_status_id_str": "1061060197651644416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aqpLM3Efim",
+			"expanded": "https://twitter.com/judell/status/1061060197651644416",
+			"display": "twitter.com/judell/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 00:57:19 +0000 2018",
+			"id": 1061060197651644400,
+			"id_str": "1061060197651644416",
+			"full_text": "Every search deserves its own URL.\n\nhttps://t.co/gniuqSvQFK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gniuqSvQFK",
+						"expanded_url": "https://blog.jonudell.net/2018/11/09/searching-across-silos-circa-2018/",
+						"display_url": "blog.jonudell.net/2018/11/09/sea…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2937071,
+				"id_str": "2937071",
+				"name": "Jon Udell",
+				"screen_name": "judell",
+				"location": "Santa Rosa, CA",
+				"description": "https://t.co/LEAXn0EhN2",
+				"url": "http://t.co/HMQKfTVjJr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HMQKfTVjJr",
+								"expanded_url": "http://blog.jonudell.net",
+								"display_url": "blog.jonudell.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LEAXn0EhN2",
+								"expanded_url": "http://jonudell.net",
+								"display_url": "jonudell.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5583,
+				"friends_count": 2299,
+				"listed_count": 477,
+				"created_at": "Fri Mar 30 04:52:58 +0000 2007",
+				"favourites_count": 866,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5189,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Responses to \"Every search deserves an URL\" (https://t.co/aqpLM3Efim) from:\n\nSlack: \"we think it's a great idea and shared with the team\"\n\nZendesk: \"I have marked this ticket as a Product feedback request\"\n\nPlease don't overthink this, folks. It's just how web works, or should."
+	},
+	{
+		"created_at": "Wed Nov 14 17:09:50 +0000 2018",
+		"id": 1062754491391307800,
+		"id_str": "1062754491391307776",
+		"full_text": "Responses to \"Every search deserves an URL\" (https://t.co/aqpLM3Efim) from:\n\nSlack: \"we think it's a great idea and shared with the team\"\n\nZendesk: \"I have marked this ticket as a Product feedback request\"\n\nPlease don't overthink this, folks. It's just how web works, or should.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aqpLM3Efim",
+					"expanded_url": "https://twitter.com/judell/status/1061060197651644416",
+					"display_url": "twitter.com/judell/status/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937071,
+			"id_str": "2937071",
+			"name": "Jon Udell",
+			"screen_name": "judell",
+			"location": "Santa Rosa, CA",
+			"description": "https://t.co/LEAXn0EhN2",
+			"url": "http://t.co/HMQKfTVjJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HMQKfTVjJr",
+							"expanded_url": "http://blog.jonudell.net",
+							"display_url": "blog.jonudell.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LEAXn0EhN2",
+							"expanded_url": "http://jonudell.net",
+							"display_url": "jonudell.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5583,
+			"friends_count": 2299,
 			"listed_count": 476,
 			"created_at": "Fri Mar 30 04:52:58 +0000 2007",
 			"favourites_count": 866,

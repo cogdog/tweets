@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 16 15:47:41 +0000 2018",
+		"id": 1063458595499589600,
+		"id_str": "1063458595499589632",
+		"full_text": "@RMoeJo @jonbecker @lynda Hope it includes Spurious Correlations which is all pure data https://t.co/Dp7BBDhX50",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RMoeJo",
+					"name": "Rolin Moe",
+					"id": 170832237,
+					"id_str": "170832237",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "lynda",
+					"name": "lynda.com",
+					"id": 16452121,
+					"id_str": "16452121",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Dp7BBDhX50",
+					"expanded_url": "http://www.tylervigen.com/spurious-correlations",
+					"display_url": "tylervigen.com/spurious-corre…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1063442229912588300,
+		"in_reply_to_status_id_str": "1063442229912588294",
+		"in_reply_to_user_id": 170832237,
+		"in_reply_to_user_id_str": "170832237",
+		"in_reply_to_screen_name": "RMoeJo",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10372,
+			"friends_count": 1453,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86984,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RMoeJo @jonbecker @lynda Hope it includes Spurious Correlations which is all pure data https://t.co/Dp7BBDhX50"
+	},
+	{
+		"created_at": "Fri Nov 16 15:45:46 +0000 2018",
+		"id": 1063458112005447700,
+		"id_str": "1063458112005447680",
+		"full_text": "@bennettscience @WordPress Really? I found Gutenberg really stunted my writing as I had to keep formatting and clicking rather than writing. It gets in my way.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "WordPress",
+					"name": "WordPress",
+					"id": 685513,
+					"id_str": "685513",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1063437836702105600,
+		"in_reply_to_status_id_str": "1063437836702105601",
+		"in_reply_to_user_id": 270307546,
+		"in_reply_to_user_id_str": "270307546",
+		"in_reply_to_screen_name": "bennettscience",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10372,
+			"friends_count": 1453,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86984,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bennettscience @WordPress Really? I found Gutenberg really stunted my writing as I had to keep formatting and clicking rather than writing. It gets in my way."
+	},
+	{
 		"created_at": "Fri Nov 16 14:46:35 +0000 2018",
 		"id": 1063443216203214800,
 		"id_str": "1063443216203214848",

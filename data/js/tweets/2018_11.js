@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 18 00:13:18 +0000 2018",
+		"id": 1063948222798938100,
+		"id_str": "1063948222798938112",
+		"full_text": "Now With Previews: TRU Collector SPLOT https://t.co/ZLRfA2SqWv https://t.co/8BNFZRL43E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZLRfA2SqWv",
+					"expanded_url": "https://cogdogblog.com/2018/11/splot-with-previews/",
+					"display_url": "cogdogblog.com/2018/11/splot-…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1063948221079154700,
+					"id_str": "1063948221079154688",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DsPnRSDU8AABVq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsPnRSDU8AABVq9.jpg",
+					"url": "https://t.co/8BNFZRL43E",
+					"display_url": "pic.twitter.com/8BNFZRL43E",
+					"expanded_url": "https://twitter.com/cogdog/status/1063948222798938112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063948221079154700,
+					"id_str": "1063948221079154688",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DsPnRSDU8AABVq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsPnRSDU8AABVq9.jpg",
+					"url": "https://t.co/8BNFZRL43E",
+					"display_url": "pic.twitter.com/8BNFZRL43E",
+					"expanded_url": "https://twitter.com/cogdog/status/1063948222798938112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 1452,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now With Previews: TRU Collector SPLOT https://t.co/ZLRfA2SqWv https://t.co/8BNFZRL43E"
+	},
+	{
+		"created_at": "Sat Nov 17 23:28:52 +0000 2018",
+		"id": 1063937042927812600,
+		"id_str": "1063937042927812609",
+		"full_text": "Some handy shortcuts for getting clickable image to YouTube video in GitHub markdown https://t.co/ndFVkdOWHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ndFVkdOWHP",
+					"expanded_url": "http://sviridovserg.com/2017/05/22/embed-youtube-to-markdown/",
+					"display_url": "sviridovserg.com/2017/05/22/emb…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 1452,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some handy shortcuts for getting clickable image to YouTube video in GitHub markdown https://t.co/ndFVkdOWHP"
+	},
+	{
+		"created_at": "Sat Nov 17 23:17:14 +0000 2018",
+		"id": 1063934113273602000,
+		"id_str": "1063934113273602049",
+		"full_text": "@BryanAlexander @Downes @laura_ritchie @grantpotter @sleslie @realdlnorman @clintlalonde @draggin @maryakem @fncll @jimgroom @mweller @pumpkiny @ggevalt @KateMfD @eliast05 @jgmac1106 I'd not put any money on permanence of FB beyond what lives in their secret database. Who gets to make the choice? If conversation, memory is important, save it in a place you manage.",
+		"truncated": false,
+		"display_text_range": [
+			183,
+			366
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Downes",
+					"name": "Downes",
+					"id": 7470932,
+					"id_str": "7470932",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "laura_ritchie",
+					"name": "laura ritchie",
+					"id": 17862408,
+					"id_str": "17862408",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "sleslie",
+					"name": "Scott Leslie",
+					"id": 3567831,
+					"id_str": "3567831",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"screen_name": "clintlalonde",
+					"name": "Clint Lalonde",
+					"id": 12991032,
+					"id_str": "12991032",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"screen_name": "draggin",
+					"name": "jason toal",
+					"id": 5690792,
+					"id_str": "5690792",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"screen_name": "maryakem",
+					"name": "Maryann Kempthorne",
+					"id": 88287944,
+					"id_str": "88287944",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "fncll",
+					"name": "Chris Lott",
+					"id": 2345538506,
+					"id_str": "2345538506",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"screen_name": "pumpkiny",
+					"name": "Pumpkin Yang",
+					"id": 3020471,
+					"id_str": "3020471",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"screen_name": "ggevalt",
+					"name": "Geoffrey Gevalt",
+					"id": 17316318,
+					"id_str": "17316318",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"screen_name": "KateMfD",
+					"name": "Kate Bowles",
+					"id": 379065166,
+					"id_str": "379065166",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"screen_name": "eliast05",
+					"name": "Tanya Dorey-Elias",
+					"id": 206925887,
+					"id_str": "206925887",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"screen_name": "jgmac1106",
+					"name": "Greg McVerry",
+					"id": 27620289,
+					"id_str": "27620289",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1063927327221063700,
+		"in_reply_to_status_id_str": "1063927327221063680",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 1452,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BryanAlexander @Downes @laura_ritchie @grantpotter @sleslie @realdlnorman @clintlalonde @draggin @maryakem @fncll @jimgroom @mweller @pumpkiny @ggevalt @KateMfD @eliast05 @jgmac1106 I'd not put any money on permanence of FB beyond what lives in their secret database. Who gets to make the choice? If conversation, memory is important, save it in a place you manage."
+	},
+	{
 		"created_at": "Sat Nov 17 22:23:41 +0000 2018",
 		"id": 1063920638145032200,
 		"id_str": "1063920638145032194",

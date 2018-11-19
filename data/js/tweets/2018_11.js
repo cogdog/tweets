@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 04:17:54 +0000 2018",
+		"id": 1064372167645847600,
+		"id_str": "1064372167645847557",
+		"full_text": "Seriously. This alone will save me from frequently cussing at how long it takes to edit in iOS. https://t.co/seisi8kn0u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/seisi8kn0u",
+					"expanded_url": "https://twitter.com/krissys_kitchen/status/1064284784124444672",
+					"display_url": "twitter.com/krissys_kitche…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 1452,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064284784124444700,
+		"quoted_status_id_str": "1064284784124444672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/seisi8kn0u",
+			"expanded": "https://twitter.com/krissys_kitchen/status/1064284784124444672",
+			"display": "twitter.com/krissys_kitche…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 18 22:30:40 +0000 2018",
+			"id": 1064284784124444700,
+			"id_str": "1064284784124444672",
+			"full_text": "How come you guys never told me this iPhone trick? I feel duped. https://t.co/2RfRhI4Y1X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1064284778722017300,
+						"id_str": "1064284778722017280",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DsUZXg-UwAA4ADD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsUZXg-UwAA4ADD.jpg",
+						"url": "https://t.co/2RfRhI4Y1X",
+						"display_url": "pic.twitter.com/2RfRhI4Y1X",
+						"expanded_url": "https://twitter.com/krissys_kitchen/status/1064284784124444672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 655,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 722,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 722,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064284778722017300,
+						"id_str": "1064284778722017280",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DsUZXg-UwAA4ADD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsUZXg-UwAA4ADD.jpg",
+						"url": "https://t.co/2RfRhI4Y1X",
+						"display_url": "pic.twitter.com/2RfRhI4Y1X",
+						"expanded_url": "https://twitter.com/krissys_kitchen/status/1064284784124444672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 655,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 722,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 722,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16582002,
+				"id_str": "16582002",
+				"name": "Krissy Brierre-Davis",
+				"screen_name": "krissys_kitchen",
+				"location": "Atlanta, GA",
+				"description": "Food Blogger | 👩🏽‍🎓 Michigan State Alum 💪🏽 Sickle Cell Warrior 📧:krissy@krissyskitchen.co",
+				"url": "https://t.co/n23evCdrFl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n23evCdrFl",
+								"expanded_url": "https://krissyskitchen.co",
+								"display_url": "krissyskitchen.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3811,
+				"friends_count": 1084,
+				"listed_count": 175,
+				"created_at": "Fri Oct 03 19:01:55 +0000 2008",
+				"favourites_count": 270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 289034,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046038170121506817/d2bLPoHs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046038170121506817/d2bLPoHs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16582002/1539172355",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4934,
+			"favorite_count": 10782,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seriously. This alone will save me from frequently cussing at how long it takes to edit in iOS. https://t.co/seisi8kn0u"
+	},
+	{
 		"created_at": "Mon Nov 19 04:14:53 +0000 2018",
 		"id": 1064371409672118300,
 		"id_str": "1064371409672118272",

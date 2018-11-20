@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 16:02:59 +0000 2018",
+		"id": 1064549606095233000,
+		"id_str": "1064549606095233025",
+		"full_text": "#Haravointi Dear Americans, let's hail the supreme leader to the forest! \n#Trump vs. fire #raking https://t.co/u7QVlHR32f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Haravointi",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "Trump",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "raking",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064549601615798300,
+					"id_str": "1064549601615798273",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DsYKOPIX4AEWFkH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsYKOPIX4AEWFkH.jpg",
+					"url": "https://t.co/u7QVlHR32f",
+					"display_url": "pic.twitter.com/u7QVlHR32f",
+					"expanded_url": "https://twitter.com/BaoThien/status/1064549606095233025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 890,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064549601615798300,
+					"id_str": "1064549601615798273",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DsYKOPIX4AEWFkH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsYKOPIX4AEWFkH.jpg",
+					"url": "https://t.co/u7QVlHR32f",
+					"display_url": "pic.twitter.com/u7QVlHR32f",
+					"expanded_url": "https://twitter.com/BaoThien/status/1064549606095233025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 890,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35704274,
+			"id_str": "35704274",
+			"name": "ein BAO von CINCY",
+			"screen_name": "BaoThien",
+			"location": "Ohio, USA",
+			"description": "A vegetarian, a secular progressive who is old & grumpy enough to be against whatever you stand for. I am here for #BernieSanders & #OurRevolution",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 603,
+			"listed_count": 34,
+			"created_at": "Mon Apr 27 08:59:52 +0000 2009",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048645859045519360/NUupseyS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048645859045519360/NUupseyS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35704274/1540744975",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Haravointi Dear Americans, let's hail the supreme leader to the forest! \n#Trump vs. fire #raking https://t.co/u7QVlHR32f"
+	},
+	{
 		"created_at": "Mon Nov 19 23:07:10 +0000 2018",
 		"id": 1064656357247385600,
 		"id_str": "1064656357247385601",

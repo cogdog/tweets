@@ -598,6 +598,221 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 18330,
+			"friends_count": 1203,
+			"listed_count": 1383,
+			"created_at": "Thu Mar 20 00:37:35 +0000 2008",
+			"favourites_count": 7290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932683140212101125/4yAVrlzt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932683140212101125/4yAVrlzt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14181097/1349744877",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next step in going indie with my social media: Goodbye, Instagram, hello indie photo sharing. (With big thanks and help from the great @microdotblog community, and especially @manton and @cleverdevil) https://t.co/aEXNFgjm6N https://t.co/al4Usi6owY"
+	},
+	{
+		"created_at": "Wed Nov 21 20:21:05 +0000 2018",
+		"id": 1065339334809829400,
+		"id_str": "1065339334809829376",
+		"full_text": "Next step in going indie with my social media: Goodbye, Instagram, hello indie photo sharing. (With big thanks and help from the great @microdotblog community, and especially @manton and @cleverdevil) https://t.co/aEXNFgjm6N https://t.co/al4Usi6owY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "microdotblog",
+					"name": "Micro.blog",
+					"id": 846760946727108600,
+					"id_str": "846760946727108610",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"screen_name": "manton",
+					"name": "Manton Reece",
+					"id": 897,
+					"id_str": "897",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"screen_name": "cleverdevil",
+					"name": "Jonathan LaCour",
+					"id": 639523,
+					"id_str": "639523",
+					"indices": [
+						187,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aEXNFgjm6N",
+					"expanded_url": "https://social.dancohen.org/photos/",
+					"display_url": "social.dancohen.org/photos/",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1065339331517141000,
+					"id_str": "1065339331517140992",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DsjYekRU0AAzZ_y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsjYekRU0AAzZ_y.jpg",
+					"url": "https://t.co/al4Usi6owY",
+					"display_url": "pic.twitter.com/al4Usi6owY",
+					"expanded_url": "https://twitter.com/dancohen/status/1065339334809829376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1140,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1065339331517141000,
+					"id_str": "1065339331517140992",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DsjYekRU0AAzZ_y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsjYekRU0AAzZ_y.jpg",
+					"url": "https://t.co/al4Usi6owY",
+					"display_url": "pic.twitter.com/al4Usi6owY",
+					"expanded_url": "https://twitter.com/dancohen/status/1065339334809829376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1140,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14181097,
+			"id_str": "14181097",
+			"name": "Dan Cohen",
+			"screen_name": "dancohen",
+			"location": "Boston",
+			"description": "Vice Provost for Information Collaboration, Dean of the Libraries, and Professor of History @Northeastern | Host of @podcastwhatsnew | Views are my own",
+			"url": "https://t.co/PsV4Uu393w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PsV4Uu393w",
+							"expanded_url": "http://dancohen.org",
+							"display_url": "dancohen.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 18328,
 			"friends_count": 1203,
 			"listed_count": 1384,

@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 26 16:56:32 +0000 2018",
+		"id": 1067099801114816500,
+		"id_str": "1067099801114816518",
+		"full_text": "The old SMC reset summoned the 2009 MacBookPro for a black screen no startup https://t.co/DgBQmkgoIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DgBQmkgoIC",
+					"expanded_url": "https://support.apple.com/en-us/HT201295",
+					"display_url": "support.apple.com/en-us/HT201295",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10377,
+			"friends_count": 1451,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The old SMC reset summoned the 2009 MacBookPro for a black screen no startup https://t.co/DgBQmkgoIC"
+	},
+	{
+		"created_at": "Mon Nov 26 16:50:46 +0000 2018",
+		"id": 1067098348103102500,
+		"id_str": "1067098348103102470",
+		"full_text": "Took a while to get around to listening to @hypervisible on #digitalredlining always worth it. \"You don't know what you are not seeing\" Nice nod in closing to @ken_bauer https://t.co/cC1vrdp8O0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalredlining",
+					"indices": [
+						60,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypervisible",
+					"name": "all I got for xmas was surveillance capitalism",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cC1vrdp8O0",
+					"expanded_url": "https://twitter.com/hypervisible/status/1058466250177871872",
+					"display_url": "twitter.com/hypervisible/s…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10377,
+			"friends_count": 1451,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058466250177871900,
+		"quoted_status_id_str": "1058466250177871872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cC1vrdp8O0",
+			"expanded": "https://twitter.com/hypervisible/status/1058466250177871872",
+			"display": "twitter.com/hypervisible/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 02 21:09:54 +0000 2018",
+			"id": 1058466250177871900,
+			"id_str": "1058466250177871872",
+			"full_text": "Had a great conversation with @nora3000 about #digitalredlining and #frictionfreeracism https://t.co/7XOqHaQdwz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digitalredlining",
+						"indices": [
+							46,
+							63
+						]
+					},
+					{
+						"text": "frictionfreeracism",
+						"indices": [
+							68,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nora3000",
+						"name": "Nora Young",
+						"id": 2861361,
+						"id_str": "2861361",
+						"indices": [
+							30,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7XOqHaQdwz",
+						"expanded_url": "https://www.cbc.ca/radio/spark/bad-algorithms-are-making-racist-decisions-1.4887504",
+						"display_url": "cbc.ca/radio/spark/ba…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175292337,
+				"id_str": "175292337",
+				"name": "all I got for xmas was surveillance capitalism",
+				"screen_name": "hypervisible",
+				"location": "",
+				"description": "Professor & snowboarder. I spend a lot of time thinking (& not enough time writing) about algorithms, personalization, & data in education. #digitalredlining",
+				"url": "https://t.co/AZ81IRjWwC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AZ81IRjWwC",
+								"expanded_url": "http://hypervisible.com",
+								"display_url": "hypervisible.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5178,
+				"friends_count": 997,
+				"listed_count": 290,
+				"created_at": "Fri Aug 06 05:44:19 +0000 2010",
+				"favourites_count": 75746,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1275064805/wrist3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275064805/wrist3_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Took a while to get around to listening to @hypervisible on #digitalredlining always worth it. \"You don't know what you are not seeing\" Nice nod in closing to @ken_bauer https://t.co/cC1vrdp8O0"
+	},
+	{
 		"created_at": "Mon Nov 26 14:39:56 +0000 2018",
 		"id": 1067065424305639400,
 		"id_str": "1067065424305639425",

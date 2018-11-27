@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 16:28:34 +0000 2018",
+		"id": 1067455148295884800,
+		"id_str": "1067455148295884805",
+		"full_text": "@davidtedu @shirky17 @billselak @amyburvall @WickedDecent @cultofpedagogy @MrZiebarth @coachk @jcorippo @bribriggs @Catlin_Tucker @burgessdave I got your white whale covered, Ahab. Gimme some time to build a demo",
+		"truncated": false,
+		"display_text_range": [
+			143,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidtedu",
+					"name": "David Theriault",
+					"id": 617781615,
+					"id_str": "617781615",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "shirky17",
+					"name": "paul shircliff",
+					"id": 160300589,
+					"id_str": "160300589",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "billselak",
+					"name": "𝖡𝗂𝗅𝗅 𝖲𝖾𝗅𝖺𝗄",
+					"id": 14680984,
+					"id_str": "14680984",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "WickedDecent",
+					"name": "Dan Ryder",
+					"id": 15194262,
+					"id_str": "15194262",
+					"indices": [
+						44,
+						57
+					]
+				},
+				{
+					"screen_name": "cultofpedagogy",
+					"name": "Jennifer Gonzalez",
+					"id": 1881304950,
+					"id_str": "1881304950",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"screen_name": "MrZiebarth",
+					"name": "Sean Ziebarth",
+					"id": 338577657,
+					"id_str": "338577657",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "coachk",
+					"name": "Kelly Kermode",
+					"id": 3539791,
+					"id_str": "3539791",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"screen_name": "bribriggs",
+					"name": "Brian Briggs",
+					"id": 108097126,
+					"id_str": "108097126",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"screen_name": "Catlin_Tucker",
+					"name": "Catlin Tucker",
+					"id": 170072117,
+					"id_str": "170072117",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "burgessdave",
+					"name": "Dave Burgess",
+					"id": 87269548,
+					"id_str": "87269548",
+					"indices": [
+						130,
+						142
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1067439158270914600,
+		"in_reply_to_status_id_str": "1067439158270914567",
+		"in_reply_to_user_id": 617781615,
+		"in_reply_to_user_id_str": "617781615",
+		"in_reply_to_screen_name": "davidtedu",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10377,
+			"friends_count": 1451,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87049,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@davidtedu @shirky17 @billselak @amyburvall @WickedDecent @cultofpedagogy @MrZiebarth @coachk @jcorippo @bribriggs @Catlin_Tucker @burgessdave I got your white whale covered, Ahab. Gimme some time to build a demo"
+	},
+	{
+		"created_at": "Tue Nov 27 15:25:08 +0000 2018",
+		"id": 1067439187136254000,
+		"id_str": "1067439187136253952",
+		"full_text": "Kidding Around With the WordPress Customizer https://t.co/tj7vwFDm97 https://t.co/paMB0Hh3CG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tj7vwFDm97",
+					"expanded_url": "https://cogdogblog.com/2018/11/kidding-around/",
+					"display_url": "cogdogblog.com/2018/11/kiddin…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067439185278058500,
+					"id_str": "1067439185278058496",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DtBOSJHUwAAGgK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtBOSJHUwAAGgK9.jpg",
+					"url": "https://t.co/paMB0Hh3CG",
+					"display_url": "pic.twitter.com/paMB0Hh3CG",
+					"expanded_url": "https://twitter.com/cogdog/status/1067439187136253952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067439185278058500,
+					"id_str": "1067439185278058496",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DtBOSJHUwAAGgK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtBOSJHUwAAGgK9.jpg",
+					"url": "https://t.co/paMB0Hh3CG",
+					"display_url": "pic.twitter.com/paMB0Hh3CG",
+					"expanded_url": "https://twitter.com/cogdog/status/1067439187136253952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10377,
+			"friends_count": 1451,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87049,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kidding Around With the WordPress Customizer https://t.co/tj7vwFDm97 https://t.co/paMB0Hh3CG"
+	},
+	{
 		"created_at": "Tue Nov 27 12:22:48 +0000 2018",
 		"id": 1067393300833939500,
 		"id_str": "1067393300833939458",

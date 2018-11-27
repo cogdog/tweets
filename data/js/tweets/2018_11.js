@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 12:22:48 +0000 2018",
+		"id": 1067393300833939500,
+		"id_str": "1067393300833939458",
+		"full_text": "@davidtedu @amyburvall @WickedDecent @cultofpedagogy @MrZiebarth @billselak @coachk @jcorippo @bribriggs @Catlin_Tucker If you have your own hosted domain I built a WordPress theme for this kind of site https://t.co/kbScOkkr4E",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidtedu",
+					"name": "David Theriault",
+					"id": 617781615,
+					"id_str": "617781615",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "WickedDecent",
+					"name": "Dan Ryder",
+					"id": 15194262,
+					"id_str": "15194262",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "cultofpedagogy",
+					"name": "Jennifer Gonzalez",
+					"id": 1881304950,
+					"id_str": "1881304950",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "MrZiebarth",
+					"name": "Sean Ziebarth",
+					"id": 338577657,
+					"id_str": "338577657",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "billselak",
+					"name": "𝖡𝗂𝗅𝗅 𝖲𝖾𝗅𝖺𝗄",
+					"id": 14680984,
+					"id_str": "14680984",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "coachk",
+					"name": "Kelly Kermode",
+					"id": 3539791,
+					"id_str": "3539791",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "bribriggs",
+					"name": "Brian Briggs",
+					"id": 108097126,
+					"id_str": "108097126",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"screen_name": "Catlin_Tucker",
+					"name": "Catlin Tucker",
+					"id": 170072117,
+					"id_str": "170072117",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kbScOkkr4E",
+					"expanded_url": "https://github.com/cogdog/tru-collector",
+					"display_url": "github.com/cogdog/tru-col…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1067324073481367600,
+		"in_reply_to_status_id_str": "1067324073481367552",
+		"in_reply_to_user_id": 617781615,
+		"in_reply_to_user_id_str": "617781615",
+		"in_reply_to_screen_name": "davidtedu",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10377,
+			"friends_count": 1451,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87047,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davidtedu @amyburvall @WickedDecent @cultofpedagogy @MrZiebarth @billselak @coachk @jcorippo @bribriggs @Catlin_Tucker If you have your own hosted domain I built a WordPress theme for this kind of site https://t.co/kbScOkkr4E"
+	},
+	{
 		"created_at": "Mon Nov 26 20:25:58 +0000 2018",
 		"id": 1067152503907778600,
 		"id_str": "1067152503907778560",

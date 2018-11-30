@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 15:25:36 +0000 2018",
+		"id": 1068526464650395600,
+		"id_str": "1068526464650395648",
+		"full_text": "Proud to see the work of #udgagora continues on by professors like @adansino83 https://t.co/3KL6XqYvBP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "udgagora",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adansino83",
+					"name": "Adán Sino",
+					"id": 298775691,
+					"id_str": "298775691",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3KL6XqYvBP",
+					"expanded_url": "https://twitter.com/DrGudinho/status/1068501447522832384",
+					"display_url": "twitter.com/DrGudinho/stat…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10379,
+			"friends_count": 1450,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068501447522832400,
+		"quoted_status_id_str": "1068501447522832384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3KL6XqYvBP",
+			"expanded": "https://twitter.com/DrGudinho/status/1068501447522832384",
+			"display": "twitter.com/DrGudinho/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 30 13:46:11 +0000 2018",
+			"id": 1068501447522832400,
+			"id_str": "1068501447522832384",
+			"full_text": "🤔 Parace que ya están alcanzando a mis amigos de @CIEP_UdeG, porque los talleres de memes educativos son tema discutido con @tanbob, @cogdog, @brlamb y muchas generaciones de docentes de la @udg_oficial que han participado en sus diplomados y certificaciones #UdGAgora @AgoraUdG https://t.co/HL13V3zgze",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UdGAgora",
+						"indices": [
+							259,
+							268
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CIEP_UdeG",
+						"name": "Innovación Educativa",
+						"id": 171178622,
+						"id_str": "171178622",
+						"indices": [
+							49,
+							59
+						]
+					},
+					{
+						"screen_name": "tanbob",
+						"name": "Dr. Tannis Morgan",
+						"id": 10817782,
+						"id_str": "10817782",
+						"indices": [
+							124,
+							131
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							133,
+							140
+						]
+					},
+					{
+						"screen_name": "brlamb",
+						"name": "Brian Lamb",
+						"id": 745903,
+						"id_str": "745903",
+						"indices": [
+							142,
+							149
+						]
+					},
+					{
+						"screen_name": "udg_oficial",
+						"name": "UdeG",
+						"id": 74204499,
+						"id_str": "74204499",
+						"indices": [
+							190,
+							202
+						]
+					},
+					{
+						"screen_name": "AgoraUdG",
+						"name": "Un ágora en la UdG",
+						"id": 3300945346,
+						"id_str": "3300945346",
+						"indices": [
+							269,
+							278
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HL13V3zgze",
+						"expanded_url": "https://twitter.com/udg_oficial/status/1068339016041406464",
+						"display_url": "twitter.com/udg_oficial/st…",
+						"indices": [
+							279,
+							302
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24035944,
+				"id_str": "24035944",
+				"name": "Pedro Ortega Gudiño",
+				"screen_name": "DrGudinho",
+				"location": "GDL",
+				"description": "Ñoño que vive de tus impuestos trabajando en el @iq_cucei / @udgcucei / @udg_oficial y forma parte del @pipcucei. Con domicilio @EnTlaquepaque.",
+				"url": "https://t.co/JEnNbxQBM7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JEnNbxQBM7",
+								"expanded_url": "http://drgudinho.com",
+								"display_url": "drgudinho.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2417,
+				"friends_count": 1082,
+				"listed_count": 48,
+				"created_at": "Thu Mar 12 21:00:54 +0000 2009",
+				"favourites_count": 26978,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34047,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015858820856369153/CtFQpyTA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015858820856369153/CtFQpyTA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24035944/1517259647",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7c97cbaddc57fcf4",
+				"url": "https://api.twitter.com/1.1/geo/id/7c97cbaddc57fcf4.json",
+				"place_type": "city",
+				"name": "Tlaquepaque",
+				"full_name": "Tlaquepaque, Jalisco",
+				"country_code": "MX",
+				"country": "Mexico",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-103.453231,
+								20.5396411
+							],
+							[
+								-103.243417,
+								20.5396411
+							],
+							[
+								-103.243417,
+								20.644625
+							],
+							[
+								-103.453231,
+								20.644625
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1068339016041406500,
+			"quoted_status_id_str": "1068339016041406464",
+			"quoted_status_permalink": {
+				"url": "https://t.co/HL13V3zgze",
+				"expanded": "https://twitter.com/udg_oficial/status/1068339016041406464",
+				"display": "twitter.com/udg_oficial/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud to see the work of #udgagora continues on by professors like @adansino83 https://t.co/3KL6XqYvBP"
+	},
+	{
 		"created_at": "Fri Nov 30 14:49:25 +0000 2018",
 		"id": 1068517360305242100,
 		"id_str": "1068517360305242112",

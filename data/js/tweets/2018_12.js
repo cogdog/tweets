@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 01:38:17 +0000 2018",
+		"id": 1072666919688433700,
+		"id_str": "1072666919688433664",
+		"full_text": "Seven Camp Fire survivors from within the campus community opened up about their escapes, their lives since the fire broke out, and the ongoing challenges they face: \nRead: https://t.co/Rd1KHQZ1co\nListen: https://t.co/tKFqs4psll\n\n#WeAreChico\n#WildcatsRise https://t.co/cHooUeduoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeAreChico",
+					"indices": [
+						230,
+						241
+					]
+				},
+				{
+					"text": "WildcatsRise",
+					"indices": [
+						242,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rd1KHQZ1co",
+					"expanded_url": "https://bit.ly/2zW5vbK",
+					"display_url": "bit.ly/2zW5vbK",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"url": "https://t.co/tKFqs4psll",
+					"expanded_url": "https://bit.ly/2zWZDz1",
+					"display_url": "bit.ly/2zWZDz1",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072666916572020700,
+					"id_str": "1072666916572020739",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"url": "https://t.co/cHooUeduoU",
+					"display_url": "pic.twitter.com/cHooUeduoU",
+					"expanded_url": "https://twitter.com/ChicoState/status/1072666919688433664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1585,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072666916572020700,
+					"id_str": "1072666916572020739",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"url": "https://t.co/cHooUeduoU",
+					"display_url": "pic.twitter.com/cHooUeduoU",
+					"expanded_url": "https://twitter.com/ChicoState/status/1072666919688433664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1585,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17068492,
+			"id_str": "17068492",
+			"name": "Chico State",
+			"screen_name": "ChicoState",
+			"location": "Chico, CA",
+			"description": "The official Twitter account of California State University, Chico — home of the Wildcats!",
+			"url": "https://t.co/OdysBYADEw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdysBYADEw",
+							"expanded_url": "http://www.csuchico.edu",
+							"display_url": "csuchico.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19077,
+			"friends_count": 255,
+			"listed_count": 294,
+			"created_at": "Thu Oct 30 16:29:31 +0000 2008",
+			"favourites_count": 12028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061302955134017536/fmCC0Fdr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061302955134017536/fmCC0Fdr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17068492/1541869362",
+			"profile_link_color": "AB0707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B30000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seven Camp Fire survivors from within the campus community opened up about their escapes, their lives since the fire broke out, and the ongoing challenges they face: \nRead: https://t.co/Rd1KHQZ1co\nListen: https://t.co/tKFqs4psll\n\n#WeAreChico\n#WildcatsRise https://t.co/cHooUeduoU"
+	},
+	{
 		"created_at": "Wed Dec 12 15:13:38 +0000 2018",
 		"id": 1072872108118691800,
 		"id_str": "1072872108118691842",

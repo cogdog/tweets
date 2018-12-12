@@ -1,6 +1,1025 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 18:08:22 +0000 2018",
+		"id": 1072916081319256000,
+		"id_str": "1072916081319256064",
+		"full_text": "Definitely no! #thedemoat50 https://t.co/MyLtIQPmdt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thedemoat50",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MyLtIQPmdt",
+					"expanded_url": "https://twitter.com/moehlert/status/1072915658046926848",
+					"display_url": "twitter.com/moehlert/statu…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10393,
+			"friends_count": 1451,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072915658046926800,
+		"quoted_status_id_str": "1072915658046926848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MyLtIQPmdt",
+			"expanded": "https://twitter.com/moehlert/status/1072915658046926848",
+			"display": "twitter.com/moehlert/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 12 18:06:41 +0000 2018",
+			"id": 1072915658046926800,
+			"id_str": "1072915658046926848",
+			"full_text": "No. RT @qz: The “mother of all demos” was as much about the chair as it was about the computer https://t.co/Sc15nwSfDq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "qz",
+						"name": "Quartz",
+						"id": 573918122,
+						"id_str": "573918122",
+						"indices": [
+							7,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Sc15nwSfDq",
+						"expanded_url": "http://bit.ly/2Ev5MGC",
+						"display_url": "bit.ly/2Ev5MGC",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8159652,
+				"id_str": "8159652",
+				"name": "Mark Oehlert",
+				"screen_name": "moehlert",
+				"location": "PNW",
+				"description": "Anthropologist, Historian, Technologist, Geek /Head of Programs-Dept of Ideas @ Amazon/ Wash Caps fan / Words r mine-not employer's/ darth_oehlert on IG",
+				"url": "https://t.co/U5cKiKAYnZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U5cKiKAYnZ",
+								"expanded_url": "http://about.me/markoehlert",
+								"display_url": "about.me/markoehlert",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7173,
+				"friends_count": 6267,
+				"listed_count": 769,
+				"created_at": "Mon Aug 13 14:10:51 +0000 2007",
+				"favourites_count": 46913,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 81293,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039641357478809600/1VhdlgDL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039641357478809600/1VhdlgDL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8159652/1543944988",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BABAB2",
+				"profile_text_color": "47484D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Definitely no! #thedemoat50 https://t.co/MyLtIQPmdt"
+	},
+	{
+		"created_at": "Wed Dec 12 17:58:58 +0000 2018",
+		"id": 1072913717879169000,
+		"id_str": "1072913717879169024",
+		"full_text": "305,582,195 Tumblr URLs have archived, and now available via the Wayback Machine. https://t.co/TCyF2rB8IB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072913708404240400,
+					"id_str": "1072913708404240384",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DuPBVVAU8AAwZyL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DuPBVVAU8AAwZyL.jpg",
+					"url": "https://t.co/TCyF2rB8IB",
+					"display_url": "pic.twitter.com/TCyF2rB8IB",
+					"expanded_url": "https://twitter.com/textfiles/status/1072913717879169024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072913708404240400,
+					"id_str": "1072913708404240384",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DuPBVVAU8AAwZyL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DuPBVVAU8AAwZyL.jpg",
+					"url": "https://t.co/TCyF2rB8IB",
+					"display_url": "pic.twitter.com/TCyF2rB8IB",
+					"expanded_url": "https://twitter.com/textfiles/status/1072913717879169024/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							179
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DuPBVVAU8AAwZyL.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465481,
+			"id_str": "1465481",
+			"name": "Jason Scott",
+			"screen_name": "textfiles",
+			"location": "The 1980s",
+			"description": "Proprietor of https://t.co/45hn0aMmeO, historian, filmmaker, archivist, famous cat maintenance staff. Works on/for/over the Internet Archive. Rank Amateur.",
+			"url": "https://t.co/1f0N0J6W33",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1f0N0J6W33",
+							"expanded_url": "http://ascii.textfiles.com",
+							"display_url": "ascii.textfiles.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/45hn0aMmeO",
+							"expanded_url": "http://TEXTFILES.COM",
+							"display_url": "TEXTFILES.COM",
+							"indices": [
+								14,
+								37
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25549,
+			"friends_count": 673,
+			"listed_count": 1129,
+			"created_at": "Mon Mar 19 02:55:22 +0000 2007",
+			"favourites_count": 1011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955293255159042048/z1ihB0QT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955293255159042048/z1ihB0QT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465481/1398239070",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "305,582,195 Tumblr URLs have archived, and now available via the Wayback Machine. https://t.co/TCyF2rB8IB"
+	},
+	{
+		"created_at": "Wed Dec 12 01:38:17 +0000 2018",
+		"id": 1072666919688433700,
+		"id_str": "1072666919688433664",
+		"full_text": "Seven Camp Fire survivors from within the campus community opened up about their escapes, their lives since the fire broke out, and the ongoing challenges they face: \nRead: https://t.co/Rd1KHQZ1co\nListen: https://t.co/tKFqs4psll\n\n#WeAreChico\n#WildcatsRise https://t.co/cHooUeduoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeAreChico",
+					"indices": [
+						230,
+						241
+					]
+				},
+				{
+					"text": "WildcatsRise",
+					"indices": [
+						242,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rd1KHQZ1co",
+					"expanded_url": "https://bit.ly/2zW5vbK",
+					"display_url": "bit.ly/2zW5vbK",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"url": "https://t.co/tKFqs4psll",
+					"expanded_url": "https://bit.ly/2zWZDz1",
+					"display_url": "bit.ly/2zWZDz1",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072666916572020700,
+					"id_str": "1072666916572020739",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"url": "https://t.co/cHooUeduoU",
+					"display_url": "pic.twitter.com/cHooUeduoU",
+					"expanded_url": "https://twitter.com/ChicoState/status/1072666919688433664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1585,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072666916572020700,
+					"id_str": "1072666916572020739",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuLg4JyWwAMqzJY.jpg",
+					"url": "https://t.co/cHooUeduoU",
+					"display_url": "pic.twitter.com/cHooUeduoU",
+					"expanded_url": "https://twitter.com/ChicoState/status/1072666919688433664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1585,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17068492,
+			"id_str": "17068492",
+			"name": "Chico State",
+			"screen_name": "ChicoState",
+			"location": "Chico, CA",
+			"description": "The official Twitter account of California State University, Chico — home of the Wildcats!",
+			"url": "https://t.co/OdysBYADEw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdysBYADEw",
+							"expanded_url": "http://www.csuchico.edu",
+							"display_url": "csuchico.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19077,
+			"friends_count": 255,
+			"listed_count": 294,
+			"created_at": "Thu Oct 30 16:29:31 +0000 2008",
+			"favourites_count": 12028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061302955134017536/fmCC0Fdr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061302955134017536/fmCC0Fdr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17068492/1541869362",
+			"profile_link_color": "AB0707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B30000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seven Camp Fire survivors from within the campus community opened up about their escapes, their lives since the fire broke out, and the ongoing challenges they face: \nRead: https://t.co/Rd1KHQZ1co\nListen: https://t.co/tKFqs4psll\n\n#WeAreChico\n#WildcatsRise https://t.co/cHooUeduoU"
+	},
+	{
+		"created_at": "Wed Dec 12 15:13:38 +0000 2018",
+		"id": 1072872108118691800,
+		"id_str": "1072872108118691842",
+		"full_text": "@VivienRolfe @brlamb It's fairly impossible to explain. My last effort was doing so within a SPLOT https://t.co/1Jd587C3PO #LikeGooglingRecursion #altc",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LikeGooglingRecursion",
+					"indices": [
+						123,
+						145
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						146,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VivienRolfe",
+					"name": "Viv Rolfe 🍵🌿💚",
+					"id": 214901910,
+					"id_str": "214901910",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1Jd587C3PO",
+					"expanded_url": "http://show.cogdog.casa/splot/",
+					"display_url": "show.cogdog.casa/splot/",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1072868692944273400,
+		"in_reply_to_status_id_str": "1072868692944273408",
+		"in_reply_to_user_id": 214901910,
+		"in_reply_to_user_id_str": "214901910",
+		"in_reply_to_screen_name": "VivienRolfe",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10393,
+			"friends_count": 1451,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@VivienRolfe @brlamb It's fairly impossible to explain. My last effort was doing so within a SPLOT https://t.co/1Jd587C3PO #LikeGooglingRecursion #altc"
+	},
+	{
+		"created_at": "Wed Dec 12 15:05:34 +0000 2018",
+		"id": 1072870079744753700,
+		"id_str": "1072870079744753664",
+		"full_text": "@livingkatstone @greeneterry Thanks Peg, we plan to live up to that confessions. If you reload the MOOC maker generator you *might* hit it (not guaranteed) https://t.co/mQ8pDfL1g3 https://t.co/aoEcQ9iZmQ",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "livingkatstone",
+					"name": "peg french",
+					"id": 9353512,
+					"id_str": "9353512",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "It's Beginning to Look a Lot Like Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mQ8pDfL1g3",
+					"expanded_url": "http://mooc.cogdogblog.com/",
+					"display_url": "mooc.cogdogblog.com",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072869791419908100,
+					"id_str": "1072869791419908102",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DuOZZBfUwAY8Z03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuOZZBfUwAY8Z03.jpg",
+					"url": "https://t.co/aoEcQ9iZmQ",
+					"display_url": "pic.twitter.com/aoEcQ9iZmQ",
+					"expanded_url": "https://twitter.com/cogdog/status/1072870079744753664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 655,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072869791419908100,
+					"id_str": "1072869791419908102",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DuOZZBfUwAY8Z03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuOZZBfUwAY8Z03.jpg",
+					"url": "https://t.co/aoEcQ9iZmQ",
+					"display_url": "pic.twitter.com/aoEcQ9iZmQ",
+					"expanded_url": "https://twitter.com/cogdog/status/1072870079744753664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 655,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1072868985593425900,
+		"in_reply_to_status_id_str": "1072868985593425921",
+		"in_reply_to_user_id": 9353512,
+		"in_reply_to_user_id_str": "9353512",
+		"in_reply_to_screen_name": "livingkatstone",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10393,
+			"friends_count": 1451,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@livingkatstone @greeneterry Thanks Peg, we plan to live up to that confessions. If you reload the MOOC maker generator you *might* hit it (not guaranteed) https://t.co/mQ8pDfL1g3 https://t.co/aoEcQ9iZmQ"
+	},
+	{
 		"created_at": "Wed Dec 12 01:38:17 +0000 2018",
 		"id": 1072666919688433700,
 		"id_str": "1072666919688433664",

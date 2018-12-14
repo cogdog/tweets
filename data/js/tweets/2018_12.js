@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 15:09:54 +0000 2018",
+		"id": 1073595946418782200,
+		"id_str": "1073595946418782209",
+		"full_text": "When your students take a hard pass on writing a paper for their teacher and instead share a project for the world:\n\n“Creating a Space for Digital Art” https://t.co/bnwUmdDOmy @remikalir @DenverArts @audreyoclair @MsClaraGalan @CateTolnai @art_cathyhunt @spencerideas #DML",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DML",
+					"indices": [
+						268,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"screen_name": "DenverArts",
+					"name": "Denver Arts & Venues",
+					"id": 22501380,
+					"id_str": "22501380",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"screen_name": "audreyoclair",
+					"name": "Audrey O'Clair",
+					"id": 47700271,
+					"id_str": "47700271",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"screen_name": "MsClaraGalan",
+					"name": "Clara Galán",
+					"id": 1054360758,
+					"id_str": "1054360758",
+					"indices": [
+						213,
+						226
+					]
+				},
+				{
+					"screen_name": "CateTolnai",
+					"name": "Cate Tolnai",
+					"id": 237503627,
+					"id_str": "237503627",
+					"indices": [
+						227,
+						238
+					]
+				},
+				{
+					"screen_name": "art_cathyhunt",
+					"name": "Cathy Hunt 🎨 iPadArtRoom",
+					"id": 517084967,
+					"id_str": "517084967",
+					"indices": [
+						239,
+						253
+					]
+				},
+				{
+					"screen_name": "spencerideas",
+					"name": "John Spencer",
+					"id": 18389166,
+					"id_str": "18389166",
+					"indices": [
+						254,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bnwUmdDOmy",
+					"expanded_url": "https://link.medium.com/eHK6qBlYDS",
+					"display_url": "link.medium.com/eHK6qBlYDS",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21132309,
+			"id_str": "21132309",
+			"name": "Noah Geisel",
+			"screen_name": "SenorG",
+			"location": "Denver",
+			"description": "2013 ACTFL National Language TOY. World Lang + Badges + EdTech PD + Keynotes. #Badgechat co-founder. Education Dir @StackupScore. Take risks/Dream Big!",
+			"url": "https://t.co/DAux9HV8t1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DAux9HV8t1",
+							"expanded_url": "https://medium.com/@senorg/",
+							"display_url": "medium.com/@senorg/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10224,
+			"friends_count": 7824,
+			"listed_count": 752,
+			"created_at": "Tue Feb 17 21:24:46 +0000 2009",
+			"favourites_count": 8925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38474,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3A075F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When your students take a hard pass on writing a paper for their teacher and instead share a project for the world:\n\n“Creating a Space for Digital Art” https://t.co/bnwUmdDOmy @remikalir @DenverArts @audreyoclair @MsClaraGalan @CateTolnai @art_cathyhunt @spencerideas #DML"
+	},
+	{
 		"created_at": "Fri Dec 14 15:59:00 +0000 2018",
 		"id": 1073608301882040300,
 		"id_str": "1073608301882040320",

@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 15 19:26:47 +0000 2018",
+		"id": 1074022980055908400,
+		"id_str": "1074022980055908352",
+		"full_text": "I am 1 of 130 million with to healthcare hanging on threads. Not a Texas judge but Congress that pulled rug out with a rule change. \n\nMeanwhile no one discusses the single largest tax expenditure, a $250B subsidy, is employer paid healthcare exclusion https://t.co/c9AijtvydE https://t.co/seOVb69Irb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c9AijtvydE",
+					"expanded_url": "https://www.nytimes.com/2017/07/07/health/health-insurance-tax-deduction.html",
+					"display_url": "nytimes.com/2017/07/07/hea…",
+					"indices": [
+						252,
+						275
+					]
+				},
+				{
+					"url": "https://t.co/seOVb69Irb",
+					"expanded_url": "https://twitter.com/SenMarkey/status/1074013772145197056",
+					"display_url": "twitter.com/SenMarkey/stat…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10396,
+			"friends_count": 1451,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87172,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074013772145197000,
+		"quoted_status_id_str": "1074013772145197056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/seOVb69Irb",
+			"expanded": "https://twitter.com/SenMarkey/status/1074013772145197056",
+			"display": "twitter.com/SenMarkey/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 15 18:50:12 +0000 2018",
+			"id": 1074013772145197000,
+			"id_str": "1074013772145197056",
+			"full_text": "More than 130 million Americans have pre-existing conditions. It’s likely that your neighbors, your family, or you yourself depend on the ACA’s protections. We need to make health care a right so a Texas judge can’t throw millions of people’s lives into limbo overnight.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21406834,
+				"id_str": "21406834",
+				"name": "Ed Markey",
+				"screen_name": "SenMarkey",
+				"location": "MA",
+				"description": "Official account for Senator Edward J. Markey. National leader on energy, environment, climate, telecom. Voice for consumer protection. https://t.co/nfYWzVp6R8",
+				"url": "https://t.co/PvCpESuHno",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PvCpESuHno",
+								"expanded_url": "http://www.markey.senate.gov/",
+								"display_url": "markey.senate.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nfYWzVp6R8",
+								"expanded_url": "http://fb.com/EdJMarkey",
+								"display_url": "fb.com/EdJMarkey",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 141608,
+				"friends_count": 1353,
+				"listed_count": 3040,
+				"created_at": "Fri Feb 20 15:49:29 +0000 2009",
+				"favourites_count": 252,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13191,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994573442056949760/RgjMtQpe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21406834/1526566078",
+				"profile_link_color": "062232",
+				"profile_sidebar_border_color": "F55600",
+				"profile_sidebar_fill_color": "B8FDB5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 117,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am 1 of 130 million with to healthcare hanging on threads. Not a Texas judge but Congress that pulled rug out with a rule change. \n\nMeanwhile no one discusses the single largest tax expenditure, a $250B subsidy, is employer paid healthcare exclusion https://t.co/c9AijtvydE https://t.co/seOVb69Irb"
+	},
+	{
 		"created_at": "Sat Dec 15 17:42:16 +0000 2018",
 		"id": 1073996679685263400,
 		"id_str": "1073996679685263361",

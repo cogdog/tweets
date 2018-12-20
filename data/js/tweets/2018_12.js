@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 16:27:57 +0000 2018",
+		"id": 1075789916456534000,
+		"id_str": "1075789916456534016",
+		"full_text": "What a fun cookbook! Go Sian, go. https://t.co/iob0tGP6gF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iob0tGP6gF",
+					"expanded_url": "https://twitter.com/DrSianProctor/status/1075700922817396738",
+					"display_url": "twitter.com/DrSianProctor/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10397,
+			"friends_count": 1451,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075700922817396700,
+		"quoted_status_id_str": "1075700922817396738",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iob0tGP6gF",
+			"expanded": "https://twitter.com/DrSianProctor/status/1075700922817396738",
+			"display": "twitter.com/DrSianProctor/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 20 10:34:20 +0000 2018",
+			"id": 1075700922817396700,
+			"id_str": "1075700922817396738",
+			"full_text": "Check out my #Meals4Mars video for @phoenixmagazine and pick up the latest edition to learn about being an #AnalogAstronaut and how I ended up cooking #SpaceFood on #Mars! 🚀👨🏽‍🚀 @HI_SEAS https://t.co/KxCSIgbL4q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Meals4Mars",
+						"indices": [
+							13,
+							24
+						]
+					},
+					{
+						"text": "AnalogAstronaut",
+						"indices": [
+							107,
+							123
+						]
+					},
+					{
+						"text": "SpaceFood",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"text": "Mars",
+						"indices": [
+							165,
+							170
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "phoenixmagazine",
+						"name": "PHOENIX magazine",
+						"id": 42918364,
+						"id_str": "42918364",
+						"indices": [
+							35,
+							51
+						]
+					},
+					{
+						"screen_name": "HI_SEAS",
+						"name": "HI-SEAS",
+						"id": 469760880,
+						"id_str": "469760880",
+						"indices": [
+							178,
+							186
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KxCSIgbL4q",
+						"expanded_url": "https://youtu.be/eJy_2wEyj_I",
+						"display_url": "youtu.be/eJy_2wEyj_I",
+						"indices": [
+							187,
+							210
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14062485,
+				"id_str": "14062485",
+				"name": "Doctor Proctor",
+				"screen_name": "DrSianProctor",
+				"location": "",
+				"description": "#AnalogAstronaut, Co-star @ScienceChannel’s Strange Evidence, @NatGeoChannel Stephen Hawking’s GENIUS. @HI_SEAS, @ACEAPAmbassador,  @TeacherAtSea, @PolarTREC.",
+				"url": "https://t.co/B40dcsRz1V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B40dcsRz1V",
+								"expanded_url": "https://en.wikipedia.org/wiki/Sian_Proctor",
+								"display_url": "en.wikipedia.org/wiki/Sian_Proc…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1412,
+				"friends_count": 1762,
+				"listed_count": 117,
+				"created_at": "Fri Feb 29 22:52:53 +0000 2008",
+				"favourites_count": 7737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6851,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026890575608348672/SD7OUut__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026890575608348672/SD7OUut__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14062485/1521911402",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a fun cookbook! Go Sian, go. https://t.co/iob0tGP6gF"
+	},
+	{
 		"created_at": "Thu Dec 20 15:56:28 +0000 2018",
 		"id": 1075781992715817000,
 		"id_str": "1075781992715816960",

@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 19:12:07 +0000 2018",
+		"id": 1076193616203341800,
+		"id_str": "1076193616203341824",
+		"full_text": "And just think, it will only be 2113 to celebrate stuff published this year to be there for Public Domain Day. Tell your great-grandkids... https://t.co/NMaZJG3Ueo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMaZJG3Ueo",
+					"expanded_url": "https://twitter.com/steelwagstaff/status/1076135694811254785",
+					"display_url": "twitter.com/steelwagstaff/…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10400,
+			"friends_count": 1452,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1076135694811254800,
+		"quoted_status_id_str": "1076135694811254785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NMaZJG3Ueo",
+			"expanded": "https://twitter.com/steelwagstaff/status/1076135694811254785",
+			"display": "twitter.com/steelwagstaff/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 21 15:21:57 +0000 2018",
+			"id": 1076135694811254800,
+			"id_str": "1076135694811254785",
+			"full_text": "Happy holidays to all -- especially to everyone preparing to celebrate Public Domain Day 2019 (on January 1, all works first published in US in 1923 will enter the public domain, the first mass entry of copyrighted material to PD in the USA 20+ years): https://t.co/uSoRsJZqxM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uSoRsJZqxM",
+						"expanded_url": "https://law.duke.edu/cspd/publicdomainday/2019/",
+						"display_url": "law.duke.edu/cspd/publicdom…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76695243,
+				"id_str": "76695243",
+				"name": "Steel Wagstaff",
+				"screen_name": "steelwagstaff",
+				"location": "Madison, WI",
+				"description": "Educational Client Manager, @pressbooks. Formerly Educational Technology Consultant, @UWLSS. Ph.D. in English & MLIS, both from @UWMadison.",
+				"url": "https://t.co/P6rpVbPTru",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P6rpVbPTru",
+								"expanded_url": "https://steelwagstaff.info",
+								"display_url": "steelwagstaff.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 852,
+				"friends_count": 1467,
+				"listed_count": 22,
+				"created_at": "Wed Sep 23 17:05:58 +0000 2009",
+				"favourites_count": 1599,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4963,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/581487261381828609/Gk3GBfWj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/581487261381828609/Gk3GBfWj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76695243/1409934065",
+				"profile_link_color": "9D291E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And just think, it will only be 2113 to celebrate stuff published this year to be there for Public Domain Day. Tell your great-grandkids... https://t.co/NMaZJG3Ueo"
+	},
+	{
 		"created_at": "Fri Dec 21 17:03:36 +0000 2018",
 		"id": 1076161275300847600,
 		"id_str": "1076161275300847616",

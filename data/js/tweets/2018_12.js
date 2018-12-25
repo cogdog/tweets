@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 22:25:29 +0000 2018",
+		"id": 1077691830483984400,
+		"id_str": "1077691830483984384",
+		"full_text": "@drmarcspooner clued me onto this like 7 years ago. You work for Corn https://t.co/rQ9vco42gG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drmarcspooner",
+					"name": "Marc Spooner",
+					"id": 271251442,
+					"id_str": "271251442",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rQ9vco42gG",
+					"expanded_url": "https://twitter.com/swiftonsecurity/status/1074810043495796736",
+					"display_url": "twitter.com/swiftonsecurit…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 271251442,
+		"in_reply_to_user_id_str": "271251442",
+		"in_reply_to_screen_name": "drmarcspooner",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10400,
+			"friends_count": 1452,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074810043495796700,
+		"quoted_status_id_str": "1074810043495796736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rQ9vco42gG",
+			"expanded": "https://twitter.com/swiftonsecurity/status/1074810043495796736",
+			"display": "twitter.com/swiftonsecurit…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 17 23:34:18 +0000 2018",
+			"id": 1074810043495796700,
+			"id_str": "1074810043495796736",
+			"full_text": "You are slowly realizing it has literally been years, maybe decades, since you ate any meal made without corn.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2436389418,
+				"id_str": "2436389418",
+				"name": "SwiftOnSanta",
+				"screen_name": "SwiftOnSecurity",
+				"location": "Cyber, USA",
+				"description": "Talk systems security, industrial safety, author https://t.co/j3RdERUNET + https://t.co/rzDVLltLHY, write SciFi stories, sysadmin, & use Oxford comma. they/them",
+				"url": "https://t.co/8OV6y5ThSi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8OV6y5ThSi",
+								"expanded_url": "https://decentsecurity.com",
+								"display_url": "decentsecurity.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/j3RdERUNET",
+								"expanded_url": "https://DecentSecurity.com",
+								"display_url": "DecentSecurity.com",
+								"indices": [
+									49,
+									72
+								]
+							},
+							{
+								"url": "https://t.co/rzDVLltLHY",
+								"expanded_url": "http://GotPhish.com",
+								"display_url": "GotPhish.com",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 255152,
+				"friends_count": 8142,
+				"listed_count": 6075,
+				"created_at": "Thu Apr 10 02:54:26 +0000 2014",
+				"favourites_count": 81878,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 96369,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1077462490059927553/vybdSIsO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077462490059927553/vybdSIsO_normal.jpg",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3701,
+			"favorite_count": 9185,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@drmarcspooner clued me onto this like 7 years ago. You work for Corn https://t.co/rQ9vco42gG"
+	},
+	{
 		"created_at": "Tue Dec 25 00:41:39 +0000 2018",
 		"id": 1077363708286943200,
 		"id_str": "1077363708286943234",

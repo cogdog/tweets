@@ -154,6 +154,167 @@ Grailbird.data.tweets_2019_01 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 19,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is probably the greatest meme ever made... https://t.co/G28wg7HINg"
+	},
+	{
+		"created_at": "Thu Jan 03 20:37:08 +0000 2019",
+		"id": 1080926055316123600,
+		"id_str": "1080926055316123648",
+		"full_text": "This is probably the greatest meme ever made... https://t.co/G28wg7HINg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080926040308953100,
+					"id_str": "1080926040308953088",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DwA4gbUVsAAW9SY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwA4gbUVsAAW9SY.jpg",
+					"url": "https://t.co/G28wg7HINg",
+					"display_url": "pic.twitter.com/G28wg7HINg",
+					"expanded_url": "https://twitter.com/FoxyLustyGrover/status/1080926055316123648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080926040308953100,
+					"id_str": "1080926040308953088",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DwA4gbUVsAAW9SY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwA4gbUVsAAW9SY.jpg",
+					"url": "https://t.co/G28wg7HINg",
+					"display_url": "pic.twitter.com/G28wg7HINg",
+					"expanded_url": "https://twitter.com/FoxyLustyGrover/status/1080926055316123648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2604490724,
+			"id_str": "2604490724",
+			"name": "Foxy",
+			"screen_name": "FoxyLustyGrover",
+			"location": "New Zealand",
+			"description": "I am an unapologetic oversharer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3468,
+			"friends_count": 3015,
+			"listed_count": 164,
+			"created_at": "Sat Jul 05 01:25:54 +0000 2014",
+			"favourites_count": 350668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 273233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080958561990000640/BFgg1Hs8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080958561990000640/BFgg1Hs8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2604490724/1527552495",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
 		"favorite_count": 38,
 		"favorited": false,
 		"retweeted": true,

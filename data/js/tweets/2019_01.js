@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 17:17:42 +0000 2019",
+		"id": 1083412581560303600,
+		"id_str": "1083412581560303617",
+		"full_text": "Ready to Extend with us? We've got a mOOC starting January 21 https://t.co/eWDykVxKgI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWDykVxKgI",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1083411739897675776",
+					"display_url": "twitter.com/ontarioextend/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10399,
+			"friends_count": 1451,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083411739897675800,
+		"quoted_status_id_str": "1083411739897675776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eWDykVxKgI",
+			"expanded": "https://twitter.com/ontarioextend/status/1083411739897675776",
+			"display": "twitter.com/ontarioextend/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 10 17:14:22 +0000 2019",
+			"id": 1083411739897675800,
+			"id_str": "1083411739897675776",
+			"full_text": "Are you up for a world premiere right now?\n\nOkay!\n\nCheck out the Ontario Extend #ExtendmOOC \"Course Trailer\"\n\nAnd if you're sold by the video, sign up here! https://t.co/XOuCAs9kbq\n\nhttps://t.co/AcDbN8sjK0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExtendmOOC",
+						"indices": [
+							80,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XOuCAs9kbq",
+						"expanded_url": "http://bit.ly/ExtendMOOC",
+						"display_url": "bit.ly/ExtendMOOC",
+						"indices": [
+							157,
+							180
+						]
+					},
+					{
+						"url": "https://t.co/AcDbN8sjK0",
+						"expanded_url": "https://youtu.be/1lIDBqiAFdI",
+						"display_url": "youtu.be/1lIDBqiAFdI",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 885339669457776600,
+				"id_str": "885339669457776641",
+				"name": "OntarioExtend",
+				"screen_name": "ontarioextend",
+				"location": "Toronto, Ontario",
+				"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+				"url": "https://t.co/VrJt2KX1mc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VrJt2KX1mc",
+								"expanded_url": "https://extend.ecampusontario.ca",
+								"display_url": "extend.ecampusontario.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 663,
+				"friends_count": 401,
+				"listed_count": 14,
+				"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+				"favourites_count": 2410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1905,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ready to Extend with us? We've got a mOOC starting January 21 https://t.co/eWDykVxKgI"
+	},
+	{
 		"created_at": "Thu Jan 10 16:52:24 +0000 2019",
 		"id": 1083406213260496900,
 		"id_str": "1083406213260496896",

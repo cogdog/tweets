@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 19:52:52 +0000 2019",
+		"id": 1086350731483983900,
+		"id_str": "1086350731483983872",
+		"full_text": "@kyleejohnson Maybe not the same category, but always remember title of session at mid 1990s NECC \"If I SLIP and Fall on my PPP, Will it Hurt?\" (extra points for knowing old protocols)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyleejohnson",
+					"name": "Kyle E. Johnson",
+					"id": 1314811,
+					"id_str": "1314811",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086346529139380200,
+		"in_reply_to_status_id_str": "1086346529139380224",
+		"in_reply_to_user_id": 1314811,
+		"in_reply_to_user_id_str": "1314811",
+		"in_reply_to_screen_name": "kyleejohnson",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10403,
+			"friends_count": 1449,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kyleejohnson Maybe not the same category, but always remember title of session at mid 1990s NECC \"If I SLIP and Fall on my PPP, Will it Hurt?\" (extra points for knowing old protocols)"
+	},
+	{
+		"created_at": "Fri Jan 18 19:24:22 +0000 2019",
+		"id": 1086343560482435100,
+		"id_str": "1086343560482435077",
+		"full_text": "@etug @draggin @levalee @emilyr @BCcampus Thank for the flashback and hearing Amada's voice. I got to co-present at Connections '98; still have my own archive of the web-based workshop https://t.co/6c0R9EDufT",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "etug",
+					"name": "etug",
+					"id": 17102936,
+					"id_str": "17102936",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "draggin",
+					"name": "jason toal",
+					"id": 5690792,
+					"id_str": "5690792",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"screen_name": "levalee",
+					"name": "levalee",
+					"id": 17505659,
+					"id_str": "17505659",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "emilyr",
+					"name": "emilyjr",
+					"id": 7255172,
+					"id_str": "7255172",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"screen_name": "BCcampus",
+					"name": "BCcampus",
+					"id": 93710949,
+					"id_str": "93710949",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6c0R9EDufT",
+					"expanded_url": "http://mcli.cogdogblog.com/show/?id=26",
+					"display_url": "mcli.cogdogblog.com/show/?id=26",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086328473377894400,
+		"in_reply_to_status_id_str": "1086328473377894400",
+		"in_reply_to_user_id": 17102936,
+		"in_reply_to_user_id_str": "17102936",
+		"in_reply_to_screen_name": "etug",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10403,
+			"friends_count": 1449,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@etug @draggin @levalee @emilyr @BCcampus Thank for the flashback and hearing Amada's voice. I got to co-present at Connections '98; still have my own archive of the web-based workshop https://t.co/6c0R9EDufT"
+	},
+	{
 		"created_at": "Fri Jan 18 18:39:28 +0000 2019",
 		"id": 1086332260154916900,
 		"id_str": "1086332260154916865",

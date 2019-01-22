@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 16:09:36 +0000 2019",
+		"id": 1087744096314277900,
+		"id_str": "1087744096314277888",
+		"full_text": "Always loving the Wayback Machine and the Internet Archive. https://t.co/MKUVtwzzwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MKUVtwzzwz",
+					"expanded_url": "https://twitter.com/brewster_kahle/status/1087515601717800960",
+					"display_url": "twitter.com/brewster_kahle…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10406,
+			"friends_count": 1449,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87444,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087515601717801000,
+		"quoted_status_id_str": "1087515601717800960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MKUVtwzzwz",
+			"expanded": "https://twitter.com/brewster_kahle/status/1087515601717800960",
+			"display": "twitter.com/brewster_kahle…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 01:01:39 +0000 2019",
+			"id": 1087515601717801000,
+			"id_str": "1087515601717800960",
+			"full_text": "703,726,890,000 URL's now in the @waybackmachine by the @internetarchive !  (703 billion)  Over a billion more added each week.   The Web is a grand experiment in sharing and giving.    Loving it!   https://t.co/VHXF3fCHux",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "waybackmachine",
+						"name": "The Wayback Machine",
+						"id": 742835944034730000,
+						"id_str": "742835944034729984",
+						"indices": [
+							33,
+							48
+						]
+					},
+					{
+						"screen_name": "internetarchive",
+						"name": "Internet Archive",
+						"id": 18957805,
+						"id_str": "18957805",
+						"indices": [
+							56,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VHXF3fCHux",
+						"expanded_url": "http://web.archive.org/",
+						"display_url": "web.archive.org",
+						"indices": [
+							199,
+							222
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 315490964,
+				"id_str": "315490964",
+				"name": "Brewster Kahle",
+				"screen_name": "brewster_kahle",
+				"location": "San Francisco",
+				"description": "Digital Librarian   https://t.co/wyBPqLIZh7   https://t.co/MMUzUr4TGV https://t.co/xBU5lS4Fur @internetarchive @openlibrary @great78project",
+				"url": "http://t.co/Hk02WjLpmL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hk02WjLpmL",
+								"expanded_url": "http://archive.org",
+								"display_url": "archive.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wyBPqLIZh7",
+								"expanded_url": "http://openlibrary.org",
+								"display_url": "openlibrary.org",
+								"indices": [
+									20,
+									43
+								]
+							},
+							{
+								"url": "https://t.co/MMUzUr4TGV",
+								"expanded_url": "http://brewster.kahle.org",
+								"display_url": "brewster.kahle.org",
+								"indices": [
+									46,
+									69
+								]
+							},
+							{
+								"url": "https://t.co/xBU5lS4Fur",
+								"expanded_url": "http://archive.org",
+								"display_url": "archive.org",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11697,
+				"friends_count": 462,
+				"listed_count": 595,
+				"created_at": "Sat Jun 11 23:44:21 +0000 2011",
+				"favourites_count": 546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1988,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1391892259/brewster-in-guatamala_15A6F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391892259/brewster-in-guatamala_15A6F_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 168,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Always loving the Wayback Machine and the Internet Archive. https://t.co/MKUVtwzzwz"
+	},
+	{
 		"created_at": "Tue Jan 22 15:07:47 +0000 2019",
 		"id": 1087728538218872800,
 		"id_str": "1087728538218872833",

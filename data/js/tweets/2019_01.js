@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 22:53:38 +0000 2019",
+		"id": 1088208160849121300,
+		"id_str": "1088208160849121281",
+		"full_text": "A “Just This” Justice #clmooc postcard, thanks @dogtrax https://t.co/E9UWRzIq9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clmooc",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088208154284908500,
+					"id_str": "1088208154284908544",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DxoXjP3V4AALsO4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxoXjP3V4AALsO4.jpg",
+					"url": "https://t.co/E9UWRzIq9t",
+					"display_url": "pic.twitter.com/E9UWRzIq9t",
+					"expanded_url": "https://twitter.com/cogdog/status/1088208160849121281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1807,
+							"h": 1515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1006,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088208154284908500,
+					"id_str": "1088208154284908544",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DxoXjP3V4AALsO4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxoXjP3V4AALsO4.jpg",
+					"url": "https://t.co/E9UWRzIq9t",
+					"display_url": "pic.twitter.com/E9UWRzIq9t",
+					"expanded_url": "https://twitter.com/cogdog/status/1088208160849121281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1807,
+							"h": 1515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1006,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10408,
+			"friends_count": 1450,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A “Just This” Justice #clmooc postcard, thanks @dogtrax https://t.co/E9UWRzIq9t"
+	},
+	{
+		"created_at": "Wed Jan 23 22:21:00 +0000 2019",
+		"id": 1088199950985506800,
+		"id_str": "1088199950985506816",
+		"full_text": "Sounds almost like the tagline for  #netnarr 2019 https://t.co/pHDFcgqusG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pHDFcgqusG",
+					"expanded_url": "https://twitter.com/hjarche/status/1088199152062918657",
+					"display_url": "twitter.com/hjarche/status…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10408,
+			"friends_count": 1450,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088199152062918700,
+		"quoted_status_id_str": "1088199152062918657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pHDFcgqusG",
+			"expanded": "https://twitter.com/hjarche/status/1088199152062918657",
+			"display": "twitter.com/hjarche/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 23 22:17:50 +0000 2019",
+			"id": 1088199152062918700,
+			"id_str": "1088199152062918657",
+			"full_text": "The only way we can address the dark sides of social media is to collectively understand them https://t.co/d4s8VNhWSn https://t.co/yR7VEskKuT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d4s8VNhWSn",
+						"expanded_url": "https://jarche.com/2018/07/dark-sides-of-social-media/",
+						"display_url": "jarche.com/2018/07/dark-s…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1088199040456486900,
+						"id_str": "1088199040456486912",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/DxoPQwNUcAAWNG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxoPQwNUcAAWNG2.jpg",
+						"url": "https://t.co/yR7VEskKuT",
+						"display_url": "pic.twitter.com/yR7VEskKuT",
+						"expanded_url": "https://twitter.com/hjarche/status/1088199152062918657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 507,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 963,
+								"h": 718,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 963,
+								"h": 718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088199040456486900,
+						"id_str": "1088199040456486912",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/DxoPQwNUcAAWNG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxoPQwNUcAAWNG2.jpg",
+						"url": "https://t.co/yR7VEskKuT",
+						"display_url": "pic.twitter.com/yR7VEskKuT",
+						"expanded_url": "https://twitter.com/hjarche/status/1088199152062918657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 507,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 963,
+								"h": 718,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 963,
+								"h": 718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11698322,
+				"id_str": "11698322",
+				"name": "Harold Jarche",
+				"screen_name": "hjarche",
+				"location": "Sackville, NB, Canada",
+				"description": "Actionable insights on learning & working in a networked society  #PKMastery #PerpetualBeta",
+				"url": "https://t.co/jZhSE0DbSE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jZhSE0DbSE",
+								"expanded_url": "https://jarche.com",
+								"display_url": "jarche.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17204,
+				"friends_count": 954,
+				"listed_count": 1833,
+				"created_at": "Mon Dec 31 20:30:32 +0000 2007",
+				"favourites_count": 13478,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63144,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852854320600985600/l94FQVBp_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852854320600985600/l94FQVBp_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11698322/1536197398",
+				"profile_link_color": "003399",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sounds almost like the tagline for  #netnarr 2019 https://t.co/pHDFcgqusG"
+	},
+	{
 		"created_at": "Wed Jan 23 21:33:36 +0000 2019",
 		"id": 1088188019495129100,
 		"id_str": "1088188019495129088",

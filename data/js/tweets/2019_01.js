@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 20:21:46 +0000 2019",
+		"id": 1089981884887531500,
+		"id_str": "1089981884887531521",
+		"full_text": "All platforms available via @openetc are opensource &amp; hosted in BC for #bcpse. Data within our platforms is never shared elsewhere. #notrackers #DataPrivacyDay #DataPrivacyDay2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bcpse",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "notrackers",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "DataPrivacyDay",
+					"indices": [
+						148,
+						163
+					]
+				},
+				{
+					"text": "DataPrivacyDay2019",
+					"indices": [
+						164,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openetc",
+					"name": "openetc",
+					"id": 979007479043579900,
+					"id_str": "979007479043579904",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 979007479043579900,
+			"id_str": "979007479043579904",
+			"name": "openetc",
+			"screen_name": "openetc",
+			"location": "#openweb",
+			"description": "Open Educational Technology Coop",
+			"url": "https://t.co/lXa5M1tVaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lXa5M1tVaU",
+							"expanded_url": "https://opened.ca",
+							"display_url": "opened.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110,
+			"friends_count": 4,
+			"listed_count": 8,
+			"created_at": "Wed Mar 28 14:49:06 +0000 2018",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979008787414704128/QAhCsa9q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979008787414704128/QAhCsa9q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979007479043579904/1522249126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "All platforms available via @openetc are opensource &amp; hosted in BC for #bcpse. Data within our platforms is never shared elsewhere. #notrackers #DataPrivacyDay #DataPrivacyDay2019"
+	},
+	{
 		"created_at": "Mon Jan 28 21:42:26 +0000 2019",
 		"id": 1090002182643089400,
 		"id_str": "1090002182643089409",

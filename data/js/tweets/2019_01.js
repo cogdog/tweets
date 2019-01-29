@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 21:26:53 +0000 2019",
+		"id": 1090360658934280200,
+		"id_str": "1090360658934280192",
+		"full_text": "This is a distinction we thought about in the design of @ontarioextend medium sized Open Online Course cc @dendroglyph @greeneterry https://t.co/pADyILv4c2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"screen_name": "dendroglyph",
+					"name": "David Porter",
+					"id": 15170764,
+					"id_str": "15170764",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene, 2019 Version",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pADyILv4c2",
+					"expanded_url": "https://twitter.com/remikalir/status/1090248316602830849",
+					"display_url": "twitter.com/remikalir/stat…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1452,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090248316602830800,
+		"quoted_status_id_str": "1090248316602830849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pADyILv4c2",
+			"expanded": "https://twitter.com/remikalir/status/1090248316602830849",
+			"display": "twitter.com/remikalir/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 29 14:00:29 +0000 2019",
+			"id": 1090248316602830800,
+			"id_str": "1090248316602830849",
+			"full_text": "Educators, what's the diff between professional development and professional learning? Great convo about agency, power &amp; expertise in #MarginalSyllabus with annotations by partner author Allison Skerrett &amp; @sarahlw6 @ProfHsieh @richnovack #edchat #literacy\nhttps://t.co/PtGa38z2fh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarginalSyllabus",
+						"indices": [
+							138,
+							155
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							247,
+							254
+						]
+					},
+					{
+						"text": "literacy",
+						"indices": [
+							255,
+							264
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sarahlw6",
+						"name": "Sarah Lohnes Watulak",
+						"id": 115986517,
+						"id_str": "115986517",
+						"indices": [
+							214,
+							223
+						]
+					},
+					{
+						"screen_name": "ProfHsieh",
+						"name": "Betina Hsieh",
+						"id": 952915627,
+						"id_str": "952915627",
+						"indices": [
+							224,
+							234
+						]
+					},
+					{
+						"screen_name": "richnovack",
+						"name": "Rich Novack",
+						"id": 357778703,
+						"id_str": "357778703",
+						"indices": [
+							235,
+							246
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PtGa38z2fh",
+						"expanded_url": "https://hyp.is/zFvwJhTuEemo35tPIDM10Q/educatorinnovator.org/wp-content/uploads/2018/12/EE0502GenerativePrinciples.pdf",
+						"display_url": "hyp.is/zFvwJhTuEemo35…",
+						"indices": [
+							265,
+							288
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2557762548,
+				"id_str": "2557762548",
+				"name": "Remi Kalir",
+				"screen_name": "remikalir",
+				"location": "Denver, CO",
+				"description": "Asst Prof Learning Design & Technology @CUDenverEd | Researching web annotation, games and play, mobile learning | #MarginalSyllabus #OpenEd #OER #DigPed",
+				"url": "https://t.co/KLeALbQIXB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KLeALbQIXB",
+								"expanded_url": "http://www.remikalir.com",
+								"display_url": "remikalir.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2693,
+				"friends_count": 1647,
+				"listed_count": 347,
+				"created_at": "Mon Jun 09 23:56:26 +0000 2014",
+				"favourites_count": 18644,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12550,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476151187561934848/w0hbdG6g_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476151187561934848/w0hbdG6g_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557762548/1430156486",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a distinction we thought about in the design of @ontarioextend medium sized Open Online Course cc @dendroglyph @greeneterry https://t.co/pADyILv4c2"
+	},
+	{
 		"created_at": "Tue Jan 29 19:11:17 +0000 2019",
 		"id": 1090326533355589600,
 		"id_str": "1090326533355589634",

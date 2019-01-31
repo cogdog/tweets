@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 31 19:09:11 +0000 2019",
+		"id": 1091050779560038400,
+		"id_str": "1091050779560038401",
+		"full_text": "@bonni208 I yearn to win a Manure prize! Really!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonni208",
+					"name": "Bonni Stachowiak",
+					"id": 14777884,
+					"id_str": "14777884",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1091050237320462300,
+		"in_reply_to_status_id_str": "1091050237320462336",
+		"in_reply_to_user_id": 14777884,
+		"in_reply_to_user_id_str": "14777884",
+		"in_reply_to_screen_name": "bonni208",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1452,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bonni208 I yearn to win a Manure prize! Really!"
+	},
+	{
+		"created_at": "Thu Jan 31 18:42:20 +0000 2019",
+		"id": 1091044024406995000,
+		"id_str": "1091044024406994951",
+		"full_text": "#PresentationMath at work https://t.co/3VZcvRIMpN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PresentationMath",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3VZcvRIMpN",
+					"expanded_url": "https://twitter.com/brlamb/status/1090769254784225281",
+					"display_url": "twitter.com/brlamb/status/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1452,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090769254784225300,
+		"quoted_status_id_str": "1090769254784225281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3VZcvRIMpN",
+			"expanded": "https://twitter.com/brlamb/status/1090769254784225281",
+			"display": "twitter.com/brlamb/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 31 00:30:30 +0000 2019",
+			"id": 1090769254784225300,
+			"id_str": "1090769254784225281",
+			"full_text": "Honoured to speak at #myTRU Privacy and Security Conference tomorrow. https://t.co/ScJXZnJFsN\n\nI needed to cut my talk from 45 down to 20 minutes, so I have added 30% more material. https://t.co/PVfMrtP5rX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "myTRU",
+						"indices": [
+							21,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ScJXZnJFsN",
+						"expanded_url": "https://www.tru.ca/its/security.html",
+						"display_url": "tru.ca/its/security.h…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1090769234185994200,
+						"id_str": "1090769234185994242",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyMw1t-UwAIYKtv.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyMw1t-UwAIYKtv.jpg",
+						"url": "https://t.co/PVfMrtP5rX",
+						"display_url": "pic.twitter.com/PVfMrtP5rX",
+						"expanded_url": "https://twitter.com/brlamb/status/1090769254784225281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1090769234185994200,
+						"id_str": "1090769234185994242",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyMw1t-UwAIYKtv.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyMw1t-UwAIYKtv.jpg",
+						"url": "https://t.co/PVfMrtP5rX",
+						"display_url": "pic.twitter.com/PVfMrtP5rX",
+						"expanded_url": "https://twitter.com/brlamb/status/1090769254784225281/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DyMw1t-UwAIYKtv.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 745903,
+				"id_str": "745903",
+				"name": "Brian Lamb",
+				"screen_name": "brlamb",
+				"location": "Kamloops, Canada",
+				"description": "Blind rage tempered by gentle incoherence. I'm a Re-Director of Innovation at Thompson Rivers University. Bombastic drummer. Displaced noise farmer.",
+				"url": "https://t.co/rljBnT2Sgb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rljBnT2Sgb",
+								"expanded_url": "http://abject.ca",
+								"display_url": "abject.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4940,
+				"friends_count": 2874,
+				"listed_count": 325,
+				"created_at": "Fri Feb 02 02:43:12 +0000 2007",
+				"favourites_count": 11479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16641,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "539BB4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061072658085728256/w4zhfx1k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061072658085728256/w4zhfx1k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/745903/1354167636",
+				"profile_link_color": "539BB4",
+				"profile_sidebar_border_color": "080D01",
+				"profile_sidebar_fill_color": "E6EBDB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PresentationMath at work https://t.co/3VZcvRIMpN"
+	},
+	{
+		"created_at": "Thu Jan 31 18:36:51 +0000 2019",
+		"id": 1091042641863761900,
+		"id_str": "1091042641863761920",
+		"full_text": "This is super useful guide to both teaching an area of interest in a community frame-- really good stuff for @ontarioextend #ExtendmOOC And CC licensed https://t.co/Tx2VHlE5kW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendmOOC",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tx2VHlE5kW",
+					"expanded_url": "https://twitter.com/sleslie/status/1091037321707675648",
+					"display_url": "twitter.com/sleslie/status…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1452,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1091037321707675600,
+		"quoted_status_id_str": "1091037321707675648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tx2VHlE5kW",
+			"expanded": "https://twitter.com/sleslie/status/1091037321707675648",
+			"display": "twitter.com/sleslie/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 31 18:15:42 +0000 2019",
+			"id": 1091037321707675600,
+			"id_str": "1091037321707675648",
+			"full_text": "maybe also of interest to some ed tech types facilitating tech education for instructors etc https://t.co/o94fdaUl4q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/o94fdaUl4q",
+						"expanded_url": "http://bit.ly/2MGpz76",
+						"display_url": "bit.ly/2MGpz76",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3567831,
+				"id_str": "3567831",
+				"name": "Scott Leslie",
+				"screen_name": "sleslie",
+				"location": "Lekwungen Territories",
+				"description": "eduSkunk. funky monk. happy mutant. feral learner. Helping libraries  @bclibrariescoop.  Increasingly not posting here - find me at sleslie@mastodon.social",
+				"url": "https://t.co/JYLJBMVPOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JYLJBMVPOd",
+								"expanded_url": "http://scottleslie.ca/",
+								"display_url": "scottleslie.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2104,
+				"friends_count": 719,
+				"listed_count": 262,
+				"created_at": "Thu Apr 05 23:27:12 +0000 2007",
+				"favourites_count": 7499,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37303,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CDCDCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178526432/happy_mutant_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178526432/happy_mutant_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3567831/1455648680",
+				"profile_link_color": "872400",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C1C1C1",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is super useful guide to both teaching an area of interest in a community frame-- really good stuff for @ontarioextend #ExtendmOOC And CC licensed https://t.co/Tx2VHlE5kW"
+	},
+	{
 		"created_at": "Thu Jan 31 17:07:04 +0000 2019",
 		"id": 1091020050386088000,
 		"id_str": "1091020050386087941",

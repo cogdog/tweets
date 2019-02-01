@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 16:44:43 +0000 2019",
+		"id": 1091376813295747100,
+		"id_str": "1091376813295747075",
+		"full_text": "Get ready for our first show with an #ExtendmOOC participant -- who wants next to be a Radio Star like @SarahWendorf ?? https://t.co/nJ7chmYZQ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendmOOC",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahWendorf",
+					"name": "Sarah Wendorf",
+					"id": 551572917,
+					"id_str": "551572917",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nJ7chmYZQ6",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1091359405394878467",
+					"display_url": "twitter.com/ontarioextend/…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1454,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1091359405394878500,
+		"quoted_status_id_str": "1091359405394878467",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nJ7chmYZQ6",
+			"expanded": "https://twitter.com/ontarioextend/status/1091359405394878467",
+			"display": "twitter.com/ontarioextend/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 01 15:35:33 +0000 2019",
+			"id": 1091359405394878500,
+			"id_str": "1091359405394878467",
+			"full_text": "Monday at noon on @voicEdcanada\n\n#ExtendmOOC Radio Show: Teacher for Learning Module Edition!\n\nStarring mOOCer @SarahWendorf and the entire mOOC parts and service dept (@cogdog and @greeneterry) \n\nWho wants to join us next time? https://t.co/sJaENfXvT1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExtendmOOC",
+						"indices": [
+							33,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "voicEdcanada",
+						"name": "voicEd.ca",
+						"id": 514144436,
+						"id_str": "514144436",
+						"indices": [
+							18,
+							31
+						]
+					},
+					{
+						"screen_name": "SarahWendorf",
+						"name": "Sarah Wendorf",
+						"id": 551572917,
+						"id_str": "551572917",
+						"indices": [
+							111,
+							124
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							169,
+							176
+						]
+					},
+					{
+						"screen_name": "greeneterry",
+						"name": "Terry Greene, 2019 Version",
+						"id": 212019344,
+						"id_str": "212019344",
+						"indices": [
+							181,
+							193
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1091358771153113100,
+						"id_str": "1091358771153113088",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/DyVJBSUWkAAziad.png",
+						"media_url_https": "https://pbs.twimg.com/media/DyVJBSUWkAAziad.png",
+						"url": "https://t.co/sJaENfXvT1",
+						"display_url": "pic.twitter.com/sJaENfXvT1",
+						"expanded_url": "https://twitter.com/ontarioextend/status/1091359405394878467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1400,
+								"h": 1400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1091358771153113100,
+						"id_str": "1091358771153113088",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/DyVJBSUWkAAziad.png",
+						"media_url_https": "https://pbs.twimg.com/media/DyVJBSUWkAAziad.png",
+						"url": "https://t.co/sJaENfXvT1",
+						"display_url": "pic.twitter.com/sJaENfXvT1",
+						"expanded_url": "https://twitter.com/ontarioextend/status/1091359405394878467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1400,
+								"h": 1400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 885339669457776600,
+				"id_str": "885339669457776641",
+				"name": "OntarioExtend",
+				"screen_name": "ontarioextend",
+				"location": "Toronto, Ontario",
+				"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+				"url": "https://t.co/VrJt2KX1mc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VrJt2KX1mc",
+								"expanded_url": "https://extend.ecampusontario.ca",
+								"display_url": "extend.ecampusontario.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 698,
+				"friends_count": 426,
+				"listed_count": 15,
+				"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+				"favourites_count": 2476,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1994,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ready for our first show with an #ExtendmOOC participant -- who wants next to be a Radio Star like @SarahWendorf ?? https://t.co/nJ7chmYZQ6"
+	},
+	{
 		"created_at": "Fri Feb 01 14:25:07 +0000 2019",
 		"id": 1091341680509370400,
 		"id_str": "1091341680509370368",

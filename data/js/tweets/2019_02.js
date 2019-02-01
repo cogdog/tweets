@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 14:25:07 +0000 2019",
+		"id": 1091341680509370400,
+		"id_str": "1091341680509370368",
+		"full_text": "Put on your masks, hats with lights, strang patterns just to avoid having your face grabbed or surveillance. We live in a machine. #netnarr https://t.co/LoBjjc6qB4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LoBjjc6qB4",
+					"expanded_url": "https://twitter.com/actualham/status/1091330470762168320",
+					"display_url": "twitter.com/actualham/stat…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1455,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87549,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1091330470762168300,
+		"quoted_status_id_str": "1091330470762168320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LoBjjc6qB4",
+			"expanded": "https://twitter.com/actualham/status/1091330470762168320",
+			"display": "twitter.com/actualham/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 01 13:40:34 +0000 2019",
+			"id": 1091330470762168300,
+			"id_str": "1091330470762168320",
+			"full_text": "It is now easier to reengineer your own face than it is to restrict surveillance capitalism. https://t.co/KPBNvPKCrV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KPBNvPKCrV",
+						"expanded_url": "https://www.wired.co.uk/article/avoid-facial-recognition-software",
+						"display_url": "wired.co.uk/article/avoid-…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2182862052,
+				"id_str": "2182862052",
+				"name": "Robin DeRosa",
+				"screen_name": "actualham",
+				"location": "New Hampshire, USA",
+				"description": "Director, @PSUOpenCoLab; Interdisciplinary Prof; Ed @HybridPed; #OpenPed #OER #OA; public university/community college missions; cherish outliers",
+				"url": "https://t.co/SeO0KU15y5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SeO0KU15y5",
+								"expanded_url": "http://robinderosa.net",
+								"display_url": "robinderosa.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6603,
+				"friends_count": 1436,
+				"listed_count": 378,
+				"created_at": "Fri Nov 08 20:13:27 +0000 2013",
+				"favourites_count": 42059,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11456,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030A09",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182862052/1544568902",
+				"profile_link_color": "C94410",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Put on your masks, hats with lights, strang patterns just to avoid having your face grabbed or surveillance. We live in a machine. #netnarr https://t.co/LoBjjc6qB4"
+	},
+	{
+		"created_at": "Fri Feb 01 14:21:42 +0000 2019",
+		"id": 1091340821243330600,
+		"id_str": "1091340821243330560",
+		"full_text": "@holden It's the \"subscribe to my crappy newsletter\" of 2019. Nuke all notifications requests in Chrome https://t.co/d4O3QUaNxS",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d4O3QUaNxS",
+					"expanded_url": "https://gizmodo.com/how-to-block-super-annoying-website-notification-reques-1797499616",
+					"display_url": "gizmodo.com/how-to-block-s…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1091338964529606700,
+		"in_reply_to_status_id_str": "1091338964529606657",
+		"in_reply_to_user_id": 1912681,
+		"in_reply_to_user_id_str": "1912681",
+		"in_reply_to_screen_name": "holden",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1455,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87549,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@holden It's the \"subscribe to my crappy newsletter\" of 2019. Nuke all notifications requests in Chrome https://t.co/d4O3QUaNxS"
+	},
+	{
 		"created_at": "Fri Feb 01 14:12:28 +0000 2019",
 		"id": 1091338497057869800,
 		"id_str": "1091338497057869826",

@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 20:07:49 +0000 2019",
+		"id": 1092152701432053800,
+		"id_str": "1092152701432053760",
+		"full_text": "@NurseKillam @tanbob https://t.co/ruBRVS7HHt",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NurseKillam",
+					"name": "Laura Killam",
+					"id": 268432639,
+					"id_str": "268432639",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "tanbob",
+					"name": "Dr. Tannis Morgan",
+					"id": 10817782,
+					"id_str": "10817782",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092152665440628700,
+					"id_str": "1092152665440628736",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DygbEBAVsAAcPK-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DygbEBAVsAAcPK-.jpg",
+					"url": "https://t.co/ruBRVS7HHt",
+					"display_url": "pic.twitter.com/ruBRVS7HHt",
+					"expanded_url": "https://twitter.com/cogdog/status/1092152701432053760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092152665440628700,
+					"id_str": "1092152665440628736",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DygbEBAVsAAcPK-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DygbEBAVsAAcPK-.jpg",
+					"url": "https://t.co/ruBRVS7HHt",
+					"display_url": "pic.twitter.com/ruBRVS7HHt",
+					"expanded_url": "https://twitter.com/cogdog/status/1092152701432053760/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DygbEBAVsAAcPK-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092126009619554300,
+		"in_reply_to_status_id_str": "1092126009619554304",
+		"in_reply_to_user_id": 268432639,
+		"in_reply_to_user_id_str": "268432639",
+		"in_reply_to_screen_name": "NurseKillam",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1453,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@NurseKillam @tanbob https://t.co/ruBRVS7HHt"
+	},
+	{
+		"created_at": "Sun Feb 03 19:51:04 +0000 2019",
+		"id": 1092148482679410700,
+		"id_str": "1092148482679410692",
+		"full_text": "@tanbob \"In 50 years there will be only 10 institutions in the world delivering SPLOTs and @openetc has a shot at being one of them.\"",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tanbob",
+					"name": "Dr. Tannis Morgan",
+					"id": 10817782,
+					"id_str": "10817782",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "openetc",
+					"name": "openetc",
+					"id": 979007479043579900,
+					"id_str": "979007479043579904",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092122461951279100,
+		"in_reply_to_status_id_str": "1092122461951279104",
+		"in_reply_to_user_id": 10817782,
+		"in_reply_to_user_id_str": "10817782",
+		"in_reply_to_screen_name": "tanbob",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1453,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tanbob \"In 50 years there will be only 10 institutions in the world delivering SPLOTs and @openetc has a shot at being one of them.\""
+	},
+	{
 		"created_at": "Sun Feb 03 17:58:46 +0000 2019",
 		"id": 1092120221647806500,
 		"id_str": "1092120221647806464",

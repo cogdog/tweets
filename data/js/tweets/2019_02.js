@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 22:12:05 +0000 2019",
+		"id": 1092183970773643300,
+		"id_str": "1092183970773643269",
+		"full_text": "When the site even works, I'm still seeing below half of my puny monthly payments are available. Not a good time to beg for more. \n\nThe updates have not changed one bit over 3 days. @Patreon How about some real info? https://t.co/fbHm08IQJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Patreon",
+					"name": "Patreon",
+					"id": 1228325660,
+					"id_str": "1228325660",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fbHm08IQJy",
+					"expanded_url": "https://twitter.com/PatreonStatus/status/1092165735994908673",
+					"display_url": "twitter.com/PatreonStatus/…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1454,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092165735994908700,
+		"quoted_status_id_str": "1092165735994908673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fbHm08IQJy",
+			"expanded": "https://twitter.com/PatreonStatus/status/1092165735994908673",
+			"display": "twitter.com/PatreonStatus/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 03 20:59:37 +0000 2019",
+			"id": 1092165735994908700,
+			"id_str": "1092165735994908673",
+			"full_text": "[status] Identified: Payment processing is continuing, and we are still investigating potential resolutions to the slow pace. Our team is on it, and we'll work to provide updates. https://t.co/XA7yQqTgxo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XA7yQqTgxo",
+						"expanded_url": "http://stspg.io/60df8dc35?u=p457h5hs4cmk",
+						"display_url": "stspg.io/60df8dc35?u=p4…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.statuspage.io.\" rel=\"nofollow\">Atlassian Statuspage</a>",
+			"in_reply_to_status_id": 1091870026942935000,
+			"in_reply_to_status_id_str": "1091870026942935040",
+			"in_reply_to_user_id": 961018206583341000,
+			"in_reply_to_user_id_str": "961018206583341056",
+			"in_reply_to_screen_name": "PatreonStatus",
+			"user": {
+				"id": 961018206583341000,
+				"id_str": "961018206583341056",
+				"name": "Patreon Status",
+				"screen_name": "PatreonStatus",
+				"location": "San Francisco, CA",
+				"description": "Info and updates about the status of https://t.co/P6TAtZO1QC and Patreon-connected services.",
+				"url": "https://t.co/4U1CxgNGuU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4U1CxgNGuU",
+								"expanded_url": "http://status.patreon.com",
+								"display_url": "status.patreon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/P6TAtZO1QC",
+								"expanded_url": "http://patreon.com",
+								"display_url": "patreon.com",
+								"indices": [
+									37,
+									60
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 573,
+				"friends_count": 2,
+				"listed_count": 1,
+				"created_at": "Tue Feb 06 23:26:10 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067555997437198337/J2E58jor_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067555997437198337/J2E58jor_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/961018206583341056/1543360239",
+				"profile_link_color": "ED946D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When the site even works, I'm still seeing below half of my puny monthly payments are available. Not a good time to beg for more. \n\nThe updates have not changed one bit over 3 days. @Patreon How about some real info? https://t.co/fbHm08IQJy"
+	},
+	{
+		"created_at": "Sun Feb 03 21:38:04 +0000 2019",
+		"id": 1092175412803878900,
+		"id_str": "1092175412803878912",
+		"full_text": "@ColorfulWriter2 @netnarr Joyous is it to see new blog posts! And for succeeding right there on the challenge of Non-Boring Titles #netnarr",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ColorfulWriter2",
+					"name": "Lilly S ✨",
+					"id": 1037091998145097700,
+					"id_str": "1037091998145097728",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "netnarr",
+					"name": "Networked Narratives",
+					"id": 801306049663893500,
+					"id_str": "801306049663893504",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092156767914651600,
+		"in_reply_to_status_id_str": "1092156767914651652",
+		"in_reply_to_user_id": 1037091998145097700,
+		"in_reply_to_user_id_str": "1037091998145097728",
+		"in_reply_to_screen_name": "ColorfulWriter2",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1454,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ColorfulWriter2 @netnarr Joyous is it to see new blog posts! And for succeeding right there on the challenge of Non-Boring Titles #netnarr"
+	},
+	{
 		"created_at": "Sun Feb 03 20:07:49 +0000 2019",
 		"id": 1092152701432053800,
 		"id_str": "1092152701432053760",

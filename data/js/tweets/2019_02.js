@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 19:18:10 +0000 2019",
+		"id": 1094676918723592200,
+		"id_str": "1094676918723592192",
+		"full_text": "One Brad shares a speculative video story about what life might be like with an Internet enabled toaster... named Brad. Check it out #netnarr https://t.co/DSI9QuATBm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DSI9QuATBm",
+					"expanded_url": "https://twitter.com/THiNGkeriNG/status/1094608932335693824",
+					"display_url": "twitter.com/THiNGkeriNG/st…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1457,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094608932335693800,
+		"quoted_status_id_str": "1094608932335693824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DSI9QuATBm",
+			"expanded": "https://twitter.com/THiNGkeriNG/status/1094608932335693824",
+			"display": "twitter.com/THiNGkeriNG/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 10 14:48:00 +0000 2019",
+			"id": 1094608932335693800,
+			"id_str": "1094608932335693824",
+			"full_text": "So, I discovered Brad the Toaster today\nhttps://t.co/qkT3owOorS  #IoT #designfiction #inte5340 #digstory https://t.co/s2C5tbfpxU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IoT",
+						"indices": [
+							65,
+							69
+						]
+					},
+					{
+						"text": "designfiction",
+						"indices": [
+							70,
+							84
+						]
+					},
+					{
+						"text": "inte5340",
+						"indices": [
+							85,
+							94
+						]
+					},
+					{
+						"text": "digstory",
+						"indices": [
+							95,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qkT3owOorS",
+						"expanded_url": "https://buff.ly/2E1wJjV",
+						"display_url": "buff.ly/2E1wJjV",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1094608930762838000,
+						"id_str": "1094608930762838016",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DzDVBeYW0AAzEY9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzDVBeYW0AAzEY9.jpg",
+						"url": "https://t.co/s2C5tbfpxU",
+						"display_url": "pic.twitter.com/s2C5tbfpxU",
+						"expanded_url": "https://twitter.com/THiNGkeriNG/status/1094608932335693824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1094608930762838000,
+						"id_str": "1094608930762838016",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DzDVBeYW0AAzEY9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzDVBeYW0AAzEY9.jpg",
+						"url": "https://t.co/s2C5tbfpxU",
+						"display_url": "pic.twitter.com/s2C5tbfpxU",
+						"expanded_url": "https://twitter.com/THiNGkeriNG/status/1094608932335693824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 809534973510381600,
+				"id_str": "809534973510381568",
+				"name": "Brad Hinson",
+				"screen_name": "THiNGkeriNG",
+				"location": "",
+				"description": "artist formally known as @bradhinson love/hate w the twitterwebs because reasons #digped @thinqstudio @CUDenverED @pedagome",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 393,
+				"friends_count": 473,
+				"listed_count": 13,
+				"created_at": "Thu Dec 15 23:05:52 +0000 2016",
+				"favourites_count": 3694,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1420,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856163472391852032/YGX8WZ69_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856163472391852032/YGX8WZ69_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/809534973510381568/1491223225",
+				"profile_link_color": "000022",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One Brad shares a speculative video story about what life might be like with an Internet enabled toaster... named Brad. Check it out #netnarr https://t.co/DSI9QuATBm"
+	},
+	{
 		"created_at": "Sun Feb 10 07:53:39 +0000 2019",
 		"id": 1094504654585643000,
 		"id_str": "1094504654585643009",

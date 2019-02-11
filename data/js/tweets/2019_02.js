@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 16:20:18 +0000 2019",
+		"id": 1094994547720048600,
+		"id_str": "1094994547720048641",
+		"full_text": "Yes! Keep @greeneterry and I from fading by not dropping out of the #ExtendMOOC https://t.co/0uzV2VwDoP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendMOOC",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene, 2019 Version",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0uzV2VwDoP",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1094991213025988616",
+					"display_url": "twitter.com/ontarioextend/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1457,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094991213025988600,
+		"quoted_status_id_str": "1094991213025988616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0uzV2VwDoP",
+			"expanded": "https://twitter.com/ontarioextend/status/1094991213025988616",
+			"display": "twitter.com/ontarioextend/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 11 16:07:03 +0000 2019",
+			"id": 1094991213025988600,
+			"id_str": "1094991213025988616",
+			"full_text": "As was revealed in today's #ExtendmOOC Module 2 kick off email, @cogdog and @greeneterry  are accidentally here from 1985 and need everyone to keep mOOCing in order to make it out of this alive and without disrupting the time-space continuum. https://t.co/QfJBKk77P4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExtendmOOC",
+						"indices": [
+							27,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							64,
+							71
+						]
+					},
+					{
+						"screen_name": "greeneterry",
+						"name": "Terry Greene, 2019 Version",
+						"id": 212019344,
+						"id_str": "212019344",
+						"indices": [
+							76,
+							88
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1094990531007049700,
+						"id_str": "1094990531007049728",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/DzIwFiEXcAAp-9q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzIwFiEXcAAp-9q.jpg",
+						"url": "https://t.co/QfJBKk77P4",
+						"display_url": "pic.twitter.com/QfJBKk77P4",
+						"expanded_url": "https://twitter.com/ontarioextend/status/1094991213025988616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 811,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1081,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1094990531007049700,
+						"id_str": "1094990531007049728",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/DzIwFiEXcAAp-9q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzIwFiEXcAAp-9q.jpg",
+						"url": "https://t.co/QfJBKk77P4",
+						"display_url": "pic.twitter.com/QfJBKk77P4",
+						"expanded_url": "https://twitter.com/ontarioextend/status/1094991213025988616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 811,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1081,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 885339669457776600,
+				"id_str": "885339669457776641",
+				"name": "OntarioExtend",
+				"screen_name": "ontarioextend",
+				"location": "Toronto, Ontario",
+				"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+				"url": "https://t.co/VrJt2KX1mc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VrJt2KX1mc",
+								"expanded_url": "https://extend.ecampusontario.ca",
+								"display_url": "extend.ecampusontario.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 706,
+				"friends_count": 437,
+				"listed_count": 15,
+				"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+				"favourites_count": 2507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2031,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes! Keep @greeneterry and I from fading by not dropping out of the #ExtendMOOC https://t.co/0uzV2VwDoP"
+	},
+	{
+		"created_at": "Mon Feb 11 16:19:25 +0000 2019",
+		"id": 1094994323198890000,
+		"id_str": "1094994323198889989",
+		"full_text": "@BryanAlexander @fncll In your new home's internet speed, may you be the new blown back man. https://t.co/nwblWUlCSO",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "fncll",
+					"name": "Chris Lott",
+					"id": 2345538506,
+					"id_str": "2345538506",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094994166713442300,
+					"id_str": "1094994166713442306",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DzIzZKIUYAI8NTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzIzZKIUYAI8NTF.jpg",
+					"url": "https://t.co/nwblWUlCSO",
+					"display_url": "pic.twitter.com/nwblWUlCSO",
+					"expanded_url": "https://twitter.com/cogdog/status/1094994323198889989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1618,
+							"h": 688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094994166713442300,
+					"id_str": "1094994166713442306",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DzIzZKIUYAI8NTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzIzZKIUYAI8NTF.jpg",
+					"url": "https://t.co/nwblWUlCSO",
+					"display_url": "pic.twitter.com/nwblWUlCSO",
+					"expanded_url": "https://twitter.com/cogdog/status/1094994323198889989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1618,
+							"h": 688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1094949917821407200,
+		"in_reply_to_status_id_str": "1094949917821407232",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1457,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BryanAlexander @fncll In your new home's internet speed, may you be the new blown back man. https://t.co/nwblWUlCSO"
+	},
+	{
 		"created_at": "Mon Feb 11 15:58:00 +0000 2019",
 		"id": 1094988934109638700,
 		"id_str": "1094988934109638661",

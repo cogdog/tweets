@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 13:06:15 +0000 2019",
+		"id": 1095670488381227000,
+		"id_str": "1095670488381227008",
+		"full_text": "Hey, mobile phone, who ya talkin' to all the time? #netnarr https://t.co/I1IkjnbOlk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I1IkjnbOlk",
+					"expanded_url": "https://twitter.com/kushaldas/status/1095519841002360838",
+					"display_url": "twitter.com/kushaldas/stat…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1459,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095519841002360800,
+		"quoted_status_id_str": "1095519841002360838",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I1IkjnbOlk",
+			"expanded": "https://twitter.com/kushaldas/status/1095519841002360838",
+			"display": "twitter.com/kushaldas/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 13 03:07:38 +0000 2019",
+			"id": 1095519841002360800,
+			"id_str": "1095519841002360838",
+			"full_text": "#Tracking my phone's silent connections. https://t.co/cnTJ7hcuPC A blog post about my experiment on finding out which all servers my phone talk to regularly. #Privacy #surveillance https://t.co/Eywnt8OUCi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tracking",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "Privacy",
+						"indices": [
+							158,
+							166
+						]
+					},
+					{
+						"text": "surveillance",
+						"indices": [
+							167,
+							180
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cnTJ7hcuPC",
+						"expanded_url": "https://kushaldas.in/posts/tracking-my-phone-s-silent-connections.html",
+						"display_url": "kushaldas.in/posts/tracking…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1095519817321406500,
+						"id_str": "1095519817321406464",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/DzQReDPX4AAOUg6.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzQReDPX4AAOUg6.png",
+						"url": "https://t.co/Eywnt8OUCi",
+						"display_url": "pic.twitter.com/Eywnt8OUCi",
+						"expanded_url": "https://twitter.com/kushaldas/status/1095519841002360838/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 704,
+								"h": 508,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 704,
+								"h": 508,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095519817321406500,
+						"id_str": "1095519817321406464",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/DzQReDPX4AAOUg6.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzQReDPX4AAOUg6.png",
+						"url": "https://t.co/Eywnt8OUCi",
+						"display_url": "pic.twitter.com/Eywnt8OUCi",
+						"expanded_url": "https://twitter.com/kushaldas/status/1095519841002360838/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 704,
+								"h": 508,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 704,
+								"h": 508,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14452322,
+				"id_str": "14452322",
+				"name": "kushaldas 🐍🐍",
+				"screen_name": "kushaldas",
+				"location": "gpg: A85F F376 759C 994A 8A11  68D8 D821 9C8C 43F6 C5E1",
+				"description": "Staff @FreedomofPress Maintainer @SecureDrop. Core Python Developer. Core @torproject member. Fellow & director @ThePSF. Free Software developer. Dad, husband",
+				"url": "https://t.co/H3M1WjAE3U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H3M1WjAE3U",
+								"expanded_url": "http://kushaldas.in",
+								"display_url": "kushaldas.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4280,
+				"friends_count": 4244,
+				"listed_count": 259,
+				"created_at": "Sun Apr 20 15:23:36 +0000 2008",
+				"favourites_count": 42039,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46105,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980873397310717957/7m0cEwdT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980873397310717957/7m0cEwdT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14452322/1537487800",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, mobile phone, who ya talkin' to all the time? #netnarr https://t.co/I1IkjnbOlk"
+	},
+	{
 		"created_at": "Wed Feb 13 02:03:17 +0000 2019",
 		"id": 1095503647666954200,
 		"id_str": "1095503647666954240",

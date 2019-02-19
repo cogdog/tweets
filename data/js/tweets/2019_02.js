@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 17:21:36 +0000 2019",
+		"id": 1097909076376326100,
+		"id_str": "1097909076376326147",
+		"full_text": "@bonstewart @Twitter It's weird to see disparity between Latest and Top links for those hashtags, and you have to dig inside threads to find more. \n\nIt's as if they want to keep you clicking around, eh? Still thanks for soliciting some great  #UWinDig responses for #extendmooc #nonIdealHashtagging",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			298
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UWinDig",
+					"indices": [
+						243,
+						251
+					]
+				},
+				{
+					"text": "extendmooc",
+					"indices": [
+						266,
+						277
+					]
+				},
+				{
+					"text": "nonIdealHashtagging",
+					"indices": [
+						278,
+						298
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonstewart",
+					"name": "Bonnie Stewart",
+					"id": 6532522,
+					"id_str": "6532522",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1097608338139947000,
+		"in_reply_to_status_id_str": "1097608338139947010",
+		"in_reply_to_user_id": 6532522,
+		"in_reply_to_user_id_str": "6532522",
+		"in_reply_to_screen_name": "bonstewart",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1460,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87729,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bonstewart @Twitter It's weird to see disparity between Latest and Top links for those hashtags, and you have to dig inside threads to find more. \n\nIt's as if they want to keep you clicking around, eh? Still thanks for soliciting some great  #UWinDig responses for #extendmooc #nonIdealHashtagging"
+	},
+	{
+		"created_at": "Tue Feb 19 14:27:36 +0000 2019",
+		"id": 1097865288589213700,
+		"id_str": "1097865288589213700",
+		"full_text": "Coming up at noon on https://t.co/GrDnlQce33 is the Technologist Module Episode of #ExtendmOOC Radio!\n\nWith special guest @xinli_w!\n@cogdog @greeneterry @eCampusOntario @voicEdcanada https://t.co/7ewGTryvpf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendmOOC",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xinli_w",
+					"name": "Xinli Wang",
+					"id": 134294732,
+					"id_str": "134294732",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Ready For Spring Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						153,
+						168
+					]
+				},
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GrDnlQce33",
+					"expanded_url": "http://voiced.ca",
+					"display_url": "voiced.ca",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097865209891471400,
+					"id_str": "1097865209891471360",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzxml3bXQAAUoZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzxml3bXQAAUoZQ.jpg",
+					"url": "https://t.co/7ewGTryvpf",
+					"display_url": "pic.twitter.com/7ewGTryvpf",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1097865288589213700/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097865209891471400,
+					"id_str": "1097865209891471360",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzxml3bXQAAUoZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzxml3bXQAAUoZQ.jpg",
+					"url": "https://t.co/7ewGTryvpf",
+					"display_url": "pic.twitter.com/7ewGTryvpf",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1097865288589213700/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885339669457776600,
+			"id_str": "885339669457776641",
+			"name": "OntarioExtend",
+			"screen_name": "ontarioextend",
+			"location": "Toronto, Ontario",
+			"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+			"url": "https://t.co/VrJt2KX1mc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VrJt2KX1mc",
+							"expanded_url": "https://extend.ecampusontario.ca",
+							"display_url": "extend.ecampusontario.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 713,
+			"friends_count": 439,
+			"listed_count": 15,
+			"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+			"favourites_count": 2518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2046,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming up at noon on https://t.co/GrDnlQce33 is the Technologist Module Episode of #ExtendmOOC Radio!\n\nWith special guest @xinli_w!\n@cogdog @greeneterry @eCampusOntario @voicEdcanada https://t.co/7ewGTryvpf"
+	},
+	{
 		"created_at": "Tue Feb 19 14:27:36 +0000 2019",
 		"id": 1097865288589213700,
 		"id_str": "1097865288589213700",

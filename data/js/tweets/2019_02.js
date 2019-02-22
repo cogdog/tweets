@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 22:04:18 +0000 2019",
+		"id": 1099067383967334400,
+		"id_str": "1099067383967334400",
+		"full_text": "It's not like a new story; my eyes were opened in the early 1990s reading Mark Reisner's 1986 foretelling in Cadillac Desert https://t.co/u29vedgsGF https://t.co/m19PMc9fdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u29vedgsGF",
+					"expanded_url": "https://www.amazon.ca/Cadillac-Desert-American-Disappearing-Revised/dp/0140178244",
+					"display_url": "amazon.ca/Cadillac-Deser…",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/m19PMc9fdZ",
+					"expanded_url": "https://twitter.com/BulletinAtomic/status/1099031938478686209",
+					"display_url": "twitter.com/BulletinAtomic…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1461,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099031938478686200,
+		"quoted_status_id_str": "1099031938478686209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m19PMc9fdZ",
+			"expanded": "https://twitter.com/BulletinAtomic/status/1099031938478686209",
+			"display": "twitter.com/BulletinAtomic…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 19:43:27 +0000 2019",
+			"id": 1099031938478686200,
+			"id_str": "1099031938478686209",
+			"full_text": "As if the over-allocation of the Colorado River weren’t problem enough, its best flow years appear to be behind it. Read this first piece in a 5-part climate change story: https://t.co/fFmwvoKIJB https://t.co/DvWHbQJ2wZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fFmwvoKIJB",
+						"expanded_url": "http://bit.ly/2V0zCqL",
+						"display_url": "bit.ly/2V0zCqL",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1096817010065854500,
+						"id_str": "1096817010065854464",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/DzitQmyU0AAduJX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzitQmyU0AAduJX.jpg",
+						"url": "https://t.co/DvWHbQJ2wZ",
+						"display_url": "pic.twitter.com/DvWHbQJ2wZ",
+						"expanded_url": "https://twitter.com/BulletinAtomic/status/1099031938478686209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 610,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096817010065854500,
+						"id_str": "1096817010065854464",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/DzitQmyU0AAduJX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzitQmyU0AAduJX.jpg",
+						"url": "https://t.co/DvWHbQJ2wZ",
+						"display_url": "pic.twitter.com/DvWHbQJ2wZ",
+						"expanded_url": "https://twitter.com/BulletinAtomic/status/1099031938478686209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 610,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266635682,
+				"id_str": "266635682",
+				"name": "BulletinOfTheAtomic",
+				"screen_name": "BulletinAtomic",
+				"location": "Chicago, IL",
+				"description": "The Bulletin of the Atomic Scientists informs the public about risks from nuclear weapons, climate change, & disruptive technologies.",
+				"url": "https://t.co/nGC2L5sGtD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nGC2L5sGtD",
+								"expanded_url": "http://www.thebulletin.org",
+								"display_url": "thebulletin.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40700,
+				"friends_count": 16220,
+				"listed_count": 1409,
+				"created_at": "Tue Mar 15 15:08:47 +0000 2011",
+				"favourites_count": 4177,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 48438,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956611321486716928/drB81wfQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956611321486716928/drB81wfQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/266635682/1548539450",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's not like a new story; my eyes were opened in the early 1990s reading Mark Reisner's 1986 foretelling in Cadillac Desert https://t.co/u29vedgsGF https://t.co/m19PMc9fdZ"
+	},
+	{
+		"created_at": "Fri Feb 22 21:59:43 +0000 2019",
+		"id": 1099066230848344000,
+		"id_str": "1099066230848344064",
+		"full_text": "I triple dog dare y'all to present at #pressEdconf19 https://t.co/DwoHmFmxRa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressEdconf19",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DwoHmFmxRa",
+					"expanded_url": "https://twitter.com/pressedconf/status/1086230050339475458",
+					"display_url": "twitter.com/pressedconf/st…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1461,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1086230050339475500,
+		"quoted_status_id_str": "1086230050339475458",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DwoHmFmxRa",
+			"expanded": "https://twitter.com/pressedconf/status/1086230050339475458",
+			"display": "twitter.com/pressedconf/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 18 11:53:19 +0000 2019",
+			"id": 1086230050339475500,
+			"id_str": "1086230050339475458",
+			"full_text": "So here's a thread about PressED https://t.co/leUhaahZOM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1086230035219050500,
+						"id_str": "1086230035219050497",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxMQdkGXcAEp0Vu.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxMQdkGXcAEp0Vu.jpg",
+						"url": "https://t.co/leUhaahZOM",
+						"display_url": "pic.twitter.com/leUhaahZOM",
+						"expanded_url": "https://twitter.com/pressedconf/status/1086230050339475458/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 374,
+								"h": 394,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 374,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 374,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1086230035219050500,
+						"id_str": "1086230035219050497",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxMQdkGXcAEp0Vu.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxMQdkGXcAEp0Vu.jpg",
+						"url": "https://t.co/leUhaahZOM",
+						"display_url": "pic.twitter.com/leUhaahZOM",
+						"expanded_url": "https://twitter.com/pressedconf/status/1086230050339475458/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 374,
+								"h": 394,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 374,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 374,
+								"h": 394,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								187,
+								197
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DxMQdkGXcAEp0Vu.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950354717212897300,
+				"id_str": "950354717212897280",
+				"name": "PressED Conf - A tweeting WordPress conference",
+				"screen_name": "pressedconf",
+				"location": "on twitter",
+				"description": "A WordPress Twitter Conference on all things education, pedagogy and research. #pressEDconf19 is on April 18th. Organisers @nlafferty and @pgogy",
+				"url": "https://t.co/PEDIaTNi6H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PEDIaTNi6H",
+								"expanded_url": "http://2019.pressedconf.org",
+								"display_url": "2019.pressedconf.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 746,
+				"friends_count": 1364,
+				"listed_count": 6,
+				"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+				"favourites_count": 607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1552,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1547021544",
+				"profile_link_color": "00FFFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I triple dog dare y'all to present at #pressEdconf19 https://t.co/DwoHmFmxRa"
+	},
+	{
 		"created_at": "Fri Feb 22 18:54:55 +0000 2019",
 		"id": 1099019723541381100,
 		"id_str": "1099019723541381120",

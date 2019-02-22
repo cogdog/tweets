@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 18:09:04 +0000 2019",
+		"id": 1099008184306491400,
+		"id_str": "1099008184306491394",
+		"full_text": "[insert \"This is Fine\" meme] And send to anyone who thinks in their messaging to aunts and grandpas they give minimal data to FB or that they have nothing to hide. \n\nHere's one for the #netnarr field guide. https://t.co/xsczelaeRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xsczelaeRs",
+					"expanded_url": "https://twitter.com/hshaban/status/1098985482665508869",
+					"display_url": "twitter.com/hshaban/status…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1461,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87746,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098985482665508900,
+		"quoted_status_id_str": "1098985482665508869",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xsczelaeRs",
+			"expanded": "https://twitter.com/hshaban/status/1098985482665508869",
+			"display": "twitter.com/hshaban/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 16:38:51 +0000 2019",
+			"id": 1098985482665508900,
+			"id_str": "1098985482665508869",
+			"full_text": "New Facebook report from the WSJ:\n\nFB takes potentially sensitive info from apps about how people behave or data they enter\n\n- Often without prominent/specific disclosure\n- FB is sent your body weight, blood pressure, menstrual cycles, pregnancy status\n\nhttps://t.co/8nKly3brtE https://t.co/dNGrpfhfvm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8nKly3brtE",
+						"expanded_url": "https://www.wsj.com/articles/you-give-apps-sensitive-personal-information-then-they-tell-facebook-11550851636",
+						"display_url": "wsj.com/articles/you-g…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098983813953306600,
+						"id_str": "1098983813953306626",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D0Bf9MSXQAIbz1I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0Bf9MSXQAIbz1I.jpg",
+						"url": "https://t.co/dNGrpfhfvm",
+						"display_url": "pic.twitter.com/dNGrpfhfvm",
+						"expanded_url": "https://twitter.com/hshaban/status/1098985482665508869/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1118,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1118,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098983813953306600,
+						"id_str": "1098983813953306626",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D0Bf9MSXQAIbz1I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0Bf9MSXQAIbz1I.jpg",
+						"url": "https://t.co/dNGrpfhfvm",
+						"display_url": "pic.twitter.com/dNGrpfhfvm",
+						"expanded_url": "https://twitter.com/hshaban/status/1098985482665508869/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1118,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1118,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1098982739431354400,
+			"in_reply_to_status_id_str": "1098982739431354369",
+			"in_reply_to_user_id": 391560579,
+			"in_reply_to_user_id_str": "391560579",
+			"in_reply_to_screen_name": "hshaban",
+			"user": {
+				"id": 391560579,
+				"id_str": "391560579",
+				"name": "Hamza Shaban",
+				"screen_name": "hshaban",
+				"location": "Washington, D.C.",
+				"description": "I’m a reporter covering technology for The @WashingtonPost | Tips: hamza.shaban@washpost.com | I'm on Signal and my DMs are open.",
+				"url": "https://t.co/pfbtE1TAks",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pfbtE1TAks",
+								"expanded_url": "https://www.washingtonpost.com/people/hamza-shaban/?utm_term=.b7921136ea53",
+								"display_url": "washingtonpost.com/people/hamza-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7366,
+				"friends_count": 2834,
+				"listed_count": 384,
+				"created_at": "Sat Oct 15 19:02:05 +0000 2011",
+				"favourites_count": 14472,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 513,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959482741254475776/GFoXjZOK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959482741254475776/GFoXjZOK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391560579/1400714251",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 104,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[insert \"This is Fine\" meme] And send to anyone who thinks in their messaging to aunts and grandpas they give minimal data to FB or that they have nothing to hide. \n\nHere's one for the #netnarr field guide. https://t.co/xsczelaeRs"
+	},
+	{
 		"created_at": "Fri Feb 22 16:47:29 +0000 2019",
 		"id": 1098987655679873000,
 		"id_str": "1098987655679873025",

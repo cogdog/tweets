@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 18:59:37 +0000 2019",
+		"id": 1100108068619255800,
+		"id_str": "1100108068619255808",
+		"full_text": "Disinformation effects are real, and if you think you are immune... well it's working.\n\nHere's a good review topic for a #netnarr students. https://t.co/gC7Zaxvwnp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gC7Zaxvwnp",
+					"expanded_url": "https://twitter.com/holden/status/1100104138472316928",
+					"display_url": "twitter.com/holden/status/…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1460,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100104138472316900,
+		"quoted_status_id_str": "1100104138472316928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gC7Zaxvwnp",
+			"expanded": "https://twitter.com/holden/status/1100104138472316928",
+			"display": "twitter.com/holden/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 18:44:00 +0000 2019",
+			"id": 1100104138472316900,
+			"id_str": "1100104138472316928",
+			"full_text": "I will say this until I am blue in the face -- repeated exposure to disinformation doesn't just confirm your priors it warps your world and gets you to adopt beliefs that initially seemed ridiculous to you. https://t.co/PViXLE2MdJ https://t.co/tfFN2peT5P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PViXLE2MdJ",
+						"expanded_url": "https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona",
+						"display_url": "theverge.com/2019/2/25/1822…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1100103785114787800,
+						"id_str": "1100103785114787840",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D0RakF_UYAAfxFx.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0RakF_UYAAfxFx.png",
+						"url": "https://t.co/tfFN2peT5P",
+						"display_url": "pic.twitter.com/tfFN2peT5P",
+						"expanded_url": "https://twitter.com/holden/status/1100104138472316928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 751,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 751,
+								"h": 380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100103785114787800,
+						"id_str": "1100103785114787840",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D0RakF_UYAAfxFx.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0RakF_UYAAfxFx.png",
+						"url": "https://t.co/tfFN2peT5P",
+						"display_url": "pic.twitter.com/tfFN2peT5P",
+						"expanded_url": "https://twitter.com/holden/status/1100104138472316928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 751,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 751,
+								"h": 380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1912681,
+				"id_str": "1912681",
+				"name": "Mike Caulfield",
+				"screen_name": "holden",
+				"location": "Portland, OR",
+				"description": "Radically rethinking how online information literacy is taught for the American Democracy Project. Book: https://t.co/mYlNbddwMR #ImADeleter",
+				"url": "https://t.co/ty2GJPfEz8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ty2GJPfEz8",
+								"expanded_url": "http://hapgood.us",
+								"display_url": "hapgood.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mYlNbddwMR",
+								"expanded_url": "http://webliteracy.pressbooks.com",
+								"display_url": "webliteracy.pressbooks.com",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6173,
+				"friends_count": 1068,
+				"listed_count": 409,
+				"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+				"favourites_count": 11925,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1321,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043951271831621637/bAj-6HGE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043951271831621637/bAj-6HGE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1528175535",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Disinformation effects are real, and if you think you are immune... well it's working.\n\nHere's a good review topic for a #netnarr students. https://t.co/gC7Zaxvwnp"
+	},
+	{
 		"created_at": "Mon Feb 25 17:29:21 +0000 2019",
 		"id": 1100085352637841400,
 		"id_str": "1100085352637841409",

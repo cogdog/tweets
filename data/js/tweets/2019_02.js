@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 22:19:48 +0000 2019",
+		"id": 1100158449479049200,
+		"id_str": "1100158449479049217",
+		"full_text": "You can see Abraham Lincoln's portrait on the wall, his lips repeating again and again \"WTF is this idiot doing here?\" https://t.co/z5FqlI6P8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5FqlI6P8C",
+					"expanded_url": "https://twitter.com/DavidLammy/status/1099960311027781632",
+					"display_url": "twitter.com/DavidLammy/sta…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1460,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099960311027781600,
+		"quoted_status_id_str": "1099960311027781632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z5FqlI6P8C",
+			"expanded": "https://twitter.com/DavidLammy/status/1099960311027781632",
+			"display": "twitter.com/DavidLammy/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 09:12:29 +0000 2019",
+			"id": 1099960311027781600,
+			"id_str": "1099960311027781632",
+			"full_text": "The President of the United States literally has no idea what is going on, does he?\n\nhttps://t.co/k4Zrol65TT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1099779198816792600,
+						"id_str": "1099779198816792577",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1099779198816792577/img/Dsh769a7ebFXhIGj.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1099779198816792577/img/Dsh769a7ebFXhIGj.jpg",
+						"url": "https://t.co/k4Zrol65TT",
+						"display_url": "pic.twitter.com/k4Zrol65TT",
+						"expanded_url": "https://twitter.com/nowthisnews/status/1099791831133446144/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1099791831133446100,
+						"source_status_id_str": "1099791831133446144",
+						"source_user_id": 701725963,
+						"source_user_id_str": "701725963"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1099779198816792600,
+						"id_str": "1099779198816792577",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1099779198816792577/img/Dsh769a7ebFXhIGj.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1099779198816792577/img/Dsh769a7ebFXhIGj.jpg",
+						"url": "https://t.co/k4Zrol65TT",
+						"display_url": "pic.twitter.com/k4Zrol65TT",
+						"expanded_url": "https://twitter.com/nowthisnews/status/1099791831133446144/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1099791831133446100,
+						"source_status_id_str": "1099791831133446144",
+						"source_user_id": 701725963,
+						"source_user_id_str": "701725963",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 143076,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1099779198816792577/pl/oEQH1sb1UPSnnWrm.m3u8?tag=9"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1099779198816792577/vid/720x720/V4SBIOPhAiFxbyGG.mp4?tag=9"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1099779198816792577/vid/320x320/vVfJwrCLmV7MyReq.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1099779198816792577/vid/480x480/RySwVPFCtfw8Eqgz.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Trump's Top Trade Rep. Contradicted Him In A Live Meeting",
+							"description": "Watch Trump’s top trade representative directly contradict him during a live televised meeting",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 701725963,
+								"id_str": "701725963",
+								"name": "NowThis",
+								"screen_name": "nowthisnews",
+								"location": "The Internet & NYC",
+								"description": "Stories that move.",
+								"url": "http://t.co/1NLX7sJ52o",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/1NLX7sJ52o",
+												"expanded_url": "http://nowthisnews.com/",
+												"display_url": "nowthisnews.com",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2215483,
+								"friends_count": 12269,
+								"listed_count": 8571,
+								"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+								"favourites_count": 12105,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 115503,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "7FDBB6",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1065251761034682368/HjiKEt_M_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065251761034682368/HjiKEt_M_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+								"profile_link_color": "1F98C7",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18020612,
+				"id_str": "18020612",
+				"name": "David Lammy",
+				"screen_name": "DavidLammy",
+				"location": "Tottenham and Westminster",
+				"description": "Labour MP for Tottenham. Campaigner. Former Minister (Higher Education, Culture, Justice, Health) now on the backbenches telling it like it is. Spurs fan #COYS",
+				"url": "https://t.co/YGsqF2k4JJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YGsqF2k4JJ",
+								"expanded_url": "http://www.davidlammy.co.uk",
+								"display_url": "davidlammy.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 455728,
+				"friends_count": 4399,
+				"listed_count": 2447,
+				"created_at": "Wed Dec 10 14:53:54 +0000 2008",
+				"favourites_count": 9274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18300,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615620009604345856/fqNS8Xg9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615620009604345856/fqNS8Xg9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18020612/1546883959",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1601,
+			"favorite_count": 5287,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can see Abraham Lincoln's portrait on the wall, his lips repeating again and again \"WTF is this idiot doing here?\" https://t.co/z5FqlI6P8C"
+	},
+	{
 		"created_at": "Mon Feb 25 20:30:02 +0000 2019",
 		"id": 1100130823372705800,
 		"id_str": "1100130823372705792",

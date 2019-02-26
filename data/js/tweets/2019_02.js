@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 17:06:40 +0000 2019",
+		"id": 1100442031745310700,
+		"id_str": "1100442031745310722",
+		"full_text": "\"You see, in this world there's two kinds of people, my friend: those with diesel Renaults and those who tie chains. You tie chains\". https://t.co/KEdTfIcd2i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KEdTfIcd2i",
+					"expanded_url": "https://twitter.com/RealEOC/status/1100342833767243781",
+					"display_url": "twitter.com/RealEOC/status…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1460,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87787,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100342833767243800,
+		"quoted_status_id_str": "1100342833767243781",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KEdTfIcd2i",
+			"expanded": "https://twitter.com/RealEOC/status/1100342833767243781",
+			"display": "twitter.com/RealEOC/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 26 10:32:29 +0000 2019",
+			"id": 1100342833767243800,
+			"id_str": "1100342833767243781",
+			"full_text": "Once upon a time in 1981...\n\nSergio Leone's TV commercial for Renault with music by Ennio Morricone https://t.co/gT7dyzuhCa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1100340426278604800,
+						"id_str": "1100340426278604800",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100340426278604800/pu/img/UwKACOZgVxXX8qZ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100340426278604800/pu/img/UwKACOZgVxXX8qZ0.jpg",
+						"url": "https://t.co/gT7dyzuhCa",
+						"display_url": "pic.twitter.com/gT7dyzuhCa",
+						"expanded_url": "https://twitter.com/RealEOC/status/1100342833767243781/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100340426278604800,
+						"id_str": "1100340426278604800",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100340426278604800/pu/img/UwKACOZgVxXX8qZ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100340426278604800/pu/img/UwKACOZgVxXX8qZ0.jpg",
+						"url": "https://t.co/gT7dyzuhCa",
+						"display_url": "pic.twitter.com/gT7dyzuhCa",
+						"expanded_url": "https://twitter.com/RealEOC/status/1100342833767243781/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 46880,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1100340426278604800/pu/vid/960x720/7JQkFK2jXl04ztCF.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1100340426278604800/pu/pl/fW1KWb-1gXcvehgl.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1100340426278604800/pu/vid/480x360/T7DzR5PilstLGFyv.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1100340426278604800/pu/vid/240x180/LM1nIIkiz_I5DetF.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4147973081,
+				"id_str": "4147973081",
+				"name": "Eyes On Cinema",
+				"screen_name": "RealEOC",
+				"location": "The Dutch Lowlands of Europe",
+				"description": "YouTube channel that brings you to the sets, suites & interview halls of some of the most influential filmmakers — their crafts, philosophies & inspirations.",
+				"url": "https://t.co/GYKfiHMFih",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GYKfiHMFih",
+								"expanded_url": "https://www.youtube.com/channel/UCtPx9e7WNFtvtHaAU6WqXlA",
+								"display_url": "youtube.com/channel/UCtPx9…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57026,
+				"friends_count": 0,
+				"listed_count": 790,
+				"created_at": "Mon Nov 09 08:54:59 +0000 2015",
+				"favourites_count": 11130,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4608,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674021019384868864/qTk2uHh4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674021019384868864/qTk2uHh4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4147973081/1450045050",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 153,
+			"favorite_count": 570,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"You see, in this world there's two kinds of people, my friend: those with diesel Renaults and those who tie chains. You tie chains\". https://t.co/KEdTfIcd2i"
+	},
+	{
 		"created_at": "Tue Feb 26 14:17:13 +0000 2019",
 		"id": 1100399390869635100,
 		"id_str": "1100399390869635072",

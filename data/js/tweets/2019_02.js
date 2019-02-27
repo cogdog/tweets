@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 17:10:40 +0000 2019",
+		"id": 1100805428844392400,
+		"id_str": "1100805428844392450",
+		"full_text": "@davewiner Gosar",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "scripting.com",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1100805172454932500,
+		"in_reply_to_status_id_str": "1100805172454932483",
+		"in_reply_to_user_id": 3839,
+		"in_reply_to_user_id_str": "3839",
+		"in_reply_to_screen_name": "davewiner",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1460,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt",
+		"text": "@davewiner Gosar"
+	},
+	{
+		"created_at": "Wed Feb 27 17:08:14 +0000 2019",
+		"id": 1100804816819970000,
+		"id_str": "1100804816819970080",
+		"full_text": "@davewiner I'm sad that such a gas bag is defined as my \"Representative\". \n\nAnd he's worse in person.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "scripting.com",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1100804356859928600,
+		"in_reply_to_status_id_str": "1100804356859928576",
+		"in_reply_to_user_id": 3839,
+		"in_reply_to_user_id_str": "3839",
+		"in_reply_to_screen_name": "davewiner",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1460,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@davewiner I'm sad that such a gas bag is defined as my \"Representative\". \n\nAnd he's worse in person."
+	},
+	{
+		"created_at": "Wed Feb 27 16:50:04 +0000 2019",
+		"id": 1100800242507755500,
+		"id_str": "1100800242507755520",
+		"full_text": "Lunch is served! Drop in to talk #ExtendMooc or anything else https://t.co/3k23vZrbX8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendMooc",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3k23vZrbX8",
+					"expanded_url": "https://twitter.com/cogdog/status/1100785314786918401",
+					"display_url": "twitter.com/cogdog/status/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1460,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100785314786918400,
+		"quoted_status_id_str": "1100785314786918401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3k23vZrbX8",
+			"expanded": "https://twitter.com/cogdog/status/1100785314786918401",
+			"display": "twitter.com/cogdog/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 27 15:50:45 +0000 2019",
+			"id": 1100785314786918400,
+			"id_str": "1100785314786918401",
+			"full_text": "Hop on the train and join us lunch time today, noon ET, for an @ontarioextend #ExtendMooc open office hours. Talking about the curator module, others, or just sushi - meet in Zoom Room https://t.co/5KTiogJhp2 https://t.co/UIv85B9EvU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExtendMooc",
+						"indices": [
+							78,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ontarioextend",
+						"name": "OntarioExtend",
+						"id": 885339669457776600,
+						"id_str": "885339669457776641",
+						"indices": [
+							63,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5KTiogJhp2",
+						"expanded_url": "http://ecampusontario.zoom.us/my/cogdog",
+						"display_url": "ecampusontario.zoom.us/my/cogdog",
+						"indices": [
+							185,
+							208
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1100785247657050100,
+						"id_str": "1100785247657050112",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0bGWbyWwAANiYk.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0bGWbyWwAANiYk.jpg",
+						"url": "https://t.co/UIv85B9EvU",
+						"display_url": "pic.twitter.com/UIv85B9EvU",
+						"expanded_url": "https://twitter.com/cogdog/status/1100785314786918401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 298,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 298,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100785247657050100,
+						"id_str": "1100785247657050112",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0bGWbyWwAANiYk.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0bGWbyWwAANiYk.jpg",
+						"url": "https://t.co/UIv85B9EvU",
+						"display_url": "pic.twitter.com/UIv85B9EvU",
+						"expanded_url": "https://twitter.com/cogdog/status/1100785314786918401/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 298,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 298,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								200,
+								149
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D0bGWbyWwAANiYk.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740343,
+				"id_str": "740343",
+				"name": "Alan Levine",
+				"screen_name": "cogdog",
+				"location": "Mortlach, Saskatchewan",
+				"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+				"url": "https://t.co/wAzdfm9TIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wAzdfm9TIB",
+								"expanded_url": "http://cog.dog",
+								"display_url": "cog.dog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZxC70YWtmO",
+								"expanded_url": "http://cogdogblog.com",
+								"display_url": "cogdogblog.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10411,
+				"friends_count": 1460,
+				"listed_count": 789,
+				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+				"favourites_count": 767,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 87804,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lunch is served! Drop in to talk #ExtendMooc or anything else https://t.co/3k23vZrbX8"
+	},
+	{
+		"created_at": "Wed Feb 27 16:22:01 +0000 2019",
+		"id": 1100793183150186500,
+		"id_str": "1100793183150186496",
+		"full_text": "@GardnerCampbell @OnlineCrsLady Ye gads, when the MOOC goes down, I lose one of my favorite blogging topics https://t.co/Pe0ed2KDSm",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pe0ed2KDSm",
+					"expanded_url": "https://cogdogblog.com/tag/moocmocking/",
+					"display_url": "cogdogblog.com/tag/moocmockin…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1100791372385341400,
+		"in_reply_to_status_id_str": "1100791372385341441",
+		"in_reply_to_user_id": 782931,
+		"in_reply_to_user_id_str": "782931",
+		"in_reply_to_screen_name": "GardnerCampbell",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1460,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GardnerCampbell @OnlineCrsLady Ye gads, when the MOOC goes down, I lose one of my favorite blogging topics https://t.co/Pe0ed2KDSm"
+	},
+	{
 		"created_at": "Wed Feb 27 16:01:09 +0000 2019",
 		"id": 1100787934125543400,
 		"id_str": "1100787934125543425",

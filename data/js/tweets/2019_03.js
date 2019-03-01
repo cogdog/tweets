@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 01 12:58:32 +0000 2019",
+		"id": 1101466752230322200,
+		"id_str": "1101466752230322176",
+		"full_text": "Brilliant #ds106 remix! \"The path of the righteous pup is beset on all sides by the iniquities of the selfish cats and the tyranny of the treat holding men...\" https://t.co/sWSu9S4EWJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sWSu9S4EWJ",
+					"expanded_url": "https://twitter.com/bfrullads106/status/1101253589375291397",
+					"display_url": "twitter.com/bfrullads106/s…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1461,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87818,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101253589375291400,
+		"quoted_status_id_str": "1101253589375291397",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sWSu9S4EWJ",
+			"expanded": "https://twitter.com/bfrullads106/status/1101253589375291397",
+			"display": "twitter.com/bfrullads106/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 22:51:30 +0000 2019",
+			"id": 1101253589375291400,
+			"id_str": "1101253589375291397",
+			"full_text": "@ds106dc Pup Fiction. @ds106dc #tdc2605 #ds106 https://t.co/5X27hyVA3l",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				46
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tdc2605",
+						"indices": [
+							31,
+							39
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							40,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101253531963658200,
+						"id_str": "1101253531963658240",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/D0hwQKxWkAAklkr.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0hwQKxWkAAklkr.png",
+						"url": "https://t.co/5X27hyVA3l",
+						"display_url": "pic.twitter.com/5X27hyVA3l",
+						"expanded_url": "https://twitter.com/bfrullads106/status/1101253589375291397/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 452,
+								"h": 659,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 659,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 452,
+								"h": 659,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101253531963658200,
+						"id_str": "1101253531963658240",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/D0hwQKxWkAAklkr.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0hwQKxWkAAklkr.png",
+						"url": "https://t.co/5X27hyVA3l",
+						"display_url": "pic.twitter.com/5X27hyVA3l",
+						"expanded_url": "https://twitter.com/bfrullads106/status/1101253589375291397/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 452,
+								"h": 659,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 659,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 452,
+								"h": 659,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1101059743467094000,
+			"in_reply_to_status_id_str": "1101059743467094016",
+			"in_reply_to_user_id": 995562187,
+			"in_reply_to_user_id_str": "995562187",
+			"in_reply_to_screen_name": "ds106dc",
+			"user": {
+				"id": 1082800297200795600,
+				"id_str": "1082800297200795648",
+				"name": "bfrullads106",
+				"screen_name": "bfrullads106",
+				"location": "",
+				"description": "Here to share my work and interact with my classmates #ds106",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 11,
+				"listed_count": 0,
+				"created_at": "Wed Jan 09 00:44:43 +0000 2019",
+				"favourites_count": 22,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084938361519906819/4D_dJdQd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084938361519906819/4D_dJdQd_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant #ds106 remix! \"The path of the righteous pup is beset on all sides by the iniquities of the selfish cats and the tyranny of the treat holding men...\" https://t.co/sWSu9S4EWJ"
+	},
+	{
 		"created_at": "Fri Mar 01 05:03:19 +0000 2019",
 		"id": 1101347157595095000,
 		"id_str": "1101347157595095041",

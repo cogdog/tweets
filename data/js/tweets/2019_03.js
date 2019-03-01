@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 01 15:11:51 +0000 2019",
+		"id": 1101500303457902600,
+		"id_str": "1101500303457902593",
+		"full_text": "@jonbecker @douglevin @kfitz After failing many times, I have some doubts of Field of Community Dreams syndrome.  Needs compelling reason to ask people to regularly visit another space.\n\nThere's tons of interest forums, boards, groups out there, Jon. Took 2 minutes to find https://t.co/AFCjjNiISK",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			297
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "douglevin",
+					"name": "𝙳𝚘𝚞𝚐 𝙻𝚎𝚟𝚒𝚗",
+					"id": 15270027,
+					"id_str": "15270027",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "kfitz",
+					"name": "Kathleen Fitzpatrick",
+					"id": 14308843,
+					"id_str": "14308843",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AFCjjNiISK",
+					"expanded_url": "https://groups.google.com/forum/#!forum/sci.physics.research",
+					"display_url": "groups.google.com/forum/#!forum/…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1101496911431983100,
+		"in_reply_to_status_id_str": "1101496911431983106",
+		"in_reply_to_user_id": 12363792,
+		"in_reply_to_user_id_str": "12363792",
+		"in_reply_to_screen_name": "jonbecker",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1461,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jonbecker @douglevin @kfitz After failing many times, I have some doubts of Field of Community Dreams syndrome.  Needs compelling reason to ask people to regularly visit another space.\n\nThere's tons of interest forums, boards, groups out there, Jon. Took 2 minutes to find https://t.co/AFCjjNiISK"
+	},
+	{
+		"created_at": "Fri Mar 01 15:07:46 +0000 2019",
+		"id": 1101499275496828900,
+		"id_str": "1101499275496828929",
+		"full_text": "Tagging for #netnarr Privacy Settings ~ Illusion of Privacy. \n\nUnderstand Mark for Deletion vs Deletion or Soft vs Hard Deletion\n\nAnd then see how technocrats urge to never delete data https://t.co/AnhVZugL4i https://t.co/INMUVqcH2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AnhVZugL4i",
+					"expanded_url": "https://www.infoq.com/news/2009/09/Do-Not-Delete-Data",
+					"display_url": "infoq.com/news/2009/09/D…",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/INMUVqcH2e",
+					"expanded_url": "https://twitter.com/katiebindley/status/1101159377677893633",
+					"display_url": "twitter.com/katiebindley/s…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1461,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101159377677893600,
+		"quoted_status_id_str": "1101159377677893633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/INMUVqcH2e",
+			"expanded": "https://twitter.com/katiebindley/status/1101159377677893633",
+			"display": "twitter.com/katiebindley/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 16:37:08 +0000 2019",
+			"id": 1101159377677893600,
+			"id_str": "1101159377677893633",
+			"full_text": "I enabled a bunch of privacy settings and still felt like my Facebook/Insta ads were a little too relevant. So I faked a pregnancy by downloading the What to Expect app to see how long it would take for FB to hit me w a maternity ad. The answer? 11 hours https://t.co/bkCQ71BYOj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bkCQ71BYOj",
+						"expanded_url": "https://www.wsj.com/articles/facebook-ads-will-follow-you-even-when-your-privacy-settings-are-dialed-up-11551362400",
+						"display_url": "wsj.com/articles/faceb…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 280672316,
+				"id_str": "280672316",
+				"name": "Katie Bindley",
+				"screen_name": "katiebindley",
+				"location": "San Francisco, CA",
+				"description": "Personal Tech Reporter @WSJ Formerly of Huff Post & the NY Times city section (RIP). Better at reporting than tweeting",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1960,
+				"friends_count": 773,
+				"listed_count": 71,
+				"created_at": "Mon Apr 11 20:23:41 +0000 2011",
+				"favourites_count": 2543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1498,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917149410739544065/M2vbqq7X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917149410739544065/M2vbqq7X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/280672316/1521781474",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3981,
+			"favorite_count": 7426,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tagging for #netnarr Privacy Settings ~ Illusion of Privacy. \n\nUnderstand Mark for Deletion vs Deletion or Soft vs Hard Deletion\n\nAnd then see how technocrats urge to never delete data https://t.co/AnhVZugL4i https://t.co/INMUVqcH2e"
+	},
+	{
+		"created_at": "Fri Mar 01 14:38:14 +0000 2019",
+		"id": 1101491841839624200,
+		"id_str": "1101491841839624193",
+		"full_text": "SOME OF MY BEST FRIENDS ARE MURDEROUS DICTATORS! WE HAVE MUCH IN COMMON! LIKE NEPOTISM! PILES OF CASH! AND WE HIRE SHADY UNDERLINGS TO DO OUR DIRTY WORK SO WE CAN LATER DENY ANY KNOWLEDGE OF THE WORK! LETS HANG OUT MORE KIM, MBS, VLADMIR!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1461,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "SOME OF MY BEST FRIENDS ARE MURDEROUS DICTATORS! WE HAVE MUCH IN COMMON! LIKE NEPOTISM! PILES OF CASH! AND WE HIRE SHADY UNDERLINGS TO DO OUR DIRTY WORK SO WE CAN LATER DENY ANY KNOWLEDGE OF THE WORK! LETS HANG OUT MORE KIM, MBS, VLADMIR!"
+	},
+	{
 		"created_at": "Fri Mar 01 13:59:37 +0000 2019",
 		"id": 1101482124132188200,
 		"id_str": "1101482124132188160",

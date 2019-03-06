@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 17:41:10 +0000 2019",
+		"id": 1103349816854278100,
+		"id_str": "1103349816854278144",
+		"full_text": "Retweeting and Adding @ontarioextend #oext319 to make sure this tweet gets into the responses at https://t.co/i9IpK8Ht9r https://t.co/VoeBvSwM5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oext319",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i9IpK8Ht9r",
+					"expanded_url": "https://extend-daily.ecampusontario.ca/oext319/",
+					"display_url": "extend-daily.ecampusontario.ca/oext319/",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/VoeBvSwM5U",
+					"expanded_url": "https://twitter.com/kristamccracken/status/1103283338494783488",
+					"display_url": "twitter.com/kristamccracke…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1462,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103283338494783500,
+		"quoted_status_id_str": "1103283338494783488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VoeBvSwM5U",
+			"expanded": "https://twitter.com/kristamccracken/status/1103283338494783488",
+			"display": "twitter.com/kristamccracke…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 06 13:17:00 +0000 2019",
+			"id": 1103283338494783500,
+			"id_str": "1103283338494783488",
+			"full_text": "Daily Extend #oext319 #oextend Curate Something We Should All Read ---  \"Eight Patterns of Open Textbook Adoption in British Columbia\"https://t.co/Dtrf54kYhF #extendmooc https://t.co/2Krw3MTDqv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oext319",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"text": "oextend",
+						"indices": [
+							22,
+							30
+						]
+					},
+					{
+						"text": "extendmooc",
+						"indices": [
+							158,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Dtrf54kYhF",
+						"expanded_url": "https://id.erudit.org/iderudit/1051270ar",
+						"display_url": "id.erudit.org/iderudit/10512…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1103283260044525600,
+						"id_str": "1103283260044525568",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0-mR5GWwAAgkfA.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0-mR5GWwAAgkfA.jpg",
+						"url": "https://t.co/2Krw3MTDqv",
+						"display_url": "pic.twitter.com/2Krw3MTDqv",
+						"expanded_url": "https://twitter.com/kristamccracken/status/1103283338494783488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 264,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 264,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 264,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1103283260044525600,
+						"id_str": "1103283260044525568",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0-mR5GWwAAgkfA.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0-mR5GWwAAgkfA.jpg",
+						"url": "https://t.co/2Krw3MTDqv",
+						"display_url": "pic.twitter.com/2Krw3MTDqv",
+						"expanded_url": "https://twitter.com/kristamccracken/status/1103283338494783488/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 264,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 264,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 264,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								125,
+								66
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D0-mR5GWwAAgkfA.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16754312,
+				"id_str": "16754312",
+				"name": "Krista Mccracken",
+				"screen_name": "kristamccracken",
+				"location": "Sault Ste Marie, Ontario",
+				"description": "Public Historian and Archivist. Editor at @ActiveHist. Strong thoughts about tea and Doctor Who. (They/Them)",
+				"url": "https://t.co/mBdDjiSmWf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mBdDjiSmWf",
+								"expanded_url": "http://kristamccracken.ca",
+								"display_url": "kristamccracken.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2828,
+				"friends_count": 2364,
+				"listed_count": 147,
+				"created_at": "Wed Oct 15 04:10:45 +0000 2008",
+				"favourites_count": 10766,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956883119759441920/YrtPKsPi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956883119759441920/YrtPKsPi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16754312/1393272920",
+				"profile_link_color": "599953",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweeting and Adding @ontarioextend #oext319 to make sure this tweet gets into the responses at https://t.co/i9IpK8Ht9r https://t.co/VoeBvSwM5U"
+	},
+	{
 		"created_at": "Wed Mar 06 17:03:55 +0000 2019",
 		"id": 1103340445357228000,
 		"id_str": "1103340445357228034",

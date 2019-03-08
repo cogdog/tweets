@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 20:37:19 +0000 2019",
+		"id": 1104111002742915100,
+		"id_str": "1104118923035922432",
+		"full_text": "AGREED!!! I have called my system \"UnTextbook\" ...it's based on curating/creating heaps and heaps and heaps of online reading materials for the students to choose from based on their own interests.\nUnTextbook: https://t.co/5uznYAd1ny\nplus Freebookapalooza: https://t.co/dl5eXpgc80 https://t.co/ssBsaJefBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5uznYAd1ny",
+					"expanded_url": "http://mythfolklore.blogspot.com/",
+					"display_url": "mythfolklore.blogspot.com",
+					"indices": [
+						210,
+						233
+					]
+				},
+				{
+					"url": "https://t.co/dl5eXpgc80",
+					"expanded_url": "http://freebookapalooza.blogspot.com/",
+					"display_url": "freebookapalooza.blogspot.com",
+					"indices": [
+						257,
+						280
+					]
+				},
+				{
+					"url": "https://t.co/ssBsaJefBX",
+					"expanded_url": "https://twitter.com/finiteeyes/status/1104049904945692675",
+					"display_url": "twitter.com/finiteeyes/sta…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7044082,
+			"id_str": "7044082",
+			"name": "Laura Gibbs",
+			"screen_name": "OnlineCrsLady",
+			"location": "the Interwebz",
+			"description": "Teaching online at the University of Oklahoma since 2002! #TTOG #RSSForever #TotalCoLearner #GrowthMindset #Domains19",
+			"url": "http://t.co/HAXevMhfOE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HAXevMhfOE",
+							"expanded_url": "http://mythfolklore.net",
+							"display_url": "mythfolklore.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2855,
+			"friends_count": 1521,
+			"listed_count": 363,
+			"created_at": "Sun Jun 24 04:17:20 +0000 2007",
+			"favourites_count": 44180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "112E18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7044082/1528746359",
+			"profile_link_color": "196912",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104049904945692700,
+		"quoted_status_id_str": "1104049904945692675",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ssBsaJefBX",
+			"expanded": "https://twitter.com/finiteeyes/status/1104049904945692675",
+			"display": "twitter.com/finiteeyes/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 08 16:03:04 +0000 2019",
+			"id": 1104049904945692700,
+			"id_str": "1104049904945692675",
+			"full_text": "For #openeducationweek, I have choosen a hill to die on. Using \"textbooks\" as a catch-all term for course materials is inaccurate and maybe counterproductive and possibly even harmful: https://t.co/GwZ1BJVYA3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openeducationweek",
+						"indices": [
+							4,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GwZ1BJVYA3",
+						"expanded_url": "https://finiteeyes.net/open/the-textbooks-misnomer/",
+						"display_url": "finiteeyes.net/open/the-textb…",
+						"indices": [
+							185,
+							208
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1006548407501180900,
+				"id_str": "1006548407501180928",
+				"name": "Matthew Cheney",
+				"screen_name": "finiteeyes",
+				"location": "Plymouth, NH",
+				"description": "Interim Director of @PlymouthIDS. All things Interdisciplinary, Open Pedagogy, Open Educational Resources, etc. (More generally, @melikhovo)",
+				"url": "https://t.co/g9UgEjotvr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g9UgEjotvr",
+								"expanded_url": "https://finiteeyes.net/",
+								"display_url": "finiteeyes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 193,
+				"friends_count": 298,
+				"listed_count": 3,
+				"created_at": "Tue Jun 12 14:46:56 +0000 2018",
+				"favourites_count": 307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 332,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006548714704506880/BlpE0Eta_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006548714704506880/BlpE0Eta_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006548407501180928/1533222605",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AGREED!!! I have called my system \"UnTextbook\" ...it's based on curating/creating heaps and heaps and heaps of online reading materials for the students to choose from based on their own interests.\nUnTextbook: https://t.co/5uznYAd1ny\nplus Freebookapalooza: https://t.co/dl5eXpgc80 https://t.co/ssBsaJefBX"
+	},
+	{
 		"created_at": "Fri Mar 08 19:22:55 +0000 2019",
 		"id": 1104100199679619100,
 		"id_str": "1104100199679619073",

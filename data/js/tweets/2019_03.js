@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 09 22:38:34 +0000 2019",
+		"id": 1104511826543497200,
+		"id_str": "1104511826543497218",
+		"full_text": "@ResearchBuzz Yes he did- good news for not taking away photos placed in commons. I bet though people still feel cheated for not having the ridiculous storage yahoo promised. I believe in @Flickr still",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchBuzz",
+					"name": "Tara Calishain",
+					"id": 6979102,
+					"id_str": "6979102",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Flickr",
+					"name": "Flickr",
+					"id": 21237045,
+					"id_str": "21237045",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1104458190132006900,
+		"in_reply_to_status_id_str": "1104458190132006919",
+		"in_reply_to_user_id": 6979102,
+		"in_reply_to_user_id_str": "6979102",
+		"in_reply_to_screen_name": "ResearchBuzz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1463,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87883,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ResearchBuzz Yes he did- good news for not taking away photos placed in commons. I bet though people still feel cheated for not having the ridiculous storage yahoo promised. I believe in @Flickr still"
+	},
+	{
+		"created_at": "Sat Mar 09 22:35:29 +0000 2019",
+		"id": 1104511047598329900,
+		"id_str": "1104511047598329858",
+		"full_text": "@ontarioextend follow the links for even more ideas and resources about curating the web from the wise @fryed perfect for #extendMooc curation module https://t.co/5axHTd6VQX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "extendMooc",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "fryed",
+					"name": "Donna Miller Fry",
+					"id": 13210942,
+					"id_str": "13210942",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5axHTd6VQX",
+					"expanded_url": "https://twitter.com/fryed/status/1104436446188974080",
+					"display_url": "twitter.com/fryed/status/1…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 885339669457776600,
+		"in_reply_to_user_id_str": "885339669457776641",
+		"in_reply_to_screen_name": "ontarioextend",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1463,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87883,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104436446188974100,
+		"quoted_status_id_str": "1104436446188974080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5axHTd6VQX",
+			"expanded": "https://twitter.com/fryed/status/1104436446188974080",
+			"display": "twitter.com/fryed/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 09 17:39:02 +0000 2019",
+			"id": 1104436446188974100,
+			"id_str": "1104436446188974080",
+			"full_text": "\"Coming out of the cave\" moments for educators.\n\nSome thoughts from our work with #ontedleaders in 2015\n\nhttps://t.co/ErtPVtRlWE\n\n@cogdog\n@markwcarbone\n\n#cpchat #suptchat #digitalliteracies #edtech #curation https://t.co/d4GYAnVd16",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ontedleaders",
+						"indices": [
+							82,
+							95
+						]
+					},
+					{
+						"text": "cpchat",
+						"indices": [
+							153,
+							160
+						]
+					},
+					{
+						"text": "suptchat",
+						"indices": [
+							161,
+							170
+						]
+					},
+					{
+						"text": "digitalliteracies",
+						"indices": [
+							171,
+							189
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							190,
+							197
+						]
+					},
+					{
+						"text": "curation",
+						"indices": [
+							198,
+							207
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							130,
+							137
+						]
+					},
+					{
+						"screen_name": "markwcarbone",
+						"name": "Mark W. Carbone",
+						"id": 24306537,
+						"id_str": "24306537",
+						"indices": [
+							138,
+							151
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ErtPVtRlWE",
+						"expanded_url": "https://ossemooc.wordpress.com/2015/12/06/day-12-curation-as-a-critical-digital-literacy/",
+						"display_url": "ossemooc.wordpress.com/2015/12/06/day…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1104436121390465000,
+						"id_str": "1104436121390465024",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/D1O-zQSWwAAMK1U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1O-zQSWwAAMK1U.jpg",
+						"url": "https://t.co/d4GYAnVd16",
+						"display_url": "pic.twitter.com/d4GYAnVd16",
+						"expanded_url": "https://twitter.com/fryed/status/1104436446188974080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 792,
+								"h": 1006,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 792,
+								"h": 1006,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 535,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1104436121390465000,
+						"id_str": "1104436121390465024",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/D1O-zQSWwAAMK1U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1O-zQSWwAAMK1U.jpg",
+						"url": "https://t.co/d4GYAnVd16",
+						"display_url": "pic.twitter.com/d4GYAnVd16",
+						"expanded_url": "https://twitter.com/fryed/status/1104436446188974080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 792,
+								"h": 1006,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 792,
+								"h": 1006,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 535,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13210942,
+				"id_str": "13210942",
+				"name": "Donna Miller Fry",
+				"screen_name": "fryed",
+				"location": "Corner Brook, NL",
+				"description": "Learner, Connected Educator, Network Builder.\n\nLeading for Learning in 2020\n\n#edcan",
+				"url": "https://t.co/39EfR6zYNN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/39EfR6zYNN",
+								"expanded_url": "http://blog.donnamillerfry.com",
+								"display_url": "blog.donnamillerfry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10297,
+				"friends_count": 10866,
+				"listed_count": 486,
+				"created_at": "Thu Feb 07 16:49:37 +0000 2008",
+				"favourites_count": 31952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36012,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103618135205339136/Zu5pzDbS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103618135205339136/Zu5pzDbS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13210942/1551808558",
+				"profile_link_color": "C72084",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ontarioextend follow the links for even more ideas and resources about curating the web from the wise @fryed perfect for #extendMooc curation module https://t.co/5axHTd6VQX"
+	},
+	{
 		"created_at": "Sat Mar 09 03:51:03 +0000 2019",
 		"id": 1104228075435450400,
 		"id_str": "1104228075435450368",

@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 14:06:44 +0000 2019",
+		"id": 1105470181302853600,
+		"id_str": "1105470181302853633",
+		"full_text": "@greeneterry That’s what the sweaters say.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1105468146402627600,
+		"in_reply_to_status_id_str": "1105468146402627585",
+		"in_reply_to_user_id": 212019344,
+		"in_reply_to_user_id_str": "212019344",
+		"in_reply_to_screen_name": "greeneterry",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1464,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@greeneterry That’s what the sweaters say."
+	},
+	{
+		"created_at": "Tue Mar 12 13:53:50 +0000 2019",
+		"id": 1105466933430968300,
+		"id_str": "1105466933430968321",
+		"full_text": "This is a gem of an #ExtendmOOC curator find! Tracked it to the great archives of the Galt Museum https://t.co/Fdrvxh66IX https://t.co/cCOdSgYeAF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendmOOC",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fdrvxh66IX",
+					"expanded_url": "https://collections.galtmuseum.com/",
+					"display_url": "collections.galtmuseum.com",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/cCOdSgYeAF",
+					"expanded_url": "https://twitter.com/kristamccracken/status/1105169130964111360",
+					"display_url": "twitter.com/kristamccracke…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1464,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105169130964111400,
+		"quoted_status_id_str": "1105169130964111360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cCOdSgYeAF",
+			"expanded": "https://twitter.com/kristamccracken/status/1105169130964111360",
+			"display": "twitter.com/kristamccracke…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 11 18:10:28 +0000 2019",
+			"id": 1105169130964111400,
+			"id_str": "1105169130964111360",
+			"full_text": "My response to Daily Extend is #oext320 is this fantastic public domain image of a women's curling team from Alberta, 1955. So much love for their sweaters. \n\nThe Wikimedia commons image is at: https://t.co/SyGPX9UgRq #ExtendmOOC https://t.co/cAzRe6jBFx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oext320",
+						"indices": [
+							31,
+							39
+						]
+					},
+					{
+						"text": "ExtendmOOC",
+						"indices": [
+							218,
+							229
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SyGPX9UgRq",
+						"expanded_url": "http://bit.ly/2SYinoG",
+						"display_url": "bit.ly/2SYinoG",
+						"indices": [
+							194,
+							217
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1105168794480230400,
+						"id_str": "1105168794480230408",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/D1ZZKcPXQAgs8Wl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1ZZKcPXQAgs8Wl.jpg",
+						"url": "https://t.co/cAzRe6jBFx",
+						"display_url": "pic.twitter.com/cAzRe6jBFx",
+						"expanded_url": "https://twitter.com/kristamccracken/status/1105169130964111360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 760,
+								"h": 597,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 597,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1105168794480230400,
+						"id_str": "1105168794480230408",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/D1ZZKcPXQAgs8Wl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1ZZKcPXQAgs8Wl.jpg",
+						"url": "https://t.co/cAzRe6jBFx",
+						"display_url": "pic.twitter.com/cAzRe6jBFx",
+						"expanded_url": "https://twitter.com/kristamccracken/status/1105169130964111360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 760,
+								"h": 597,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 597,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16754312,
+				"id_str": "16754312",
+				"name": "Krista Mccracken",
+				"screen_name": "kristamccracken",
+				"location": "Sault Ste Marie, Ontario",
+				"description": "Public Historian and Archivist. Editor at @ActiveHist. Strong thoughts about tea and Doctor Who. (They/Them)",
+				"url": "https://t.co/mBdDjiSmWf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mBdDjiSmWf",
+								"expanded_url": "http://kristamccracken.ca",
+								"display_url": "kristamccracken.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2844,
+				"friends_count": 2379,
+				"listed_count": 147,
+				"created_at": "Wed Oct 15 04:10:45 +0000 2008",
+				"favourites_count": 10890,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956883119759441920/YrtPKsPi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956883119759441920/YrtPKsPi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16754312/1393272920",
+				"profile_link_color": "599953",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a gem of an #ExtendmOOC curator find! Tracked it to the great archives of the Galt Museum https://t.co/Fdrvxh66IX https://t.co/cCOdSgYeAF"
+	},
+	{
 		"created_at": "Tue Mar 12 03:13:51 +0000 2019",
 		"id": 1105305879518367700,
 		"id_str": "1105305879518367744",

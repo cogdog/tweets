@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 21:12:03 +0000 2019",
+		"id": 1105939604589477900,
+		"id_str": "1105939604589477896",
+		"full_text": "@darrelplant I owe 3400 Lingo dollars in fines.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darrelplant",
+					"name": "Darrel Plant",
+					"id": 6452622,
+					"id_str": "6452622",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1105638641940914200,
+		"in_reply_to_status_id_str": "1105638641940914176",
+		"in_reply_to_user_id": 6452622,
+		"in_reply_to_user_id_str": "6452622",
+		"in_reply_to_screen_name": "darrelplant",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10429,
+			"friends_count": 1465,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@darrelplant I owe 3400 Lingo dollars in fines."
+	},
+	{
+		"created_at": "Wed Mar 13 20:39:47 +0000 2019",
+		"id": 1105870832289632300,
+		"id_str": "1105931482210566144",
+		"full_text": "#ExtendmOOC Extended Lunch quote:\n\"This course makes me feel young.\"\n@ontarioextend https://t.co/HoNRgoCj2O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendmOOC",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						69,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105870821388705800,
+					"id_str": "1105870821388705796",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1jXpyRX4AQg8s0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1jXpyRX4AQg8s0.jpg",
+					"url": "https://t.co/HoNRgoCj2O",
+					"display_url": "pic.twitter.com/HoNRgoCj2O",
+					"expanded_url": "https://twitter.com/greeneterry/status/1105870832289632257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 222,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 222,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 222,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105870821388705800,
+					"id_str": "1105870821388705796",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1jXpyRX4AQg8s0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1jXpyRX4AQg8s0.jpg",
+					"url": "https://t.co/HoNRgoCj2O",
+					"display_url": "pic.twitter.com/HoNRgoCj2O",
+					"expanded_url": "https://twitter.com/greeneterry/status/1105870832289632257/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 222,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 222,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 222,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							111,
+							122
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D1jXpyRX4AQg8s0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 212019344,
+			"id_str": "212019344",
+			"name": "Terry Greene",
+			"screen_name": "greeneterry",
+			"location": "Nogojiwanong/Peterborough",
+			"description": "Program Manager @eCampusOntario working at the traffic circle of learning, tech, and open education. Fun + Professional = Funprofessional",
+			"url": "https://t.co/AyYMrUPm7p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AyYMrUPm7p",
+							"expanded_url": "https://learningnuggets.ca",
+							"display_url": "learningnuggets.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1323,
+			"friends_count": 1226,
+			"listed_count": 65,
+			"created_at": "Thu Nov 04 22:34:28 +0000 2010",
+			"favourites_count": 15254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13092,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057930084915535873/a7ocHolm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057930084915535873/a7ocHolm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/212019344/1496450834",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ExtendmOOC Extended Lunch quote:\n\"This course makes me feel young.\"\n@ontarioextend https://t.co/HoNRgoCj2O"
+	},
+	{
+		"created_at": "Wed Mar 13 20:39:03 +0000 2019",
+		"id": 1105931300412772400,
+		"id_str": "1105931300412772352",
+		"full_text": "NOOOO! Don't let @greg_rodrigo know about the @ontarioextend Leaderboard reset for #ExtendmOOC He can't resist! https://t.co/HhA2B8jiWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendmOOC",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greg_rodrigo",
+					"name": "Greg Rodrigo",
+					"id": 9917992,
+					"id_str": "9917992",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HhA2B8jiWH",
+					"expanded_url": "https://twitter.com/greeneterry/status/1105896068468871168",
+					"display_url": "twitter.com/greeneterry/st…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10429,
+			"friends_count": 1465,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105896068468871200,
+		"quoted_status_id_str": "1105896068468871168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HhA2B8jiWH",
+			"expanded": "https://twitter.com/greeneterry/status/1105896068468871168",
+			"display": "twitter.com/greeneterry/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 13 18:19:03 +0000 2019",
+			"id": 1105896068468871200,
+			"id_str": "1105896068468871168",
+			"full_text": "The @ontarioextend Leaderboard has been reset to the beginning of #ExtendmOOC and @denielsen is in the lead.\nWhat say you, @greg_rodrigo?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExtendmOOC",
+						"indices": [
+							66,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ontarioextend",
+						"name": "OntarioExtend",
+						"id": 885339669457776600,
+						"id_str": "885339669457776641",
+						"indices": [
+							4,
+							18
+						]
+					},
+					{
+						"screen_name": "denielsen",
+						"name": "Denise Nielsen",
+						"id": 38211334,
+						"id_str": "38211334",
+						"indices": [
+							82,
+							92
+						]
+					},
+					{
+						"screen_name": "greg_rodrigo",
+						"name": "Greg Rodrigo",
+						"id": 9917992,
+						"id_str": "9917992",
+						"indices": [
+							123,
+							136
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 212019344,
+				"id_str": "212019344",
+				"name": "Terry Greene",
+				"screen_name": "greeneterry",
+				"location": "Nogojiwanong/Peterborough",
+				"description": "Program Manager @eCampusOntario working at the traffic circle of learning, tech, and open education. Fun + Professional = Funprofessional",
+				"url": "https://t.co/AyYMrUPm7p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AyYMrUPm7p",
+								"expanded_url": "https://learningnuggets.ca",
+								"display_url": "learningnuggets.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1323,
+				"friends_count": 1226,
+				"listed_count": 65,
+				"created_at": "Thu Nov 04 22:34:28 +0000 2010",
+				"favourites_count": 15254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13092,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057930084915535873/a7ocHolm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057930084915535873/a7ocHolm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/212019344/1496450834",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NOOOO! Don't let @greg_rodrigo know about the @ontarioextend Leaderboard reset for #ExtendmOOC He can't resist! https://t.co/HhA2B8jiWH"
+	},
+	{
 		"created_at": "Wed Mar 13 15:39:01 +0000 2019",
 		"id": 1105853881484038100,
 		"id_str": "1105855793381945345",

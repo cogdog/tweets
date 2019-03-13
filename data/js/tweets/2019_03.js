@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 15:39:01 +0000 2019",
+		"id": 1105853881484038100,
+		"id_str": "1105855793381945345",
+		"full_text": "All sorted and situated for OpenLearning '19: a welcome week invitation. #openlearning19 https://t.co/Yp4yFRv7u5 https://t.co/gMzNsjX8qa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openlearning19",
+					"indices": [
+						73,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yp4yFRv7u5",
+					"expanded_url": "http://www.gardnercampbell.net/blog1/?p=2934",
+					"display_url": "gardnercampbell.net/blog1/?p=2934",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105853879474946000,
+					"id_str": "1105853879474946050",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jIPouXgAI8kQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jIPouXgAI8kQe.jpg",
+					"url": "https://t.co/gMzNsjX8qa",
+					"display_url": "pic.twitter.com/gMzNsjX8qa",
+					"expanded_url": "https://twitter.com/GardnerCampbell/status/1105853881484038144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 889,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 889,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105853879474946000,
+					"id_str": "1105853879474946050",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jIPouXgAI8kQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jIPouXgAI8kQe.jpg",
+					"url": "https://t.co/gMzNsjX8qa",
+					"display_url": "pic.twitter.com/gMzNsjX8qa",
+					"expanded_url": "https://twitter.com/GardnerCampbell/status/1105853881484038144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 889,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 889,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782931,
+			"id_str": "782931",
+			"name": "Gardner Campbell",
+			"screen_name": "GardnerCampbell",
+			"location": "Virginia",
+			"description": "Somebody else's favorite song. I speak for myself only. Retweets, favorites mean many things.",
+			"url": "http://t.co/W30RpFRyh9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/W30RpFRyh9",
+							"expanded_url": "http://www.gardnercampbell.net/blog1",
+							"display_url": "gardnercampbell.net/blog1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6303,
+			"friends_count": 5753,
+			"listed_count": 440,
+			"created_at": "Tue Feb 20 12:02:22 +0000 2007",
+			"favourites_count": 12528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/448479095249051649/VCU6dhSU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/448479095249051649/VCU6dhSU_normal.jpeg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All sorted and situated for OpenLearning '19: a welcome week invitation. #openlearning19 https://t.co/Yp4yFRv7u5 https://t.co/gMzNsjX8qa"
+	},
+	{
 		"created_at": "Wed Mar 13 03:34:51 +0000 2019",
 		"id": 1105673550197735400,
 		"id_str": "1105673550197735425",

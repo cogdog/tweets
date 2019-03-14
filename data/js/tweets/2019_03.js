@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 16:58:38 +0000 2019",
+		"id": 1106238217299415000,
+		"id_str": "1106238217299415040",
+		"full_text": "'II felt like I was spending all my time policing students instead of building positive relationships.'I  used to confiscate cellphones in my classroom. It was pointless - Globe and Mail https://t.co/pVKhI3Jxe0 via @nuzzel thanks @ken_bauer #ecs100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ecs100",
+					"indices": [
+						241,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						215,
+						222
+					]
+				},
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						230,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pVKhI3Jxe0",
+					"expanded_url": "https://nzzl.us/Zl9R0Ut",
+					"display_url": "nzzl.us/Zl9R0Ut",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10430,
+			"friends_count": 1465,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'II felt like I was spending all my time policing students instead of building positive relationships.'I  used to confiscate cellphones in my classroom. It was pointless - Globe and Mail https://t.co/pVKhI3Jxe0 via @nuzzel thanks @ken_bauer #ecs100"
+	},
+	{
+		"created_at": "Thu Mar 14 16:53:48 +0000 2019",
+		"id": 1106237002041692200,
+		"id_str": "1106237002041692161",
+		"full_text": "A fabulous collaborative table indeed: \"My pedagogical and research interest often intersect, and I am lucky that both of those overlap onto the work I do on a daily basis\" #extendmooc @ontarioextend https://t.co/391o24dxAw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "extendmooc",
+					"indices": [
+						173,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						185,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/391o24dxAw",
+					"expanded_url": "https://twitter.com/AnnGagne/status/1106234931133538304",
+					"display_url": "twitter.com/AnnGagne/statu…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10430,
+			"friends_count": 1465,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106234931133538300,
+		"quoted_status_id_str": "1106234931133538304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/391o24dxAw",
+			"expanded": "https://twitter.com/AnnGagne/status/1106234931133538304",
+			"display": "twitter.com/AnnGagne/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 14 16:45:35 +0000 2019",
+			"id": 1106234931133538300,
+			"id_str": "1106234931133538304",
+			"full_text": "Autodraw and Sharing Resources . A post for #ExtendmOOC  where I focus on sharing a tool with my PLN https://t.co/KSfwd0JeGj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExtendmOOC",
+						"indices": [
+							44,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KSfwd0JeGj",
+						"expanded_url": "https://curriculumcafe700607900.wordpress.com/2019/03/14/autodraw-and-sharing-resources/",
+						"display_url": "curriculumcafe700607900.wordpress.com/2019/03/14/aut…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 404289962,
+				"id_str": "404289962",
+				"name": "Ann Gagné, PhD",
+				"screen_name": "AnnGagne",
+				"location": "",
+				"description": "Curriculum & Instructional Consultant supporting ethical inclusive pedagogy. PT prof 19thC (Ruskin), tactility, women's lit &gender theory. Settler. She/Her",
+				"url": "https://t.co/skiqfe67Ti",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/skiqfe67Ti",
+								"expanded_url": "http://www.allthingspedagogical.blogspot.com/",
+								"display_url": "allthingspedagogical.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1115,
+				"friends_count": 969,
+				"listed_count": 93,
+				"created_at": "Thu Nov 03 18:18:04 +0000 2011",
+				"favourites_count": 6558,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEC7ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015972146689073152/o3k1AVjv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015972146689073152/o3k1AVjv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/404289962/1497363048",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A fabulous collaborative table indeed: \"My pedagogical and research interest often intersect, and I am lucky that both of those overlap onto the work I do on a daily basis\" #extendmooc @ontarioextend https://t.co/391o24dxAw"
+	},
+	{
+		"created_at": "Thu Mar 14 16:50:02 +0000 2019",
+		"id": 1106221739741274100,
+		"id_str": "1106236054741438465",
+		"full_text": "A fun #ExtendmOOC radio chat today with @Kcarte02 @lkoster from @ConestogaC along with @dendroglyph, @cogdog and @greeneterry! Check out the episode at noon on Monday on @voicEdcanada",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExtendmOOC",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kcarte02",
+					"name": "Kim Carter",
+					"id": 1245025976,
+					"id_str": "1245025976",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "lkoster",
+					"name": "Lisa Koster",
+					"id": 20738299,
+					"id_str": "20738299",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"screen_name": "ConestogaC",
+					"name": "Conestoga College",
+					"id": 289459240,
+					"id_str": "289459240",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"screen_name": "dendroglyph",
+					"name": "David Porter",
+					"id": 15170764,
+					"id_str": "15170764",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						170,
+						183
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885339669457776600,
+			"id_str": "885339669457776641",
+			"name": "OntarioExtend",
+			"screen_name": "ontarioextend",
+			"location": "Toronto, Ontario",
+			"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+			"url": "https://t.co/VrJt2KX1mc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VrJt2KX1mc",
+							"expanded_url": "https://extend.ecampusontario.ca",
+							"display_url": "extend.ecampusontario.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 741,
+			"friends_count": 461,
+			"listed_count": 15,
+			"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+			"favourites_count": 2629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885340451284238336/Zxiv4NQL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A fun #ExtendmOOC radio chat today with @Kcarte02 @lkoster from @ConestogaC along with @dendroglyph, @cogdog and @greeneterry! Check out the episode at noon on Monday on @voicEdcanada"
+	},
+	{
 		"created_at": "Thu Mar 14 14:26:44 +0000 2019",
 		"id": 1106199989825536000,
 		"id_str": "1106199989825536000",

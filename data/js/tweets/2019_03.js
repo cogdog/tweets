@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 22:44:42 +0000 2019",
+		"id": 1106325219696930800,
+		"id_str": "1106325309496979457",
+		"full_text": "So we are having a #HomeBrewWebsite club meeting (Spanish/English available) at @TECcampusGDL Wednesday March 20 at the Library Patio. Learn how to #IndieWeb and share. Please retweet and invite friends Info at https://t.co/c5k1KapWrQ https://t.co/Pc6DQrD3nz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HomeBrewWebsite",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"text": "IndieWeb",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TECcampusGDL",
+					"name": "TEC Campus Guadalajara",
+					"id": 239454930,
+					"id_str": "239454930",
+					"indices": [
+						80,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c5k1KapWrQ",
+					"expanded_url": "https://known.kenbauer.me/2019/03/14/homebrew-website-club---guadalajara---march-20-2019",
+					"display_url": "known.kenbauer.me/2019/03/14/hom…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106325189741215700,
+					"id_str": "1106325189741215744",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D1p05gSXgAA5jTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1p05gSXgAA5jTW.jpg",
+					"url": "https://t.co/Pc6DQrD3nz",
+					"display_url": "pic.twitter.com/Pc6DQrD3nz",
+					"expanded_url": "https://twitter.com/ken_bauer/status/1106325219696930816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106325189741215700,
+					"id_str": "1106325189741215744",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D1p05gSXgAA5jTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1p05gSXgAA5jTW.jpg",
+					"url": "https://t.co/Pc6DQrD3nz",
+					"display_url": "pic.twitter.com/Pc6DQrD3nz",
+					"expanded_url": "https://twitter.com/ken_bauer/status/1106325219696930816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16033586,
+			"id_str": "16033586",
+			"name": "Ken Bauer Favel",
+			"screen_name": "ken_bauer",
+			"location": "Guadalajara, Jalisco, Mexico",
+			"description": "Assoc. Professor #CompSci @TecDeMonterrey in Guadalajara, #edupunk, @FlippedLearning chair, podcasts @AskTheFLN #OEP, #Oilers fan, Canadian in Mexico.",
+			"url": "https://t.co/7sfzqVs69Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7sfzqVs69Y",
+							"expanded_url": "https://known.kenbauer.me",
+							"display_url": "known.kenbauer.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3537,
+			"friends_count": 2466,
+			"listed_count": 208,
+			"created_at": "Thu Aug 28 22:08:22 +0000 2008",
+			"favourites_count": 23134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833769805928755200/GcOm4L7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833769805928755200/GcOm4L7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16033586/1548949513",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So we are having a #HomeBrewWebsite club meeting (Spanish/English available) at @TECcampusGDL Wednesday March 20 at the Library Patio. Learn how to #IndieWeb and share. Please retweet and invite friends Info at https://t.co/c5k1KapWrQ https://t.co/Pc6DQrD3nz"
+	},
+	{
+		"created_at": "Thu Mar 14 22:43:26 +0000 2019",
+		"id": 1106324988553019400,
+		"id_str": "1106324988553019393",
+		"full_text": "@netnarr #netnarr #dda289 suggest following digital artists @emiliovavarella (previous studio guest) @hrheingold @ebonydraws @amyburvall  @Nsousanis @BryanMMathers",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "dda289",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netnarr",
+					"name": "Networked Narratives",
+					"id": 801306049663893500,
+					"id_str": "801306049663893504",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "emiliovavarella",
+					"name": "Emilio Vavarella",
+					"id": 2293379731,
+					"id_str": "2293379731",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"screen_name": "hrheingold",
+					"name": "(((Howard Rheingold)))",
+					"id": 5388852,
+					"id_str": "5388852",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"screen_name": "ebonydraws",
+					"name": "Dr. Ebony Flowers (Kalir)",
+					"id": 982769971821363200,
+					"id_str": "982769971821363201",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"screen_name": "Nsousanis",
+					"name": "Nick Sousanis",
+					"id": 427354566,
+					"id_str": "427354566",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"screen_name": "BryanMMathers",
+					"name": "Bryan Mathers",
+					"id": 37933636,
+					"id_str": "37933636",
+					"indices": [
+						149,
+						163
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1106197305386913800,
+		"in_reply_to_status_id_str": "1106197305386913792",
+		"in_reply_to_user_id": 801306049663893500,
+		"in_reply_to_user_id_str": "801306049663893504",
+		"in_reply_to_screen_name": "netnarr",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 1466,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@netnarr #netnarr #dda289 suggest following digital artists @emiliovavarella (previous studio guest) @hrheingold @ebonydraws @amyburvall  @Nsousanis @BryanMMathers"
+	},
+	{
+		"created_at": "Thu Mar 14 22:38:40 +0000 2019",
+		"id": 1106323790219432000,
+		"id_str": "1106323790219431937",
+		"full_text": "@ResearchBuzz @dnaturedjournal Me either really. the headlines are fun enough.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchBuzz",
+					"name": "Tara Calishain",
+					"id": 6979102,
+					"id_str": "6979102",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "dnaturedjournal",
+					"name": "dnatured",
+					"id": 1052596153244667900,
+					"id_str": "1052596153244667905",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1106316438426607600,
+		"in_reply_to_status_id_str": "1106316438426607617",
+		"in_reply_to_user_id": 6979102,
+		"in_reply_to_user_id_str": "6979102",
+		"in_reply_to_screen_name": "ResearchBuzz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 1466,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ResearchBuzz @dnaturedjournal Me either really. the headlines are fun enough."
+	},
+	{
 		"created_at": "Thu Mar 14 22:07:24 +0000 2019",
 		"id": 1106315919842775000,
 		"id_str": "1106315919842775042",

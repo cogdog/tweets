@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 17:36:41 +0000 2019",
+		"id": 1106610179494289400,
+		"id_str": "1106610179494289410",
+		"full_text": "#netnarr wants YOU to vote on student created \"Memes Countering Darkness\" for the ones most worth trying to spread. Vote 1-5 stars for degree of viral potential https://t.co/LGCQxdyqnt Current leader: https://t.co/M2vZSZb6WD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGCQxdyqnt",
+					"expanded_url": "http://somni.arganee.world/category/meme/?r_sortby=highest_rated&r_orderby=desc",
+					"display_url": "somni.arganee.world/category/meme/…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106610130932715500,
+					"id_str": "1106610130932715520",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D1t4DQ8X0AA4Zz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1t4DQ8X0AA4Zz7.jpg",
+					"url": "https://t.co/M2vZSZb6WD",
+					"display_url": "pic.twitter.com/M2vZSZb6WD",
+					"expanded_url": "https://twitter.com/cogdog/status/1106610179494289410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 524,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 524,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106610130932715500,
+					"id_str": "1106610130932715520",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D1t4DQ8X0AA4Zz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1t4DQ8X0AA4Zz7.jpg",
+					"url": "https://t.co/M2vZSZb6WD",
+					"display_url": "pic.twitter.com/M2vZSZb6WD",
+					"expanded_url": "https://twitter.com/cogdog/status/1106610179494289410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 524,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 524,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10429,
+			"friends_count": 1466,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#netnarr wants YOU to vote on student created \"Memes Countering Darkness\" for the ones most worth trying to spread. Vote 1-5 stars for degree of viral potential https://t.co/LGCQxdyqnt Current leader: https://t.co/M2vZSZb6WD"
+	},
+	{
 		"created_at": "Fri Mar 15 15:51:42 +0000 2019",
 		"id": 1106583759141421000,
 		"id_str": "1106583759141421058",

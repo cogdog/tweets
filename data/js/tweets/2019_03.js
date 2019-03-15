@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 14:01:09 +0000 2019",
+		"id": 1106555940176711700,
+		"id_str": "1106555940176711683",
+		"full_text": "Machine reading emotions? Yikes. Flagging for #netnarr https://t.co/zuyZqAXpQG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zuyZqAXpQG",
+					"expanded_url": "https://twitter.com/Affectiva/status/1106525760158945280",
+					"display_url": "twitter.com/Affectiva/stat…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10430,
+			"friends_count": 1466,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106525760158945300,
+		"quoted_status_id_str": "1106525760158945280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zuyZqAXpQG",
+			"expanded": "https://twitter.com/Affectiva/status/1106525760158945280",
+			"display": "twitter.com/Affectiva/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 12:01:14 +0000 2019",
+			"id": 1106525760158945300,
+			"id_str": "1106525760158945280",
+			"full_text": ".@sama of @OpenAI worries that tech “will eventually be better than humans at reading emotion.” Listen to @kaliouby explain why privacy + consent are first in realizing #AI that delivers value on the @ShouldThisExist podcast https://t.co/aAHbio7EGn @ApplePodcasts @qz https://t.co/gt8WXnxXvc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							169,
+							172
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sama",
+						"name": "Sam Altman",
+						"id": 1605,
+						"id_str": "1605",
+						"indices": [
+							1,
+							6
+						]
+					},
+					{
+						"screen_name": "OpenAI",
+						"name": "OpenAI",
+						"id": 4398626122,
+						"id_str": "4398626122",
+						"indices": [
+							10,
+							17
+						]
+					},
+					{
+						"screen_name": "kaliouby",
+						"name": "Rana el Kaliouby",
+						"id": 208584178,
+						"id_str": "208584178",
+						"indices": [
+							106,
+							115
+						]
+					},
+					{
+						"screen_name": "ShouldThisExist",
+						"name": "Should This Exist?",
+						"id": 999014533296525300,
+						"id_str": "999014533296525313",
+						"indices": [
+							200,
+							216
+						]
+					},
+					{
+						"screen_name": "ApplePodcasts",
+						"name": "Apple Podcasts",
+						"id": 48436234,
+						"id_str": "48436234",
+						"indices": [
+							249,
+							263
+						]
+					},
+					{
+						"screen_name": "qz",
+						"name": "Quartz",
+						"id": 573918122,
+						"id_str": "573918122",
+						"indices": [
+							264,
+							267
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aAHbio7EGn",
+						"expanded_url": "https://hubs.ly/H0h0Km20",
+						"display_url": "hubs.ly/H0h0Km20",
+						"indices": [
+							225,
+							248
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1106525758464450600,
+						"id_str": "1106525758464450562",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/D1srUJAX4AI26Jj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1srUJAX4AI26Jj.jpg",
+						"url": "https://t.co/gt8WXnxXvc",
+						"display_url": "pic.twitter.com/gt8WXnxXvc",
+						"expanded_url": "https://twitter.com/Affectiva/status/1106525760158945280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106525758464450600,
+						"id_str": "1106525758464450562",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/D1srUJAX4AI26Jj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1srUJAX4AI26Jj.jpg",
+						"url": "https://t.co/gt8WXnxXvc",
+						"display_url": "pic.twitter.com/gt8WXnxXvc",
+						"expanded_url": "https://twitter.com/Affectiva/status/1106525760158945280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74432340,
+				"id_str": "74432340",
+				"name": "Affectiva",
+				"screen_name": "Affectiva",
+				"location": "Boston, MA",
+				"description": "We are pioneers in emotion recognition software. Built on science platform using deep learning and the world’s largest emotion database. This is Emotion AI.",
+				"url": "http://t.co/CptEKpnJzd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CptEKpnJzd",
+								"expanded_url": "http://www.affectiva.com",
+								"display_url": "affectiva.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8863,
+				"friends_count": 1984,
+				"listed_count": 577,
+				"created_at": "Tue Sep 15 12:19:37 +0000 2009",
+				"favourites_count": 4555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0A97AD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832329160513175556/QgC17kiC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832329160513175556/QgC17kiC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74432340/1537800270",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Machine reading emotions? Yikes. Flagging for #netnarr https://t.co/zuyZqAXpQG"
+	},
+	{
 		"created_at": "Fri Mar 15 02:27:07 +0000 2019",
 		"id": 1106381279438819300,
 		"id_str": "1106381279438819328",

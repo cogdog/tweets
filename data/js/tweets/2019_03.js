@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 22:12:29 +0000 2019",
+		"id": 1109931141530820600,
+		"id_str": "1110303466990243840",
+		"full_text": "I blogged about Google Data GIF Maker, a great tool for telling stories with small sets of data. WARNING: Animated GIFs ahead! https://t.co/3gxeT7cKiA #GoogleEDU #GooglePD #DataGIFMaker",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "GooglePD",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "DataGIFMaker",
+					"indices": [
+						172,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3gxeT7cKiA",
+					"expanded_url": "https://tommullaney.com/2019/03/24/data-gif-maker/",
+					"display_url": "tommullaney.com/2019/03/24/dat…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131277482,
+			"id_str": "131277482",
+			"name": "Tom Mullaney",
+			"screen_name": "TomEMullaney",
+			"location": "Durham, NC",
+			"description": "Digital Learning Coach @ Carroll MS. EDU speaker, blogger, and YouTuber. Google Certified Innovator and Trainer. Durham, NC🐂🏙️ via NY🗽, Philly🥨, and SF🌉.  Ⓥ🌱",
+			"url": "https://t.co/5YLdVKTJba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5YLdVKTJba",
+							"expanded_url": "http://tommullaney.com",
+							"display_url": "tommullaney.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6628,
+			"friends_count": 4738,
+			"listed_count": 421,
+			"created_at": "Fri Apr 09 20:20:28 +0000 2010",
+			"favourites_count": 64888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016461336262266880/V8RYzBiv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016461336262266880/V8RYzBiv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131277482/1546554069",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I blogged about Google Data GIF Maker, a great tool for telling stories with small sets of data. WARNING: Animated GIFs ahead! https://t.co/3gxeT7cKiA #GoogleEDU #GooglePD #DataGIFMaker"
+	},
+	{
 		"created_at": "Mon Mar 25 20:23:04 +0000 2019",
 		"id": 1110275931124445200,
 		"id_str": "1110275931124445184",

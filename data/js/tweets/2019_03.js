@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 18:41:31 +0000 2019",
+		"id": 1110250373472833500,
+		"id_str": "1110250373472833543",
+		"full_text": "Go invoice Facebook for personal data provided freely to them. I hear they pay their bills. https://t.co/HXI9krKA3K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HXI9krKA3K",
+					"expanded_url": "https://twitter.com/nick_kapur/status/1110061889495674880",
+					"display_url": "twitter.com/nick_kapur/sta…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10440,
+			"friends_count": 1471,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88045,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110061889495674900,
+		"quoted_status_id_str": "1110061889495674880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HXI9krKA3K",
+			"expanded": "https://twitter.com/nick_kapur/status/1110061889495674880",
+			"display": "twitter.com/nick_kapur/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 25 06:12:33 +0000 2019",
+			"id": 1110061889495674900,
+			"id_str": "1110061889495674880",
+			"full_text": "A Lithuanian con man stole $99 million from Facebook and $23 million from Google by sending the companies fake invoices for services and goods he never provided, which the companies promptly paid anyway\n\nhttps://t.co/gTu9tsifet",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gTu9tsifet",
+						"expanded_url": "https://boingboing.net/2019/03/24/evaldas-rimasauskas.html",
+						"display_url": "boingboing.net/2019/03/24/eva…",
+						"indices": [
+							204,
+							227
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111767172,
+				"id_str": "111767172",
+				"name": "Nick Kapur",
+				"screen_name": "nick_kapur",
+				"location": "",
+				"description": "Historian of Japan and East Asia. I only tweet extremely interesting things.",
+				"url": "https://t.co/0I6xelaDl0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0I6xelaDl0",
+								"expanded_url": "https://www.amazon.com/Japan-Crossroads-Conflict-Compromise-after/dp/0674984420",
+								"display_url": "amazon.com/Japan-Crossroa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12501,
+				"friends_count": 179,
+				"listed_count": 265,
+				"created_at": "Sat Feb 06 02:34:40 +0000 2010",
+				"favourites_count": 38234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16841,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/686583155206303744/krGiFvYM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/686583155206303744/krGiFvYM_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 332,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go invoice Facebook for personal data provided freely to them. I hear they pay their bills. https://t.co/HXI9krKA3K"
+	},
+	{
+		"created_at": "Mon Mar 25 18:26:23 +0000 2019",
+		"id": 1110246567922069500,
+		"id_str": "1110246567922069505",
+		"full_text": "@ColorfulWriter2 @netnarr @nypl_labs That's nifty! Was it fun to do? #netnarr",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ColorfulWriter2",
+					"name": "Lilly S ✨",
+					"id": 1037091998145097700,
+					"id_str": "1037091998145097728",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "netnarr",
+					"name": "Networked Narratives",
+					"id": 801306049663893500,
+					"id_str": "801306049663893504",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "nypl_labs",
+					"name": "NYPL Labs",
+					"id": 275031945,
+					"id_str": "275031945",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1110241521092173800,
+		"in_reply_to_status_id_str": "1110241521092173825",
+		"in_reply_to_user_id": 1037091998145097700,
+		"in_reply_to_user_id_str": "1037091998145097728",
+		"in_reply_to_screen_name": "ColorfulWriter2",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10440,
+			"friends_count": 1471,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88045,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ColorfulWriter2 @netnarr @nypl_labs That's nifty! Was it fun to do? #netnarr"
+	},
+	{
+		"created_at": "Mon Mar 25 18:23:55 +0000 2019",
+		"id": 1110173953144864800,
+		"id_str": "1110245946674343936",
+		"full_text": "Looking forward to talking to @actualham @ARWalz @CherylHW @Bali_Maha and @NadinneAbo next Sunday about #AMICAL2019. And you! Let me know if you'd like to join us! https://t.co/Izn8HwY7Ei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AMICAL2019",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "ARWalz",
+					"name": "Anita R. Walz",
+					"id": 2168962004,
+					"id_str": "2168962004",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "CherylHW",
+					"name": "Cheryl H-Williams",
+					"id": 89691945,
+					"id_str": "89691945",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "NadinneAbo",
+					"name": "Nadinne Aboulmagd",
+					"id": 233710654,
+					"id_str": "233710654",
+					"indices": [
+						74,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Izn8HwY7Ei",
+					"expanded_url": "https://twitter.com/VConnecting/status/1110032356453351424",
+					"display_url": "twitter.com/VConnecting/st…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14466272,
+			"id_str": "14466272",
+			"name": "Joe Murphy",
+			"screen_name": "joefromkenyon",
+			"location": "Gambier, OH",
+			"description": "Pedagogue, dad, cook.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 522,
+			"listed_count": 55,
+			"created_at": "Mon Apr 21 20:05:11 +0000 2008",
+			"favourites_count": 4037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7952,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086360167325859841/mT7TM1v__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086360167325859841/mT7TM1v__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110032356453351400,
+		"quoted_status_id_str": "1110032356453351424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Izn8HwY7Ei",
+			"expanded": "https://twitter.com/VConnecting/status/1110032356453351424",
+			"display": "twitter.com/VConnecting/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 25 04:15:11 +0000 2019",
+			"id": 1110032356453351400,
+			"id_str": "1110032356453351424",
+			"full_text": "We are @VConnecting at AMICAL 2019! https://t.co/0rBwR39J7o https://t.co/WJ1uWKij1h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VConnecting",
+						"name": "Virtually Connecting conversation not presentation",
+						"id": 3230962884,
+						"id_str": "3230962884",
+						"indices": [
+							7,
+							19
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0rBwR39J7o",
+						"expanded_url": "http://virtuallyconnecting.org/blog/2019/03/25/we-are-vconnecting-at-amical-2019/",
+						"display_url": "virtuallyconnecting.org/blog/2019/03/2…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1110032354922414100,
+						"id_str": "1110032354922414081",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D2egi6xXQAE_-lM.png",
+						"media_url_https": "https://pbs.twimg.com/media/D2egi6xXQAE_-lM.png",
+						"url": "https://t.co/WJ1uWKij1h",
+						"display_url": "pic.twitter.com/WJ1uWKij1h",
+						"expanded_url": "https://twitter.com/VConnecting/status/1110032356453351424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 286,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110032354922414100,
+						"id_str": "1110032354922414081",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D2egi6xXQAE_-lM.png",
+						"media_url_https": "https://pbs.twimg.com/media/D2egi6xXQAE_-lM.png",
+						"url": "https://t.co/WJ1uWKij1h",
+						"display_url": "pic.twitter.com/WJ1uWKij1h",
+						"expanded_url": "https://twitter.com/VConnecting/status/1110032356453351424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 286,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3230962884,
+				"id_str": "3230962884",
+				"name": "Virtually Connecting conversation not presentation",
+				"screen_name": "VConnecting",
+				"location": "On the Internet - Virtually",
+				"description": "Ur seat at the global campfire. Open virtual participation in events via volunteer buddies\nCo-directors @rjhogue @bali_maha @autumm @friedelitis @hj_dewaard",
+				"url": "https://t.co/8KNfhJ5FwL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8KNfhJ5FwL",
+								"expanded_url": "http://virtuallyconnecting.org",
+								"display_url": "virtuallyconnecting.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2119,
+				"friends_count": 1595,
+				"listed_count": 98,
+				"created_at": "Sat May 30 20:17:07 +0000 2015",
+				"favourites_count": 7889,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5081,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3230962884/1443566491",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to talking to @actualham @ARWalz @CherylHW @Bali_Maha and @NadinneAbo next Sunday about #AMICAL2019. And you! Let me know if you'd like to join us! https://t.co/Izn8HwY7Ei"
+	},
+	{
 		"created_at": "Mon Mar 25 16:39:31 +0000 2019",
 		"id": 1110219670827745300,
 		"id_str": "1110219670827745280",

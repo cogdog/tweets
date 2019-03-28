@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 16:20:53 +0000 2019",
+		"id": 1111231890298757100,
+		"id_str": "1111302147356979200",
+		"full_text": "@ontarioextend #oext330 #oextend \"The coming storm\" by Listen to Wikipedia. I turned on all the options and the clamour tells me that there is a desire to create, to share and to know. https://t.co/nZDJj6yjMA",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oext330",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "oextend",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111231744638885900,
+					"id_str": "1111231744638885888",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D2vjYlpWoAA8xex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2vjYlpWoAA8xex.jpg",
+					"url": "https://t.co/nZDJj6yjMA",
+					"display_url": "pic.twitter.com/nZDJj6yjMA",
+					"expanded_url": "https://twitter.com/IrenequStewart/status/1111231890298757120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 975,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 975,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111231744638885900,
+					"id_str": "1111231744638885888",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D2vjYlpWoAA8xex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2vjYlpWoAA8xex.jpg",
+					"url": "https://t.co/nZDJj6yjMA",
+					"display_url": "pic.twitter.com/nZDJj6yjMA",
+					"expanded_url": "https://twitter.com/IrenequStewart/status/1111231890298757120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 975,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 975,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1111221278482944000,
+		"in_reply_to_status_id_str": "1111221278482944000",
+		"in_reply_to_user_id": 885339669457776600,
+		"in_reply_to_user_id_str": "885339669457776641",
+		"in_reply_to_screen_name": "ontarioextend",
+		"user": {
+			"id": 66824757,
+			"id_str": "66824757",
+			"name": "Irene Stewart",
+			"screen_name": "IrenequStewart",
+			"location": "In Ontario drinking coffee.",
+			"description": "Retention Coordinator (Faculty) at St. Clair College. Extender4Life. Vape enthusiast.  Possibly Jovian. Will stop scrolling for cat pictures.🧦🐱🧙‍♀️",
+			"url": "https://t.co/NgL7cv8lHX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NgL7cv8lHX",
+							"expanded_url": "https://procaffination.ca",
+							"display_url": "procaffination.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 234,
+			"friends_count": 423,
+			"listed_count": 6,
+			"created_at": "Tue Aug 18 22:34:30 +0000 2009",
+			"favourites_count": 5338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077713314166132736/mdjiJB1c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077713314166132736/mdjiJB1c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66824757/1525013461",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ontarioextend #oext330 #oextend \"The coming storm\" by Listen to Wikipedia. I turned on all the options and the clamour tells me that there is a desire to create, to share and to know. https://t.co/nZDJj6yjMA"
+	},
+	{
 		"created_at": "Thu Mar 28 15:40:30 +0000 2019",
 		"id": 1111291982259937300,
 		"id_str": "1111291982259937280",

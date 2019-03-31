@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 20:01:01 +0000 2019",
+		"id": 1112363710079778800,
+		"id_str": "1112444708469592065",
+		"full_text": "4/ North America – according to @FoxNews https://t.co/LxWtHf1N0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FoxNews",
+					"name": "Fox News",
+					"id": 1367531,
+					"id_str": "1367531",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112363631029772300,
+					"id_str": "1112363631029772289",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_o1DCX4AEMIot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_o1DCX4AEMIot.jpg",
+					"url": "https://t.co/LxWtHf1N0N",
+					"display_url": "pic.twitter.com/LxWtHf1N0N",
+					"expanded_url": "https://twitter.com/BadFoxGraphics/status/1112363710079778817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 701,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 701,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112363631029772300,
+					"id_str": "1112363631029772289",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_o1DCX4AEMIot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_o1DCX4AEMIot.jpg",
+					"url": "https://t.co/LxWtHf1N0N",
+					"display_url": "pic.twitter.com/LxWtHf1N0N",
+					"expanded_url": "https://twitter.com/BadFoxGraphics/status/1112363710079778817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 701,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 701,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1112355048938446800,
+		"in_reply_to_status_id_str": "1112355048938446848",
+		"in_reply_to_user_id": 3375809956,
+		"in_reply_to_user_id_str": "3375809956",
+		"in_reply_to_screen_name": "BadFoxGraphics",
+		"user": {
+			"id": 3375809956,
+			"id_str": "3375809956",
+			"name": "Bad Fox Graphics",
+			"screen_name": "BadFoxGraphics",
+			"location": "",
+			"description": "Collection of awkward images, clumsy captions, flawed headlines, & memorable moments as seen on the Fox networks & 'Fox presidency' (Not affiliated w/Fox News)",
+			"url": "https://t.co/FCAtEccdbZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FCAtEccdbZ",
+							"expanded_url": "https://www.facebook.com/BadFoxGraphics",
+							"display_url": "facebook.com/BadFoxGraphics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20684,
+			"friends_count": 1280,
+			"listed_count": 178,
+			"created_at": "Tue Jul 14 13:48:52 +0000 2015",
+			"favourites_count": 19771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36332,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876715113754931200/teqRE5X0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876715113754931200/teqRE5X0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3375809956/1449002194",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4/ North America – according to @FoxNews https://t.co/LxWtHf1N0N"
+	},
+	{
 		"created_at": "Sun Mar 31 18:12:47 +0000 2019",
 		"id": 1112417472773128200,
 		"id_str": "1112417472773128193",

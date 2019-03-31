@@ -1,6 +1,539 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 18:12:47 +0000 2019",
+		"id": 1112417472773128200,
+		"id_str": "1112417472773128193",
+		"full_text": "@harmonygritz @ShorterPearson @bonstewart https://t.co/wiC46gIgUe",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harmonygritz",
+					"name": "George Station",
+					"id": 155090409,
+					"id_str": "155090409",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ShorterPearson",
+					"name": "Chuck Pearson",
+					"id": 285102399,
+					"id_str": "285102399",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "bonstewart",
+					"name": "Bonnie Stewart",
+					"id": 6532522,
+					"id_str": "6532522",
+					"indices": [
+						30,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wiC46gIgUe",
+					"expanded_url": "https://giphy.com/gifs/dog-shah-where-is-everybody-xTiTnDx2ZKTzqBWm4M",
+					"display_url": "giphy.com/gifs/dog-shah-…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1112344632380162000,
+		"in_reply_to_status_id_str": "1112344632380162049",
+		"in_reply_to_user_id": 155090409,
+		"in_reply_to_user_id_str": "155090409",
+		"in_reply_to_screen_name": "harmonygritz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1471,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@harmonygritz @ShorterPearson @bonstewart https://t.co/wiC46gIgUe"
+	},
+	{
+		"created_at": "Sun Mar 31 17:40:13 +0000 2019",
+		"id": 1112409274926485500,
+		"id_str": "1112409274926485505",
+		"full_text": "#netnarr https://t.co/Yc8tuk8zGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yc8tuk8zGo",
+					"expanded_url": "https://twitter.com/mymodernmet/status/1112407671901224960",
+					"display_url": "twitter.com/mymodernmet/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1471,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112407671901225000,
+		"quoted_status_id_str": "1112407671901224960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yc8tuk8zGo",
+			"expanded": "https://twitter.com/mymodernmet/status/1112407671901224960",
+			"display": "twitter.com/mymodernmet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 31 17:33:51 +0000 2019",
+			"id": 1112407671901225000,
+			"id_str": "1112407671901224960",
+			"full_text": "Artist illustrates the bizarre real-life conversations he overhears in public. https://t.co/6G9jNxcKJO https://t.co/OpIzfKr2e9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6G9jNxcKJO",
+						"expanded_url": "https://trib.al/1rBmaCn",
+						"display_url": "trib.al/1rBmaCn",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1112407665743986700,
+						"id_str": "1112407665743986688",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D3AQ4NIXgAAaj9x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3AQ4NIXgAAaj9x.jpg",
+						"url": "https://t.co/OpIzfKr2e9",
+						"display_url": "pic.twitter.com/OpIzfKr2e9",
+						"expanded_url": "https://twitter.com/mymodernmet/status/1112407671901224960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 749,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 749,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1112407665743986700,
+						"id_str": "1112407665743986688",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D3AQ4NIXgAAaj9x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3AQ4NIXgAAaj9x.jpg",
+						"url": "https://t.co/OpIzfKr2e9",
+						"display_url": "pic.twitter.com/OpIzfKr2e9",
+						"expanded_url": "https://twitter.com/mymodernmet/status/1112407671901224960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 749,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 749,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1112407667677556700,
+						"id_str": "1112407667677556742",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D3AQ4UVXcAYaR_c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3AQ4UVXcAYaR_c.jpg",
+						"url": "https://t.co/OpIzfKr2e9",
+						"display_url": "pic.twitter.com/OpIzfKr2e9",
+						"expanded_url": "https://twitter.com/mymodernmet/status/1112407671901224960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1112407670261252100,
+						"id_str": "1112407670261252098",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D3AQ4d9XgAInYmH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3AQ4d9XgAInYmH.jpg",
+						"url": "https://t.co/OpIzfKr2e9",
+						"display_url": "pic.twitter.com/OpIzfKr2e9",
+						"expanded_url": "https://twitter.com/mymodernmet/status/1112407671901224960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16655930,
+				"id_str": "16655930",
+				"name": "My Modern Met",
+				"screen_name": "mymodernmet",
+				"location": "",
+				"description": "My Modern Met is the big city that celebrates creative ideas.",
+				"url": "http://t.co/xkTb7vpVE3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xkTb7vpVE3",
+								"expanded_url": "http://www.mymodernmet.com",
+								"display_url": "mymodernmet.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 295487,
+				"friends_count": 162,
+				"listed_count": 3723,
+				"created_at": "Wed Oct 08 20:42:16 +0000 2008",
+				"favourites_count": 84,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22463,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885061776420859904/gFNVH_u4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885061776420859904/gFNVH_u4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16655930/1402091730",
+				"profile_link_color": "CF232C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "050505",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#netnarr https://t.co/Yc8tuk8zGo"
+	},
+	{
 		"created_at": "Sun Mar 31 04:03:28 +0000 2019",
 		"id": 1112203734371717100,
 		"id_str": "1112203734371717121",

@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 01 22:59:41 +0000 2019",
+		"id": 1112852058972061700,
+		"id_str": "1112852058972061697",
+		"full_text": "144 tombstones in the Google cemetary (\"we're gonna need a bigger graveyard\") \n\nThe wrought iron sign over the entrances reads \"NO EVIL DONE... HAHA\" https://t.co/mDtDfI0Uev",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mDtDfI0Uev",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1112823512601956354",
+					"display_url": "twitter.com/OnlineCrsLady/…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1471,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112823512601956400,
+		"quoted_status_id_str": "1112823512601956354",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mDtDfI0Uev",
+			"expanded": "https://twitter.com/OnlineCrsLady/status/1112823512601956354",
+			"display": "twitter.com/OnlineCrsLady/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 01 21:06:15 +0000 2019",
+			"id": 1112823512601956400,
+			"id_str": "1112823512601956354",
+			"full_text": "alas, it's true: Google really did kill the handy little https://t.co/K8USlEfNFh today\nRIP https://t.co/r0i9QwYlJL\nGoogle URL Shortener\nKilled 3 days ago, Google URL Shortener, also known as https://t.co/K8USlEfNFh, is a URL shortening service. It was over 9 years old. https://t.co/WUMtYFN5Jl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K8USlEfNFh",
+						"expanded_url": "http://goo.gl",
+						"display_url": "goo.gl",
+						"indices": [
+							57,
+							80
+						]
+					},
+					{
+						"url": "https://t.co/r0i9QwYlJL",
+						"expanded_url": "https://killedbygoogle.com/",
+						"display_url": "killedbygoogle.com",
+						"indices": [
+							91,
+							114
+						]
+					},
+					{
+						"url": "https://t.co/K8USlEfNFh",
+						"expanded_url": "http://goo.gl",
+						"display_url": "goo.gl",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1112823301750095900,
+						"id_str": "1112823301750095872",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/D3GK5Z6XgAAJ7oF.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3GK5Z6XgAAJ7oF.png",
+						"url": "https://t.co/WUMtYFN5Jl",
+						"display_url": "pic.twitter.com/WUMtYFN5Jl",
+						"expanded_url": "https://twitter.com/OnlineCrsLady/status/1112823512601956354/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 88,
+								"h": 88,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 160,
+								"h": 88,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 160,
+								"h": 88,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 160,
+								"h": 88,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1112823301750095900,
+						"id_str": "1112823301750095872",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/D3GK5Z6XgAAJ7oF.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3GK5Z6XgAAJ7oF.png",
+						"url": "https://t.co/WUMtYFN5Jl",
+						"display_url": "pic.twitter.com/WUMtYFN5Jl",
+						"expanded_url": "https://twitter.com/OnlineCrsLady/status/1112823512601956354/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 88,
+								"h": 88,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 160,
+								"h": 88,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 160,
+								"h": 88,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 160,
+								"h": 88,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7044082,
+				"id_str": "7044082",
+				"name": "Laura Gibbs",
+				"screen_name": "OnlineCrsLady",
+				"location": "the Interwebz",
+				"description": "Teaching online at the University of Oklahoma since 2002! #TTOG #RSSForever #TotalCoLearner #GrowthMindset #Domains19",
+				"url": "http://t.co/HAXevMhfOE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HAXevMhfOE",
+								"expanded_url": "http://mythfolklore.net",
+								"display_url": "mythfolklore.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2921,
+				"friends_count": 1542,
+				"listed_count": 365,
+				"created_at": "Sun Jun 24 04:17:20 +0000 2007",
+				"favourites_count": 45498,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59497,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "112E18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7044082/1528746359",
+				"profile_link_color": "196912",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "144 tombstones in the Google cemetary (\"we're gonna need a bigger graveyard\") \n\nThe wrought iron sign over the entrances reads \"NO EVIL DONE... HAHA\" https://t.co/mDtDfI0Uev"
+	},
+	{
 		"created_at": "Mon Apr 01 21:22:49 +0000 2019",
 		"id": 1112827684093091800,
 		"id_str": "1112827684093091842",

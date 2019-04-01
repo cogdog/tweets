@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 01 20:08:10 +0000 2019",
+		"id": 1112808894668132400,
+		"id_str": "1112808894668132352",
+		"full_text": "It was definitely on a Tuesday. One of the dinosaurs was wearing an iWatch, perfectly preserved in fossil record ;-) https://t.co/NteZOq9iqb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NteZOq9iqb",
+					"expanded_url": "https://twitter.com/kottke/status/1112797031314198532",
+					"display_url": "twitter.com/kottke/status/…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1471,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112797031314198500,
+		"quoted_status_id_str": "1112797031314198532",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NteZOq9iqb",
+			"expanded": "https://twitter.com/kottke/status/1112797031314198532",
+			"display": "twitter.com/kottke/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 01 19:21:01 +0000 2019",
+			"id": 1112797031314198500,
+			"id_str": "1112797031314198532",
+			"full_text": "A paleontologist says he's made \"an incredible and unprecedented discovery\" of a site that preserves a huge cache of fossils from the *exact day* the massive dino-killing asteroid hit the Earth 65 million years ago https://t.co/t67tmax8Tf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t67tmax8Tf",
+						"expanded_url": "https://kottke.org/19/04/the-day-the-dinosaurs-died",
+						"display_url": "kottke.org/19/04/the-day-…",
+						"indices": [
+							215,
+							238
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://kottke.org\" rel=\"nofollow\">kottke tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14120215,
+				"id_str": "14120215",
+				"name": "kottke.org",
+				"screen_name": "kottke",
+				"location": "New York, NY",
+				"description": "Something interesting every day from one of the oldest & best independent sites on the Web. Est. 1998.",
+				"url": "http://t.co/M4uA95p20W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M4uA95p20W",
+								"expanded_url": "http://www.kottke.org",
+								"display_url": "kottke.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49658,
+				"friends_count": 124,
+				"listed_count": 2583,
+				"created_at": "Tue Mar 11 04:09:10 +0000 2008",
+				"favourites_count": 728,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17526,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775300604646359040/6mkGOPp0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775300604646359040/6mkGOPp0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14120215/1527515276",
+				"profile_link_color": "CC5C19",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was definitely on a Tuesday. One of the dinosaurs was wearing an iWatch, perfectly preserved in fossil record ;-) https://t.co/NteZOq9iqb"
+	},
+	{
 		"created_at": "Mon Apr 01 15:43:39 +0000 2019",
 		"id": 1112742327964045300,
 		"id_str": "1112742327964045312",

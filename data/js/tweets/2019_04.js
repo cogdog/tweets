@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 16:10:51 +0000 2019",
+		"id": 1113111563077107700,
+		"id_str": "1113111563077107712",
+		"full_text": "Help out a Bergen student research project, this was a 2018 #netnarr participant. https://t.co/3rMJpd0qp8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3rMJpd0qp8",
+					"expanded_url": "https://twitter.com/SgDenny2/status/1113045225935724544",
+					"display_url": "twitter.com/SgDenny2/statu…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10440,
+			"friends_count": 1471,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113045225935724500,
+		"quoted_status_id_str": "1113045225935724544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3rMJpd0qp8",
+			"expanded": "https://twitter.com/SgDenny2/status/1113045225935724544",
+			"display": "twitter.com/SgDenny2/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 02 11:47:15 +0000 2019",
+			"id": 1113045225935724500,
+			"id_str": "1113045225935724544",
+			"full_text": "I'm a student @UiB and need people to answer a survey about your experiences of Amazon’s online store. Appreciate everyone that answer this! #netnarr\nhttps://t.co/GOGDmOsb8G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "netnarr",
+						"indices": [
+							141,
+							149
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UiB",
+						"name": "Universitetet i Bergen",
+						"id": 17867748,
+						"id_str": "17867748",
+						"indices": [
+							14,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GOGDmOsb8G",
+						"expanded_url": "https://forms.gle/ckGHPygaUywo8HuWA",
+						"display_url": "forms.gle/ckGHPygaUywo8H…",
+						"indices": [
+							150,
+							173
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 573563343,
+				"id_str": "573563343",
+				"name": "Denny",
+				"screen_name": "SgDenny2",
+				"location": "",
+				"description": "Student bloger",
+				"url": "https://t.co/qslYLgSlYq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qslYLgSlYq",
+								"expanded_url": "https://dennynetnarr.wordpress.com/",
+								"display_url": "dennynetnarr.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25,
+				"friends_count": 103,
+				"listed_count": 0,
+				"created_at": "Mon May 07 09:45:17 +0000 2012",
+				"favourites_count": 367,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 90,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925041280970829825/yCKwqjQr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925041280970829825/yCKwqjQr_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Help out a Bergen student research project, this was a 2018 #netnarr participant. https://t.co/3rMJpd0qp8"
+	},
+	{
 		"created_at": "Tue Apr 02 15:07:02 +0000 2019",
 		"id": 1113095502692868100,
 		"id_str": "1113095502692868096",

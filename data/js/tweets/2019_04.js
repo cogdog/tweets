@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 20:11:20 +0000 2019",
+		"id": 1113534467254169600,
+		"id_str": "1113534467254169601",
+		"full_text": "This is very cool, a way to see annotations within a domain, or part thereof:\n\nAll #netnarr web site annotations\nhttps://t.co/tkpYdFR7sk*\n\nOr just ones on Studio Visit pages\nhttps://t.co/pTpFTc4n6H* https://t.co/7bTQZuLkJ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tkpYdFR7sk",
+					"expanded_url": "https://hypothes.is/search?q=url:http://netnarr.arganee.world/",
+					"display_url": "hypothes.is/search?q=url:h…",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/pTpFTc4n6H",
+					"expanded_url": "https://hypothes.is/search?q=url:http://netnarr.arganee.world/studio-visits/",
+					"display_url": "hypothes.is/search?q=url:h…",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/7bTQZuLkJ7",
+					"expanded_url": "https://twitter.com/schnarfed/status/1113529013027233792",
+					"display_url": "twitter.com/schnarfed/stat…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10440,
+			"friends_count": 1471,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88182,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113529013027233800,
+		"quoted_status_id_str": "1113529013027233792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7bTQZuLkJ7",
+			"expanded": "https://twitter.com/schnarfed/status/1113529013027233792",
+			"display": "twitter.com/schnarfed/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 03 19:49:39 +0000 2019",
+			"id": 1113529013027233800,
+			"id_str": "1113529013027233792",
+			"full_text": "@jgmac1106 @joefromkenyon sounds like you all might be interested in https://t.co/dAukAwlVkP (cc @ken_bauer)",
+			"truncated": false,
+			"display_text_range": [
+				26,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jgmac1106",
+						"name": "https://jgregorymcverry.com",
+						"id": 27620289,
+						"id_str": "27620289",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "joefromkenyon",
+						"name": "Joe Murphy",
+						"id": 14466272,
+						"id_str": "14466272",
+						"indices": [
+							11,
+							25
+						]
+					},
+					{
+						"screen_name": "ken_bauer",
+						"name": "Ken Bauer Favel",
+						"id": 16033586,
+						"id_str": "16033586",
+						"indices": [
+							97,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dAukAwlVkP",
+						"expanded_url": "https://web.hypothes.is/blog/using-the-new-wildcard-url-search-api-to-monitor-sitewide-annotation-activity/",
+						"display_url": "web.hypothes.is/blog/using-the…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1113514223315845100,
+			"in_reply_to_status_id_str": "1113514223315845120",
+			"in_reply_to_user_id": 27620289,
+			"in_reply_to_user_id_str": "27620289",
+			"in_reply_to_screen_name": "jgmac1106",
+			"user": {
+				"id": 139199211,
+				"id_str": "139199211",
+				"name": "Ryan Barrett",
+				"screen_name": "schnarfed",
+				"location": "San Francisco",
+				"description": "",
+				"url": "https://t.co/0mWCezn0cB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mWCezn0cB",
+								"expanded_url": "https://snarfed.org/",
+								"display_url": "snarfed.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 631,
+				"friends_count": 303,
+				"listed_count": 42,
+				"created_at": "Sat May 01 21:42:43 +0000 2010",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2528,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031786031832420352/w2Eyoxbi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031786031832420352/w2Eyoxbi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139199211/1398278985",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is very cool, a way to see annotations within a domain, or part thereof:\n\nAll #netnarr web site annotations\nhttps://t.co/tkpYdFR7sk*\n\nOr just ones on Studio Visit pages\nhttps://t.co/pTpFTc4n6H* https://t.co/7bTQZuLkJ7"
+	},
+	{
 		"created_at": "Wed Apr 03 16:23:19 +0000 2019",
 		"id": 1113477088663822300,
 		"id_str": "1113477088663822347",

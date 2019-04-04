@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 19:24:52 +0000 2019",
+		"id": 1113885162725625900,
+		"id_str": "1113885162725625856",
+		"full_text": "I voted too for \"Ok Google\" a rather insightful and artistic look at a child's relationship with tech. \n\nSuggest watching for #netnarr and maybe consider voting too (it's in 2nd place and closing on 1st!) https://t.co/tS3bQrbP0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tS3bQrbP0h",
+					"expanded_url": "https://twitter.com/remixmanifesto/status/1113881007504089088",
+					"display_url": "twitter.com/remixmanifesto…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1471,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88187,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113881007504089100,
+		"quoted_status_id_str": "1113881007504089088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tS3bQrbP0h",
+			"expanded": "https://twitter.com/remixmanifesto/status/1113881007504089088",
+			"display": "twitter.com/remixmanifesto…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 04 19:08:21 +0000 2019",
+			"id": 1113881007504089100,
+			"id_str": "1113881007504089088",
+			"full_text": "So uhm @google my son Rowan and I made a movie about/using/talking to you and its nominated for @TheWebbyAwards . #heygoogle. you can watch it here https://t.co/p8xYkGwZyN https://t.co/K2CpnEcLBQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "heygoogle",
+						"indices": [
+							114,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Google",
+						"name": "Google",
+						"id": 20536157,
+						"id_str": "20536157",
+						"indices": [
+							7,
+							14
+						]
+					},
+					{
+						"screen_name": "TheWebbyAwards",
+						"name": "The Webby Awards",
+						"id": 15866188,
+						"id_str": "15866188",
+						"indices": [
+							96,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/p8xYkGwZyN",
+						"expanded_url": "https://vote.webbyawards.com/PublicVoting#/2019/video/general-video/technology",
+						"display_url": "vote.webbyawards.com/PublicVoting#/…",
+						"indices": [
+							148,
+							171
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1113881000302374900,
+						"id_str": "1113881000302374912",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/D3VM3kEUcAApr-R.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3VM3kEUcAApr-R.png",
+						"url": "https://t.co/K2CpnEcLBQ",
+						"display_url": "pic.twitter.com/K2CpnEcLBQ",
+						"expanded_url": "https://twitter.com/remixmanifesto/status/1113881007504089088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113881000302374900,
+						"id_str": "1113881000302374912",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/D3VM3kEUcAApr-R.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3VM3kEUcAApr-R.png",
+						"url": "https://t.co/K2CpnEcLBQ",
+						"display_url": "pic.twitter.com/K2CpnEcLBQ",
+						"expanded_url": "https://twitter.com/remixmanifesto/status/1113881007504089088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17851599,
+				"id_str": "17851599",
+				"name": "Brett Gaylor",
+				"screen_name": "remixmanifesto",
+				"location": "Victoria, BC",
+				"description": "Commissioning media @mozilla. Making documentaries about the Internet: @donottrackdoc and Rip! A Remix Manifesto. Board @OpenMediaOrg + @fernwoodNRG.",
+				"url": "https://t.co/DH73OGjmAW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DH73OGjmAW",
+								"expanded_url": "http://www.brettgaylor.com",
+								"display_url": "brettgaylor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5439,
+				"friends_count": 1014,
+				"listed_count": 472,
+				"created_at": "Wed Dec 03 22:36:45 +0000 2008",
+				"favourites_count": 1622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14598,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0A0A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17851599/1553551637",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I voted too for \"Ok Google\" a rather insightful and artistic look at a child's relationship with tech. \n\nSuggest watching for #netnarr and maybe consider voting too (it's in 2nd place and closing on 1st!) https://t.co/tS3bQrbP0h"
+	},
+	{
 		"created_at": "Thu Apr 04 15:31:09 +0000 2019",
 		"id": 1113826345702887400,
 		"id_str": "1113826345702887427",

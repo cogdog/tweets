@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 20:30:26 +0000 2019",
+		"id": 1114626437280141300,
+		"id_str": "1114626437280141312",
+		"full_text": "It's well worth the support to get a hand made wood pen from @hrheingold I was gifted one in 2014 and it's a favorite writing tool https://t.co/R97k5bjh0z https://t.co/5zfdl2gg0W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hrheingold",
+					"name": "(((Howard Rheingold)))",
+					"id": 5388852,
+					"id_str": "5388852",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R97k5bjh0z",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/14771834724/",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/5zfdl2gg0W",
+					"expanded_url": "https://twitter.com/hrheingold/status/1114617028906631168",
+					"display_url": "twitter.com/hrheingold/sta…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10440,
+			"friends_count": 1470,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88198,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114617028906631200,
+		"quoted_status_id_str": "1114617028906631168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5zfdl2gg0W",
+			"expanded": "https://twitter.com/hrheingold/status/1114617028906631168",
+			"display": "twitter.com/hrheingold/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 19:53:02 +0000 2019",
+			"id": 1114617028906631200,
+			"id_str": "1114617028906631168",
+			"full_text": "I added a patron benefit to the Howard's Community tier of my Patreon: a hand-turned wooden pen. https://t.co/lvPMkglRDE https://t.co/5amGlpbIDp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lvPMkglRDE",
+						"expanded_url": "http://patreon.com/howardrheingold",
+						"display_url": "patreon.com/howardrheingold",
+						"indices": [
+							97,
+							120
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1114617016353087500,
+						"id_str": "1114617016353087488",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D3fqRVhU4AAD72D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3fqRVhU4AAD72D.jpg",
+						"url": "https://t.co/5amGlpbIDp",
+						"display_url": "pic.twitter.com/5amGlpbIDp",
+						"expanded_url": "https://twitter.com/hrheingold/status/1114617028906631168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 852,
+								"h": 383,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 852,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114617016353087500,
+						"id_str": "1114617016353087488",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D3fqRVhU4AAD72D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3fqRVhU4AAD72D.jpg",
+						"url": "https://t.co/5amGlpbIDp",
+						"display_url": "pic.twitter.com/5amGlpbIDp",
+						"expanded_url": "https://twitter.com/hrheingold/status/1114617028906631168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 852,
+								"h": 383,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 852,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5388852,
+				"id_str": "5388852",
+				"name": "(((Howard Rheingold)))",
+				"screen_name": "hrheingold",
+				"location": "San Francisco Bay Area",
+				"description": "Independent thinker, online instigator, novice educator, expert learner, offline gardener.",
+				"url": "https://t.co/5NBAg0WK4P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5NBAg0WK4P",
+								"expanded_url": "http://www.rheingold.com",
+								"display_url": "rheingold.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40263,
+				"friends_count": 1495,
+				"listed_count": 4108,
+				"created_at": "Sun Apr 22 00:43:08 +0000 2007",
+				"favourites_count": 2492,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 35125,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907709511430955008/GziSVyzJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907709511430955008/GziSVyzJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5388852/1448857751",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's well worth the support to get a hand made wood pen from @hrheingold I was gifted one in 2014 and it's a favorite writing tool https://t.co/R97k5bjh0z https://t.co/5zfdl2gg0W"
+	},
+	{
 		"created_at": "Sat Apr 06 19:32:57 +0000 2019",
 		"id": 1114611974854332400,
 		"id_str": "1114611974854332416",

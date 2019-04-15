@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 21:27:37 +0000 2019",
+		"id": 1117902320535134200,
+		"id_str": "1117902320535134208",
+		"full_text": "@fab_euphie @masoochwrites @netnarr Me too. #netnarr https://t.co/TMM9P30idL",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fab_euphie",
+					"name": "Euphemia Fabulae",
+					"id": 849752862204850200,
+					"id_str": "849752862204850176",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "masoochwrites",
+					"name": "Masooch 📖",
+					"id": 821916987119071200,
+					"id_str": "821916987119071234",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "netnarr",
+					"name": "Networked Narratives",
+					"id": 801306049663893500,
+					"id_str": "801306049663893504",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117902243406188500,
+					"id_str": "1117902243406188544",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4OWKt_WkAA8TzH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4OWKt_WkAA8TzH.jpg",
+					"url": "https://t.co/TMM9P30idL",
+					"display_url": "pic.twitter.com/TMM9P30idL",
+					"expanded_url": "https://twitter.com/cogdog/status/1117902320535134208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117902243406188500,
+					"id_str": "1117902243406188544",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4OWKt_WkAA8TzH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4OWKt_WkAA8TzH.jpg",
+					"url": "https://t.co/TMM9P30idL",
+					"display_url": "pic.twitter.com/TMM9P30idL",
+					"expanded_url": "https://twitter.com/cogdog/status/1117902320535134208/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 478,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							239
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4OWKt_WkAA8TzH.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1117900492355461100,
+		"in_reply_to_status_id_str": "1117900492355461120",
+		"in_reply_to_user_id": 849752862204850200,
+		"in_reply_to_user_id_str": "849752862204850176",
+		"in_reply_to_screen_name": "fab_euphie",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1472,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@fab_euphie @masoochwrites @netnarr Me too. #netnarr https://t.co/TMM9P30idL"
+	},
+	{
+		"created_at": "Mon Apr 15 21:25:47 +0000 2019",
+		"id": 1117901859987939300,
+		"id_str": "1117901859987939328",
+		"full_text": "@davecormier @joefromkenyon @educause Sure you can. Click the category on left, under 3 dot menu on right click \"Manage Sources\", click general tab https://t.co/MdBOnEkijo",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "joefromkenyon",
+					"name": "Joe Murphy",
+					"id": 14466272,
+					"id_str": "14466272",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "educause",
+					"name": "EDUCAUSE",
+					"id": 15237481,
+					"id_str": "15237481",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117901818451976200,
+					"id_str": "1117901818451976192",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4OVx-6X4AAYKFE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4OVx-6X4AAYKFE.jpg",
+					"url": "https://t.co/MdBOnEkijo",
+					"display_url": "pic.twitter.com/MdBOnEkijo",
+					"expanded_url": "https://twitter.com/cogdog/status/1117901859987939328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117901818451976200,
+					"id_str": "1117901818451976192",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4OVx-6X4AAYKFE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4OVx-6X4AAYKFE.jpg",
+					"url": "https://t.co/MdBOnEkijo",
+					"display_url": "pic.twitter.com/MdBOnEkijo",
+					"expanded_url": "https://twitter.com/cogdog/status/1117901859987939328/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							63
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4OVx-6X4AAYKFE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1117900446511669200,
+		"in_reply_to_status_id_str": "1117900446511669248",
+		"in_reply_to_user_id": 789991,
+		"in_reply_to_user_id_str": "789991",
+		"in_reply_to_screen_name": "davecormier",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1472,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davecormier @joefromkenyon @educause Sure you can. Click the category on left, under 3 dot menu on right click \"Manage Sources\", click general tab https://t.co/MdBOnEkijo"
+	},
+	{
 		"created_at": "Mon Apr 15 21:10:06 +0000 2019",
 		"id": 1117897911818305500,
 		"id_str": "1117897911818305536",

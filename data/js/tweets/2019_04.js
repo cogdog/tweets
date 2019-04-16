@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 14:57:56 +0000 2019",
+		"id": 1118166639458029600,
+		"id_str": "1118166639458029569",
+		"full_text": "Vote for Brett and Son! #netnarr https://t.co/gNdwNxWno8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gNdwNxWno8",
+					"expanded_url": "https://twitter.com/remixmanifesto/status/1118162210369392640",
+					"display_url": "twitter.com/remixmanifesto…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1472,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88301,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118162210369392600,
+		"quoted_status_id_str": "1118162210369392640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gNdwNxWno8",
+			"expanded": "https://twitter.com/remixmanifesto/status/1118162210369392640",
+			"display": "twitter.com/remixmanifesto…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 14:40:20 +0000 2019",
+			"id": 1118162210369392600,
+			"id_str": "1118162210369392640",
+			"full_text": "With two more days in the Webby people's vote, our weird father son AI movie is in first place! Two projects from big companies are hot on our tail - vote to put OK Google over the top! https://t.co/p8xYkGwZyN https://t.co/7JvYhpPN5h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p8xYkGwZyN",
+						"expanded_url": "https://vote.webbyawards.com/PublicVoting#/2019/video/general-video/technology",
+						"display_url": "vote.webbyawards.com/PublicVoting#/…",
+						"indices": [
+							186,
+							209
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118162205659111400,
+						"id_str": "1118162205659111425",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/D4SCmg2UIAE-M1Z.png",
+						"media_url_https": "https://pbs.twimg.com/media/D4SCmg2UIAE-M1Z.png",
+						"url": "https://t.co/7JvYhpPN5h",
+						"display_url": "pic.twitter.com/7JvYhpPN5h",
+						"expanded_url": "https://twitter.com/remixmanifesto/status/1118162210369392640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118162205659111400,
+						"id_str": "1118162205659111425",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/D4SCmg2UIAE-M1Z.png",
+						"media_url_https": "https://pbs.twimg.com/media/D4SCmg2UIAE-M1Z.png",
+						"url": "https://t.co/7JvYhpPN5h",
+						"display_url": "pic.twitter.com/7JvYhpPN5h",
+						"expanded_url": "https://twitter.com/remixmanifesto/status/1118162210369392640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 714,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17851599,
+				"id_str": "17851599",
+				"name": "Brett Gaylor",
+				"screen_name": "remixmanifesto",
+				"location": "Victoria, BC",
+				"description": "Commissioning media @mozilla. Making documentaries about the Internet: @donottrackdoc and Rip! A Remix Manifesto. Board @OpenMediaOrg + @fernwoodNRG.",
+				"url": "https://t.co/DH73OGjmAW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DH73OGjmAW",
+								"expanded_url": "http://www.brettgaylor.com",
+								"display_url": "brettgaylor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5438,
+				"friends_count": 1018,
+				"listed_count": 472,
+				"created_at": "Wed Dec 03 22:36:45 +0000 2008",
+				"favourites_count": 1633,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14612,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0A0A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17851599/1553551637",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Vote for Brett and Son! #netnarr https://t.co/gNdwNxWno8"
+	},
+	{
 		"created_at": "Tue Apr 16 03:12:33 +0000 2019",
 		"id": 1117989127570493400,
 		"id_str": "1117989127570493440",

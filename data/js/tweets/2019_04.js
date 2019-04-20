@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 02:50:22 +0000 2019",
+		"id": 1119433095479013400,
+		"id_str": "1119433095479013376",
+		"full_text": "A highlight of blog stats is seeing that \"horshack ooh ooh gif\" is a search term leading to my blog. Yup. Am on the front page of The Google. https://t.co/ellXyThkOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119433029179646000,
+					"id_str": "1119433029179645952",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D4kGaLYXoAADxM8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4kGaLYXoAADxM8.jpg",
+					"url": "https://t.co/ellXyThkOw",
+					"display_url": "pic.twitter.com/ellXyThkOw",
+					"expanded_url": "https://twitter.com/cogdog/status/1119433095479013376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1054,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119433029179646000,
+					"id_str": "1119433029179645952",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D4kGaLYXoAADxM8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4kGaLYXoAADxM8.jpg",
+					"url": "https://t.co/ellXyThkOw",
+					"display_url": "pic.twitter.com/ellXyThkOw",
+					"expanded_url": "https://twitter.com/cogdog/status/1119433095479013376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1054,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119433086071181300,
+					"id_str": "1119433086071181312",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D4kGdfUXkAA5PC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4kGdfUXkAA5PC7.jpg",
+					"url": "https://t.co/ellXyThkOw",
+					"display_url": "pic.twitter.com/ellXyThkOw",
+					"expanded_url": "https://twitter.com/cogdog/status/1119433095479013376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 366,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1115,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1474,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88362,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A highlight of blog stats is seeing that \"horshack ooh ooh gif\" is a search term leading to my blog. Yup. Am on the front page of The Google. https://t.co/ellXyThkOw"
+	},
+	{
 		"created_at": "Fri Apr 19 22:13:26 +0000 2019",
 		"id": 1119363403087319000,
 		"id_str": "1119363403087319041",

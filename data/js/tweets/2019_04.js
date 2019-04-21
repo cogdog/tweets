@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 18:58:10 +0000 2019",
+		"id": 1120039037451083800,
+		"id_str": "1120039037451083787",
+		"full_text": "question maybe for #netnarr researchers? https://t.co/9aDYLJGTfO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9aDYLJGTfO",
+					"expanded_url": "https://twitter.com/mia_out/status/1120027230141390849",
+					"display_url": "twitter.com/mia_out/status…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10451,
+			"friends_count": 1474,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120027230141390800,
+		"quoted_status_id_str": "1120027230141390849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9aDYLJGTfO",
+			"expanded": "https://twitter.com/mia_out/status/1120027230141390849",
+			"display": "twitter.com/mia_out/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 21 18:11:15 +0000 2019",
+			"id": 1120027230141390800,
+			"id_str": "1120027230141390849",
+			"full_text": "On facial recognition: 'We test and control drugs, so why do we freely allow the spread of potentially harmful products by unregulated entrepreneurs?' https://t.co/LTghIYMdxU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LTghIYMdxU",
+						"expanded_url": "https://www.theguardian.com/commentisfree/2019/apr/21/facial-recognition-big-techs-toxic-gateway-app-smartphone-facebook-unregulated",
+						"display_url": "theguardian.com/commentisfree/…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20431901,
+				"id_str": "20431901",
+				"name": "Dr Mia Ridge",
+				"screen_name": "mia_out",
+				"location": "London, mostly",
+				"description": "Digital Curator @BritishLibrary @BL_DigiSchol. Collections as data, UX, crowdsourcing in cultural heritage, libraries, museums. Digital History PhD. She, they.",
+				"url": "https://t.co/J7DSovI3v5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J7DSovI3v5",
+								"expanded_url": "http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279",
+								"display_url": "worldcat.org/title/crowdsou…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8227,
+				"friends_count": 458,
+				"listed_count": 724,
+				"created_at": "Mon Feb 09 12:32:56 +0000 2009",
+				"favourites_count": 6715,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43002,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20431901/1475055023",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "question maybe for #netnarr researchers? https://t.co/9aDYLJGTfO"
+	},
+	{
 		"created_at": "Sun Apr 21 17:00:49 +0000 2019",
 		"id": 1120009506329649200,
 		"id_str": "1120009506329649152",

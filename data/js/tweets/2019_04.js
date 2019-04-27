@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 02:46:48 +0000 2019",
+		"id": 1121895991567843300,
+		"id_str": "1121968911438753792",
+		"full_text": "Jimi Hendrix opened for the Monkees on their 1967 Tour. The idea was to make the Monkees cool. It didn't work. The crowds came for \"I'm a Believer,\" not \"Purple Haze,\" Peter Tork later explained. \"There's poor Jimi, and the kids go, 'We want The Monkees, we want The Monkees.'\" https://t.co/32q7Q091KQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121895988141142000,
+					"id_str": "1121895988141142016",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D5HGdQgWsAA0E7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5HGdQgWsAA0E7M.jpg",
+					"url": "https://t.co/32q7Q091KQ",
+					"display_url": "pic.twitter.com/32q7Q091KQ",
+					"expanded_url": "https://twitter.com/Doranimated/status/1121895991567843328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121895988141142000,
+					"id_str": "1121895988141142016",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D5HGdQgWsAA0E7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5HGdQgWsAA0E7M.jpg",
+					"url": "https://t.co/32q7Q091KQ",
+					"display_url": "pic.twitter.com/32q7Q091KQ",
+					"expanded_url": "https://twitter.com/Doranimated/status/1121895991567843328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 274699227,
+			"id_str": "274699227",
+			"name": "Mike",
+			"screen_name": "Doranimated",
+			"location": "Washington, DC",
+			"description": "Sits in a tank and thinks.",
+			"url": "https://t.co/F2GY9jMqFb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F2GY9jMqFb",
+							"expanded_url": "http://www.hudson.org/experts/1035-michael-doran",
+							"display_url": "hudson.org/experts/1035-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42323,
+			"friends_count": 4483,
+			"listed_count": 969,
+			"created_at": "Wed Mar 30 21:41:33 +0000 2011",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000443320732/03bd807a05fe699a8815731e4f8642d7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000443320732/03bd807a05fe699a8815731e4f8642d7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/274699227/1543605766",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jimi Hendrix opened for the Monkees on their 1967 Tour. The idea was to make the Monkees cool. It didn't work. The crowds came for \"I'm a Believer,\" not \"Purple Haze,\" Peter Tork later explained. \"There's poor Jimi, and the kids go, 'We want The Monkees, we want The Monkees.'\" https://t.co/32q7Q091KQ"
+	},
+	{
 		"created_at": "Fri Apr 26 15:36:36 +0000 2019",
 		"id": 1121800250807730200,
 		"id_str": "1121800250807730181",

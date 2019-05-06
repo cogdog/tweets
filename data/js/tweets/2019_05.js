@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 19:10:42 +0000 2019",
+		"id": 1125467276239671300,
+		"id_str": "1125478008217833472",
+		"full_text": "Over 50 years ago, a student borrowed Alice in Wonderland from our library and never returned it—until today. https://t.co/OxLl2zmAJo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125467273848852500,
+					"id_str": "1125467273848852481",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D552hcgWkAEKXlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D552hcgWkAEKXlQ.jpg",
+					"url": "https://t.co/OxLl2zmAJo",
+					"display_url": "pic.twitter.com/OxLl2zmAJo",
+					"expanded_url": "https://twitter.com/dancohen/status/1125467276239671298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125467273848852500,
+					"id_str": "1125467273848852481",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D552hcgWkAEKXlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D552hcgWkAEKXlQ.jpg",
+					"url": "https://t.co/OxLl2zmAJo",
+					"display_url": "pic.twitter.com/OxLl2zmAJo",
+					"expanded_url": "https://twitter.com/dancohen/status/1125467276239671298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14181097,
+			"id_str": "14181097",
+			"name": "Dan Cohen",
+			"screen_name": "dancohen",
+			"location": "Boston",
+			"description": "Vice Provost for Information Collaboration, Dean of the Libraries, and Professor of History @Northeastern | Host of @podcastwhatsnew | Views are my own",
+			"url": "https://t.co/PsV4Uu393w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PsV4Uu393w",
+							"expanded_url": "http://dancohen.org",
+							"display_url": "dancohen.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18583,
+			"friends_count": 1225,
+			"listed_count": 1395,
+			"created_at": "Thu Mar 20 00:37:35 +0000 2008",
+			"favourites_count": 7618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932683140212101125/4yAVrlzt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932683140212101125/4yAVrlzt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14181097/1349744877",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 68,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Over 50 years ago, a student borrowed Alice in Wonderland from our library and never returned it—until today. https://t.co/OxLl2zmAJo"
+	},
+	{
 		"created_at": "Mon May 06 15:37:35 +0000 2019",
 		"id": 1125424375753248800,
 		"id_str": "1125424375753248769",

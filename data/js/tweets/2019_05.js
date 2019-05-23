@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 14:19:01 +0000 2019",
+		"id": 1131565198194761700,
+		"id_str": "1131565198194761728",
+		"full_text": "@Bali_Maha @clhendricksbc @lesliekwchan @xolotl @VConnecting @sikob @AdeleVrana A new favorite for @VConnecting photos, now in rotation of random header images https://t.co/CNyjCvoECu https://t.co/axg9JbLl7C",
+		"truncated": false,
+		"display_text_range": [
+			80,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "clhendricksbc",
+					"name": "Christina Hendricks",
+					"id": 260919324,
+					"id_str": "260919324",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "lesliekwchan",
+					"name": "Leslie Chan",
+					"id": 154251965,
+					"id_str": "154251965",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "xolotl",
+					"name": "Nate Angell",
+					"id": 3775651,
+					"id_str": "3775651",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "sikob",
+					"name": "Siko Bouterse",
+					"id": 38101189,
+					"id_str": "38101189",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"screen_name": "AdeleVrana",
+					"name": "Adele Vrana - She/Her",
+					"id": 290725575,
+					"id_str": "290725575",
+					"indices": [
+						68,
+						79
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CNyjCvoECu",
+					"expanded_url": "http://virtuallyconnecting.org",
+					"display_url": "virtuallyconnecting.org",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1131565080242511900,
+					"id_str": "1131565080242511872",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QgcfgXYAAWZh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QgcfgXYAAWZh2.jpg",
+					"url": "https://t.co/axg9JbLl7C",
+					"display_url": "pic.twitter.com/axg9JbLl7C",
+					"expanded_url": "https://twitter.com/cogdog/status/1131565198194761728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131565080242511900,
+					"id_str": "1131565080242511872",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QgcfgXYAAWZh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QgcfgXYAAWZh2.jpg",
+					"url": "https://t.co/axg9JbLl7C",
+					"display_url": "pic.twitter.com/axg9JbLl7C",
+					"expanded_url": "https://twitter.com/cogdog/status/1131565198194761728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1129921462863880200,
+		"in_reply_to_status_id_str": "1129921462863880192",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10471,
+			"friends_count": 1476,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bali_Maha @clhendricksbc @lesliekwchan @xolotl @VConnecting @sikob @AdeleVrana A new favorite for @VConnecting photos, now in rotation of random header images https://t.co/CNyjCvoECu https://t.co/axg9JbLl7C"
+	},
+	{
 		"created_at": "Thu May 23 14:01:50 +0000 2019",
 		"id": 1131560873632383000,
 		"id_str": "1131560873632382977",

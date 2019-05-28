@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 16:56:47 +0000 2019",
+		"id": 1133386503206461400,
+		"id_str": "1133416842100379648",
+		"full_text": "Hey there #LCCSLC,\n\nHere are the slides for the upcoming talk on @ontarioextend with @cogdog and me coming to you from Mortlach, SK and the Magic Kingdom in about 5 minutes!\n\nhttps://t.co/VRo86l0Xsh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LCCSLC",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VRo86l0Xsh",
+					"expanded_url": "https://docs.google.com/presentation/d/1MglrT9_iy71A3NNksVUU7KmYPl50bahhvgX8dk2Cuaw/edit?usp=sharing",
+					"display_url": "docs.google.com/presentation/d…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 212019344,
+			"id_str": "212019344",
+			"name": "Terry Greene",
+			"screen_name": "greeneterry",
+			"location": "Nogojiwanong/Peterborough",
+			"description": "Program Manager @eCampusOntario learning+technology+openness+humans=something good? \nHost of the Gettin' Air Podcast on Open Pedagogy on @voicedcanada",
+			"url": "https://t.co/AyYMrUPm7p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AyYMrUPm7p",
+							"expanded_url": "https://learningnuggets.ca",
+							"display_url": "learningnuggets.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1495,
+			"friends_count": 1315,
+			"listed_count": 68,
+			"created_at": "Thu Nov 04 22:34:28 +0000 2010",
+			"favourites_count": 16901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119195776595501056/TxdSxJJJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119195776595501056/TxdSxJJJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/212019344/1496450834",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey there #LCCSLC,\n\nHere are the slides for the upcoming talk on @ontarioextend with @cogdog and me coming to you from Mortlach, SK and the Magic Kingdom in about 5 minutes!\n\nhttps://t.co/VRo86l0Xsh"
+	},
+	{
 		"created_at": "Tue May 28 15:58:51 +0000 2019",
 		"id": 1133402260833284100,
 		"id_str": "1133402260833284096",

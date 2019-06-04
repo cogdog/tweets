@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 20:18:37 +0000 2019",
+		"id": 1136004348713021400,
+		"id_str": "1136004348713021444",
+		"full_text": "@ontarioextend #oext355 For the June Daily Extend Challenge, just bringing a Be More Dog attitude.. or a  Be More Dog Flying on a Cartoon Sandwich...  \n\nThis means giphy packed and loaded. https://t.co/eHZJHi9r6c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oext355",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136004151794643000,
+					"id_str": "1136004151794642946",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8PlwdsWsAIlQ_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8PlwdsWsAIlQ_P.jpg",
+					"url": "https://t.co/eHZJHi9r6c",
+					"display_url": "pic.twitter.com/eHZJHi9r6c",
+					"expanded_url": "https://twitter.com/cogdog/status/1136004348713021444/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 478,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 478,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136004151794643000,
+					"id_str": "1136004151794642946",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8PlwdsWsAIlQ_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8PlwdsWsAIlQ_P.jpg",
+					"url": "https://t.co/eHZJHi9r6c",
+					"display_url": "pic.twitter.com/eHZJHi9r6c",
+					"expanded_url": "https://twitter.com/cogdog/status/1136004348713021444/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 478,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 478,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 354,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							239,
+							177
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D8PlwdsWsAIlQ_P.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 885339669457776600,
+		"in_reply_to_user_id_str": "885339669457776641",
+		"in_reply_to_screen_name": "ontarioextend",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10470,
+			"friends_count": 1478,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ontarioextend #oext355 For the June Daily Extend Challenge, just bringing a Be More Dog attitude.. or a  Be More Dog Flying on a Cartoon Sandwich...  \n\nThis means giphy packed and loaded. https://t.co/eHZJHi9r6c"
+	},
+	{
 		"created_at": "Tue Jun 04 17:07:27 +0000 2019",
 		"id": 1135956239253483500,
 		"id_str": "1135956239253483520",

@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 21:54:49 +0000 2019",
+		"id": 1138202885190275100,
+		"id_str": "1138202885190275073",
+		"full_text": "This is totally exciting for the fragile web. https://t.co/kAYPApmABB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kAYPApmABB",
+					"expanded_url": "https://twitter.com/IlyaKreymer/status/1138191797497270272",
+					"display_url": "twitter.com/IlyaKreymer/st…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10478,
+			"friends_count": 1479,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138191797497270300,
+		"quoted_status_id_str": "1138191797497270272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kAYPApmABB",
+			"expanded": "https://twitter.com/IlyaKreymer/status/1138191797497270272",
+			"display": "twitter.com/IlyaKreymer/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 10 21:10:45 +0000 2019",
+			"id": 1138191797497270300,
+			"id_str": "1138191797497270272",
+			"full_text": "Quick slides from my talk at #Domains19 on using containers as part of the equation in preserving the web:\nhttps://t.co/XitvAGlSa8\n\nhttps://t.co/UckDiCR5yB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Domains19",
+						"indices": [
+							29,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XitvAGlSa8",
+						"expanded_url": "https://docs.google.com/presentation/d/1xjhytqF0Wue4ynoUMOPQek7ZKFqsGoTWMl-kR74uWCU/edit",
+						"display_url": "docs.google.com/presentation/d…",
+						"indices": [
+							107,
+							130
+						]
+					},
+					{
+						"url": "https://t.co/UckDiCR5yB",
+						"expanded_url": "https://twitter.com/triplingual/status/1138106601603133441",
+						"display_url": "twitter.com/triplingual/st…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4502652733,
+				"id_str": "4502652733",
+				"name": "Ilya Kreymer",
+				"screen_name": "IlyaKreymer",
+				"location": "San Francisco, CA",
+				"description": "Creator of https://t.co/oBJ5s0LJkx and https://t.co/BWjCE23dHT collaboration with @rhizome Summer Fellow @HarvardLIL Also tweet from @webrecorder_io\nHe/Him/His",
+				"url": "https://t.co/HTdDFypD55",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HTdDFypD55",
+								"expanded_url": "https://github.com/ikreymer",
+								"display_url": "github.com/ikreymer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oBJ5s0LJkx",
+								"expanded_url": "http://oldweb.today",
+								"display_url": "oldweb.today",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/BWjCE23dHT",
+								"expanded_url": "http://webrecorder.io",
+								"display_url": "webrecorder.io",
+								"indices": [
+									39,
+									62
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 380,
+				"friends_count": 118,
+				"listed_count": 20,
+				"created_at": "Wed Dec 09 01:54:24 +0000 2015",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674408521853636610/aqjpGUtO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674408521853636610/aqjpGUtO_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1138106601603133400,
+			"quoted_status_id_str": "1138106601603133441",
+			"quoted_status_permalink": {
+				"url": "https://t.co/UckDiCR5yB",
+				"expanded": "https://twitter.com/triplingual/status/1138106601603133441",
+				"display": "twitter.com/triplingual/st…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is totally exciting for the fragile web. https://t.co/kAYPApmABB"
+	},
+	{
 		"created_at": "Mon Jun 10 17:23:52 +0000 2019",
 		"id": 1138134701074526200,
 		"id_str": "1138134701074526208",

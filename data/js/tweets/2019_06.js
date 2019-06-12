@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 15:10:07 +0000 2019",
+		"id": 1138825814445871100,
+		"id_str": "1138825814445871106",
+		"full_text": "I know that photo! I've used it myself, one of many open licensed gems from @twoodwar https://t.co/9TLqJ2ugh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9TLqJ2ugh2",
+					"expanded_url": "https://twitter.com/doctorow/status/1138825341978329088",
+					"display_url": "twitter.com/doctorow/statu…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10480,
+			"friends_count": 1479,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138825341978329100,
+		"quoted_status_id_str": "1138825341978329088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9TLqJ2ugh2",
+			"expanded": "https://twitter.com/doctorow/status/1138825341978329088",
+			"display": "twitter.com/doctorow/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 12 15:08:14 +0000 2019",
+			"id": 1138825341978329100,
+			"id_str": "1138825341978329088",
+			"full_text": "UK government is using child spies https://t.co/ZK0MAlAwLy https://t.co/kTvGhZUL7K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZK0MAlAwLy",
+						"expanded_url": "https://boingboing.net/2019/06/12/uk-government-is-using-child-s.html",
+						"display_url": "boingboing.net/2019/06/12/uk-…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1138825335435288600,
+						"id_str": "1138825335435288576",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D83rm9vV4AA-eLs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D83rm9vV4AA-eLs.jpg",
+						"url": "https://t.co/kTvGhZUL7K",
+						"display_url": "pic.twitter.com/kTvGhZUL7K",
+						"expanded_url": "https://twitter.com/doctorow/status/1138825341978329088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138825335435288600,
+						"id_str": "1138825335435288576",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D83rm9vV4AA-eLs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D83rm9vV4AA-eLs.jpg",
+						"url": "https://t.co/kTvGhZUL7K",
+						"display_url": "pic.twitter.com/kTvGhZUL7K",
+						"expanded_url": "https://twitter.com/doctorow/status/1138825341978329088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2729061,
+				"id_str": "2729061",
+				"name": "Masque of the Red Death",
+				"screen_name": "doctorow",
+				"location": "Beautiful Downtown Burbank",
+				"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: https://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+				"url": "https://t.co/x4ih0X9WgH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x4ih0X9WgH",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rS9kTnTcWs",
+								"expanded_url": "http://boingboing.net/s",
+								"display_url": "boingboing.net/s",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 420746,
+				"friends_count": 1687,
+				"listed_count": 13074,
+				"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+				"favourites_count": 148,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 194763,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111026520548691971/Thyp3AyA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111026520548691971/Thyp3AyA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+				"profile_link_color": "3F3FC4",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know that photo! I've used it myself, one of many open licensed gems from @twoodwar https://t.co/9TLqJ2ugh2"
+	},
+	{
+		"created_at": "Wed Jun 12 15:03:26 +0000 2019",
+		"id": 1138824131984707600,
+		"id_str": "1138824131984707584",
+		"full_text": "Chasing the Course Arc: Storied Workshop for Kenyon College https://t.co/Yi9jXCvAco https://t.co/zxzX1SDWmf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yi9jXCvAco",
+					"expanded_url": "https://cogdogblog.com/2019/06/chasing-the-course-arc/",
+					"display_url": "cogdogblog.com/2019/06/chasin…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138824129510039600,
+					"id_str": "1138824129510039552",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D83qgxUW4AA7boP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83qgxUW4AA7boP.jpg",
+					"url": "https://t.co/zxzX1SDWmf",
+					"display_url": "pic.twitter.com/zxzX1SDWmf",
+					"expanded_url": "https://twitter.com/cogdog/status/1138824131984707584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138824129510039600,
+					"id_str": "1138824129510039552",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D83qgxUW4AA7boP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83qgxUW4AA7boP.jpg",
+					"url": "https://t.co/zxzX1SDWmf",
+					"display_url": "pic.twitter.com/zxzX1SDWmf",
+					"expanded_url": "https://twitter.com/cogdog/status/1138824131984707584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10480,
+			"friends_count": 1479,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chasing the Course Arc: Storied Workshop for Kenyon College https://t.co/Yi9jXCvAco https://t.co/zxzX1SDWmf"
+	},
+	{
 		"created_at": "Wed Jun 12 13:58:27 +0000 2019",
 		"id": 1138807782247977000,
 		"id_str": "1138807782247976960",

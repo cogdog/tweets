@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 20:11:11 +0000 2019",
+		"id": 1139172478318665700,
+		"id_str": "1139263967598186497",
+		"full_text": "Another summer term and I'm again searching for K-12 educators who are having students work in the open: blogging, publications, portfolios, whatever the case might be! Is that you or do you have suggestions? Please RT if your network is relevant!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2345538506,
+			"id_str": "2345538506",
+			"name": "Chris Lott",
+			"screen_name": "fncll",
+			"location": "Fairbanks, AK",
+			"description": "Teacher. Learner. Lexicophile. He/his. For a happy inbox, check out @katexic & @notabilia, my newsletters for word nerds, bookworms and the constantly curious.",
+			"url": "https://t.co/5YKLrmOWog",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5YKLrmOWog",
+							"expanded_url": "https://fncll.org/",
+							"display_url": "fncll.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450,
+			"friends_count": 585,
+			"listed_count": 15,
+			"created_at": "Sat Feb 15 18:19:18 +0000 2014",
+			"favourites_count": 1906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/529473104204951554/uqZ4jawm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/529473104204951554/uqZ4jawm_normal.png",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Another summer term and I'm again searching for K-12 educators who are having students work in the open: blogging, publications, portfolios, whatever the case might be! Is that you or do you have suggestions? Please RT if your network is relevant!"
+	},
+	{
 		"created_at": "Thu Jun 13 16:46:55 +0000 2019",
 		"id": 1139212565584764900,
 		"id_str": "1139212565584764930",

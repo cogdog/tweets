@@ -1,10 +1,425 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 14:14:48 +0000 2019",
+		"id": 1140986220778070000,
+		"id_str": "1140986220778070016",
+		"full_text": "@ontarioextend #oextend #oext367 Forget going to the Moon or Mars; NASA is now planning an executively adorned red capped shuttle to send political \"leaders\" to enjoy the realms of Praxidike https://t.co/ggWHI7fBpO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oextend",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "oext367",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ggWHI7fBpO",
+					"expanded_url": "https://en.wikipedia.org/wiki/Praxidike_(moon)",
+					"display_url": "en.wikipedia.org/wiki/Praxidike…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 885339669457776600,
+		"in_reply_to_user_id_str": "885339669457776641",
+		"in_reply_to_screen_name": "ontarioextend",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10479,
+			"friends_count": 1479,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ontarioextend #oextend #oext367 Forget going to the Moon or Mars; NASA is now planning an executively adorned red capped shuttle to send political \"leaders\" to enjoy the realms of Praxidike https://t.co/ggWHI7fBpO"
+	},
+	{
+		"created_at": "Tue Jun 18 14:08:09 +0000 2019",
+		"id": 1140984548932640800,
+		"id_str": "1140984548932640768",
+		"full_text": "OH FOR SHAME! I HAVE RUINED TWITTER WITH BAD GRAMMAR!\n\nMaybe there's a Politeness Police bot out there to save me. \"Screwed up\" is hardly helpful. https://t.co/MzCfHA5w91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MzCfHA5w91",
+					"expanded_url": "https://twitter.com/_grammar_/status/1140980987121348608",
+					"display_url": "twitter.com/_grammar_/stat…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10479,
+			"friends_count": 1479,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1140980987121348600,
+		"quoted_status_id_str": "1140980987121348608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MzCfHA5w91",
+			"expanded": "https://twitter.com/_grammar_/status/1140980987121348608",
+			"display": "twitter.com/_grammar_/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 18 13:54:00 +0000 2019",
+			"id": 1140980987121348600,
+			"id_str": "1140980987121348608",
+			"full_text": "It seems like you, @cogdog, have screwed up a tweet and should type “Domain of [Its] Own” instead. ‘It's’ means ‘it is’ or ‘it has’, but ‘its’ is possessive.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							19,
+							26
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com/Your_Grammar\" rel=\"nofollow\">magical magic</a>",
+			"in_reply_to_status_id": 1140980422580604900,
+			"in_reply_to_status_id_str": "1140980422580604930",
+			"in_reply_to_user_id": 740343,
+			"in_reply_to_user_id_str": "740343",
+			"in_reply_to_screen_name": "cogdog",
+			"user": {
+				"id": 618294231,
+				"id_str": "618294231",
+				"name": "Grammar Police",
+				"screen_name": "_grammar_",
+				"location": "Follow me; see grammar errors!",
+				"description": "@victor_zheng developed me to alert users in whose tweets I find improper grammar—he was inspired by @StealthMountain. To publish solecisms is to abase oneself!",
+				"url": "http://t.co/y2OxdNwM0Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/y2OxdNwM0Y",
+								"expanded_url": "http://victorz.ca/bots/grammar",
+								"display_url": "victorz.ca/bots/grammar",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46170,
+				"friends_count": 2,
+				"listed_count": 508,
+				"created_at": "Mon Jun 25 16:06:39 +0000 2012",
+				"favourites_count": 2564,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 238686,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785169027169521664/j5rftldn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785169027169521664/j5rftldn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/618294231/1392581821",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					35.45541971,
+					38.69248299
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					38.69248299,
+					35.45541971
+				]
+			},
+			"place": {
+				"id": "f773199c979358a5",
+				"url": "https://api.twitter.com/1.1/geo/id/f773199c979358a5.json",
+				"place_type": "country",
+				"name": "Syria",
+				"full_name": "Syria",
+				"country_code": "SY",
+				"country": "Syria",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								35.5868988,
+								32.3094341
+							],
+							[
+								42.3753815,
+								32.3094341
+							],
+							[
+								42.3753815,
+								37.3186098
+							],
+							[
+								35.5868988,
+								37.3186098
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH FOR SHAME! I HAVE RUINED TWITTER WITH BAD GRAMMAR!\n\nMaybe there's a Politeness Police bot out there to save me. \"Screwed up\" is hardly helpful. https://t.co/MzCfHA5w91"
+	},
+	{
 		"created_at": "Mon Jun 17 23:39:17 +0000 2019",
 		"id": 1140747455253758000,
 		"id_str": "1140765890801258496",
-		"full_text": "BIG NEWS for #Annotation &amp; #LearningAnalytics researchers: \"Crowd Layers,\" a real-time dashboard visualizing group – or ​crowd​ – discourse ​layers​ added via @hypothes_is to online documents is updated! Kudos to @fcpcolo! Visit: https://t.co/eQfsIWlbHi\nThread w/details pls RT /1",
+		"full_text": "BIG NEWS for #Annotation &amp; #LearningAnalytics researchers: \"Crowd Layers,\" a real-time dashboard visualizing group – or crowd – discourse layers added via @hypothes_is to online documents is updated! Kudos to @fcpcolo! Visit: https://t.co/eQfsIWlbHi\nThread w/details pls RT /1",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -140,7 +555,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "BIG NEWS for #Annotation &amp; #LearningAnalytics researchers: \"Crowd Layers,\" a real-time dashboard visualizing group – or ​crowd​ – discourse ​layers​ added via @hypothes_is to online documents is updated! Kudos to @fcpcolo! Visit: https://t.co/eQfsIWlbHi\nThread w/details pls RT /1"
+		"text": "BIG NEWS for #Annotation &amp; #LearningAnalytics researchers: \"Crowd Layers,\" a real-time dashboard visualizing group – or crowd – discourse layers added via @hypothes_is to online documents is updated! Kudos to @fcpcolo! Visit: https://t.co/eQfsIWlbHi\nThread w/details pls RT /1"
 	},
 	{
 		"created_at": "Mon Jun 17 16:51:01 +0000 2019",

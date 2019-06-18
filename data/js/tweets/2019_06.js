@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 14:32:24 +0000 2019",
+		"id": 1140990650906755100,
+		"id_str": "1140990650906755074",
+		"full_text": "Hi Google. My calendar went to Room 404. Does that mean I can goof off today? https://t.co/oVRczSBRoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140990533285883900,
+					"id_str": "1140990533285883905",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Wc2ESWsAEfda0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Wc2ESWsAEfda0.jpg",
+					"url": "https://t.co/oVRczSBRoZ",
+					"display_url": "pic.twitter.com/oVRczSBRoZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1140990650906755074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 978,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 978,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140990533285883900,
+					"id_str": "1140990533285883905",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Wc2ESWsAEfda0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Wc2ESWsAEfda0.jpg",
+					"url": "https://t.co/oVRczSBRoZ",
+					"display_url": "pic.twitter.com/oVRczSBRoZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1140990650906755074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 978,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 978,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10479,
+			"friends_count": 1479,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi Google. My calendar went to Room 404. Does that mean I can goof off today? https://t.co/oVRczSBRoZ"
+	},
+	{
+		"created_at": "Tue Jun 18 14:30:11 +0000 2019",
+		"id": 1140990092074504200,
+		"id_str": "1140990092074504192",
+		"full_text": "@femedtech @herstemstory @Science_Grrl Inspired by @hmason @mburtis @bamadesigner @Robin2go @miriamkp \n\nHey there's room in this tweet for more!",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "femedtech",
+					"name": "femedtech",
+					"id": 807239380138160100,
+					"id_str": "807239380138160128",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "herstemstory",
+					"name": "Her STEM Story",
+					"id": 927727303895011300,
+					"id_str": "927727303895011328",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "Science_Grrl",
+					"name": "Science Grrl",
+					"id": 628765360,
+					"id_str": "628765360",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "hmason",
+					"name": "Hilary Mason",
+					"id": 765548,
+					"id_str": "765548",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"screen_name": "mburtis",
+					"name": "martha",
+					"id": 744533,
+					"id_str": "744533",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"screen_name": "bamadesigner",
+					"name": "Rachel Cherry",
+					"id": 236673464,
+					"id_str": "236673464",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"screen_name": "Robin2go",
+					"name": "Robin2go",
+					"id": 743873,
+					"id_str": "743873",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"screen_name": "miriamkp",
+					"name": "Miriam Posner",
+					"id": 56812711,
+					"id_str": "56812711",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1140859074503958500,
+		"in_reply_to_status_id_str": "1140859074503958528",
+		"in_reply_to_user_id": 807239380138160100,
+		"in_reply_to_user_id_str": "807239380138160128",
+		"in_reply_to_screen_name": "femedtech",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10479,
+			"friends_count": 1479,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@femedtech @herstemstory @Science_Grrl Inspired by @hmason @mburtis @bamadesigner @Robin2go @miriamkp \n\nHey there's room in this tweet for more!"
+	},
+	{
 		"created_at": "Tue Jun 18 14:14:48 +0000 2019",
 		"id": 1140986220778070000,
 		"id_str": "1140986220778070016",

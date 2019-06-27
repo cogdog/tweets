@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 21:48:27 +0000 2019",
+		"id": 1144361875934765000,
+		"id_str": "1144361875934765062",
+		"full_text": "Happy Blog Birthday @GardnerCampbell https://t.co/mPVrOoGuEM #GardnerBlogs \n\n\"I still think that telling the story of one’s learning in a public blog post offers decisive opportunities for the metacognition that’s essential to deeper learning.\" \n\nWrite on, Brother G!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GardnerBlogs",
+					"indices": [
+						61,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mPVrOoGuEM",
+					"expanded_url": "http://www.gardnercampbell.net/blog1/?p=2958",
+					"display_url": "gardnercampbell.net/blog1/?p=2958",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10484,
+			"friends_count": 1481,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Blog Birthday @GardnerCampbell https://t.co/mPVrOoGuEM #GardnerBlogs \n\n\"I still think that telling the story of one’s learning in a public blog post offers decisive opportunities for the metacognition that’s essential to deeper learning.\" \n\nWrite on, Brother G!"
+	},
+	{
+		"created_at": "Thu Jun 27 21:23:49 +0000 2019",
+		"id": 1144355679798538200,
+		"id_str": "1144355679798538241",
+		"full_text": "@econproph @mweller @JRDingwall @GOGN_OER Great, and testing made me realize I needed to include featured image credit in the bottom meta data.",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "econproph",
+					"name": "Jim Luke really needs a new longer name",
+					"id": 26559701,
+					"id_str": "26559701",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "GOGN_OER",
+					"name": "GO-GN",
+					"id": 2574966348,
+					"id_str": "2574966348",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1144354591242432500,
+		"in_reply_to_status_id_str": "1144354591242432521",
+		"in_reply_to_user_id": 26559701,
+		"in_reply_to_user_id_str": "26559701",
+		"in_reply_to_screen_name": "econproph",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10484,
+			"friends_count": 1481,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@econproph @mweller @JRDingwall @GOGN_OER Great, and testing made me realize I needed to include featured image credit in the bottom meta data."
+	},
+	{
 		"created_at": "Thu Jun 27 21:11:42 +0000 2019",
 		"id": 1144352629344092200,
 		"id_str": "1144352629344092160",

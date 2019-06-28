@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 01:08:09 +0000 2019",
+		"id": 1144412133901459500,
+		"id_str": "1144412133901459457",
+		"full_text": "@cherylcolan It's gooey. See https://t.co/JtDPPgpQPH",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cherylcolan",
+					"name": "Cheryl Colan 🖤",
+					"id": 1836791,
+					"id_str": "1836791",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JtDPPgpQPH",
+					"expanded_url": "http://splot.ca/",
+					"display_url": "splot.ca",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1144411000684216300,
+		"in_reply_to_status_id_str": "1144411000684216321",
+		"in_reply_to_user_id": 1836791,
+		"in_reply_to_user_id_str": "1836791",
+		"in_reply_to_screen_name": "cherylcolan",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10484,
+			"friends_count": 1481,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cherylcolan It's gooey. See https://t.co/JtDPPgpQPH"
+	},
+	{
+		"created_at": "Fri Jun 28 00:31:48 +0000 2019",
+		"id": 1144402987244240900,
+		"id_str": "1144402987244240896",
+		"full_text": "Way beyond Well Deserved. Every time I hear @chadhflinn or hear of him, he’s done something else groundbreaking. And a credit to the openness of the Royal Roads program that inspired him https://t.co/nclQdzGUFu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chadhflinn",
+					"name": "Chad Flinn",
+					"id": 247575439,
+					"id_str": "247575439",
+					"indices": [
+						44,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nclQdzGUFu",
+					"expanded_url": "https://twitter.com/PW_Passos/status/1144360739177664512",
+					"display_url": "twitter.com/PW_Passos/stat…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10484,
+			"friends_count": 1481,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144360739177664500,
+		"quoted_status_id_str": "1144360739177664512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nclQdzGUFu",
+			"expanded": "https://twitter.com/PW_Passos/status/1144360739177664512",
+			"display": "twitter.com/PW_Passos/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 27 21:43:56 +0000 2019",
+			"id": 1144360739177664500,
+			"id_str": "1144360739177664512",
+			"full_text": "@bcit @chadflinn is the newest recipient of the Award for Excellence in Open Education https://t.co/SAN3jjopi9 via @bccampus So well deserved! #openeducation #OER",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openeducation",
+						"indices": [
+							143,
+							157
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							158,
+							162
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bcit",
+						"name": "BCIT",
+						"id": 19372538,
+						"id_str": "19372538",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"screen_name": "chadflinn",
+						"name": "chadflinn",
+						"id": 287558895,
+						"id_str": "287558895",
+						"indices": [
+							6,
+							16
+						]
+					},
+					{
+						"screen_name": "BCcampus",
+						"name": "BCcampus",
+						"id": 93710949,
+						"id_str": "93710949",
+						"indices": [
+							115,
+							124
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SAN3jjopi9",
+						"expanded_url": "https://bccampus.ca/2019/06/27/award-for-excellence-in-open-education-chad-flinn/",
+						"display_url": "bccampus.ca/2019/06/27/awa…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 19372538,
+			"in_reply_to_user_id_str": "19372538",
+			"in_reply_to_screen_name": "bcit",
+			"user": {
+				"id": 85610251,
+				"id_str": "85610251",
+				"name": "Rosario Passos",
+				"screen_name": "PW_Passos",
+				"location": "Port Moody, BC, Canada",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 316,
+				"friends_count": 393,
+				"listed_count": 39,
+				"created_at": "Tue Oct 27 16:56:03 +0000 2009",
+				"favourites_count": 1696,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1343,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493018906/rosario_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493018906/rosario_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85610251/1398402485",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Way beyond Well Deserved. Every time I hear @chadhflinn or hear of him, he’s done something else groundbreaking. And a credit to the openness of the Royal Roads program that inspired him https://t.co/nclQdzGUFu"
+	},
+	{
 		"created_at": "Thu Jun 27 21:48:27 +0000 2019",
 		"id": 1144361875934765000,
 		"id_str": "1144361875934765062",

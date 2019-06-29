@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 29 01:52:33 +0000 2019",
+		"id": 1144785693371195400,
+		"id_str": "1144785693371195395",
+		"full_text": "Now that’s a lovely landing page! Great work on the WP-Highlights theme https://t.co/zRrO4ELFHF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zRrO4ELFHF",
+					"expanded_url": "https://twitter.com/Kcarte02/status/1144760269203214336",
+					"display_url": "twitter.com/Kcarte02/statu…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10481,
+			"friends_count": 1481,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144760269203214300,
+		"quoted_status_id_str": "1144760269203214336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zRrO4ELFHF",
+			"expanded": "https://twitter.com/Kcarte02/status/1144760269203214336",
+			"display": "twitter.com/Kcarte02/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 29 00:11:31 +0000 2019",
+			"id": 1144760269203214300,
+			"id_str": "1144760269203214336",
+			"full_text": "I want to give a shout out to @cogdog for all his leadership in @ontarioextend Domain Camp. I finally have a working landing page. #ILoveLearning https://t.co/zF3gYIDTnZ https://t.co/i7hZzbscjU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ILoveLearning",
+						"indices": [
+							131,
+							145
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							30,
+							37
+						]
+					},
+					{
+						"screen_name": "ontarioextend",
+						"name": "OntarioExtend",
+						"id": 885339669457776600,
+						"id_str": "885339669457776641",
+						"indices": [
+							64,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zF3gYIDTnZ",
+						"expanded_url": "http://cupofteaching.ca",
+						"display_url": "cupofteaching.ca",
+						"indices": [
+							146,
+							169
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1144760262844702700,
+						"id_str": "1144760262844702720",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D-MBZNPXYAAGyhH.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-MBZNPXYAAGyhH.jpg",
+						"url": "https://t.co/i7hZzbscjU",
+						"display_url": "pic.twitter.com/i7hZzbscjU",
+						"expanded_url": "https://twitter.com/Kcarte02/status/1144760269203214336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 468,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 468,
+								"h": 498,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 468,
+								"h": 498,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1144760262844702700,
+						"id_str": "1144760262844702720",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D-MBZNPXYAAGyhH.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-MBZNPXYAAGyhH.jpg",
+						"url": "https://t.co/i7hZzbscjU",
+						"display_url": "pic.twitter.com/i7hZzbscjU",
+						"expanded_url": "https://twitter.com/Kcarte02/status/1144760269203214336/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 468,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 468,
+								"h": 498,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 468,
+								"h": 498,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								78,
+								83
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D-MBZNPXYAAGyhH.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1245025976,
+				"id_str": "1245025976",
+				"name": "Kim Carter",
+				"screen_name": "Kcarte02",
+				"location": "Canada",
+				"description": "Professor at Conestoga College who enjoys learning, teaching, travelling and tea. Tweets are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126,
+				"friends_count": 228,
+				"listed_count": 4,
+				"created_at": "Wed Mar 06 01:39:25 +0000 2013",
+				"favourites_count": 1335,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 293,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1091523786694787072/1HBNIT_X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091523786694787072/1HBNIT_X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1245025976/1559161545",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now that’s a lovely landing page! Great work on the WP-Highlights theme https://t.co/zRrO4ELFHF"
+	},
+	{
 		"created_at": "Fri Jun 28 23:34:05 +0000 2019",
 		"id": 1144750848796450800,
 		"id_str": "1144750848796450818",

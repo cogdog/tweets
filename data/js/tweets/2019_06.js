@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 23:34:05 +0000 2019",
+		"id": 1144750848796450800,
+		"id_str": "1144750848796450818",
+		"full_text": "And on the other side, the presidential gold plated Hummer https://t.co/NiJSvyXMVg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NiJSvyXMVg",
+					"expanded_url": "https://twitter.com/irapolis/status/1144634724561719298",
+					"display_url": "twitter.com/irapolis/statu…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10481,
+			"friends_count": 1481,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144634724561719300,
+		"quoted_status_id_str": "1144634724561719298",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NiJSvyXMVg",
+			"expanded": "https://twitter.com/irapolis/status/1144634724561719298",
+			"display": "twitter.com/irapolis/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 28 15:52:39 +0000 2019",
+			"id": 1144634724561719300,
+			"id_str": "1144634724561719298",
+			"full_text": "The 2020 Democratic Presidential Candidates as Vehicles, a Thread:\n\nWe'll start with the current frontrunner, Joe Biden: 80s Firebird https://t.co/eOhM8U5hsH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1144629324269547500,
+						"id_str": "1144629324269547521",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/D-KKTlCU8AEl5nT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-KKTlCU8AEl5nT.jpg",
+						"url": "https://t.co/eOhM8U5hsH",
+						"display_url": "pic.twitter.com/eOhM8U5hsH",
+						"expanded_url": "https://twitter.com/irapolis/status/1144634724561719298/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 543,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 958,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1635,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1144629324269547500,
+						"id_str": "1144629324269547521",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/D-KKTlCU8AEl5nT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-KKTlCU8AEl5nT.jpg",
+						"url": "https://t.co/eOhM8U5hsH",
+						"display_url": "pic.twitter.com/eOhM8U5hsH",
+						"expanded_url": "https://twitter.com/irapolis/status/1144634724561719298/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 543,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 958,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1635,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1144629379969851400,
+						"id_str": "1144629379969851393",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/D-KKW0iUIAEDHe3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-KKW0iUIAEDHe3.jpg",
+						"url": "https://t.co/eOhM8U5hsH",
+						"display_url": "pic.twitter.com/eOhM8U5hsH",
+						"expanded_url": "https://twitter.com/irapolis/status/1144634724561719298/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257715812,
+				"id_str": "257715812",
+				"name": "ira",
+				"screen_name": "irapolis",
+				"location": "I left my home in Georgia, headed for the Frisco Bay.",
+				"description": "I like cats and dogs and politics and cities and coffee. Prolific tweet liker. https://t.co/h4IxIZ3z4S",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/h4IxIZ3z4S",
+								"expanded_url": "http://pronoun.is/he",
+								"display_url": "pronoun.is/he",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 605,
+				"friends_count": 1390,
+				"listed_count": 12,
+				"created_at": "Sat Feb 26 01:08:47 +0000 2011",
+				"favourites_count": 191864,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3843,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136122039008239617/fftnyd5a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136122039008239617/fftnyd5a_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257715812/1559709348",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 172,
+			"favorite_count": 334,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And on the other side, the presidential gold plated Hummer https://t.co/NiJSvyXMVg"
+	},
+	{
 		"created_at": "Fri Jun 28 21:53:16 +0000 2019",
 		"id": 1144725477908779000,
 		"id_str": "1144725477908779008",

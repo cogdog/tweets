@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 17:16:33 +0000 2019",
+		"id": 1148266497124343800,
+		"id_str": "1148279717545426944",
+		"full_text": "I'm pleased to launch Run Your Own Social, a guide book to running a small social network server to replace things like, well, Twitter. This is full of best practices from my year of actually doing this. It's about SOCIAL, not technical, solutions.\n\nhttps://t.co/PKVkud5UNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKVkud5UNh",
+					"expanded_url": "https://runyourown.social/",
+					"display_url": "runyourown.social",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14475298,
+			"id_str": "14475298",
+			"name": "Darius Kazemi",
+			"screen_name": "tinysubversions",
+			"location": "Portland, OR",
+			"description": "I make weird internet art. I've mostly left Twitter, I'm at https://t.co/ccDElE4ZLE  Worker-owner at @feeltraincoop. Mozilla Fellow. #WHNBM he/him",
+			"url": "https://t.co/tbPIbXPf4M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tbPIbXPf4M",
+							"expanded_url": "https://tinysubversions.com",
+							"display_url": "tinysubversions.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ccDElE4ZLE",
+							"expanded_url": "http://friend.camp/@darius",
+							"display_url": "friend.camp/@darius",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22104,
+			"friends_count": 2270,
+			"listed_count": 1001,
+			"created_at": "Tue Apr 22 14:41:58 +0000 2008",
+			"favourites_count": 47883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6921",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931365175298465792/nvtH_49y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931365175298465792/nvtH_49y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14475298/1524158062",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm pleased to launch Run Your Own Social, a guide book to running a small social network server to replace things like, well, Twitter. This is full of best practices from my year of actually doing this. It's about SOCIAL, not technical, solutions.\n\nhttps://t.co/PKVkud5UNh"
+	},
+	{
 		"created_at": "Mon Jul 08 05:53:19 +0000 2019",
 		"id": 1148107776075259900,
 		"id_str": "1148107776075259904",

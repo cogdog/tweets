@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 10 17:54:01 +0000 2019",
+		"id": 1149013924546830300,
+		"id_str": "1149013924546830336",
+		"full_text": "This is without a doubt, the greatest story ever of sharing and openness and gratitude and care.\n\nWishing the best to @cgreen and @opencontent and humbled to be   on the same earth as these two. https://t.co/aYdCnaIuc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cgreen",
+					"name": "Cable Green",
+					"id": 821877,
+					"id_str": "821877",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"screen_name": "opencontent",
+					"name": "David Wiley",
+					"id": 4514361,
+					"id_str": "4514361",
+					"indices": [
+						130,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aYdCnaIuc4",
+					"expanded_url": "https://twitter.com/opencontent/status/1148980531020881924",
+					"display_url": "twitter.com/opencontent/st…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1482,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148980531020881900,
+		"quoted_status_id_str": "1148980531020881924",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aYdCnaIuc4",
+			"expanded": "https://twitter.com/opencontent/status/1148980531020881924",
+			"display": "twitter.com/opencontent/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 10 15:41:20 +0000 2019",
+			"id": 1148980531020881900,
+			"id_str": "1148980531020881924",
+			"full_text": "A pair of deeply personal blog posts today. I'll never be able to express my gratitude for being able to participate in this process.\n\nSharing, Generosity and Gratitude by @cgreen -https://t.co/FzDNY5Fl0E\n\nOpen Organ Resources? Lessons from Sharing - https://t.co/dc4EPjeoNQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cgreen",
+						"name": "Cable Green",
+						"id": 821877,
+						"id_str": "821877",
+						"indices": [
+							172,
+							179
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FzDNY5Fl0E",
+						"expanded_url": "https://creativecommons.org/2019/07/10/sharing-generosity-and-gratitude/",
+						"display_url": "creativecommons.org/2019/07/10/sha…",
+						"indices": [
+							181,
+							204
+						]
+					},
+					{
+						"url": "https://t.co/dc4EPjeoNQ",
+						"expanded_url": "https://opencontent.org/blog/archives/6082",
+						"display_url": "opencontent.org/blog/archives/…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4514361,
+				"id_str": "4514361",
+				"name": "David Wiley",
+				"screen_name": "opencontent",
+				"location": "UT, USA",
+				"description": "Improving education with openness and data. Lumen Learning / Ashoka / Creative Commons / BYU.",
+				"url": "https://t.co/cAhKaObC6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cAhKaObC6x",
+								"expanded_url": "http://davidwiley.org/",
+								"display_url": "davidwiley.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13037,
+				"friends_count": 404,
+				"listed_count": 856,
+				"created_at": "Fri Apr 13 16:07:05 +0000 2007",
+				"favourites_count": 4116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6197,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781256117884030976/m0ZvHf4j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781256117884030976/m0ZvHf4j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4514361/1547424759",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is without a doubt, the greatest story ever of sharing and openness and gratitude and care.\n\nWishing the best to @cgreen and @opencontent and humbled to be   on the same earth as these two. https://t.co/aYdCnaIuc4"
+	},
+	{
 		"created_at": "Wed Jul 10 16:43:21 +0000 2019",
 		"id": 1148996137887551500,
 		"id_str": "1148996137887551488",

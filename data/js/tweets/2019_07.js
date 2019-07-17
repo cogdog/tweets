@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 02:15:07 +0000 2019",
+		"id": 1151314357936152600,
+		"id_str": "1151314357936152577",
+		"full_text": "Rather telling that Fox “news” has this link filed under “entertainment” https://t.co/8qnPaeyDfK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8qnPaeyDfK",
+					"expanded_url": "https://twitter.com/RepGosar/status/1151265255093362690",
+					"display_url": "twitter.com/RepGosar/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10480,
+			"friends_count": 1478,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151265255093362700,
+		"quoted_status_id_str": "1151265255093362690",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8qnPaeyDfK",
+			"expanded": "https://twitter.com/RepGosar/status/1151265255093362690",
+			"display": "twitter.com/RepGosar/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 23:00:00 +0000 2019",
+			"id": 1151265255093362700,
+			"id_str": "1151265255093362690",
+			"full_text": "Why is CNN glorifying the Antifa attacker who terrorized an ICE facility?\nhttps://t.co/vXkcIF8KD4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vXkcIF8KD4",
+						"expanded_url": "https://www.foxnews.com/entertainment/cnn-antifa-ice-glorified",
+						"display_url": "foxnews.com/entertainment/…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 240760644,
+				"id_str": "240760644",
+				"name": "Rep. Paul Gosar, DDS",
+				"screen_name": "RepGosar",
+				"location": "",
+				"description": "Representative for AZ’s 4th District, Chairman of @WesternCaucus, Republican Leader of Energy & Minerals @NatResources. #BuildTheWall #MAGA 🇺🇸",
+				"url": "https://t.co/fETcpzL0kG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fETcpzL0kG",
+								"expanded_url": "http://gosar.house.gov",
+								"display_url": "gosar.house.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53050,
+				"friends_count": 4425,
+				"listed_count": 1527,
+				"created_at": "Thu Jan 20 17:44:27 +0000 2011",
+				"favourites_count": 3240,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9809,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954068851414786049/gBFE0q8D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954068851414786049/gBFE0q8D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/240760644/1501001354",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102,
+			"favorite_count": 228,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rather telling that Fox “news” has this link filed under “entertainment” https://t.co/8qnPaeyDfK"
+	},
+	{
 		"created_at": "Tue Jul 16 22:37:52 +0000 2019",
 		"id": 1151259682629193700,
 		"id_str": "1151259682629193729",

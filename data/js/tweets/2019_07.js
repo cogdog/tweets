@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 21:31:16 +0000 2019",
+		"id": 1151967698412298200,
+		"id_str": "1151967698412298247",
+		"full_text": "Image attribution is extremely rare but welcome to see in tweets (thanks!) interesting collage effect for instagram. https://t.co/Mc9TYHEPEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mc9TYHEPEd",
+					"expanded_url": "https://twitter.com/NTYessays/status/1151911137446748160",
+					"display_url": "twitter.com/NTYessays/stat…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10479,
+			"friends_count": 1478,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151911137446748200,
+		"quoted_status_id_str": "1151911137446748160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mc9TYHEPEd",
+			"expanded": "https://twitter.com/NTYessays/status/1151911137446748160",
+			"display": "twitter.com/NTYessays/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 18 17:46:31 +0000 2019",
+			"id": 1151911137446748200,
+			"id_str": "1151911137446748160",
+			"full_text": "#DYK: @NTYessays is on @Instagram? We just launched the #montage for #NTY035 \"How Himalaya Should Spend the $100 Million” Some unsolicited advice for the folks at @Himalaya_App. Follow for regular updates on our story pipeline. (image: @CogDog/@Wikimedia) https://t.co/CXvAbod9Z9 https://t.co/bfGCgbRXJJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DYK",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "montage",
+						"indices": [
+							56,
+							64
+						]
+					},
+					{
+						"text": "NTY035",
+						"indices": [
+							69,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NTYessays",
+						"name": "Not There Yet",
+						"id": 859538149608792000,
+						"id_str": "859538149608792065",
+						"indices": [
+							6,
+							16
+						]
+					},
+					{
+						"screen_name": "instagram",
+						"name": "Instagram",
+						"id": 180505807,
+						"id_str": "180505807",
+						"indices": [
+							23,
+							33
+						]
+					},
+					{
+						"screen_name": "himalaya_app",
+						"name": "himalaya",
+						"id": 998826493907259400,
+						"id_str": "998826493907259392",
+						"indices": [
+							163,
+							176
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							236,
+							243
+						]
+					},
+					{
+						"screen_name": "Wikimedia",
+						"name": "Wikimedia",
+						"id": 86390762,
+						"id_str": "86390762",
+						"indices": [
+							244,
+							254
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CXvAbod9Z9",
+						"expanded_url": "https://www.instagram.com/ntyessays/",
+						"display_url": "instagram.com/ntyessays/",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1151910877978755100,
+						"id_str": "1151910877978755072",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D_xo1ybVAAAcKiP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_xo1ybVAAAcKiP.jpg",
+						"url": "https://t.co/bfGCgbRXJJ",
+						"display_url": "pic.twitter.com/bfGCgbRXJJ",
+						"expanded_url": "https://twitter.com/NTYessays/status/1151911137446748160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151910877978755100,
+						"id_str": "1151910877978755072",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D_xo1ybVAAAcKiP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_xo1ybVAAAcKiP.jpg",
+						"url": "https://t.co/bfGCgbRXJJ",
+						"display_url": "pic.twitter.com/bfGCgbRXJJ",
+						"expanded_url": "https://twitter.com/NTYessays/status/1151911137446748160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859538149608792000,
+				"id_str": "859538149608792065",
+				"name": "Not There Yet",
+				"screen_name": "NTYessays",
+				"location": "Calgary, Alberta, Canada",
+				"description": "Eclectic essays podcasted from the second decade of the 21st century. Now featuring “Alas, Kawhi, We Hardly Knew Ye” (see profile link) | #basketball #nba",
+				"url": "https://t.co/PtMirKpqkI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PtMirKpqkI",
+								"expanded_url": "https://www.ntyessays.com/045",
+								"display_url": "ntyessays.com/045",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78,
+				"friends_count": 33,
+				"listed_count": 6,
+				"created_at": "Tue May 02 22:40:39 +0000 2017",
+				"favourites_count": 499,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 641,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859547890473209856/B62eREi4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859547890473209856/B62eREi4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859538149608792065/1493765843",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "53504716d445dcad",
+				"url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json",
+				"place_type": "city",
+				"name": "Calgary",
+				"full_name": "Calgary, Alberta",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-114.3160379,
+								50.84278
+							],
+							[
+								-113.859664,
+								50.84278
+							],
+							[
+								-113.859664,
+								51.212548
+							],
+							[
+								-114.3160379,
+								51.212548
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Image attribution is extremely rare but welcome to see in tweets (thanks!) interesting collage effect for instagram. https://t.co/Mc9TYHEPEd"
+	},
+	{
 		"created_at": "Wed Jul 17 23:41:11 +0000 2019",
 		"id": 1151638003497996300,
 		"id_str": "1151638003497996293",

@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 23 17:47:26 +0000 2019",
+		"id": 1153723306719219700,
+		"id_str": "1153723306719219713",
+		"full_text": "@dendari @henrythiele @irasocol @chrislehmann @jcasap @mcleod @elemenous @bengrey @bhwilkoff @jlind3344 @jasonklein @teach42 @MariaDroujkova @TheThirdTeacher @globalearner @ddmeyer Can't add much to expert ideas already offered. Maybe look at attributes of non-school spaces that are conducive to groups of people collaborating in, like art studios, coffee shops, craft shops.",
+		"truncated": false,
+		"display_text_range": [
+			181,
+			376
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dendari",
+					"name": "Brendan Murphy",
+					"id": 14299391,
+					"id_str": "14299391",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "henrythiele",
+					"name": "Hank Thiele",
+					"id": 8023352,
+					"id_str": "8023352",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "irasocol",
+					"name": "Ira Socol",
+					"id": 1249711,
+					"id_str": "1249711",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "chrislehmann",
+					"name": "Chris Lehmann",
+					"id": 7108702,
+					"id_str": "7108702",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "jcasap",
+					"name": "Jaime Casap",
+					"id": 14517467,
+					"id_str": "14517467",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"screen_name": "elemenous",
+					"name": "Lucy Gray",
+					"id": 678403,
+					"id_str": "678403",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "bengrey",
+					"name": "Ben Grey",
+					"id": 14527970,
+					"id_str": "14527970",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"screen_name": "jlind3344",
+					"name": "Jason Lind",
+					"id": 2164902600,
+					"id_str": "2164902600",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "jasonklein",
+					"name": "Jason Klein",
+					"id": 14608802,
+					"id_str": "14608802",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"screen_name": "teach42",
+					"name": "Steve Dembo",
+					"id": 10139,
+					"id_str": "10139",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"screen_name": "MariaDroujkova",
+					"name": "Maria Droujkova",
+					"id": 14364834,
+					"id_str": "14364834",
+					"indices": [
+						125,
+						140
+					]
+				},
+				{
+					"screen_name": "TheThirdTeacher",
+					"name": "The Third Teacher",
+					"id": 115743489,
+					"id_str": "115743489",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "globalearner",
+					"name": "Alan November",
+					"id": 16695534,
+					"id_str": "16695534",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"screen_name": "ddmeyer",
+					"name": "Dan Meyer",
+					"id": 7198542,
+					"id_str": "7198542",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1153718709946605600,
+		"in_reply_to_status_id_str": "1153718709946605569",
+		"in_reply_to_user_id": 14299391,
+		"in_reply_to_user_id_str": "14299391",
+		"in_reply_to_screen_name": "dendari",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 1480,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dendari @henrythiele @irasocol @chrislehmann @jcasap @mcleod @elemenous @bengrey @bhwilkoff @jlind3344 @jasonklein @teach42 @MariaDroujkova @TheThirdTeacher @globalearner @ddmeyer Can't add much to expert ideas already offered. Maybe look at attributes of non-school spaces that are conducive to groups of people collaborating in, like art studios, coffee shops, craft shops."
+	},
+	{
 		"created_at": "Mon Jul 22 17:21:53 +0000 2019",
 		"id": 1153354491229606000,
 		"id_str": "1153354491229605893",

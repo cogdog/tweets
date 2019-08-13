@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 22:50:19 +0000 2019",
+		"id": 1161409676736700400,
+		"id_str": "1161409676736700416",
+		"full_text": "@spencerideas @intrepidteacher @bryanjack @DrGarcia @FriedEnglish101 @courosa @B_Sheridan I second that emotion ;-) What a fab endeavor and refreshing to read Kaia's fresh eyes/ears perspective on stuff we listened to long ago.",
+		"truncated": false,
+		"display_text_range": [
+			90,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spencerideas",
+					"name": "John Spencer",
+					"id": 18389166,
+					"id_str": "18389166",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "intrepidteacher",
+					"name": "Intrepidteacher",
+					"id": 11976052,
+					"id_str": "11976052",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "bryanjack",
+					"name": "Bryan Jackson",
+					"id": 24774254,
+					"id_str": "24774254",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "DrGarcia",
+					"name": "GNA Garcia",
+					"id": 19897497,
+					"id_str": "19897497",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "FriedEnglish101",
+					"name": "Tricia Friedman",
+					"id": 402644900,
+					"id_str": "402644900",
+					"indices": [
+						52,
+						68
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"screen_name": "B_Sheridan",
+					"name": "Ben Sheridan",
+					"id": 84492020,
+					"id_str": "84492020",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1161306366918611000,
+		"in_reply_to_status_id_str": "1161306366918610949",
+		"in_reply_to_user_id": 18389166,
+		"in_reply_to_user_id_str": "18389166",
+		"in_reply_to_screen_name": "spencerideas",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10473,
+			"friends_count": 1480,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spencerideas @intrepidteacher @bryanjack @DrGarcia @FriedEnglish101 @courosa @B_Sheridan I second that emotion ;-) What a fab endeavor and refreshing to read Kaia's fresh eyes/ears perspective on stuff we listened to long ago."
+	},
+	{
 		"created_at": "Tue Aug 13 18:01:07 +0000 2019",
 		"id": 1161336896842342400,
 		"id_str": "1161336896842342405",

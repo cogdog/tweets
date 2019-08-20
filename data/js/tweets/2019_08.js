@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 20 19:05:33 +0000 2019",
+		"id": 1163889827307229200,
+		"id_str": "1163889827307229193",
+		"full_text": "Great to hear, thanks Colin, Jenn, and TWU. \n\nI'm available for WordPress Portfolio projects, weddings, and bar mitzvahs... well not the latter two. More on this project\n\nhttps://t.co/A2BnO8XNAM https://t.co/guP0Ha6rLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A2BnO8XNAM",
+					"expanded_url": "http://bit.ly/etug18",
+					"display_url": "bit.ly/etug18",
+					"indices": [
+						171,
+						194
+					]
+				},
+				{
+					"url": "https://t.co/guP0Ha6rLw",
+					"expanded_url": "https://twitter.com/colinmadland/status/1163879384618418178",
+					"display_url": "twitter.com/colinmadland/s…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 1480,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1163879384618418200,
+		"quoted_status_id_str": "1163879384618418178",
+		"quoted_status_permalink": {
+			"url": "https://t.co/guP0Ha6rLw",
+			"expanded": "https://twitter.com/colinmadland/status/1163879384618418178",
+			"display": "twitter.com/colinmadland/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 20 18:24:03 +0000 2019",
+			"id": 1163879384618418200,
+			"id_str": "1163879384618418178",
+			"full_text": "⁦@jenn_skelding⁩ with amazing reports of the success of ⁦@TrinityWestern⁩ #eportfolio project in @WordPress. Hosted by ⁦@ReclaimHosting⁩ and made awesome by ⁦@cogdog⁩ https://t.co/Qsc8mvSxg3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "eportfolio",
+						"indices": [
+							74,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jenn_skelding",
+						"name": "Jenn Skelding",
+						"id": 116570457,
+						"id_str": "116570457",
+						"indices": [
+							1,
+							15
+						]
+					},
+					{
+						"screen_name": "TrinityWestern",
+						"name": "Trinity Western",
+						"id": 20702795,
+						"id_str": "20702795",
+						"indices": [
+							57,
+							72
+						]
+					},
+					{
+						"screen_name": "WordPress",
+						"name": "WordPress",
+						"id": 685513,
+						"id_str": "685513",
+						"indices": [
+							97,
+							107
+						]
+					},
+					{
+						"screen_name": "ReclaimHosting",
+						"name": "Reclaim Hosting",
+						"id": 1602053274,
+						"id_str": "1602053274",
+						"indices": [
+							120,
+							135
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							158,
+							165
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1163879348799017000,
+						"id_str": "1163879348799016960",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/ECbuGeqUEAAiucr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECbuGeqUEAAiucr.jpg",
+						"url": "https://t.co/Qsc8mvSxg3",
+						"display_url": "pic.twitter.com/Qsc8mvSxg3",
+						"expanded_url": "https://twitter.com/colinmadland/status/1163879384618418178/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1163879348799017000,
+						"id_str": "1163879348799016960",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/ECbuGeqUEAAiucr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECbuGeqUEAAiucr.jpg",
+						"url": "https://t.co/Qsc8mvSxg3",
+						"display_url": "pic.twitter.com/Qsc8mvSxg3",
+						"expanded_url": "https://twitter.com/colinmadland/status/1163879384618418178/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81038069,
+				"id_str": "81038069",
+				"name": "Colin Madland",
+				"screen_name": "colinmadland",
+				"location": "Unceded Stó:lō Territory",
+				"description": "smoker of meats | #GO_GN | Settler PhD Student in #EdTech for Indigenous Self-Determination | pretending to be a runner | profile by @BryanMMathers views=mine",
+				"url": "https://t.co/yjJbwFOrVV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yjJbwFOrVV",
+								"expanded_url": "http://madland.ca",
+								"display_url": "madland.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1487,
+				"friends_count": 2494,
+				"listed_count": 125,
+				"created_at": "Fri Oct 09 05:43:35 +0000 2009",
+				"favourites_count": 3695,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10184,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796377138832162816/rRhSlGTD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796377138832162816/rRhSlGTD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81038069/1544031885",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to hear, thanks Colin, Jenn, and TWU. \n\nI'm available for WordPress Portfolio projects, weddings, and bar mitzvahs... well not the latter two. More on this project\n\nhttps://t.co/A2BnO8XNAM https://t.co/guP0Ha6rLw"
+	},
+	{
 		"created_at": "Tue Aug 20 15:56:18 +0000 2019",
 		"id": 1163842199227981800,
 		"id_str": "1163842199227981826",

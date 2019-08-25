@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 25 04:59:17 +0000 2019",
+		"id": 1165463849618858000,
+		"id_str": "1165488795585863680",
+		"full_text": "This was a terrific project from two brilliant students.\n3d images, 3d printing, AR, and more: https://t.co/X7wNKvWh9l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X7wNKvWh9l",
+					"expanded_url": "https://twitter.com/racheldhumph/status/1165306445845454848",
+					"display_url": "twitter.com/racheldhumph/s…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755991,
+			"id_str": "755991",
+			"name": "Bryan Alexander",
+			"screen_name": "BryanAlexander",
+			"location": "ÜT: 44.010713,-73.164997",
+			"description": "\"The Ax-Wielding Futurist\" - Ozy",
+			"url": "https://t.co/StHAJPH0k7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/StHAJPH0k7",
+							"expanded_url": "http://futureofeducation.us",
+							"display_url": "futureofeducation.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12270,
+			"friends_count": 2397,
+			"listed_count": 912,
+			"created_at": "Wed Feb 07 13:52:20 +0000 2007",
+			"favourites_count": 11752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105206464103305217/WXpCX_hI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105206464103305217/WXpCX_hI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755991/1516673547",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165306445845454800,
+		"quoted_status_id_str": "1165306445845454848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X7wNKvWh9l",
+			"expanded": "https://twitter.com/racheldhumph/status/1165306445845454848",
+			"display": "twitter.com/racheldhumph/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 24 16:54:41 +0000 2019",
+			"id": 1165306445845454800,
+			"id_str": "1165306445845454848",
+			"full_text": "Finally sharing #PrintingHistory: A #3Dprinting #highschool #humanities #edtech #lessonplan. Big thanks to @BryanAlexander &amp; @gu_ldt  #EmergentTechnology #Education class! Featuring @gumakerhub @MetaverseApp @thingiverse @tinkercad @Ultimaker &amp; @makerbot!! https://t.co/Ym2q80gUKS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PrintingHistory",
+						"indices": [
+							16,
+							32
+						]
+					},
+					{
+						"text": "3Dprinting",
+						"indices": [
+							36,
+							47
+						]
+					},
+					{
+						"text": "highschool",
+						"indices": [
+							48,
+							59
+						]
+					},
+					{
+						"text": "humanities",
+						"indices": [
+							60,
+							71
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							72,
+							79
+						]
+					},
+					{
+						"text": "lessonplan",
+						"indices": [
+							80,
+							91
+						]
+					},
+					{
+						"text": "EmergentTechnology",
+						"indices": [
+							138,
+							157
+						]
+					},
+					{
+						"text": "Education",
+						"indices": [
+							158,
+							168
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BryanAlexander",
+						"name": "Bryan Alexander",
+						"id": 755991,
+						"id_str": "755991",
+						"indices": [
+							107,
+							122
+						]
+					},
+					{
+						"screen_name": "gu_ldt",
+						"name": "LDT @ Georgetown",
+						"id": 775806421078126600,
+						"id_str": "775806421078126595",
+						"indices": [
+							129,
+							136
+						]
+					},
+					{
+						"screen_name": "MetaverseApp",
+						"name": "Metaverse",
+						"id": 778739669517295600,
+						"id_str": "778739669517295617",
+						"indices": [
+							198,
+							211
+						]
+					},
+					{
+						"screen_name": "thingiverse",
+						"name": "Thingiverse",
+						"id": 16843780,
+						"id_str": "16843780",
+						"indices": [
+							212,
+							224
+						]
+					},
+					{
+						"screen_name": "tinkercad",
+						"name": "Tinkercad",
+						"id": 90323375,
+						"id_str": "90323375",
+						"indices": [
+							225,
+							235
+						]
+					},
+					{
+						"screen_name": "Ultimaker",
+						"name": "Ultimaker",
+						"id": 181111601,
+						"id_str": "181111601",
+						"indices": [
+							236,
+							246
+						]
+					},
+					{
+						"screen_name": "makerbot",
+						"name": "MakerBot",
+						"id": 22021097,
+						"id_str": "22021097",
+						"indices": [
+							253,
+							262
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ym2q80gUKS",
+						"expanded_url": "https://learningflourishing.com/printinghistory/",
+						"display_url": "learningflourishing.com/printinghistor…",
+						"indices": [
+							265,
+							288
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33257561,
+				"id_str": "33257561",
+				"name": "Rachel D. Humphries",
+				"screen_name": "racheldhumph",
+				"location": "United States",
+				"description": "Radically #studentcentered #educator thinking abt #learning #design #civilsociety & #philosophy. #HarmonicCareerist Opinions are my own RTs are not endorsements",
+				"url": "https://t.co/wl39JVIEIt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wl39JVIEIt",
+								"expanded_url": "http://www.linkedin.com/in/racheltdhumphries",
+								"display_url": "linkedin.com/in/racheltdhum…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 507,
+				"friends_count": 1339,
+				"listed_count": 26,
+				"created_at": "Sun Apr 19 17:36:39 +0000 2009",
+				"favourites_count": 2471,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 456,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067570704688795649/1o4oces5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067570704688795649/1o4oces5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33257561/1412280483",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This was a terrific project from two brilliant students.\n3d images, 3d printing, AR, and more: https://t.co/X7wNKvWh9l"
+	},
+	{
 		"created_at": "Sun Aug 25 03:57:26 +0000 2019",
 		"id": 1165473231937183700,
 		"id_str": "1165473231937183744",

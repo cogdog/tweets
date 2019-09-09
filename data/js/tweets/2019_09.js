@@ -1,6 +1,468 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 16:56:40 +0000 2019",
+		"id": 1171105148099342300,
+		"id_str": "1171105148099342338",
+		"full_text": "Watching the command line updates for Varying Vagrant Vagrants makes me look like I know what I am doing. \n\nAll I did was type\n\nvagrant reload --provision https://t.co/GZOvvay0DY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171104964799864800,
+					"id_str": "1171104964799864835",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EECZwr2XoAM_N_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EECZwr2XoAM_N_7.jpg",
+					"url": "https://t.co/GZOvvay0DY",
+					"display_url": "pic.twitter.com/GZOvvay0DY",
+					"expanded_url": "https://twitter.com/cogdog/status/1171105148099342338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1684,
+							"h": 1096,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171104964799864800,
+					"id_str": "1171104964799864835",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EECZwr2XoAM_N_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EECZwr2XoAM_N_7.jpg",
+					"url": "https://t.co/GZOvvay0DY",
+					"display_url": "pic.twitter.com/GZOvvay0DY",
+					"expanded_url": "https://twitter.com/cogdog/status/1171105148099342338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1684,
+							"h": 1096,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10470,
+			"friends_count": 1478,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching the command line updates for Varying Vagrant Vagrants makes me look like I know what I am doing. \n\nAll I did was type\n\nvagrant reload --provision https://t.co/GZOvvay0DY"
+	},
+	{
+		"created_at": "Mon Sep 09 16:49:06 +0000 2019",
+		"id": 1171103246171160600,
+		"id_str": "1171103246171160576",
+		"full_text": "That's a Big Deal right there, congrats @greeneterry for well-deserved recognition for the Open Faculty Patchbooks. https://t.co/yjc3tefdcq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yjc3tefdcq",
+					"expanded_url": "https://twitter.com/FlemingCollege/status/1171100095556792320",
+					"display_url": "twitter.com/FlemingCollege…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10470,
+			"friends_count": 1478,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171100095556792300,
+		"quoted_status_id_str": "1171100095556792320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yjc3tefdcq",
+			"expanded": "https://twitter.com/FlemingCollege/status/1171100095556792320",
+			"display": "twitter.com/FlemingCollege…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 09 16:36:35 +0000 2019",
+			"id": 1171100095556792300,
+			"id_str": "1171100095556792320",
+			"full_text": "Congratulations to Fleming's @greeneterry and @FlemingLDS for winning the Open Pedagogy Award at the Open Education Awards for Excellence. The award will be presented at the Open Education Global Conference. https://t.co/QQzxpcUXg1 #ONpse @eCampusOntario",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ONpse",
+						"indices": [
+							232,
+							238
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "greeneterry",
+						"name": "Terry Greene",
+						"id": 212019344,
+						"id_str": "212019344",
+						"indices": [
+							29,
+							41
+						]
+					},
+					{
+						"screen_name": "FlemingLDS",
+						"name": "FlemingLDS",
+						"id": 3697345823,
+						"id_str": "3697345823",
+						"indices": [
+							46,
+							57
+						]
+					},
+					{
+						"screen_name": "eCampusOntario",
+						"name": "eCampusOntario",
+						"id": 3429881050,
+						"id_str": "3429881050",
+						"indices": [
+							239,
+							254
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QQzxpcUXg1",
+						"expanded_url": "https://www.oeconsortium.org/projects/open-education-awards-for-excellence/2019-winners-of-oe-awards/tools-and-practices-awards/",
+						"display_url": "oeconsortium.org/projects/open-…",
+						"indices": [
+							208,
+							231
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12914802,
+				"id_str": "12914802",
+				"name": "Fleming College",
+				"screen_name": "FlemingCollege",
+				"location": "Peterborough, Ontario",
+				"description": "Fleming College offers full-time and part-time postsecondary programs at four campus locations: Peterborough, Lindsay, Cobourg and Haliburton.",
+				"url": "https://t.co/nqNVVOHz3E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nqNVVOHz3E",
+								"expanded_url": "https://goo.gl/uS3QaY",
+								"display_url": "goo.gl/uS3QaY",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10204,
+				"friends_count": 246,
+				"listed_count": 234,
+				"created_at": "Thu Jan 31 19:39:35 +0000 2008",
+				"favourites_count": 2479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C3221F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1146524611737206784/E0R0cchJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146524611737206784/E0R0cchJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12914802/1559060041",
+				"profile_link_color": "C3221F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F8ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That's a Big Deal right there, congrats @greeneterry for well-deserved recognition for the Open Faculty Patchbooks. https://t.co/yjc3tefdcq"
+	},
+	{
 		"created_at": "Mon Sep 09 14:29:19 +0000 2019",
 		"id": 1171068066748346400,
 		"id_str": "1171068066748346370",

@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 01:55:10 +0000 2019",
+		"id": 1172690218262192000,
+		"id_str": "1172690218262192128",
+		"full_text": "Further evidence that the internet is always bigger and weirder than you thought- a Jeopardy supercut of Alex Trebek's way of saying \"geeeeeeeeeeeeenre\" #ds106 https://t.co/BD3LM0F3s5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BD3LM0F3s5",
+					"expanded_url": "https://twitter.com/whoisalexjacob/status/1172544433717428229",
+					"display_url": "twitter.com/whoisalexjacob…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10481,
+			"friends_count": 1479,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1172544433717428200,
+		"quoted_status_id_str": "1172544433717428229",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BD3LM0F3s5",
+			"expanded": "https://twitter.com/whoisalexjacob/status/1172544433717428229",
+			"display": "twitter.com/whoisalexjacob…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 13 16:15:52 +0000 2019",
+			"id": 1172544433717428200,
+			"id_str": "1172544433717428229",
+			"full_text": "I spent way too much time putting together this video of Alex Trebek saying the word \"genre,\" so now you have to RT it. Sorry, I don't make the rules https://t.co/VacI730SJv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1172544178024329200,
+						"id_str": "1172544178024329217",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172544178024329217/pu/img/vE-SQYNXXXpR344C.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172544178024329217/pu/img/vE-SQYNXXXpR344C.jpg",
+						"url": "https://t.co/VacI730SJv",
+						"display_url": "pic.twitter.com/VacI730SJv",
+						"expanded_url": "https://twitter.com/whoisalexjacob/status/1172544433717428229/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1282,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1172544178024329200,
+						"id_str": "1172544178024329217",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172544178024329217/pu/img/vE-SQYNXXXpR344C.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172544178024329217/pu/img/vE-SQYNXXXpR344C.jpg",
+						"url": "https://t.co/VacI730SJv",
+						"display_url": "pic.twitter.com/VacI730SJv",
+						"expanded_url": "https://twitter.com/whoisalexjacob/status/1172544433717428229/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1282,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								641,
+								360
+							],
+							"duration_millis": 64100,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172544178024329217/pu/vid/480x270/Z9dg6O1FJ9zT5P5R.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172544178024329217/pu/vid/640x360/UDdnUX_lO6MYPkWV.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172544178024329217/pu/vid/1282x720/BjKllSqkgnWJHYyd.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1172544178024329217/pu/pl/ltKvXlctCdAJ4p7c.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3019899428,
+				"id_str": "3019899428",
+				"name": "Alex Jacob",
+				"screen_name": "whoisalexjacob",
+				"location": "Greensboro, NC",
+				"description": "Streamer of nightly trivia games @ 10 PM ET. Jeopardy! All-Star & Tournament of Champions winner, ESPN US Poker Champ, couldn’t have done it w/o @whoisjennjacob",
+				"url": "https://t.co/gqGAJI8RKK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gqGAJI8RKK",
+								"expanded_url": "http://www.schooloftrivia.com",
+								"display_url": "schooloftrivia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20010,
+				"friends_count": 7620,
+				"listed_count": 134,
+				"created_at": "Sat Feb 14 15:53:36 +0000 2015",
+				"favourites_count": 12469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8701,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/736105520340164608/wDq0an0c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/736105520340164608/wDq0an0c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3019899428/1567620111",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13169,
+			"favorite_count": 37565,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Further evidence that the internet is always bigger and weirder than you thought- a Jeopardy supercut of Alex Trebek's way of saying \"geeeeeeeeeeeeenre\" #ds106 https://t.co/BD3LM0F3s5"
+	},
+	{
 		"created_at": "Fri Sep 13 21:30:51 +0000 2019",
 		"id": 1172623700312699000,
 		"id_str": "1172623700312698880",

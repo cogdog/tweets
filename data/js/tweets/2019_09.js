@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 16 14:14:37 +0000 2019",
+		"id": 1173597603034030000,
+		"id_str": "1173601085665267712",
+		"full_text": "My #newmedia #inf115 students are now interviewing @sagradoedu campus people on the astonishing #verano2019 in #PuertoRico and producing an #audio reportage #report19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "newmedia",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "inf115",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "verano2019",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"text": "PuertoRico",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "audio",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "report19",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sagradoedu",
+					"name": "Univ Sagrado Corazón❤️🐬",
+					"id": 22004378,
+					"id_str": "22004378",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16528394,
+			"id_str": "16528394",
+			"name": "Antonio Vantaggiato",
+			"screen_name": "avunque",
+			"location": "San Juan",
+			"description": "Unsound tweets. Edtech, media, education. A bit from here, a bit from there.",
+			"url": "https://t.co/M11qtBnPba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M11qtBnPba",
+							"expanded_url": "http://skateofweb.com",
+							"display_url": "skateofweb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1083,
+			"friends_count": 1092,
+			"listed_count": 178,
+			"created_at": "Tue Sep 30 14:44:04 +0000 2008",
+			"favourites_count": 3259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My #newmedia #inf115 students are now interviewing @sagradoedu campus people on the astonishing #verano2019 in #PuertoRico and producing an #audio reportage #report19"
+	},
+	{
+		"created_at": "Mon Sep 16 13:27:42 +0000 2019",
+		"id": 1173589278267498500,
+		"id_str": "1173589278267498498",
+		"full_text": "2019/365/256 Busy at Work #flickr https://t.co/gqyGHoqUid",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "flickr",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gqyGHoqUid",
+					"expanded_url": "https://flic.kr/p/2hg6UnV",
+					"display_url": "flic.kr/p/2hg6UnV",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10483,
+			"friends_count": 1479,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2019/365/256 Busy at Work #flickr https://t.co/gqyGHoqUid"
+	},
+	{
 		"created_at": "Mon Sep 16 02:48:20 +0000 2019",
 		"id": 1173428374653550600,
 		"id_str": "1173428374653550597",

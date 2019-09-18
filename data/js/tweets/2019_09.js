@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 22:05:34 +0000 2019",
+		"id": 1174444379425165300,
+		"id_str": "1174444379425165312",
+		"full_text": "New to me- downloadable styles to customize almost any web page. https://t.co/S9GP4KEp3D\n\nLike what I really need right now is a nyan cat progress bar for YouTube https://t.co/x4nFK13dmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S9GP4KEp3D",
+					"expanded_url": "https://userstyles.org/",
+					"display_url": "userstyles.org",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/x4nFK13dmz",
+					"expanded_url": "https://userstyles.org/styles/95033/youtube-nyan-cat-progress-bar-video-player-theme",
+					"display_url": "userstyles.org/styles/95033/y…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1481,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New to me- downloadable styles to customize almost any web page. https://t.co/S9GP4KEp3D\n\nLike what I really need right now is a nyan cat progress bar for YouTube https://t.co/x4nFK13dmz"
+	},
+	{
+		"created_at": "Wed Sep 18 21:32:03 +0000 2019",
+		"id": 1174435941404094500,
+		"id_str": "1174435941404094464",
+		"full_text": "@bennettscience @SamPatue Also pretty cool is https://t.co/HPPA1nopMm - Run/sync from local sites from files on your machine, published to web\n\nhttps://t.co/kPYS6QJw6K\nhttps://t.co/f8XY7w5SJ1",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "SamPatue",
+					"name": "Sam Patterson 🦙",
+					"id": 57445469,
+					"id_str": "57445469",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HPPA1nopMm",
+					"expanded_url": "http://surge.sh",
+					"display_url": "surge.sh",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/kPYS6QJw6K",
+					"expanded_url": "http://photoshoot.surge.sh/",
+					"display_url": "photoshoot.surge.sh",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/f8XY7w5SJ1",
+					"expanded_url": "http://bs.surge.sh/",
+					"display_url": "bs.surge.sh",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1174420647361110000,
+		"in_reply_to_status_id_str": "1174420647361110016",
+		"in_reply_to_user_id": 270307546,
+		"in_reply_to_user_id_str": "270307546",
+		"in_reply_to_screen_name": "bennettscience",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1481,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bennettscience @SamPatue Also pretty cool is https://t.co/HPPA1nopMm - Run/sync from local sites from files on your machine, published to web\n\nhttps://t.co/kPYS6QJw6K\nhttps://t.co/f8XY7w5SJ1"
+	},
+	{
 		"created_at": "Wed Sep 18 20:23:18 +0000 2019",
 		"id": 1174418639950372900,
 		"id_str": "1174418639950372865",

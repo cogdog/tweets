@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 12:27:37 +0000 2019",
+		"id": 1175023709280788500,
+		"id_str": "1175023709280788480",
+		"full_text": "@realdlnorman @twoodwar @sleslie @jimgroom https://t.co/sp65e6BQsE",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "sleslie",
+					"name": "Scott Leslie",
+					"id": 3567831,
+					"id_str": "3567831",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175023620458000400,
+					"id_str": "1175023620458000384",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EE6FwdwXsAApydH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE6FwdwXsAApydH.jpg",
+					"url": "https://t.co/sp65e6BQsE",
+					"display_url": "pic.twitter.com/sp65e6BQsE",
+					"expanded_url": "https://twitter.com/cogdog/status/1175023709280788480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175023620458000400,
+					"id_str": "1175023620458000384",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EE6FwdwXsAApydH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE6FwdwXsAApydH.jpg",
+					"url": "https://t.co/sp65e6BQsE",
+					"display_url": "pic.twitter.com/sp65e6BQsE",
+					"expanded_url": "https://twitter.com/cogdog/status/1175023709280788480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175023649193115600,
+					"id_str": "1175023649193115648",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EE6FyIzWwAAkWg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE6FyIzWwAAkWg3.jpg",
+					"url": "https://t.co/sp65e6BQsE",
+					"display_url": "pic.twitter.com/sp65e6BQsE",
+					"expanded_url": "https://twitter.com/cogdog/status/1175023709280788480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175023672014381000,
+					"id_str": "1175023672014381056",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EE6Fzd0XoAAA8rK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE6Fzd0XoAAA8rK.jpg",
+					"url": "https://t.co/sp65e6BQsE",
+					"display_url": "pic.twitter.com/sp65e6BQsE",
+					"expanded_url": "https://twitter.com/cogdog/status/1175023709280788480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1701,
+							"h": 1978,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175023704155328500,
+					"id_str": "1175023704155328512",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EE6F1VjXkAALvlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE6F1VjXkAALvlH.jpg",
+					"url": "https://t.co/sp65e6BQsE",
+					"display_url": "pic.twitter.com/sp65e6BQsE",
+					"expanded_url": "https://twitter.com/cogdog/status/1175023709280788480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1174737987940143000,
+		"in_reply_to_status_id_str": "1174737987940143104",
+		"in_reply_to_user_id": 817493053527113700,
+		"in_reply_to_user_id_str": "817493053527113729",
+		"in_reply_to_screen_name": "realdlnorman",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10487,
+			"friends_count": 1481,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@realdlnorman @twoodwar @sleslie @jimgroom https://t.co/sp65e6BQsE"
+	},
+	{
 		"created_at": "Fri Sep 20 03:32:15 +0000 2019",
 		"id": 1174888980363513900,
 		"id_str": "1174888980363513858",

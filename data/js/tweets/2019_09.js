@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 19:41:50 +0000 2019",
+		"id": 1177307307530772500,
+		"id_str": "1177307307530772480",
+		"full_text": "@Bali_Maha @holden @amycollier @zephoria @BryanAlexander It’s the mystery AI Google Snippet Machine https://t.co/NNpNDDECNh Would guess it helps when page has SEO like metadata and open graph tags https://t.co/zcWw8bt3cX",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "amycollier",
+					"name": "Amy Collier",
+					"id": 20317838,
+					"id_str": "20317838",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"screen_name": "zephoria",
+					"name": "danah boyd",
+					"id": 633,
+					"id_str": "633",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NNpNDDECNh",
+					"expanded_url": "https://support.google.com/websearch/answer/9351707?p=featured_snippets",
+					"display_url": "support.google.com/websearch/answ…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1177307299611910100,
+					"id_str": "1177307299611910146",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EFaiwFjXoAIR7_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFaiwFjXoAIR7_A.jpg",
+					"url": "https://t.co/zcWw8bt3cX",
+					"display_url": "pic.twitter.com/zcWw8bt3cX",
+					"expanded_url": "https://twitter.com/cogdog/status/1177307307530772480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177307299611910100,
+					"id_str": "1177307299611910146",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EFaiwFjXoAIR7_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFaiwFjXoAIR7_A.jpg",
+					"url": "https://t.co/zcWw8bt3cX",
+					"display_url": "pic.twitter.com/zcWw8bt3cX",
+					"expanded_url": "https://twitter.com/cogdog/status/1177307307530772480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1177305462527713300,
+		"in_reply_to_status_id_str": "1177305462527713281",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10483,
+			"friends_count": 1480,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bali_Maha @holden @amycollier @zephoria @BryanAlexander It’s the mystery AI Google Snippet Machine https://t.co/NNpNDDECNh Would guess it helps when page has SEO like metadata and open graph tags https://t.co/zcWw8bt3cX"
+	},
+	{
 		"created_at": "Thu Sep 26 18:33:38 +0000 2019",
 		"id": 1177279669411954700,
 		"id_str": "1177290144858202112",

@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 15:10:03 +0000 2019",
+		"id": 1177601298998485000,
+		"id_str": "1177601298998484993",
+		"full_text": "Looks like a great launch and community forming for open educators across Canada. I can't attend but would hope to be part of a @VConnecting session if it happens. https://t.co/8p5MVdNTgM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8p5MVdNTgM",
+					"expanded_url": "https://twitter.com/otessa_org/status/1177173764540391425",
+					"display_url": "twitter.com/otessa_org/sta…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10484,
+			"friends_count": 1480,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177173764540391400,
+		"quoted_status_id_str": "1177173764540391425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8p5MVdNTgM",
+			"expanded": "https://twitter.com/otessa_org/status/1177173764540391425",
+			"display": "twitter.com/otessa_org/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 26 10:51:10 +0000 2019",
+			"id": 1177173764540391400,
+			"id_str": "1177173764540391425",
+			"full_text": "Our Call for Proposals is OPEN! Spread the word!\n\nDon't miss this transformative event for #edtech #opened #openaccess #digped &amp; more! Join the inaugural #OTESSA20 conference at @ideas_idees! #congressh\n\nDEADLINE: Nov. 28\n\nFor more info/to SUBMIT, visit https://t.co/M5Svu0oUrg https://t.co/Ul1IubUmHn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							91,
+							98
+						]
+					},
+					{
+						"text": "opened",
+						"indices": [
+							99,
+							106
+						]
+					},
+					{
+						"text": "openaccess",
+						"indices": [
+							107,
+							118
+						]
+					},
+					{
+						"text": "digped",
+						"indices": [
+							119,
+							126
+						]
+					},
+					{
+						"text": "OTESSA20",
+						"indices": [
+							158,
+							167
+						]
+					},
+					{
+						"text": "congressh",
+						"indices": [
+							196,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ideas_idees",
+						"name": "Ideas Idées",
+						"id": 20615708,
+						"id_str": "20615708",
+						"indices": [
+							182,
+							194
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/M5Svu0oUrg",
+						"expanded_url": "http://otessa.org/2020",
+						"display_url": "otessa.org/2020",
+						"indices": [
+							258,
+							281
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1177173761688244200,
+						"id_str": "1177173761688244225",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/EFYpTKBWkAE3YjP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFYpTKBWkAE3YjP.jpg",
+						"url": "https://t.co/Ul1IubUmHn",
+						"display_url": "pic.twitter.com/Ul1IubUmHn",
+						"expanded_url": "https://twitter.com/otessa_org/status/1177173764540391425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1177173761688244200,
+						"id_str": "1177173761688244225",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/EFYpTKBWkAE3YjP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFYpTKBWkAE3YjP.jpg",
+						"url": "https://t.co/Ul1IubUmHn",
+						"display_url": "pic.twitter.com/Ul1IubUmHn",
+						"expanded_url": "https://twitter.com/otessa_org/status/1177173764540391425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1138637689459052500,
+				"id_str": "1138637689459052544",
+				"name": "OTESSA",
+				"screen_name": "otessa_org",
+				"location": "Canada",
+				"description": "Open/Technology in Education, Society, & Scholarship Association is a non-profit supporting innovation |research | practice in #edtech & #opened. Join #otessa20",
+				"url": "https://t.co/ilU505o37m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ilU505o37m",
+								"expanded_url": "http://otessa.org",
+								"display_url": "otessa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 239,
+				"friends_count": 170,
+				"listed_count": 2,
+				"created_at": "Wed Jun 12 02:42:34 +0000 2019",
+				"favourites_count": 47,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1163090597336498178/cewRhh-t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163090597336498178/cewRhh-t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1138637689459052544/1567511431",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like a great launch and community forming for open educators across Canada. I can't attend but would hope to be part of a @VConnecting session if it happens. https://t.co/8p5MVdNTgM"
+	},
+	{
 		"created_at": "Fri Sep 27 06:24:26 +0000 2019",
 		"id": 1177469026395508700,
 		"id_str": "1177469026395508736",

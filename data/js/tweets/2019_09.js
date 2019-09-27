@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 22:43:35 +0000 2019",
+		"id": 1177698275425751000,
+		"id_str": "1177715434449186817",
+		"full_text": "I didn't know Kermit was into Carl Sagan cosplay. https://t.co/H98ecZ23QV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H98ecZ23QV",
+					"expanded_url": "https://twitter.com/KermitTheFrog/status/1177613879007993859",
+					"display_url": "twitter.com/KermitTheFrog/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6979102,
+			"id_str": "6979102",
+			"name": "Tara Calishain",
+			"screen_name": "ResearchBuzz",
+			"location": "",
+			"description": "Obsessed with search engines, info collections, and databases since forever. News and resources covering same since 1998. Wrote a stack of books. Say hi.",
+			"url": "http://t.co/N8gqhQKHJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/N8gqhQKHJ5",
+							"expanded_url": "http://www.researchbuzz.com",
+							"display_url": "researchbuzz.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5470,
+			"friends_count": 3356,
+			"listed_count": 599,
+			"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+			"favourites_count": 4438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_link_color": "243A8F",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177613879007993900,
+		"quoted_status_id_str": "1177613879007993859",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H98ecZ23QV",
+			"expanded": "https://twitter.com/KermitTheFrog/status/1177613879007993859",
+			"display": "twitter.com/KermitTheFrog/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 27 16:00:02 +0000 2019",
+			"id": 1177613879007993900,
+			"id_str": "1177613879007993859",
+			"full_text": "I'm swamped with meetings today! So much for casual Friday. https://t.co/NPNbrqKCVy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1177613877443534800,
+						"id_str": "1177613877443534851",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/EFe5lQ-XoAMYjxm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFe5lQ-XoAMYjxm.jpg",
+						"url": "https://t.co/NPNbrqKCVy",
+						"display_url": "pic.twitter.com/NPNbrqKCVy",
+						"expanded_url": "https://twitter.com/KermitTheFrog/status/1177613879007993859/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1177613877443534800,
+						"id_str": "1177613877443534851",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/EFe5lQ-XoAMYjxm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFe5lQ-XoAMYjxm.jpg",
+						"url": "https://t.co/NPNbrqKCVy",
+						"display_url": "pic.twitter.com/NPNbrqKCVy",
+						"expanded_url": "https://twitter.com/KermitTheFrog/status/1177613879007993859/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2377837022,
+				"id_str": "2377837022",
+				"name": "Kermit the Frog",
+				"screen_name": "KermitTheFrog",
+				"location": "Hollywood, CA",
+				"description": "Hi-ho! Welcome to the official Twitter of me, Kermit the Frog!",
+				"url": "https://t.co/kjainYAA9x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kjainYAA9x",
+								"expanded_url": "http://Facebook.com/MuppetsKermit",
+								"display_url": "Facebook.com/MuppetsKermit",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 263731,
+				"friends_count": 131,
+				"listed_count": 930,
+				"created_at": "Sat Mar 08 00:14:55 +0000 2014",
+				"favourites_count": 71,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1888,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080855598298611713/lTS-u1Iu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080855598298611713/lTS-u1Iu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2377837022/1489082880",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1087,
+			"favorite_count": 5371,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I didn't know Kermit was into Carl Sagan cosplay. https://t.co/H98ecZ23QV"
+	},
+	{
 		"created_at": "Fri Sep 27 21:07:12 +0000 2019",
 		"id": 1177691180680843300,
 		"id_str": "1177691180680843264",

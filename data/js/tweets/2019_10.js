@@ -1,6 +1,801 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 01 19:07:59 +0000 2019",
+		"id": 1179110729909186600,
+		"id_str": "1179110729909186560",
+		"full_text": "@sundilu @twoodwar @floatingtim @krisshaffer @ikrathinks No experience using OPML for outlining, only for creating sets of RSS feeds. I'd head over to https://t.co/3Dd1dJPP5x and follow the trails of @davewiner",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sundilu",
+					"name": "Sundi Richard",
+					"id": 16592181,
+					"id_str": "16592181",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "floatingtim",
+					"name": "Tim C",
+					"id": 18892030,
+					"id_str": "18892030",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"screen_name": "krisshaffer",
+					"name": "Kris Shaffer ⏳",
+					"id": 136476512,
+					"id_str": "136476512",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "ikrathinks",
+					"name": "Ikra",
+					"id": 490565628,
+					"id_str": "490565628",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "davewiner",
+					"name": "Dave Winer",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						200,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3Dd1dJPP5x",
+					"expanded_url": "http://home.opml.org/",
+					"display_url": "home.opml.org",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1179104455838429200,
+		"in_reply_to_status_id_str": "1179104455838429185",
+		"in_reply_to_user_id": 16592181,
+		"in_reply_to_user_id_str": "16592181",
+		"in_reply_to_screen_name": "sundilu",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10488,
+			"friends_count": 1480,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sundilu @twoodwar @floatingtim @krisshaffer @ikrathinks No experience using OPML for outlining, only for creating sets of RSS feeds. I'd head over to https://t.co/3Dd1dJPP5x and follow the trails of @davewiner"
+	},
+	{
+		"created_at": "Tue Oct 01 19:05:06 +0000 2019",
+		"id": 1179110004076531700,
+		"id_str": "1179110004076531714",
+		"full_text": "Yes. Try and do impeach this. ASAP. https://t.co/03BKR44aHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179109900624044000,
+					"id_str": "1179109900624044033",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EF0KNRnXoAErhf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EF0KNRnXoAErhf-.jpg",
+					"url": "https://t.co/03BKR44aHd",
+					"display_url": "pic.twitter.com/03BKR44aHd",
+					"expanded_url": "https://twitter.com/cogdog/status/1179110004076531714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179109900624044000,
+					"id_str": "1179109900624044033",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EF0KNRnXoAErhf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EF0KNRnXoAErhf-.jpg",
+					"url": "https://t.co/03BKR44aHd",
+					"display_url": "pic.twitter.com/03BKR44aHd",
+					"expanded_url": "https://twitter.com/cogdog/status/1179110004076531714/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							83
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EF0KNRnXoAErhf-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10488,
+			"friends_count": 1480,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes. Try and do impeach this. ASAP. https://t.co/03BKR44aHd"
+	},
+	{
+		"created_at": "Tue Oct 01 18:18:58 +0000 2019",
+		"id": 1179098393978777600,
+		"id_str": "1179098393978777600",
+		"full_text": "These are brilliant wordless stories #ds106 https://t.co/z8jSst4b9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8jSst4b9v",
+					"expanded_url": "https://twitter.com/Nsousanis/status/1179085872840331264",
+					"display_url": "twitter.com/Nsousanis/stat…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10488,
+			"friends_count": 1480,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179085872840331300,
+		"quoted_status_id_str": "1179085872840331264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z8jSst4b9v",
+			"expanded": "https://twitter.com/Nsousanis/status/1179085872840331264",
+			"display": "twitter.com/Nsousanis/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 01 17:29:13 +0000 2019",
+			"id": 1179085872840331300,
+			"id_str": "1179085872840331264",
+			"full_text": "For my intro course, i had Ss make wordless comics to get a deeper sense of the challenges of wordlessness - they rocked that, but at the same time, many Ss produced these form-bending pieces - dealing w/simultaneity &amp; panel breaking, which we'd discussed, but i'd not anticipated https://t.co/4Fau5pkMhp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1179085864388792300,
+						"id_str": "1179085864388792320",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EFz0WLqUEAAW63A.png",
+						"media_url_https": "https://pbs.twimg.com/media/EFz0WLqUEAAW63A.png",
+						"url": "https://t.co/4Fau5pkMhp",
+						"display_url": "pic.twitter.com/4Fau5pkMhp",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1179085872840331264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1179085864388792300,
+						"id_str": "1179085864388792320",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EFz0WLqUEAAW63A.png",
+						"media_url_https": "https://pbs.twimg.com/media/EFz0WLqUEAAW63A.png",
+						"url": "https://t.co/4Fau5pkMhp",
+						"display_url": "pic.twitter.com/4Fau5pkMhp",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1179085872840331264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1179085864393031700,
+						"id_str": "1179085864393031680",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EFz0WLrUwAAV-Bd.png",
+						"media_url_https": "https://pbs.twimg.com/media/EFz0WLrUwAAV-Bd.png",
+						"url": "https://t.co/4Fau5pkMhp",
+						"display_url": "pic.twitter.com/4Fau5pkMhp",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1179085872840331264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 669,
+								"h": 464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 669,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 669,
+								"h": 464,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1179085864413974500,
+						"id_str": "1179085864413974528",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EFz0WLwUUAAbhyF.png",
+						"media_url_https": "https://pbs.twimg.com/media/EFz0WLwUUAAbhyF.png",
+						"url": "https://t.co/4Fau5pkMhp",
+						"display_url": "pic.twitter.com/4Fau5pkMhp",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1179085872840331264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 405,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 405,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 405,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1179085864434974700,
+						"id_str": "1179085864434974720",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EFz0WL1UwAA1J1-.png",
+						"media_url_https": "https://pbs.twimg.com/media/EFz0WL1UwAA1J1-.png",
+						"url": "https://t.co/4Fau5pkMhp",
+						"display_url": "pic.twitter.com/4Fau5pkMhp",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1179085872840331264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 660,
+								"h": 483,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 483,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 660,
+								"h": 483,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 427354566,
+				"id_str": "427354566",
+				"name": "Nick Sousanis",
+				"screen_name": "Nsousanis",
+				"location": "San Francisco, CA",
+				"description": "Comics as thinking. Eisner winner. Unflattening from HarvardUP (https://t.co/i62Er7LeZu). Former Detroiter/NYer/YYC/now asst prof SFSU-Comics Studies!",
+				"url": "http://www.spinweaveandcut.com",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.spinweaveandcut.com",
+								"expanded_url": null,
+								"indices": [
+									0,
+									30
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i62Er7LeZu",
+								"expanded_url": "http://bit.ly/1vENIO7",
+								"display_url": "bit.ly/1vENIO7",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5657,
+				"friends_count": 1739,
+				"listed_count": 250,
+				"created_at": "Sat Dec 03 12:31:25 +0000 2011",
+				"favourites_count": 63548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033967294395731968/AWN_tBbU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033967294395731968/AWN_tBbU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/427354566/1411356904",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are brilliant wordless stories #ds106 https://t.co/z8jSst4b9v"
+	},
+	{
 		"created_at": "Tue Oct 01 15:03:21 +0000 2019",
 		"id": 1179049165806018600,
 		"id_str": "1179049165806018560",

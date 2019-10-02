@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 20:09:39 +0000 2019",
+		"id": 1179488636951244800,
+		"id_str": "1179488636951244800",
+		"full_text": "@SuddenlinkHelp @AlticeUSA @Suddenlink Hitting the 2:30 mark, still on hold. Might have a ways to go to set a record https://t.co/MZzQmWxnEK",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuddenlinkHelp",
+					"name": "Suddenlink Help",
+					"id": 137472761,
+					"id_str": "137472761",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "AlticeUSA",
+					"name": "AlticeUSA",
+					"id": 4555641383,
+					"id_str": "4555641383",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "Suddenlink",
+					"name": "Suddenlink",
+					"id": 16212769,
+					"id_str": "16212769",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MZzQmWxnEK",
+					"expanded_url": "https://abcnews.go.com/Travel/airline-man-hold-15-hours/story?id=16919850",
+					"display_url": "abcnews.go.com/Travel/airline…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1179480619119718400,
+		"in_reply_to_status_id_str": "1179480619119718400",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 1480,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SuddenlinkHelp @AlticeUSA @Suddenlink Hitting the 2:30 mark, still on hold. Might have a ways to go to set a record https://t.co/MZzQmWxnEK"
+	},
+	{
+		"created_at": "Wed Oct 02 19:52:29 +0000 2019",
+		"id": 1179484316914593800,
+		"id_str": "1179484316914593792",
+		"full_text": "@laurapasquini @jjjohnson01 Too bad @pappap is taken! Looks like he did his second tweet and got bored\n\nhttps://t.co/eLG0OxGLmw",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurapasquini",
+					"name": "Laura Pasquini",
+					"id": 16708242,
+					"id_str": "16708242",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "jjjohnson01",
+					"name": "jj johnson",
+					"id": 16474241,
+					"id_str": "16474241",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "pappap",
+					"name": "Louis Fahrion",
+					"id": 12955002,
+					"id_str": "12955002",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eLG0OxGLmw",
+					"expanded_url": "https://twitter.com/pappap/status/765448524",
+					"display_url": "twitter.com/pappap/status/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1179483721050841000,
+		"in_reply_to_status_id_str": "1179483721050841094",
+		"in_reply_to_user_id": 16708242,
+		"in_reply_to_user_id_str": "16708242",
+		"in_reply_to_screen_name": "laurapasquini",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 1480,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 765448524,
+		"quoted_status_id_str": "765448524",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eLG0OxGLmw",
+			"expanded": "https://twitter.com/pappap/status/765448524",
+			"display": "twitter.com/pappap/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 01 20:49:44 +0000 2008",
+			"id": 765448524,
+			"id_str": "765448524",
+			"full_text": "Surfing the net.Nobody here but me",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12955002,
+				"id_str": "12955002",
+				"name": "Louis Fahrion",
+				"screen_name": "pappap",
+				"location": "Ohio",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6,
+				"friends_count": 2,
+				"listed_count": 0,
+				"created_at": "Fri Feb 01 19:08:59 +0000 2008",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/47144632/pappapclose_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/47144632/pappapclose_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@laurapasquini @jjjohnson01 Too bad @pappap is taken! Looks like he did his second tweet and got bored\n\nhttps://t.co/eLG0OxGLmw"
+	},
+	{
+		"created_at": "Wed Oct 02 19:37:47 +0000 2019",
+		"id": 1179480619119718400,
+		"id_str": "1179480619119718400",
+		"full_text": "@SuddenlinkHelp @AlticeUSA @Suddenlink It's lonely out here in space, only looping music as solace. Closing in on 2 hours on hold for @Suddenlink bill error.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuddenlinkHelp",
+					"name": "Suddenlink Help",
+					"id": 137472761,
+					"id_str": "137472761",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "AlticeUSA",
+					"name": "AlticeUSA",
+					"id": 4555641383,
+					"id_str": "4555641383",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "Suddenlink",
+					"name": "Suddenlink",
+					"id": 16212769,
+					"id_str": "16212769",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "Suddenlink",
+					"name": "Suddenlink",
+					"id": 16212769,
+					"id_str": "16212769",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1179477213466497000,
+		"in_reply_to_status_id_str": "1179477213466497024",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 1480,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SuddenlinkHelp @AlticeUSA @Suddenlink It's lonely out here in space, only looping music as solace. Closing in on 2 hours on hold for @Suddenlink bill error."
+	},
+	{
+		"created_at": "Wed Oct 02 19:32:20 +0000 2019",
+		"id": 1179479246353440800,
+		"id_str": "1179479246353440768",
+		"full_text": "@SuddenlinkHelp @AlticeUSA @Suddenlink At 1:48 Cheryl answered and told me , after trying to sell me an upgrade, I needed to talk to billing. She transferred me no where. I am in limbo,",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuddenlinkHelp",
+					"name": "Suddenlink Help",
+					"id": 137472761,
+					"id_str": "137472761",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "AlticeUSA",
+					"name": "AlticeUSA",
+					"id": 4555641383,
+					"id_str": "4555641383",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "Suddenlink",
+					"name": "Suddenlink",
+					"id": 16212769,
+					"id_str": "16212769",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1179477213466497000,
+		"in_reply_to_status_id_str": "1179477213466497024",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 1480,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SuddenlinkHelp @AlticeUSA @Suddenlink At 1:48 Cheryl answered and told me , after trying to sell me an upgrade, I needed to talk to billing. She transferred me no where. I am in limbo,"
+	},
+	{
 		"created_at": "Wed Oct 02 19:12:25 +0000 2019",
 		"id": 1179474233153527800,
 		"id_str": "1179474233153527808",

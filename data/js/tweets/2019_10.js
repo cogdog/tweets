@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 04 17:06:43 +0000 2019",
+		"id": 1180167377163636700,
+		"id_str": "1180167377163636736",
+		"full_text": "#BeMoreTaco https://t.co/O0p3Tgg4js",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeMoreTaco",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O0p3Tgg4js",
+					"expanded_url": "https://twitter.com/wgbh/status/1180166395990040576",
+					"display_url": "twitter.com/wgbh/status/11…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10491,
+			"friends_count": 1481,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1180166395990040600,
+		"quoted_status_id_str": "1180166395990040576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O0p3Tgg4js",
+			"expanded": "https://twitter.com/wgbh/status/1180166395990040576",
+			"display": "twitter.com/wgbh/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 04 17:02:49 +0000 2019",
+			"id": 1180166395990040600,
+			"id_str": "1180166395990040576",
+			"full_text": "\"You can't make everybody happy, you're not a taco.\"\n\n@wgbh'ers spill the beans on their favorite 🌮 joints in @CityOfBoston and beyond for #NationalTacoDay: https://t.co/KxYK9wYBuZ https://t.co/VQXlSsRxNH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalTacoDay",
+						"indices": [
+							139,
+							155
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wgbh",
+						"name": "WGBH",
+						"id": 17041361,
+						"id_str": "17041361",
+						"indices": [
+							54,
+							59
+						]
+					},
+					{
+						"screen_name": "CityOfBoston",
+						"name": "City of Boston",
+						"id": 124455872,
+						"id_str": "124455872",
+						"indices": [
+							110,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KxYK9wYBuZ",
+						"expanded_url": "https://www.wgbh.org/best-tacos-around-boston",
+						"display_url": "wgbh.org/best-tacos-aro…",
+						"indices": [
+							157,
+							180
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1180166392055832600,
+						"id_str": "1180166392055832577",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EGDLFK5XoAE2yN6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGDLFK5XoAE2yN6.jpg",
+						"url": "https://t.co/VQXlSsRxNH",
+						"display_url": "pic.twitter.com/VQXlSsRxNH",
+						"expanded_url": "https://twitter.com/wgbh/status/1180166395990040576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 854,
+								"h": 569,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 854,
+								"h": 569,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1180166392055832600,
+						"id_str": "1180166392055832577",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EGDLFK5XoAE2yN6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGDLFK5XoAE2yN6.jpg",
+						"url": "https://t.co/VQXlSsRxNH",
+						"display_url": "pic.twitter.com/VQXlSsRxNH",
+						"expanded_url": "https://twitter.com/wgbh/status/1180166395990040576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 854,
+								"h": 569,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 854,
+								"h": 569,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1180166392059969500,
+						"id_str": "1180166392059969541",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EGDLFK6WwAUyFw7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGDLFK6WwAUyFw7.jpg",
+						"url": "https://t.co/VQXlSsRxNH",
+						"display_url": "pic.twitter.com/VQXlSsRxNH",
+						"expanded_url": "https://twitter.com/wgbh/status/1180166395990040576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 854,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 854,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1180166392059965400,
+						"id_str": "1180166392059965440",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EGDLFK6WsAAjG4B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGDLFK6WsAAjG4B.jpg",
+						"url": "https://t.co/VQXlSsRxNH",
+						"display_url": "pic.twitter.com/VQXlSsRxNH",
+						"expanded_url": "https://twitter.com/wgbh/status/1180166395990040576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 854,
+								"h": 854,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1180166392059961300,
+						"id_str": "1180166392059961344",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EGDLFK6WoAATYMk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGDLFK6WoAATYMk.jpg",
+						"url": "https://t.co/VQXlSsRxNH",
+						"display_url": "pic.twitter.com/VQXlSsRxNH",
+						"expanded_url": "https://twitter.com/wgbh/status/1180166395990040576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 569,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 569,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17041361,
+				"id_str": "17041361",
+				"name": "WGBH",
+				"screen_name": "wgbh",
+				"location": "Boston",
+				"description": "We are a trusted source of public media content for Boston and beyond, creating experiences that educate, inspire and entertain.",
+				"url": "https://t.co/dTBktEb3ZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dTBktEb3ZD",
+								"expanded_url": "http://wgbh.org",
+								"display_url": "wgbh.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39213,
+				"friends_count": 5055,
+				"listed_count": 1218,
+				"created_at": "Wed Oct 29 13:39:55 +0000 2008",
+				"favourites_count": 8797,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18958,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FEFBFB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145719273249222656/rb13jY4v_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145719273249222656/rb13jY4v_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17041361/1544042653",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BeMoreTaco https://t.co/O0p3Tgg4js"
+	},
+	{
 		"created_at": "Fri Oct 04 14:55:54 +0000 2019",
 		"id": 1180134454850969600,
 		"id_str": "1180134454850969600",

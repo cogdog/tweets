@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 14:43:36 +0000 2019",
+		"id": 1175777150663716900,
+		"id_str": "1181580909365141504",
+		"full_text": "The 2019 World Conference on Online Learning and OERu are offering a micro-course on Open education, copyright, and open licensing in a digital world (LiDA103) on 7 October 2019. @SDCollegeAmbala  @OERuniversitas @Mackiwg  @TeacherParv\nRegistration link: https://t.co/sxX24qf21S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDCollegeAmbala",
+					"name": "SD COLLEGE (LAHORE)",
+					"id": 3952737792,
+					"id_str": "3952737792",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"screen_name": "OERuniversitas",
+					"name": "OERu",
+					"id": 2251530498,
+					"id_str": "2251530498",
+					"indices": [
+						197,
+						212
+					]
+				},
+				{
+					"screen_name": "Mackiwg",
+					"name": "Wayne Mackintosh",
+					"id": 28217898,
+					"id_str": "28217898",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"screen_name": "TeacherParv",
+					"name": "Parveen Sharma",
+					"id": 1572838274,
+					"id_str": "1572838274",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sxX24qf21S",
+					"expanded_url": "https://oer.nz/wcol2019",
+					"display_url": "oer.nz/wcol2019",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 244542692,
+			"id_str": "244542692",
+			"name": "Ramesh Sharma",
+			"screen_name": "rc4u2nv",
+			"location": "Ambedkar University Delhi, Kashmere Gate, Delhi, India",
+			"description": "OER Ambassador for the OER Foundation, WikiEducator, Teacher Educator, Virtual World-ler, Moodler, eLearning, Instructional Designer",
+			"url": "https://t.co/hh1Pkww2rN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hh1Pkww2rN",
+							"expanded_url": "https://aud-in.academia.edu/RameshSharma",
+							"display_url": "aud-in.academia.edu/RameshSharma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 259,
+			"listed_count": 36,
+			"created_at": "Sat Jan 29 15:09:40 +0000 2011",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1739243557/rcs_damodar_coll_2oct11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1739243557/rcs_damodar_coll_2oct11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244542692/1417594283",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2019 World Conference on Online Learning and OERu are offering a micro-course on Open education, copyright, and open licensing in a digital world (LiDA103) on 7 October 2019. @SDCollegeAmbala  @OERuniversitas @Mackiwg  @TeacherParv\nRegistration link: https://t.co/sxX24qf21S"
+	},
+	{
+		"created_at": "Tue Oct 08 14:37:00 +0000 2019",
+		"id": 1181579249502900200,
+		"id_str": "1181579249502900224",
+		"full_text": "2019/365/279 I Like You Too #flickr https://t.co/ujwbL3wCRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "flickr",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ujwbL3wCRX",
+					"expanded_url": "https://flic.kr/p/2hrQTRW",
+					"display_url": "flic.kr/p/2hrQTRW",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10491,
+			"friends_count": 1481,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2019/365/279 I Like You Too #flickr https://t.co/ujwbL3wCRX"
+	},
+	{
 		"created_at": "Tue Oct 08 12:47:51 +0000 2019",
 		"id": 1181551779458236400,
 		"id_str": "1181551779458236416",

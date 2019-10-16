@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 22:34:59 +0000 2019",
+		"id": 1184598640947531800,
+		"id_str": "1184598640947531776",
+		"full_text": "@Suddenlink @suddenlinkhelp So I had chat window spinning open for 20 minutes no one showing up (while on hold for 47), when Nancy showed up she gave me 90 seconds to respond? This is not world class service. Meanwhile you keep sucking $ from my account for services not used https://t.co/j9lT17Bb3N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Suddenlink",
+					"name": "Suddenlink",
+					"id": 16212769,
+					"id_str": "16212769",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "SuddenlinkHelp",
+					"name": "Suddenlink Help",
+					"id": 137472761,
+					"id_str": "137472761",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184598511628832800,
+					"id_str": "1184598511628832770",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EHCKEe8X0AI4naO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHCKEe8X0AI4naO.jpg",
+					"url": "https://t.co/j9lT17Bb3N",
+					"display_url": "pic.twitter.com/j9lT17Bb3N",
+					"expanded_url": "https://twitter.com/cogdog/status/1184598640947531776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184598511628832800,
+					"id_str": "1184598511628832770",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EHCKEe8X0AI4naO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHCKEe8X0AI4naO.jpg",
+					"url": "https://t.co/j9lT17Bb3N",
+					"display_url": "pic.twitter.com/j9lT17Bb3N",
+					"expanded_url": "https://twitter.com/cogdog/status/1184598640947531776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1184598544642171000,
+					"id_str": "1184598544642170883",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EHCKGZ7XYAMFA37.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHCKGZ7XYAMFA37.jpg",
+					"url": "https://t.co/j9lT17Bb3N",
+					"display_url": "pic.twitter.com/j9lT17Bb3N",
+					"expanded_url": "https://twitter.com/cogdog/status/1184598640947531776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 844,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16212769,
+		"in_reply_to_user_id_str": "16212769",
+		"in_reply_to_screen_name": "Suddenlink",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10489,
+			"friends_count": 1481,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Suddenlink @suddenlinkhelp So I had chat window spinning open for 20 minutes no one showing up (while on hold for 47), when Nancy showed up she gave me 90 seconds to respond? This is not world class service. Meanwhile you keep sucking $ from my account for services not used https://t.co/j9lT17Bb3N"
+	},
+	{
 		"created_at": "Wed Oct 16 18:47:45 +0000 2019",
 		"id": 1184541454728945700,
 		"id_str": "1184541454728945664",

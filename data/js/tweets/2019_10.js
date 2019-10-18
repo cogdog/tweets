@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 14:06:10 +0000 2019",
+		"id": 1185195367677223000,
+		"id_str": "1185195367677222914",
+		"full_text": "@easegill @grantpotter @jimgroom @brlamb @DrGarcia I love radio garden, have used it a few times for exploring sound activities. On a different wavelength, tune in to https://t.co/YoIeWeJel4",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "easegill",
+					"name": "Nigel Robertson",
+					"id": 9928852,
+					"id_str": "9928852",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"screen_name": "DrGarcia",
+					"name": "GNA Garcia",
+					"id": 19897497,
+					"id_str": "19897497",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YoIeWeJel4",
+					"expanded_url": "https://frequency2156.com",
+					"display_url": "frequency2156.com",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1185124248714543000,
+		"in_reply_to_status_id_str": "1185124248714543104",
+		"in_reply_to_user_id": 9928852,
+		"in_reply_to_user_id_str": "9928852",
+		"in_reply_to_screen_name": "easegill",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10488,
+			"friends_count": 1481,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@easegill @grantpotter @jimgroom @brlamb @DrGarcia I love radio garden, have used it a few times for exploring sound activities. On a different wavelength, tune in to https://t.co/YoIeWeJel4"
+	},
+	{
 		"created_at": "Fri Oct 18 12:40:44 +0000 2019",
 		"id": 1179668976957350000,
 		"id_str": "1185173867402317829",

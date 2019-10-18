@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 12:40:44 +0000 2019",
+		"id": 1179668976957350000,
+		"id_str": "1185173867402317829",
+		"full_text": "On building another internet with intention and with care... \n\nCheck out my piece in @UrbanOmnibus Digital Frictions series edited by @shannonmattern &amp; feat @DetCommTech &amp; @rzbzteam.  https://t.co/otM6W11tqQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UrbanOmnibus",
+					"name": "Urban Omnibus",
+					"id": 18726289,
+					"id_str": "18726289",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"screen_name": "shannonmattern",
+					"name": "Shannon Mattern",
+					"id": 357916553,
+					"id_str": "357916553",
+					"indices": [
+						134,
+						149
+					]
+				},
+				{
+					"screen_name": "DetCommTech",
+					"name": "DCTP",
+					"id": 3107696011,
+					"id_str": "3107696011",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"screen_name": "rzbzteam",
+					"name": "Resilient Communities NYC",
+					"id": 750389903104548900,
+					"id_str": "750389903104548864",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/otM6W11tqQ",
+					"expanded_url": "https://urbanomnibus.net/2019/10/building-the-peoples-internet/",
+					"display_url": "urbanomnibus.net/2019/10/buildi…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 342979657,
+			"id_str": "342979657",
+			"name": "Greta Byrum",
+			"screen_name": "gretabyrum",
+			"location": "",
+			"description": "Co-Director, @DigitalEqLab. Founder/former, Resilient Communities @rzbzteam. Radio waves = infrastructure. Transmissions are my own not institutional.",
+			"url": "https://t.co/rEZDMJHREj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rEZDMJHREj",
+							"expanded_url": "https://www.digitalequitylab.org",
+							"display_url": "digitalequitylab.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1375,
+			"friends_count": 1242,
+			"listed_count": 57,
+			"created_at": "Tue Jul 26 21:47:03 +0000 2011",
+			"favourites_count": 13625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120851686069809152/2JKyplFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120851686069809152/2JKyplFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/342979657/1495293575",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On building another internet with intention and with care... \n\nCheck out my piece in @UrbanOmnibus Digital Frictions series edited by @shannonmattern &amp; feat @DetCommTech &amp; @rzbzteam.  https://t.co/otM6W11tqQ"
+	},
+	{
 		"created_at": "Fri Oct 18 05:19:33 +0000 2019",
 		"id": 1185062840102768600,
 		"id_str": "1185062840102768640",

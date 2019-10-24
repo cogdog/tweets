@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 16:06:28 +0000 2019",
+		"id": 1187399971781402600,
+		"id_str": "1187399971781402626",
+		"full_text": "@courosa @MrEhRon These looked like attempts at such a thing, but I got very mixed to weakly results ;-)\n\nhttps://t.co/LoSMMuzgmH or https://t.co/TqmD2tW2mE",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "MrEhRon",
+					"name": "Aaron Warner",
+					"id": 195208081,
+					"id_str": "195208081",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LoSMMuzgmH",
+					"expanded_url": "https://lingojam.com/BadEnglishGrammarTranslator",
+					"display_url": "lingojam.com/BadEnglishGram…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/TqmD2tW2mE",
+					"expanded_url": "https://lingojam.com/BadTranslator",
+					"display_url": "lingojam.com/BadTranslator",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1187397757599965200,
+		"in_reply_to_status_id_str": "1187397757599965187",
+		"in_reply_to_user_id": 739293,
+		"in_reply_to_user_id_str": "739293",
+		"in_reply_to_screen_name": "courosa",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10497,
+			"friends_count": 1491,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@courosa @MrEhRon These looked like attempts at such a thing, but I got very mixed to weakly results ;-)\n\nhttps://t.co/LoSMMuzgmH or https://t.co/TqmD2tW2mE"
+	},
+	{
+		"created_at": "Thu Oct 24 15:53:25 +0000 2019",
+		"id": 1178723256901103600,
+		"id_str": "1187396686555107329",
+		"full_text": "We have started our annual faculty blogging challenge.  This year we have clear themes and the goal of producing a book for future new faculty based on, \"I wish that I had known...\"\n#Blogging\nhttps://t.co/ljmF07MEbt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Blogging",
+					"indices": [
+						182,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ljmF07MEbt",
+					"expanded_url": "http://www.telswebletter.com/",
+					"display_url": "telswebletter.com",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47694439,
+			"id_str": "47694439",
+			"name": "Yavapai TeLS",
+			"screen_name": "yctels",
+			"location": "Prescott, Arizona",
+			"description": "Teaching & eLearning Support",
+			"url": "http://t.co/j9osBe2XyR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/j9osBe2XyR",
+							"expanded_url": "http://www.telswebletter.com",
+							"display_url": "telswebletter.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 142,
+			"listed_count": 7,
+			"created_at": "Tue Jun 16 18:06:39 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175131772767498240/D2kzpmTU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175131772767498240/D2kzpmTU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47694439/1569008222",
+			"profile_link_color": "2F7004",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have started our annual faculty blogging challenge.  This year we have clear themes and the goal of producing a book for future new faculty based on, \"I wish that I had known...\"\n#Blogging\nhttps://t.co/ljmF07MEbt"
+	},
+	{
 		"created_at": "Thu Oct 24 05:23:36 +0000 2019",
 		"id": 1187238186604531700,
 		"id_str": "1187238186604531712",

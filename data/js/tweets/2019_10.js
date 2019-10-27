@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 27 19:03:31 +0000 2019",
+		"id": 1188531688575590400,
+		"id_str": "1188531688575590402",
+		"full_text": "This is some impressive net fiction. I hope to reuse the openly shared code https://t.co/IBzfSu1p62",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IBzfSu1p62",
+					"expanded_url": "https://twitter.com/samplereality/status/1188471323590352896",
+					"display_url": "twitter.com/samplereality/…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1495,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188471323590353000,
+		"quoted_status_id_str": "1188471323590352896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IBzfSu1p62",
+			"expanded": "https://twitter.com/samplereality/status/1188471323590352896",
+			"display": "twitter.com/samplereality/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 27 15:03:38 +0000 2019",
+			"id": 1188471323590353000,
+			"id_str": "1188471323590352896",
+			"full_text": "Ring™ Log is an experiment in speculative surveillance that imagines Ring™ doorbell cams integrating object detection and facial recognition. See the log from October  31, 2020 https://t.co/Jp80bF30UA https://t.co/PqjcJ7UUO7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Jp80bF30UA",
+						"expanded_url": "https://fugitivetexts.net/ring/",
+						"display_url": "fugitivetexts.net/ring/",
+						"indices": [
+							177,
+							200
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1188471321547686000,
+						"id_str": "1188471321547685893",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EH5MXsKWwAU-jKf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH5MXsKWwAU-jKf.jpg",
+						"url": "https://t.co/PqjcJ7UUO7",
+						"display_url": "pic.twitter.com/PqjcJ7UUO7",
+						"expanded_url": "https://twitter.com/samplereality/status/1188471323590352896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 621,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 621,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188471321547686000,
+						"id_str": "1188471321547685893",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EH5MXsKWwAU-jKf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH5MXsKWwAU-jKf.jpg",
+						"url": "https://t.co/PqjcJ7UUO7",
+						"display_url": "pic.twitter.com/PqjcJ7UUO7",
+						"expanded_url": "https://twitter.com/samplereality/status/1188471323590352896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 621,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 621,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8497292,
+				"id_str": "8497292",
+				"name": "Mark Sample",
+				"screen_name": "samplereality",
+				"location": "",
+				"description": "👨‍🏫 👨‍👩‍👦‍👦 💻 🤖 🐳",
+				"url": "https://t.co/oRy4nnx6c1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oRy4nnx6c1",
+								"expanded_url": "https://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8849,
+				"friends_count": 1143,
+				"listed_count": 524,
+				"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+				"favourites_count": 1233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42081,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3B3B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164700628272074752/3yvHbv8f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164700628272074752/3yvHbv8f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1571416970",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is some impressive net fiction. I hope to reuse the openly shared code https://t.co/IBzfSu1p62"
+	},
+	{
 		"created_at": "Sun Oct 27 16:50:48 +0000 2019",
 		"id": 1188498292956635100,
 		"id_str": "1188498292956635138",

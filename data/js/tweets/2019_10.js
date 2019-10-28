@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 14:44:58 +0000 2019",
+		"id": 1188829012593971200,
+		"id_str": "1188829012593971202",
+		"full_text": "\"Goodhart’s Law states that 'When a measure becomes a target, it ceases to be a good measure.' \n\n\"We can’t measure the things that matter most. Metrics are typically just a proxy for what we really care about.\" https://t.co/RuUlEXKNEc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RuUlEXKNEc",
+					"expanded_url": "https://twitter.com/vboykis/status/1185629540883861504",
+					"display_url": "twitter.com/vboykis/status…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1495,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185629540883861500,
+		"quoted_status_id_str": "1185629540883861504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RuUlEXKNEc",
+			"expanded": "https://twitter.com/vboykis/status/1185629540883861504",
+			"display": "twitter.com/vboykis/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 19 18:51:25 +0000 2019",
+			"id": 1185629540883861500,
+			"id_str": "1185629540883861504",
+			"full_text": "Fantastic piece by @math_rachel on the misuse of metrics in organizations, particularly ones that measure success by number of clicks and time spent on platform. https://t.co/H4gDs2scD1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "math_rachel",
+						"name": "Rachel Thomas",
+						"id": 1408142352,
+						"id_str": "1408142352",
+						"indices": [
+							19,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/H4gDs2scD1",
+						"expanded_url": "https://www.fast.ai/2019/09/24/metrics/",
+						"display_url": "fast.ai/2019/09/24/met…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19304217,
+				"id_str": "19304217",
+				"name": "Vicki B🎃ykis",
+				"screen_name": "vboykis",
+				"location": "Philadelphia, PA",
+				"description": "Born: Jewish in Russia. Raised: Guilty in the USA. Days: Data + Python. Cloud immigrant. Nights:🤱& 👧  Newsletter: https://t.co/f2tl0U3vpU Bot: @sovietartbot",
+				"url": "https://t.co/yZJ5XlxbmR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yZJ5XlxbmR",
+								"expanded_url": "http://www.vickiboykis.com",
+								"display_url": "vickiboykis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/f2tl0U3vpU",
+								"expanded_url": "http://vicki.substack.com",
+								"display_url": "vicki.substack.com",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18989,
+				"friends_count": 701,
+				"listed_count": 526,
+				"created_at": "Wed Jan 21 20:04:22 +0000 2009",
+				"favourites_count": 35900,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49774,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463852826435674115/yjewjpOI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463852826435674115/yjewjpOI_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19304217/1407807190",
+				"profile_link_color": "7D107D",
+				"profile_sidebar_border_color": "D8D8D8",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "0E73AD",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 207,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Goodhart’s Law states that 'When a measure becomes a target, it ceases to be a good measure.' \n\n\"We can’t measure the things that matter most. Metrics are typically just a proxy for what we really care about.\" https://t.co/RuUlEXKNEc"
+	},
+	{
 		"created_at": "Mon Oct 28 14:14:54 +0000 2019",
 		"id": 1188821445738139600,
 		"id_str": "1188821445738139648",

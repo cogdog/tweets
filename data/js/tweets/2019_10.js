@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 15:17:25 +0000 2019",
+		"id": 1189199567994142700,
+		"id_str": "1189199567994142721",
+		"full_text": "And it was less than 10 years later that the first spam message was sent! https://t.co/byLhv4mrT9 https://t.co/3nCKksQKpW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/byLhv4mrT9",
+					"expanded_url": "https://en.wikipedia.org/wiki/History_of_email_spam",
+					"display_url": "en.wikipedia.org/wiki/History_o…",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/3nCKksQKpW",
+					"expanded_url": "https://twitter.com/wikimediauk/status/1189106701359833088",
+					"display_url": "twitter.com/wikimediauk/st…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10501,
+			"friends_count": 1496,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189106701359833000,
+		"quoted_status_id_str": "1189106701359833088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3nCKksQKpW",
+			"expanded": "https://twitter.com/wikimediauk/status/1189106701359833088",
+			"display": "twitter.com/wikimediauk/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 29 09:08:24 +0000 2019",
+			"id": 1189106701359833000,
+			"id_str": "1189106701359833088",
+			"full_text": "On this day in 1969, the first-ever computer-to-computer link is established on ARPANET, the precursor to the Internet. https://t.co/Y61RqXAIhz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1189106693306814500,
+						"id_str": "1189106693306814464",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EICOPMaXkAAJd8_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EICOPMaXkAAJd8_.jpg",
+						"url": "https://t.co/Y61RqXAIhz",
+						"display_url": "pic.twitter.com/Y61RqXAIhz",
+						"expanded_url": "https://twitter.com/wikimediauk/status/1189106701359833088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 296,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 296,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 296,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1189106693306814500,
+						"id_str": "1189106693306814464",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EICOPMaXkAAJd8_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EICOPMaXkAAJd8_.jpg",
+						"url": "https://t.co/Y61RqXAIhz",
+						"display_url": "pic.twitter.com/Y61RqXAIhz",
+						"expanded_url": "https://twitter.com/wikimediauk/status/1189106701359833088/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 296,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 296,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 296,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								60,
+								37
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EICOPMaXkAAJd8_.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66773314,
+				"id_str": "66773314",
+				"name": "Wikimedia UK",
+				"screen_name": "wikimediauk",
+				"location": "United Kingdom",
+				"description": "Supporting Wikipedia and the Wikimedia community in the UK |  #openknowledge for all! #OpenAccess #OER | \nhttps://t.co/dOtClCSF3n\n https://t.co/CZbT9fsQ1d",
+				"url": "https://t.co/J25DWkhxhp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J25DWkhxhp",
+								"expanded_url": "http://wikimedia.org.uk",
+								"display_url": "wikimedia.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dOtClCSF3n",
+								"expanded_url": "http://facebook.com/WikimediaUK",
+								"display_url": "facebook.com/WikimediaUK",
+								"indices": [
+									106,
+									129
+								]
+							},
+							{
+								"url": "https://t.co/CZbT9fsQ1d",
+								"expanded_url": "http://youtube.com/user/WikimediaUK",
+								"display_url": "youtube.com/user/Wikimedia…",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14551,
+				"friends_count": 8375,
+				"listed_count": 352,
+				"created_at": "Tue Aug 18 19:27:06 +0000 2009",
+				"favourites_count": 7971,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22693,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717384624398315520/Vte-dJDp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717384624398315520/Vte-dJDp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66773314/1459350881",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "D3FFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And it was less than 10 years later that the first spam message was sent! https://t.co/byLhv4mrT9 https://t.co/3nCKksQKpW"
+	},
+	{
 		"created_at": "Tue Oct 29 14:53:58 +0000 2019",
 		"id": 1189193666679566300,
 		"id_str": "1189193666679566337",

@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 22:36:20 +0000 2019",
+		"id": 1189672320371241000,
+		"id_str": "1189672412025171969",
+		"full_text": "Conversations coming to you live from #OpenEd19 with virtual folks @wavinya66 #emergeAfrica @Mohamedmetwa @phb256 @autumm @cogdog @hj_dewaard talking onsite folks. @VConnecting in action https://t.co/XDvfsI6cTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenEd19",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"text": "emergeAfrica",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wavinya66",
+					"name": "Irene Maweu",
+					"id": 123168263,
+					"id_str": "123168263",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"screen_name": "Mohamedmetwa",
+					"name": "Mohamed Ahmed",
+					"id": 2457094130,
+					"id_str": "2457094130",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "phb256",
+					"name": "paul bond",
+					"id": 52256628,
+					"id_str": "52256628",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm doesn't need a fall themed long name",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						164,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XDvfsI6cTx",
+					"expanded_url": "https://youtu.be/4wI8bEFAecs",
+					"display_url": "youtu.be/4wI8bEFAecs",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2894844952,
+			"id_str": "2894844952",
+			"name": "Helen DeWaard",
+			"screen_name": "hj_dewaard",
+			"location": "Orillia, Ontario, Canada",
+			"description": "Teacher, designer, leader & learner. Supporting teachers to teach with tech. Enjoying fireside chats in digital spaces!",
+			"url": "http://t.co/VjoclycpkG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VjoclycpkG",
+							"expanded_url": "http://www.hjdewaard.com/",
+							"display_url": "hjdewaard.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2910,
+			"friends_count": 3481,
+			"listed_count": 250,
+			"created_at": "Thu Nov 27 16:34:31 +0000 2014",
+			"favourites_count": 15122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "318CE7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983341887426674689/uFOK5NKQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983341887426674689/uFOK5NKQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2894844952/1485804188",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Conversations coming to you live from #OpenEd19 with virtual folks @wavinya66 #emergeAfrica @Mohamedmetwa @phb256 @autumm @cogdog @hj_dewaard talking onsite folks. @VConnecting in action https://t.co/XDvfsI6cTx"
+	},
+	{
 		"created_at": "Wed Oct 30 21:55:13 +0000 2019",
 		"id": 1189662063163007000,
 		"id_str": "1189662063163006978",

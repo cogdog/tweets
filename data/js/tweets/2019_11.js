@@ -1,6 +1,689 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 01 19:51:33 +0000 2019",
+		"id": 1190355719641546800,
+		"id_str": "1190355719641546754",
+		"full_text": "Off and streaming live for @VConnecting from #OpenEd19 Watch and tweet https://t.co/4EFP3CHLsl https://t.co/9AnMi0HjzT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenEd19",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						27,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4EFP3CHLsl",
+					"expanded_url": "http://www.youtube.com/watch?v=PFvf5Brp4vU",
+					"display_url": "youtube.com/watch?v=PFvf5B…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1190355631259209700,
+					"id_str": "1190355631259209729",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EIT-I82XUAE9tbv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIT-I82XUAE9tbv.jpg",
+					"url": "https://t.co/9AnMi0HjzT",
+					"display_url": "pic.twitter.com/9AnMi0HjzT",
+					"expanded_url": "https://twitter.com/cogdog/status/1190355719641546754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1736,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 82,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 234,
+									"y": 96,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 120,
+									"y": 62,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 165,
+									"y": 325,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 946,
+									"y": 333,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 522,
+									"y": 342,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 519,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 895,
+									"y": 69,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 169,
+									"y": 537,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 120,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 339,
+									"y": 140,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 174,
+									"y": 91,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 239,
+									"y": 471,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 1369,
+									"y": 483,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 756,
+									"y": 495,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 751,
+									"y": 67,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 1295,
+									"y": 100,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 245,
+									"y": 778,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 120,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 339,
+									"y": 140,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 174,
+									"y": 91,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 239,
+									"y": 471,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 1369,
+									"y": 483,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 756,
+									"y": 495,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 751,
+									"y": 67,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 1295,
+									"y": 100,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 245,
+									"y": 778,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 47,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 132,
+									"y": 54,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 68,
+									"y": 35,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 93,
+									"y": 184,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 536,
+									"y": 189,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 296,
+									"y": 193,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 294,
+									"y": 26,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 507,
+									"y": 39,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 95,
+									"y": 304,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190355631259209700,
+					"id_str": "1190355631259209729",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EIT-I82XUAE9tbv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIT-I82XUAE9tbv.jpg",
+					"url": "https://t.co/9AnMi0HjzT",
+					"display_url": "pic.twitter.com/9AnMi0HjzT",
+					"expanded_url": "https://twitter.com/cogdog/status/1190355719641546754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1736,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 82,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 234,
+									"y": 96,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 120,
+									"y": 62,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 165,
+									"y": 325,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 946,
+									"y": 333,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 522,
+									"y": 342,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 519,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 895,
+									"y": 69,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 169,
+									"y": 537,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 120,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 339,
+									"y": 140,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 174,
+									"y": 91,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 239,
+									"y": 471,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 1369,
+									"y": 483,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 756,
+									"y": 495,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 751,
+									"y": 67,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 1295,
+									"y": 100,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 245,
+									"y": 778,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 120,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 339,
+									"y": 140,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 174,
+									"y": 91,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 239,
+									"y": 471,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 1369,
+									"y": 483,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 756,
+									"y": 495,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 751,
+									"y": 67,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 1295,
+									"y": 100,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 245,
+									"y": 778,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 47,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 132,
+									"y": 54,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 68,
+									"y": 35,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 93,
+									"y": 184,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 536,
+									"y": 189,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 296,
+									"y": 193,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 294,
+									"y": 26,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 507,
+									"y": 39,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 95,
+									"y": 304,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1497,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Off and streaming live for @VConnecting from #OpenEd19 Watch and tweet https://t.co/4EFP3CHLsl https://t.co/9AnMi0HjzT"
+	},
+	{
 		"created_at": "Fri Nov 01 18:44:02 +0000 2019",
 		"id": 1190338697083916300,
 		"id_str": "1190338724690907141",

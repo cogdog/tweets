@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 01 18:44:02 +0000 2019",
+		"id": 1190338697083916300,
+		"id_str": "1190338724690907141",
+		"full_text": "In 1 hour we are @VConnecting live from #opened19 to chat with today's keynote @acoolidge along with @mweller @chadhflinn Live stream link shall be tweeted then.  \n\nSee Amanda's keynote notes https://t.co/RVA2nrC4E1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "opened19",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "acoolidge",
+					"name": "Amanda Coolidge [she/her/hers]",
+					"id": 17416175,
+					"id_str": "17416175",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"screen_name": "chadhflinn",
+					"name": "Chad Flinn",
+					"id": 247575439,
+					"id_str": "247575439",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RVA2nrC4E1",
+					"expanded_url": "https://bccampus.ca/2019/10/28/from-lost-to-belonging-by-amanda-coolidge-opened-2019-keynote/",
+					"display_url": "bccampus.ca/2019/10/28/fro…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3230962884,
+			"id_str": "3230962884",
+			"name": "Virtually Connecting conversation not presentation",
+			"screen_name": "VConnecting",
+			"location": "On the Internet - Virtually",
+			"description": "Ur seat at the global campfire. Open virtual participation in events via volunteer buddies\nCo-directors @rjhogue @bali_maha @autumm @friedelitis @hj_dewaard",
+			"url": "https://t.co/8KNfhJ5FwL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8KNfhJ5FwL",
+							"expanded_url": "http://virtuallyconnecting.org",
+							"display_url": "virtuallyconnecting.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2384,
+			"friends_count": 1675,
+			"listed_count": 100,
+			"created_at": "Sat May 30 20:17:07 +0000 2015",
+			"favourites_count": 8205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3230962884/1443566491",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1 hour we are @VConnecting live from #opened19 to chat with today's keynote @acoolidge along with @mweller @chadhflinn Live stream link shall be tweeted then.  \n\nSee Amanda's keynote notes https://t.co/RVA2nrC4E1"
+	},
+	{
 		"created_at": "Fri Nov 01 17:49:54 +0000 2019",
 		"id": 1190325102057074700,
 		"id_str": "1190325102057074688",

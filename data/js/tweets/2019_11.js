@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 01 20:29:48 +0000 2019",
+		"id": 1190365345451778000,
+		"id_str": "1190365345451778048",
+		"full_text": "Great quotable in this session by Tim Carson trades prof from BC on care, community, hospitality along the lines of  \"Life is an apprenticeship\" #opened19 https://t.co/tzO8MjC22A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "opened19",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tzO8MjC22A",
+					"expanded_url": "https://twitter.com/hj_dewaard/status/1190361831140970496",
+					"display_url": "twitter.com/hj_dewaard/sta…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1497,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1190361831140970500,
+		"quoted_status_id_str": "1190361831140970496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tzO8MjC22A",
+			"expanded": "https://twitter.com/hj_dewaard/status/1190361831140970496",
+			"display": "twitter.com/hj_dewaard/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 01 20:15:51 +0000 2019",
+			"id": 1190361831140970500,
+			"id_str": "1190361831140970496",
+			"full_text": "@VConnecting @acoolidge @mweller @chadhflinn Loving this story as it is being written by people in the community! @VConnecting #OpenEd19 @acoolidge @cogdog @clhendricksbc @mweller @karencang @greeneterry @lpatter10 @Autumm not limited to just those present, but connected and collaborating beyond one event or one experience https://t.co/u3ZdFw66OZ",
+			"truncated": false,
+			"display_text_range": [
+				45,
+				324
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenEd19",
+						"indices": [
+							127,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VConnecting",
+						"name": "Virtually Connecting conversation not presentation",
+						"id": 3230962884,
+						"id_str": "3230962884",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "acoolidge",
+						"name": "Amanda Coolidge [she/her/hers]",
+						"id": 17416175,
+						"id_str": "17416175",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"screen_name": "mweller",
+						"name": "Martin Weller",
+						"id": 7127162,
+						"id_str": "7127162",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"screen_name": "chadhflinn",
+						"name": "Chad Flinn",
+						"id": 247575439,
+						"id_str": "247575439",
+						"indices": [
+							33,
+							44
+						]
+					},
+					{
+						"screen_name": "VConnecting",
+						"name": "Virtually Connecting conversation not presentation",
+						"id": 3230962884,
+						"id_str": "3230962884",
+						"indices": [
+							114,
+							126
+						]
+					},
+					{
+						"screen_name": "acoolidge",
+						"name": "Amanda Coolidge [she/her/hers]",
+						"id": 17416175,
+						"id_str": "17416175",
+						"indices": [
+							137,
+							147
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							148,
+							155
+						]
+					},
+					{
+						"screen_name": "clhendricksbc",
+						"name": "Christina Hendricks",
+						"id": 260919324,
+						"id_str": "260919324",
+						"indices": [
+							156,
+							170
+						]
+					},
+					{
+						"screen_name": "mweller",
+						"name": "Martin Weller",
+						"id": 7127162,
+						"id_str": "7127162",
+						"indices": [
+							171,
+							179
+						]
+					},
+					{
+						"screen_name": "karencang",
+						"name": "Karen Cangialosi",
+						"id": 274739602,
+						"id_str": "274739602",
+						"indices": [
+							180,
+							190
+						]
+					},
+					{
+						"screen_name": "greeneterry",
+						"name": "Spirit of Terry Greene",
+						"id": 212019344,
+						"id_str": "212019344",
+						"indices": [
+							191,
+							203
+						]
+					},
+					{
+						"screen_name": "lpatter10",
+						"name": "Lena Patterson",
+						"id": 826268390318886900,
+						"id_str": "826268390318886912",
+						"indices": [
+							204,
+							214
+						]
+					},
+					{
+						"screen_name": "Autumm",
+						"name": "Autumm doesn't need a fall themed long name",
+						"id": 6292182,
+						"id_str": "6292182",
+						"indices": [
+							215,
+							222
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1190361821787631600,
+						"id_str": "1190361821787631616",
+						"indices": [
+							325,
+							348
+						],
+						"media_url": "http://pbs.twimg.com/media/EIUDxSXWsAAvbnJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIUDxSXWsAAvbnJ.jpg",
+						"url": "https://t.co/u3ZdFw66OZ",
+						"display_url": "pic.twitter.com/u3ZdFw66OZ",
+						"expanded_url": "https://twitter.com/hj_dewaard/status/1190361831140970496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1526,
+								"h": 880,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 692,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 149,
+										"y": 363,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 296,
+										"y": 362,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 885,
+										"y": 432,
+										"h": 62,
+										"w": 62
+									},
+									{
+										"x": 1216,
+										"y": 116,
+										"h": 89,
+										"w": 89
+									},
+									{
+										"x": 277,
+										"y": 10,
+										"h": 99,
+										"w": 99
+									},
+									{
+										"x": 725,
+										"y": 113,
+										"h": 105,
+										"w": 105
+									},
+									{
+										"x": 1160,
+										"y": 408,
+										"h": 101,
+										"w": 101
+									},
+									{
+										"x": 664,
+										"y": 326,
+										"h": 111,
+										"w": 111
+									},
+									{
+										"x": 168,
+										"y": 669,
+										"h": 126,
+										"w": 126
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 117,
+										"y": 285,
+										"h": 40,
+										"w": 40
+									},
+									{
+										"x": 232,
+										"y": 284,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 695,
+										"y": 339,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 956,
+										"y": 91,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 217,
+										"y": 7,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 570,
+										"y": 88,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 912,
+										"y": 320,
+										"h": 79,
+										"w": 79
+									},
+									{
+										"x": 522,
+										"y": 256,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 132,
+										"y": 526,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 149,
+										"y": 363,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 296,
+										"y": 362,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 885,
+										"y": 432,
+										"h": 62,
+										"w": 62
+									},
+									{
+										"x": 1216,
+										"y": 116,
+										"h": 89,
+										"w": 89
+									},
+									{
+										"x": 277,
+										"y": 10,
+										"h": 99,
+										"w": 99
+									},
+									{
+										"x": 725,
+										"y": 113,
+										"h": 105,
+										"w": 105
+									},
+									{
+										"x": 1160,
+										"y": 408,
+										"h": 101,
+										"w": 101
+									},
+									{
+										"x": 664,
+										"y": 326,
+										"h": 111,
+										"w": 111
+									},
+									{
+										"x": 168,
+										"y": 669,
+										"h": 126,
+										"w": 126
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 66,
+										"y": 161,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 131,
+										"y": 161,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 394,
+										"y": 192,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 541,
+										"y": 51,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 123,
+										"y": 4,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 323,
+										"y": 50,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 516,
+										"y": 181,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 295,
+										"y": 145,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 74,
+										"y": 298,
+										"h": 56,
+										"w": 56
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1190361821787631600,
+						"id_str": "1190361821787631616",
+						"indices": [
+							325,
+							348
+						],
+						"media_url": "http://pbs.twimg.com/media/EIUDxSXWsAAvbnJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIUDxSXWsAAvbnJ.jpg",
+						"url": "https://t.co/u3ZdFw66OZ",
+						"display_url": "pic.twitter.com/u3ZdFw66OZ",
+						"expanded_url": "https://twitter.com/hj_dewaard/status/1190361831140970496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1526,
+								"h": 880,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 692,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 149,
+										"y": 363,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 296,
+										"y": 362,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 885,
+										"y": 432,
+										"h": 62,
+										"w": 62
+									},
+									{
+										"x": 1216,
+										"y": 116,
+										"h": 89,
+										"w": 89
+									},
+									{
+										"x": 277,
+										"y": 10,
+										"h": 99,
+										"w": 99
+									},
+									{
+										"x": 725,
+										"y": 113,
+										"h": 105,
+										"w": 105
+									},
+									{
+										"x": 1160,
+										"y": 408,
+										"h": 101,
+										"w": 101
+									},
+									{
+										"x": 664,
+										"y": 326,
+										"h": 111,
+										"w": 111
+									},
+									{
+										"x": 168,
+										"y": 669,
+										"h": 126,
+										"w": 126
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 117,
+										"y": 285,
+										"h": 40,
+										"w": 40
+									},
+									{
+										"x": 232,
+										"y": 284,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 695,
+										"y": 339,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 956,
+										"y": 91,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 217,
+										"y": 7,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 570,
+										"y": 88,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 912,
+										"y": 320,
+										"h": 79,
+										"w": 79
+									},
+									{
+										"x": 522,
+										"y": 256,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 132,
+										"y": 526,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 149,
+										"y": 363,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 296,
+										"y": 362,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 885,
+										"y": 432,
+										"h": 62,
+										"w": 62
+									},
+									{
+										"x": 1216,
+										"y": 116,
+										"h": 89,
+										"w": 89
+									},
+									{
+										"x": 277,
+										"y": 10,
+										"h": 99,
+										"w": 99
+									},
+									{
+										"x": 725,
+										"y": 113,
+										"h": 105,
+										"w": 105
+									},
+									{
+										"x": 1160,
+										"y": 408,
+										"h": 101,
+										"w": 101
+									},
+									{
+										"x": 664,
+										"y": 326,
+										"h": 111,
+										"w": 111
+									},
+									{
+										"x": 168,
+										"y": 669,
+										"h": 126,
+										"w": 126
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 66,
+										"y": 161,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 131,
+										"y": 161,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 394,
+										"y": 192,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 541,
+										"y": 51,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 123,
+										"y": 4,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 323,
+										"y": 50,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 516,
+										"y": 181,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 295,
+										"y": 145,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 74,
+										"y": 298,
+										"h": 56,
+										"w": 56
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1190353686435745800,
+			"in_reply_to_status_id_str": "1190353686435745794",
+			"in_reply_to_user_id": 3230962884,
+			"in_reply_to_user_id_str": "3230962884",
+			"in_reply_to_screen_name": "VConnecting",
+			"user": {
+				"id": 2894844952,
+				"id_str": "2894844952",
+				"name": "Helen DeWaard",
+				"screen_name": "hj_dewaard",
+				"location": "Orillia, Ontario, Canada",
+				"description": "Teacher, designer, leader & learner. Supporting teachers to teach with tech. Enjoying fireside chats in digital spaces!",
+				"url": "http://t.co/VjoclycpkG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VjoclycpkG",
+								"expanded_url": "http://www.hjdewaard.com/",
+								"display_url": "hjdewaard.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2912,
+				"friends_count": 3490,
+				"listed_count": 250,
+				"created_at": "Thu Nov 27 16:34:31 +0000 2014",
+				"favourites_count": 15174,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12343,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "318CE7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983341887426674689/uFOK5NKQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983341887426674689/uFOK5NKQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2894844952/1485804188",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great quotable in this session by Tim Carson trades prof from BC on care, community, hospitality along the lines of  \"Life is an apprenticeship\" #opened19 https://t.co/tzO8MjC22A"
+	},
+	{
 		"created_at": "Fri Nov 01 19:51:33 +0000 2019",
 		"id": 1190355719641546800,
 		"id_str": "1190355719641546754",

@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 17:07:07 +0000 2019",
+		"id": 1191039112238829600,
+		"id_str": "1191039112238829569",
+		"full_text": "@davidtedu @rogre @Pinboard @ramusallam @MrZiebarth @drjaxon @rushtheiceberg @Jessifer @Scotteach @bribriggs @JoAnnFoxEDU @jcorippo Or go one step farther and have them figure out how to archive said page as standalone - that there is more to it than a “page”, a jumble of media, style sheets, scripts. I use a great OS X app “Site Sucker” to archive sites to html",
+		"truncated": false,
+		"display_text_range": [
+			132,
+			364
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidtedu",
+					"name": "David Theriault",
+					"id": 617781615,
+					"id_str": "617781615",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "rogre",
+					"name": "Roberto Greco",
+					"id": 31337253,
+					"id_str": "31337253",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"screen_name": "Pinboard",
+					"name": "Pinboard",
+					"id": 55525953,
+					"id_str": "55525953",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"screen_name": "ramusallam",
+					"name": "Ramsey Musallam",
+					"id": 343878209,
+					"id_str": "343878209",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "MrZiebarth",
+					"name": "Sean Ziebarth",
+					"id": 338577657,
+					"id_str": "338577657",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "drjaxon",
+					"name": "Kim Jaxon",
+					"id": 68211507,
+					"id_str": "68211507",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"screen_name": "rushtheiceberg",
+					"name": "Stephen Davis",
+					"id": 68841469,
+					"id_str": "68841469",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "Scotteach",
+					"name": "Scott Bedley",
+					"id": 2464984081,
+					"id_str": "2464984081",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"screen_name": "bribriggs",
+					"name": "Brian Briggs",
+					"id": 108097126,
+					"id_str": "108097126",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "JoAnnFoxEDU",
+					"name": "Jo-Ann Fox",
+					"id": 453452589,
+					"id_str": "453452589",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1191023932255568000,
+		"in_reply_to_status_id_str": "1191023932255567872",
+		"in_reply_to_user_id": 617781615,
+		"in_reply_to_user_id_str": "617781615",
+		"in_reply_to_screen_name": "davidtedu",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1497,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@davidtedu @rogre @Pinboard @ramusallam @MrZiebarth @drjaxon @rushtheiceberg @Jessifer @Scotteach @bribriggs @JoAnnFoxEDU @jcorippo Or go one step farther and have them figure out how to archive said page as standalone - that there is more to it than a “page”, a jumble of media, style sheets, scripts. I use a great OS X app “Site Sucker” to archive sites to html"
+	},
+	{
 		"created_at": "Sun Nov 03 15:46:53 +0000 2019",
 		"id": 1191018920695738400,
 		"id_str": "1191018920695738368",

@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 14:01:33 +0000 2019",
+		"id": 1194255946396160000,
+		"id_str": "1194616291719569408",
+		"full_text": "@A_L_T Lorna Campbell @LornaMCampbell is a force in #OpenEd. She works for @OpenEdEdinburgh, is @A_L_T trustee &amp; Vice Chair @wikimediauk. She is one of the many fabulous voices of #femedtech. Follow her work on her blog: https://t.co/8hT7m1nmb2 #OER20 #OEB19 *cf",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenEd",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "femedtech",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "OER20",
+					"indices": [
+						249,
+						255
+					]
+				},
+				{
+					"text": "OEB19",
+					"indices": [
+						256,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "OpenEdEdinburgh",
+					"name": "Edinburgh Univ OERs",
+					"id": 2837920041,
+					"id_str": "2837920041",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"screen_name": "wikimediauk",
+					"name": "Wikimedia UK",
+					"id": 66773314,
+					"id_str": "66773314",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8hT7m1nmb2",
+					"expanded_url": "http://lornamcampbell.org/",
+					"display_url": "lornamcampbell.org",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1194255011422916600,
+		"in_reply_to_status_id_str": "1194255011422916608",
+		"in_reply_to_user_id": 47948264,
+		"in_reply_to_user_id_str": "47948264",
+		"in_reply_to_screen_name": "WikimediaDE",
+		"user": {
+			"id": 47948264,
+			"id_str": "47948264",
+			"name": "WikimediaDeutschland",
+			"screen_name": "WikimediaDE",
+			"location": "",
+			"description": "Gesellschaft zur Förderung Freien Wissens",
+			"url": "https://t.co/CDf5uSyE0Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CDf5uSyE0Q",
+							"expanded_url": "https://wikimedia.de/",
+							"display_url": "wikimedia.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7837,
+			"friends_count": 796,
+			"listed_count": 289,
+			"created_at": "Wed Jun 17 12:46:58 +0000 2009",
+			"favourites_count": 2623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827518840456220674/5GpStvKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827518840456220674/5GpStvKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47948264/1536070094",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@A_L_T Lorna Campbell @LornaMCampbell is a force in #OpenEd. She works for @OpenEdEdinburgh, is @A_L_T trustee &amp; Vice Chair @wikimediauk. She is one of the many fabulous voices of #femedtech. Follow her work on her blog: https://t.co/8hT7m1nmb2 #OER20 #OEB19 *cf"
+	},
+	{
 		"created_at": "Wed Nov 13 04:53:36 +0000 2019",
 		"id": 1194478396757151700,
 		"id_str": "1194478396757151744",

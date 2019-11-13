@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 04:07:12 +0000 2019",
+		"id": 1194466717734506500,
+		"id_str": "1194466717734506496",
+		"full_text": "Patreon Begging, Now With Three Levels https://t.co/VQKkTYQoJR https://t.co/4bvOqbGrnS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VQKkTYQoJR",
+					"expanded_url": "https://cogdogblog.com/2019/11/begging-with-three-levels/",
+					"display_url": "cogdogblog.com/2019/11/beggin…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194466715310133200,
+					"id_str": "1194466715310133248",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EJOZJiYWkAAVC6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJOZJiYWkAAVC6w.jpg",
+					"url": "https://t.co/4bvOqbGrnS",
+					"display_url": "pic.twitter.com/4bvOqbGrnS",
+					"expanded_url": "https://twitter.com/cogdog/status/1194466717734506496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 357,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 195,
+									"y": 248,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 357,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 195,
+									"y": 248,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 600,
+									"y": 303,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 165,
+									"y": 211,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 357,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 195,
+									"y": 248,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194466715310133200,
+					"id_str": "1194466715310133248",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EJOZJiYWkAAVC6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJOZJiYWkAAVC6w.jpg",
+					"url": "https://t.co/4bvOqbGrnS",
+					"display_url": "pic.twitter.com/4bvOqbGrnS",
+					"expanded_url": "https://twitter.com/cogdog/status/1194466717734506496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 357,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 195,
+									"y": 248,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 357,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 195,
+									"y": 248,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 600,
+									"y": 303,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 165,
+									"y": 211,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 357,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 195,
+									"y": 248,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1497,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Patreon Begging, Now With Three Levels https://t.co/VQKkTYQoJR https://t.co/4bvOqbGrnS"
+	},
+	{
 		"created_at": "Wed Nov 13 01:21:35 +0000 2019",
 		"id": 1194425040659533800,
 		"id_str": "1194425040659533824",

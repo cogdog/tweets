@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 19:51:24 +0000 2019",
+		"id": 1196516273753972700,
+		"id_str": "1196516273753972741",
+		"full_text": "@stuartweibel @andypowe11 @SteveWheeler @MAMK @cristinacost @GrahamAttwell @josiefraser @georgeroberts @andyramsden @jimgroom @nicwhitton @francesbell @briankelly @PaulMiller @adrianstevenson @rooreynolds @jeffbarr @jamesclay @ldodds @NMCorg You could grant access to services that get this for you; if geeky you can go directly to an API call\n\nOr just go to your own list of who you follow, scroll scroll to bottom, they are ordered oldest last https://t.co/j0rFvLqyW1",
+		"truncated": false,
+		"display_text_range": [
+			242,
+			469
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartweibel",
+					"name": "Stuart Weibel",
+					"id": 6925752,
+					"id_str": "6925752",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "andypowe11",
+					"name": "Andy Powell",
+					"id": 6658612,
+					"id_str": "6658612",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "SteveWheeler",
+					"name": "Steve Wheeler",
+					"id": 11435832,
+					"id_str": "11435832",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "MAMK",
+					"name": "Mark A.M. Kramer",
+					"id": 5824502,
+					"id_str": "5824502",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"screen_name": "cristinacost",
+					"name": "Cristina Costa",
+					"id": 6281952,
+					"id_str": "6281952",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"screen_name": "GrahamAttwell",
+					"name": "Graham Attwell",
+					"id": 6261642,
+					"id_str": "6261642",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"screen_name": "josiefraser",
+					"name": "Josie Fraser",
+					"id": 746923,
+					"id_str": "746923",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"screen_name": "georgeroberts",
+					"name": "George Roberts",
+					"id": 6257732,
+					"id_str": "6257732",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"screen_name": "andyramsden",
+					"name": "andyramsden",
+					"id": 12487872,
+					"id_str": "12487872",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"screen_name": "nicwhitton",
+					"name": "Nicola Whitton",
+					"id": 15528512,
+					"id_str": "15528512",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"screen_name": "briankelly",
+					"name": "Brian Kelly",
+					"id": 1147031,
+					"id_str": "1147031",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"screen_name": "PaulMiller",
+					"name": "Paul Miller",
+					"id": 780290,
+					"id_str": "780290",
+					"indices": [
+						163,
+						174
+					]
+				},
+				{
+					"screen_name": "adrianstevenson",
+					"name": "Ade Stevenson",
+					"id": 6437262,
+					"id_str": "6437262",
+					"indices": [
+						175,
+						191
+					]
+				},
+				{
+					"screen_name": "rooreynolds",
+					"name": "Roo Reynolds",
+					"id": 787166,
+					"id_str": "787166",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"screen_name": "jeffbarr",
+					"name": "Jeff Barr ☁️",
+					"id": 48443,
+					"id_str": "48443",
+					"indices": [
+						205,
+						214
+					]
+				},
+				{
+					"screen_name": "jamesclay",
+					"name": "James Clay",
+					"id": 2272841,
+					"id_str": "2272841",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"screen_name": "ldodds",
+					"name": "Leigh Dodds",
+					"id": 14813,
+					"id_str": "14813",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"screen_name": "NMCorg",
+					"name": "New Media Consortium",
+					"id": 6511252,
+					"id_str": "6511252",
+					"indices": [
+						234,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j0rFvLqyW1",
+					"expanded_url": "https://twitter.com/stuartweibel/following",
+					"display_url": "twitter.com/stuartweibel/f…",
+					"indices": [
+						446,
+						469
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1196513590200504300,
+		"in_reply_to_status_id_str": "1196513590200504321",
+		"in_reply_to_user_id": 6925752,
+		"in_reply_to_user_id_str": "6925752",
+		"in_reply_to_screen_name": "stuartweibel",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stuartweibel @andypowe11 @SteveWheeler @MAMK @cristinacost @GrahamAttwell @josiefraser @georgeroberts @andyramsden @jimgroom @nicwhitton @francesbell @briankelly @PaulMiller @adrianstevenson @rooreynolds @jeffbarr @jamesclay @ldodds @NMCorg You could grant access to services that get this for you; if geeky you can go directly to an API call\n\nOr just go to your own list of who you follow, scroll scroll to bottom, they are ordered oldest last https://t.co/j0rFvLqyW1"
+	},
+	{
 		"created_at": "Mon Nov 18 18:34:07 +0000 2019",
 		"id": 1196496824434974700,
 		"id_str": "1196496824434974721",

@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 14:38:01 +0000 2019",
+		"id": 1196437408583057400,
+		"id_str": "1196437408583057408",
+		"full_text": "@josiefraser @SteveWheeler @MAMK @cristinacost @GrahamAttwell @georgeroberts @andyramsden @jimgroom @nicwhitton @andypowe11 @francesbell @jamesclay @russdev @grumbledook @bgblogging @bdieu @csessums @grahamstanley @NancyWhite @dkuropatwa Fantastic company to be in, thanks (Nancy is in my first 10 as well). No stop to the blogging here ;-)",
+		"truncated": false,
+		"display_text_range": [
+			238,
+			340
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josiefraser",
+					"name": "Josie Fraser",
+					"id": 746923,
+					"id_str": "746923",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SteveWheeler",
+					"name": "Steve Wheeler",
+					"id": 11435832,
+					"id_str": "11435832",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "MAMK",
+					"name": "Mark A.M. Kramer",
+					"id": 5824502,
+					"id_str": "5824502",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"screen_name": "cristinacost",
+					"name": "Cristina Costa",
+					"id": 6281952,
+					"id_str": "6281952",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "GrahamAttwell",
+					"name": "Graham Attwell",
+					"id": 6261642,
+					"id_str": "6261642",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"screen_name": "georgeroberts",
+					"name": "George Roberts",
+					"id": 6257732,
+					"id_str": "6257732",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "andyramsden",
+					"name": "andyramsden",
+					"id": 12487872,
+					"id_str": "12487872",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"screen_name": "nicwhitton",
+					"name": "Nicola Whitton",
+					"id": 15528512,
+					"id_str": "15528512",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"screen_name": "andypowe11",
+					"name": "Andy Powell",
+					"id": 6658612,
+					"id_str": "6658612",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"screen_name": "jamesclay",
+					"name": "James Clay",
+					"id": 2272841,
+					"id_str": "2272841",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"screen_name": "russdev",
+					"name": "russell dyas",
+					"id": 633153,
+					"id_str": "633153",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"screen_name": "grumbledook",
+					"name": "Tony Sheppard",
+					"id": 3306701,
+					"id_str": "3306701",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"screen_name": "bgblogging",
+					"name": "Barbara Ganley",
+					"id": 6110252,
+					"id_str": "6110252",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"screen_name": "bdieu",
+					"name": "Barbara Dieu",
+					"id": 1128451,
+					"id_str": "1128451",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"screen_name": "csessums",
+					"name": "Christopher Sessums",
+					"id": 6229662,
+					"id_str": "6229662",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"screen_name": "grahamstanley",
+					"name": "Graham Stanley",
+					"id": 74143,
+					"id_str": "74143",
+					"indices": [
+						199,
+						213
+					]
+				},
+				{
+					"screen_name": "NancyWhite",
+					"name": "Nancy White",
+					"id": 25793,
+					"id_str": "25793",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						226,
+						237
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1195737889298157600,
+		"in_reply_to_status_id_str": "1195737889298157568",
+		"in_reply_to_user_id": 746923,
+		"in_reply_to_user_id_str": "746923",
+		"in_reply_to_screen_name": "josiefraser",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@josiefraser @SteveWheeler @MAMK @cristinacost @GrahamAttwell @georgeroberts @andyramsden @jimgroom @nicwhitton @andypowe11 @francesbell @jamesclay @russdev @grumbledook @bgblogging @bdieu @csessums @grahamstanley @NancyWhite @dkuropatwa Fantastic company to be in, thanks (Nancy is in my first 10 as well). No stop to the blogging here ;-)"
+	},
+	{
 		"created_at": "Sat Nov 16 15:10:50 +0000 2019",
 		"id": 1195720891285434400,
 		"id_str": "1195720891285434369",

@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 22:13:34 +0000 2019",
+		"id": 1197234002148462600,
+		"id_str": "1197276826231431168",
+		"full_text": "@ebonydraws posted that she placed a signed copy at Tattered Cover, Terminal C. Atlas and I just had to check if it was still there—looks like we have something amazing to read together on our flight! 🤙🏽📚👀♥️ https://t.co/4vGsnjr1YC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebonydraws",
+					"name": "Dr. Ebony Flowers (Kalir)",
+					"id": 982769971821363200,
+					"id_str": "982769971821363201",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197233993952960500,
+					"id_str": "1197233993952960514",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ1t-WqWoAIPmRa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ1t-WqWoAIPmRa.jpg",
+					"url": "https://t.co/4vGsnjr1YC",
+					"display_url": "pic.twitter.com/4vGsnjr1YC",
+					"expanded_url": "https://twitter.com/RobinBrandehoff/status/1197234002148462592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 391,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1008,
+									"y": 1180,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1008,
+									"y": 1180,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 590,
+									"y": 691,
+									"h": 168,
+									"w": 168
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197233993952960500,
+					"id_str": "1197233993952960514",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ1t-WqWoAIPmRa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ1t-WqWoAIPmRa.jpg",
+					"url": "https://t.co/4vGsnjr1YC",
+					"display_url": "pic.twitter.com/4vGsnjr1YC",
+					"expanded_url": "https://twitter.com/RobinBrandehoff/status/1197234002148462592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 391,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1008,
+									"y": 1180,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1008,
+									"y": 1180,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 590,
+									"y": 691,
+									"h": 168,
+									"w": 168
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 982769971821363200,
+		"in_reply_to_user_id_str": "982769971821363201",
+		"in_reply_to_screen_name": "ebonydraws",
+		"user": {
+			"id": 2358857544,
+			"id_str": "2358857544",
+			"name": "Robin Brandehoff",
+			"screen_name": "RobinBrandehoff",
+			"location": "Denver, CO",
+			"description": "PhD candidate @CUDenver. Pacific Islander roots flourishing in East LA. Thespian. Educator fiercely advocating for at-promise youth.",
+			"url": "https://t.co/iRplzY87nA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iRplzY87nA",
+							"expanded_url": "http://www.robinbrandehoff.com",
+							"display_url": "robinbrandehoff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 282,
+			"listed_count": 4,
+			"created_at": "Mon Feb 24 03:08:41 +0000 2014",
+			"favourites_count": 1113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918889859736944640/6vKfvckL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918889859736944640/6vKfvckL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2358857544/1393639677",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ebonydraws posted that she placed a signed copy at Tattered Cover, Terminal C. Atlas and I just had to check if it was still there—looks like we have something amazing to read together on our flight! 🤙🏽📚👀♥️ https://t.co/4vGsnjr1YC"
+	},
+	{
+		"created_at": "Wed Nov 20 21:41:27 +0000 2019",
+		"id": 1197268745875415000,
+		"id_str": "1197268745875415040",
+		"full_text": "@Bali_Maha @Todd_Conaway @Stephen_Hurley @greeneterry @voicEdcanada @VConnecting @jimgroom A bit different. It was free form, meaning anyone could instantly be a live audio broadcaster.  \n\nBut @Stephen_Hurley was a force there and maybe whet his appetite to build the powerhouse that is @voicEdcanada",
+		"truncated": false,
+		"display_text_range": [
+			91,
+			300
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "Stephen_Hurley",
+					"name": "Stephen Hurley",
+					"id": 23057694,
+					"id_str": "23057694",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting conversation not presentation",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "Stephen_Hurley",
+					"name": "Stephen Hurley",
+					"id": 23057694,
+					"id_str": "23057694",
+					"indices": [
+						193,
+						208
+					]
+				},
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						287,
+						300
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1197252729409876000,
+		"in_reply_to_status_id_str": "1197252729409875968",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bali_Maha @Todd_Conaway @Stephen_Hurley @greeneterry @voicEdcanada @VConnecting @jimgroom A bit different. It was free form, meaning anyone could instantly be a live audio broadcaster.  \n\nBut @Stephen_Hurley was a force there and maybe whet his appetite to build the powerhouse that is @voicEdcanada"
+	},
+	{
 		"created_at": "Wed Nov 20 18:39:16 +0000 2019",
 		"id": 1197222896927527000,
 		"id_str": "1197222896927526912",

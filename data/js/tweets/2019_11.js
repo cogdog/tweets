@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 14:12:06 +0000 2019",
+		"id": 1197155663400456200,
+		"id_str": "1197155663400456192",
+		"full_text": "This was impressive on many fronts, insanely well organized, wide participating, and aimed at creating something more than just talking about it. \n\nHats off here too https://t.co/LdvfJO4VDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LdvfJO4VDj",
+					"expanded_url": "https://twitter.com/xolotl/status/1196972092257779712",
+					"display_url": "twitter.com/xolotl/status/…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196972092257779700,
+		"quoted_status_id_str": "1196972092257779712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LdvfJO4VDj",
+			"expanded": "https://twitter.com/xolotl/status/1196972092257779712",
+			"display": "twitter.com/xolotl/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 20 02:02:40 +0000 2019",
+			"id": 1196972092257779700,
+			"id_str": "1196972092257779712",
+			"full_text": "That was the single most compelling day I've ever spent at a \"conference\": 6 sessions including people from Asia, Africa, Europe, South America, North America and Pacific Islands regions in the #OLCLive #OISummit. Hats off to @angelagunder &amp; @clarkshahnelson for making it happen!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OLCLive",
+						"indices": [
+							194,
+							202
+						]
+					},
+					{
+						"text": "OISummit",
+						"indices": [
+							203,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "angelagunder",
+						"name": "Angela Gunder",
+						"id": 111811550,
+						"id_str": "111811550",
+						"indices": [
+							226,
+							239
+						]
+					},
+					{
+						"screen_name": "clarkshahnelson",
+						"name": "Clark Zipping Through the Universe Shah-Nelson",
+						"id": 12980702,
+						"id_str": "12980702",
+						"indices": [
+							246,
+							262
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3775651,
+				"id_str": "3775651",
+				"name": "Nate Angell",
+				"screen_name": "xolotl",
+				"location": "Portland OR USA",
+				"description": "Working at @hypothes_is. Wandering IQ. Raised by wolves. Friend to cheese. Building relationships of entangled mutualities. he/him #culturalstudies #feminist",
+				"url": "https://t.co/KKOp8GyoJv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KKOp8GyoJv",
+								"expanded_url": "http://xolotl.org",
+								"display_url": "xolotl.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4299,
+				"friends_count": 2902,
+				"listed_count": 360,
+				"created_at": "Sun Apr 08 09:35:22 +0000 2007",
+				"favourites_count": 9567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41868,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3775651/1362557141",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This was impressive on many fronts, insanely well organized, wide participating, and aimed at creating something more than just talking about it. \n\nHats off here too https://t.co/LdvfJO4VDj"
+	},
+	{
 		"created_at": "Wed Nov 20 00:18:29 +0000 2019",
 		"id": 1196945873801867300,
 		"id_str": "1196945873801867265",

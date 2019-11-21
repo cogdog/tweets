@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 21:56:28 +0000 2019",
+		"id": 1197634912989245400,
+		"id_str": "1197634912989245440",
+		"full_text": "It's pretty much like annotating the earth. https://t.co/AppIRSzKWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AppIRSzKWg",
+					"expanded_url": "https://twitter.com/richmccue/status/1197581943837220869",
+					"display_url": "twitter.com/richmccue/stat…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 1497,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197581943837220900,
+		"quoted_status_id_str": "1197581943837220869",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AppIRSzKWg",
+			"expanded": "https://twitter.com/richmccue/status/1197581943837220869",
+			"display": "twitter.com/richmccue/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 21 18:26:00 +0000 2019",
+			"id": 1197581943837220900,
+			"id_str": "1197581943837220869",
+			"full_text": "Storytelling with Google Earth Maps: A cool new tool - https://t.co/dCRERGY3i0 #edci336 #edtechuvic #dataviz https://t.co/7rbkiTiLHC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edci336",
+						"indices": [
+							79,
+							87
+						]
+					},
+					{
+						"text": "edtechuvic",
+						"indices": [
+							88,
+							99
+						]
+					},
+					{
+						"text": "dataviz",
+						"indices": [
+							100,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dCRERGY3i0",
+						"expanded_url": "http://bit.ly/2QFMQtS",
+						"display_url": "bit.ly/2QFMQtS",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1197581053743026200,
+						"id_str": "1197581053743026176",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ6pn5IXUAAJWEo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ6pn5IXUAAJWEo.jpg",
+						"url": "https://t.co/7rbkiTiLHC",
+						"display_url": "pic.twitter.com/7rbkiTiLHC",
+						"expanded_url": "https://twitter.com/richmccue/status/1197581943837220869/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 668,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1676,
+								"h": 933,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 519,
+										"y": 204,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 569,
+										"y": 325,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 791,
+										"y": 559,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 756,
+										"y": 333,
+										"h": 92,
+										"w": 92
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 294,
+										"y": 116,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 322,
+										"y": 184,
+										"h": 28,
+										"w": 28
+									},
+									{
+										"x": 448,
+										"y": 317,
+										"h": 34,
+										"w": 34
+									},
+									{
+										"x": 428,
+										"y": 189,
+										"h": 52,
+										"w": 52
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 726,
+										"y": 286,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 795,
+										"y": 455,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 1106,
+										"y": 782,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 1057,
+										"y": 466,
+										"h": 129,
+										"w": 129
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 726,
+										"y": 286,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 795,
+										"y": 455,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 1106,
+										"y": 782,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 1057,
+										"y": 466,
+										"h": 129,
+										"w": 129
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197581053743026200,
+						"id_str": "1197581053743026176",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ6pn5IXUAAJWEo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ6pn5IXUAAJWEo.jpg",
+						"url": "https://t.co/7rbkiTiLHC",
+						"display_url": "pic.twitter.com/7rbkiTiLHC",
+						"expanded_url": "https://twitter.com/richmccue/status/1197581943837220869/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 668,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1676,
+								"h": 933,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 519,
+										"y": 204,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 569,
+										"y": 325,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 791,
+										"y": 559,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 756,
+										"y": 333,
+										"h": 92,
+										"w": 92
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 294,
+										"y": 116,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 322,
+										"y": 184,
+										"h": 28,
+										"w": 28
+									},
+									{
+										"x": 448,
+										"y": 317,
+										"h": 34,
+										"w": 34
+									},
+									{
+										"x": 428,
+										"y": 189,
+										"h": 52,
+										"w": 52
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 726,
+										"y": 286,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 795,
+										"y": 455,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 1106,
+										"y": 782,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 1057,
+										"y": 466,
+										"h": 129,
+										"w": 129
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 726,
+										"y": 286,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 795,
+										"y": 455,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 1106,
+										"y": 782,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 1057,
+										"y": 466,
+										"h": 129,
+										"w": 129
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14849998,
+				"id_str": "14849998",
+				"name": "Rich McCue",
+				"screen_name": "richmccue",
+				"location": "Victoria, BC, Canada",
+				"description": "Hacker-in-Chief in the Digital Scholarship Commons at the University of Victoria Libraries. Coach, Soccer Player, Sailor... and Father of 5 great kids.",
+				"url": "https://t.co/utG3EWlDN8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/utG3EWlDN8",
+								"expanded_url": "http://richmccue.com",
+								"display_url": "richmccue.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 713,
+				"friends_count": 752,
+				"listed_count": 47,
+				"created_at": "Tue May 20 23:35:31 +0000 2008",
+				"favourites_count": 915,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2110,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744997026719379456/g_DVtda4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744997026719379456/g_DVtda4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14849998/1394302023",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's pretty much like annotating the earth. https://t.co/AppIRSzKWg"
+	},
+	{
 		"created_at": "Thu Nov 21 20:25:58 +0000 2019",
 		"id": 1197612137033556000,
 		"id_str": "1197612137033555968",

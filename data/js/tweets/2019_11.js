@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 15:13:47 +0000 2019",
+		"id": 1197533573579972600,
+		"id_str": "1197533573579972608",
+		"full_text": "The sounds of congressional hearings https://t.co/Z7MOtvs7wJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7MOtvs7wJ",
+					"expanded_url": "https://www.youtube.com/watch?v=zXeGF29GHws",
+					"display_url": "youtube.com/watch?v=zXeGF2…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The sounds of congressional hearings https://t.co/Z7MOtvs7wJ"
+	},
+	{
+		"created_at": "Thu Nov 21 15:11:47 +0000 2019",
+		"id": 1197533070389383200,
+		"id_str": "1197533070389383168",
+		"full_text": "\"We're taking a survey on how you feel about an obsessive and intrusive amount of surveys. Can you spare 25 minutes?\" https://t.co/UM3wm3lfzP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197532798883684400,
+					"id_str": "1197532798883684353",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ59vFxXYAEOIH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ59vFxXYAEOIH0.jpg",
+					"url": "https://t.co/UM3wm3lfzP",
+					"display_url": "pic.twitter.com/UM3wm3lfzP",
+					"expanded_url": "https://twitter.com/cogdog/status/1197533070389383168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1188,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 168,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 300,
+									"y": 164,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 442,
+									"y": 168,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 577,
+									"y": 163,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 417,
+									"y": 119,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 136,
+									"y": 116,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 168,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 300,
+									"y": 164,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 442,
+									"y": 168,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 577,
+									"y": 163,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 417,
+									"y": 119,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 136,
+									"y": 116,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 168,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 300,
+									"y": 164,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 442,
+									"y": 168,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 577,
+									"y": 163,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 417,
+									"y": 119,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 136,
+									"y": 116,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 96,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 171,
+									"y": 93,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 252,
+									"y": 96,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 330,
+									"y": 93,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 238,
+									"y": 68,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 77,
+									"y": 66,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197532798883684400,
+					"id_str": "1197532798883684353",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ59vFxXYAEOIH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ59vFxXYAEOIH0.jpg",
+					"url": "https://t.co/UM3wm3lfzP",
+					"display_url": "pic.twitter.com/UM3wm3lfzP",
+					"expanded_url": "https://twitter.com/cogdog/status/1197533070389383168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1188,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 168,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 300,
+									"y": 164,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 442,
+									"y": 168,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 577,
+									"y": 163,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 417,
+									"y": 119,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 136,
+									"y": 116,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 168,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 300,
+									"y": 164,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 442,
+									"y": 168,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 577,
+									"y": 163,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 417,
+									"y": 119,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 136,
+									"y": 116,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 168,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 300,
+									"y": 164,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 442,
+									"y": 168,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 577,
+									"y": 163,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 417,
+									"y": 119,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 136,
+									"y": 116,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 96,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 171,
+									"y": 93,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 252,
+									"y": 96,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 330,
+									"y": 93,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 238,
+									"y": 68,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 77,
+									"y": 66,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"We're taking a survey on how you feel about an obsessive and intrusive amount of surveys. Can you spare 25 minutes?\" https://t.co/UM3wm3lfzP"
+	},
+	{
+		"created_at": "Thu Nov 21 14:59:56 +0000 2019",
+		"id": 1197530088851595300,
+		"id_str": "1197530088851595264",
+		"full_text": "@bennettscience https://t.co/mXBs2t7Kce",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mXBs2t7Kce",
+					"expanded_url": "http://compfight.com/search/dog/1-3-1-1",
+					"display_url": "compfight.com/search/dog/1-3…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1197524577762586600,
+		"in_reply_to_status_id_str": "1197524577762586631",
+		"in_reply_to_user_id": 270307546,
+		"in_reply_to_user_id_str": "270307546",
+		"in_reply_to_screen_name": "bennettscience",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@bennettscience https://t.co/mXBs2t7Kce"
+	},
+	{
 		"created_at": "Thu Nov 21 13:02:21 +0000 2019",
 		"id": 1197500497197854700,
 		"id_str": "1197500497197854721",

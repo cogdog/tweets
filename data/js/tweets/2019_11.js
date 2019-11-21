@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 19:58:05 +0000 2019",
+		"id": 1197605119212146700,
+		"id_str": "1197605119212146688",
+		"full_text": "@edtechfactotum @ammienoot @anitsirk @brlamb @tanbob @openetc Rightfully so; @tanbob is absolutely one of the core members of the https://t.co/cRiml7ZYqf band- I'm just a fan.",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "anitsirk",
+					"name": "Kristina DC Hoeppner",
+					"id": 14206645,
+					"id_str": "14206645",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"screen_name": "tanbob",
+					"name": "Dr. Tannis Morgan",
+					"id": 10817782,
+					"id_str": "10817782",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"screen_name": "openetc",
+					"name": "openetc",
+					"id": 979007479043579900,
+					"id_str": "979007479043579904",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"screen_name": "tanbob",
+					"name": "Dr. Tannis Morgan",
+					"id": 10817782,
+					"id_str": "10817782",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cRiml7ZYqf",
+					"expanded_url": "http://opened.ca",
+					"display_url": "opened.ca",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1197600641465503700,
+		"in_reply_to_status_id_str": "1197600641465503744",
+		"in_reply_to_user_id": 822204322796609500,
+		"in_reply_to_user_id_str": "822204322796609536",
+		"in_reply_to_screen_name": "edtechfactotum",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 1497,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@edtechfactotum @ammienoot @anitsirk @brlamb @tanbob @openetc Rightfully so; @tanbob is absolutely one of the core members of the https://t.co/cRiml7ZYqf band- I'm just a fan."
+	},
+	{
 		"created_at": "Thu Nov 21 18:07:16 +0000 2019",
 		"id": 1197577232312492000,
 		"id_str": "1197577232312492037",

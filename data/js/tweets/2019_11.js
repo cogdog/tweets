@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 17:15:17 +0000 2019",
+		"id": 1197923614168715300,
+		"id_str": "1197926535778332673",
+		"full_text": "Canadian climate opinion maps! https://t.co/Q9SWFHONr5  #envhist #climhist H/T @softgrasswalker https://t.co/2J3kYxJ1mL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "envhist",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "climhist",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "softgrasswalker",
+					"name": "Val Jobson",
+					"id": 422773751,
+					"id_str": "422773751",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q9SWFHONr5",
+					"expanded_url": "https://climatecommunication.yale.edu/visualizations-data/ccom/",
+					"display_url": "climatecommunication.yale.edu/visualizations…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197923610209292300,
+					"id_str": "1197923610209292289",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ_hLTaUEAEjtOk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ_hLTaUEAEjtOk.jpg",
+					"url": "https://t.co/2J3kYxJ1mL",
+					"display_url": "pic.twitter.com/2J3kYxJ1mL",
+					"expanded_url": "https://twitter.com/LooTina/status/1197923614168715264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 153,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 616,
+									"y": 187,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 615,
+									"y": 315,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 880,
+									"y": 219,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 880,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 878,
+									"y": 450,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 880,
+									"y": 219,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 880,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 878,
+									"y": 450,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 880,
+									"y": 219,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 880,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 878,
+									"y": 450,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197923610209292300,
+					"id_str": "1197923610209292289",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ_hLTaUEAEjtOk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ_hLTaUEAEjtOk.jpg",
+					"url": "https://t.co/2J3kYxJ1mL",
+					"display_url": "pic.twitter.com/2J3kYxJ1mL",
+					"expanded_url": "https://twitter.com/LooTina/status/1197923614168715264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 153,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 616,
+									"y": 187,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 615,
+									"y": 315,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 880,
+									"y": 219,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 880,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 878,
+									"y": 450,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 880,
+									"y": 219,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 880,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 878,
+									"y": 450,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 880,
+									"y": 219,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 880,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 878,
+									"y": 450,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313612019,
+			"id_str": "313612019",
+			"name": "Tina Loo",
+			"screen_name": "LooTina",
+			"location": "Vancouver, Canada",
+			"description": "Mountain itinerant who teaches and writes Canadian and environmental history @UBC_History @UBC_Arts",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1830,
+			"friends_count": 852,
+			"listed_count": 64,
+			"created_at": "Wed Jun 08 22:58:37 +0000 2011",
+			"favourites_count": 1455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2280908280/4d92c8c3-cf67-4844-931a-6ead14e3f976_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2280908280/4d92c8c3-cf67-4844-931a-6ead14e3f976_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313612019/1353095017",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Canadian climate opinion maps! https://t.co/Q9SWFHONr5  #envhist #climhist H/T @softgrasswalker https://t.co/2J3kYxJ1mL"
+	},
+	{
 		"created_at": "Fri Nov 22 15:47:04 +0000 2019",
 		"id": 1197904336069611500,
 		"id_str": "1197904336069611525",

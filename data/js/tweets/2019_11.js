@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 22:56:43 +0000 2019",
+		"id": 1198012462441754600,
+		"id_str": "1198012462441754624",
+		"full_text": "@xolotl @NTENorg @creativecommons @EFF @icann_president @ICANN @PIRegistry @SullivanISOC @jnevett That works! Now I am suspicious...",
+		"truncated": false,
+		"display_text_range": [
+			98,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xolotl",
+					"name": "Nate Angell",
+					"id": 3775651,
+					"id_str": "3775651",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "NTENorg",
+					"name": "NTEN",
+					"id": 3023811,
+					"id_str": "3023811",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "EFF",
+					"name": "EFF",
+					"id": 4816,
+					"id_str": "4816",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"screen_name": "icann_president",
+					"name": "ICANN President",
+					"id": 1370772650,
+					"id_str": "1370772650",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"screen_name": "ICANN",
+					"name": "ICANN",
+					"id": 14992326,
+					"id_str": "14992326",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"screen_name": "PIRegistry",
+					"name": "Public Interest Reg.",
+					"id": 1091109457,
+					"id_str": "1091109457",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "SullivanISOC",
+					"name": "Andrew Sullivan",
+					"id": 1034400202432684000,
+					"id_str": "1034400202432684032",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"screen_name": "jnevett",
+					"name": "Jon Nevett",
+					"id": 25522447,
+					"id_str": "25522447",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1198012249597567000,
+		"in_reply_to_status_id_str": "1198012249597566976",
+		"in_reply_to_user_id": 3775651,
+		"in_reply_to_user_id_str": "3775651",
+		"in_reply_to_screen_name": "xolotl",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1497,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@xolotl @NTENorg @creativecommons @EFF @icann_president @ICANN @PIRegistry @SullivanISOC @jnevett That works! Now I am suspicious..."
+	},
+	{
+		"created_at": "Fri Nov 22 22:53:34 +0000 2019",
+		"id": 1198011668095090700,
+		"id_str": "1198011668095090689",
+		"full_text": "@xolotl @NTENorg @creativecommons @EFF @icann_president @ICANN @PIRegistry @SullivanISOC @jnevett Must be me. Getting connection refused on my wireless and mobile connections.",
+		"truncated": false,
+		"display_text_range": [
+			98,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xolotl",
+					"name": "Nate Angell",
+					"id": 3775651,
+					"id_str": "3775651",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "NTENorg",
+					"name": "NTEN",
+					"id": 3023811,
+					"id_str": "3023811",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "EFF",
+					"name": "EFF",
+					"id": 4816,
+					"id_str": "4816",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"screen_name": "icann_president",
+					"name": "ICANN President",
+					"id": 1370772650,
+					"id_str": "1370772650",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"screen_name": "ICANN",
+					"name": "ICANN",
+					"id": 14992326,
+					"id_str": "14992326",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"screen_name": "PIRegistry",
+					"name": "Public Interest Reg.",
+					"id": 1091109457,
+					"id_str": "1091109457",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "SullivanISOC",
+					"name": "Andrew Sullivan",
+					"id": 1034400202432684000,
+					"id_str": "1034400202432684032",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"screen_name": "jnevett",
+					"name": "Jon Nevett",
+					"id": 25522447,
+					"id_str": "25522447",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1198011087884447700,
+		"in_reply_to_status_id_str": "1198011087884447744",
+		"in_reply_to_user_id": 3775651,
+		"in_reply_to_user_id_str": "3775651",
+		"in_reply_to_screen_name": "xolotl",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1497,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@xolotl @NTENorg @creativecommons @EFF @icann_president @ICANN @PIRegistry @SullivanISOC @jnevett Must be me. Getting connection refused on my wireless and mobile connections."
+	},
+	{
+		"created_at": "Fri Nov 22 22:50:10 +0000 2019",
+		"id": 1198010811379093500,
+		"id_str": "1198010811379093504",
+		"full_text": "Save .org domains from greedy *******s. Help stop the sale of Public Interest Registry to a Private Equity Firm - Sign the Petition! https://t.co/0gqzdyuY7j via @Change",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Change",
+					"name": "Change.org",
+					"id": 15947602,
+					"id_str": "15947602",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0gqzdyuY7j",
+					"expanded_url": "http://chng.it/4cQXZRvj",
+					"display_url": "chng.it/4cQXZRvj",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1497,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Save .org domains from greedy *******s. Help stop the sale of Public Interest Registry to a Private Equity Firm - Sign the Petition! https://t.co/0gqzdyuY7j via @Change"
+	},
+	{
 		"created_at": "Fri Nov 22 17:15:17 +0000 2019",
 		"id": 1197923614168715300,
 		"id_str": "1197926535778332673",

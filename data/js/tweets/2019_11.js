@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 02:17:00 +0000 2019",
+		"id": 1198062866584068000,
+		"id_str": "1198062866584068096",
+		"full_text": "@funnymonkey Papa Putin be very proud. His wood puppet just wants to be a real presidential boy. https://t.co/rr6FfTRrLn",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "funnymonkey",
+					"name": "Bill Fitzgerald",
+					"id": 12127972,
+					"id_str": "12127972",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198062550421651500,
+					"id_str": "1198062550421651456",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EKBfisCUwAAm5gX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKBfisCUwAAm5gX.jpg",
+					"url": "https://t.co/rr6FfTRrLn",
+					"display_url": "pic.twitter.com/rr6FfTRrLn",
+					"expanded_url": "https://twitter.com/cogdog/status/1198062866584068096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 707,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 707,
+							"h": 492,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 83,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 87,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 87,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 87,
+									"h": 145,
+									"w": 145
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198062550421651500,
+					"id_str": "1198062550421651456",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EKBfisCUwAAm5gX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKBfisCUwAAm5gX.jpg",
+					"url": "https://t.co/rr6FfTRrLn",
+					"display_url": "pic.twitter.com/rr6FfTRrLn",
+					"expanded_url": "https://twitter.com/cogdog/status/1198062866584068096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 707,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 707,
+							"h": 492,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 83,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 87,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 87,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 87,
+									"h": 145,
+									"w": 145
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1198060033956819000,
+		"in_reply_to_status_id_str": "1198060033956818945",
+		"in_reply_to_user_id": 12127972,
+		"in_reply_to_user_id_str": "12127972",
+		"in_reply_to_screen_name": "funnymonkey",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1497,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@funnymonkey Papa Putin be very proud. His wood puppet just wants to be a real presidential boy. https://t.co/rr6FfTRrLn"
+	},
+	{
 		"created_at": "Sat Nov 23 01:17:08 +0000 2019",
 		"id": 1198047799318741000,
 		"id_str": "1198047799318740992",

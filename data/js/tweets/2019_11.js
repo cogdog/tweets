@@ -1,6 +1,1232 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 03:12:51 +0000 2019",
+		"id": 1198801695930646500,
+		"id_str": "1198801695930646528",
+		"full_text": "@AVBot2 #fotodia271 #inf115 books in some kind of strange arrangement https://t.co/Q0SDr2ZOsg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fotodia271",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"text": "inf115",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AVBot2",
+					"name": "inf115_create",
+					"id": 1284431028,
+					"id_str": "1284431028",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198801656894279700,
+					"id_str": "1198801656894279680",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EKL_wWNVUAAJoxB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKL_wWNVUAAJoxB.jpg",
+					"url": "https://t.co/Q0SDr2ZOsg",
+					"display_url": "pic.twitter.com/Q0SDr2ZOsg",
+					"expanded_url": "https://twitter.com/cogdog/status/1198801695930646528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 17,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 369,
+									"y": 28,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 848,
+									"y": 426,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 1033,
+									"y": 239,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 1059,
+									"y": 476,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 510,
+									"y": 346,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 713,
+									"y": 70,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 697,
+									"y": 216,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 772,
+									"y": 247,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 176,
+									"y": 30,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 630,
+									"y": 48,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1448,
+									"y": 728,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1764,
+									"y": 408,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1808,
+									"y": 814,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 872,
+									"y": 592,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1218,
+									"y": 120,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1190,
+									"y": 370,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 1318,
+									"y": 422,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 176,
+									"y": 30,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 630,
+									"y": 48,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1448,
+									"y": 728,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1764,
+									"y": 408,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1808,
+									"y": 814,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 872,
+									"y": 592,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1218,
+									"y": 120,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1190,
+									"y": 370,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 1318,
+									"y": 422,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 9,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 209,
+									"y": 15,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 480,
+									"y": 241,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 585,
+									"y": 135,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 600,
+									"y": 270,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 289,
+									"y": 196,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 404,
+									"y": 39,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 395,
+									"y": 122,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 437,
+									"y": 140,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198801656894279700,
+					"id_str": "1198801656894279680",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EKL_wWNVUAAJoxB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKL_wWNVUAAJoxB.jpg",
+					"url": "https://t.co/Q0SDr2ZOsg",
+					"display_url": "pic.twitter.com/Q0SDr2ZOsg",
+					"expanded_url": "https://twitter.com/cogdog/status/1198801695930646528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 17,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 369,
+									"y": 28,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 848,
+									"y": 426,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 1033,
+									"y": 239,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 1059,
+									"y": 476,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 510,
+									"y": 346,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 713,
+									"y": 70,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 697,
+									"y": 216,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 772,
+									"y": 247,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 176,
+									"y": 30,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 630,
+									"y": 48,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1448,
+									"y": 728,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1764,
+									"y": 408,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1808,
+									"y": 814,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 872,
+									"y": 592,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1218,
+									"y": 120,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1190,
+									"y": 370,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 1318,
+									"y": 422,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 176,
+									"y": 30,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 630,
+									"y": 48,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1448,
+									"y": 728,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1764,
+									"y": 408,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 1808,
+									"y": 814,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 872,
+									"y": 592,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1218,
+									"y": 120,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1190,
+									"y": 370,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 1318,
+									"y": 422,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 9,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 209,
+									"y": 15,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 480,
+									"y": 241,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 585,
+									"y": 135,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 600,
+									"y": 270,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 289,
+									"y": 196,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 404,
+									"y": 39,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 395,
+									"y": 122,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 437,
+									"y": 140,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1284431028,
+		"in_reply_to_user_id_str": "1284431028",
+		"in_reply_to_screen_name": "AVBot2",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AVBot2 #fotodia271 #inf115 books in some kind of strange arrangement https://t.co/Q0SDr2ZOsg"
+	},
+	{
+		"created_at": "Mon Nov 25 03:04:44 +0000 2019",
+		"id": 1198799653635907600,
+		"id_str": "1198799653635907585",
+		"full_text": "@AVBot2 #fotodia270 #inf115 Once Upon a Time @corisaas said “yes” https://t.co/G6R430kuY2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fotodia270",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"text": "inf115",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AVBot2",
+					"name": "inf115_create",
+					"id": 1284431028,
+					"id_str": "1284431028",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "corisaas",
+					"name": "Cori Saas",
+					"id": 69189398,
+					"id_str": "69189398",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198799639891234800,
+					"id_str": "1198799639891234817",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EKL968SVUAEYc_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKL968SVUAEYc_K.jpg",
+					"url": "https://t.co/G6R430kuY2",
+					"display_url": "pic.twitter.com/G6R430kuY2",
+					"expanded_url": "https://twitter.com/cogdog/status/1198799653635907585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198799639891234800,
+					"id_str": "1198799639891234817",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EKL968SVUAEYc_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKL968SVUAEYc_K.jpg",
+					"url": "https://t.co/G6R430kuY2",
+					"display_url": "pic.twitter.com/G6R430kuY2",
+					"expanded_url": "https://twitter.com/cogdog/status/1198799653635907585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1284431028,
+		"in_reply_to_user_id_str": "1284431028",
+		"in_reply_to_screen_name": "AVBot2",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AVBot2 #fotodia270 #inf115 Once Upon a Time @corisaas said “yes” https://t.co/G6R430kuY2"
+	},
+	{
+		"created_at": "Mon Nov 25 03:01:12 +0000 2019",
+		"id": 1198798763810148400,
+		"id_str": "1198798763810148353",
+		"full_text": "@AVBot2 #fotodia265 #inf115 Equal pay for equal work = equality https://t.co/FN0YdHv2Zc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fotodia265",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"text": "inf115",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AVBot2",
+					"name": "inf115_create",
+					"id": 1284431028,
+					"id_str": "1284431028",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198798707203793000,
+					"id_str": "1198798707203792898",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EKL9EpwUYAIRazF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKL9EpwUYAIRazF.jpg",
+					"url": "https://t.co/FN0YdHv2Zc",
+					"display_url": "pic.twitter.com/FN0YdHv2Zc",
+					"expanded_url": "https://twitter.com/cogdog/status/1198798763810148353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 155,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 468,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 274,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 468,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198798707203793000,
+					"id_str": "1198798707203792898",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EKL9EpwUYAIRazF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKL9EpwUYAIRazF.jpg",
+					"url": "https://t.co/FN0YdHv2Zc",
+					"display_url": "pic.twitter.com/FN0YdHv2Zc",
+					"expanded_url": "https://twitter.com/cogdog/status/1198798763810148353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 155,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 468,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 274,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 468,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1284431028,
+		"in_reply_to_user_id_str": "1284431028",
+		"in_reply_to_screen_name": "AVBot2",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1496,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AVBot2 #fotodia265 #inf115 Equal pay for equal work = equality https://t.co/FN0YdHv2Zc"
+	},
+	{
 		"created_at": "Sun Nov 24 02:02:22 +0000 2019",
 		"id": 1198421570802176000,
 		"id_str": "1198421570802176000",

@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 13:24:20 +0000 2019",
+		"id": 1202217072270250000,
+		"id_str": "1202217072270249984",
+		"full_text": "@sleslie One and the same! https://t.co/Z1hDeVgcKk",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sleslie",
+					"name": "Scott Leslie",
+					"id": 3567831,
+					"id_str": "3567831",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202217035716939800,
+					"id_str": "1202217035716939777",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EK8iBjzU0AEXzV0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK8iBjzU0AEXzV0.jpg",
+					"url": "https://t.co/Z1hDeVgcKk",
+					"display_url": "pic.twitter.com/Z1hDeVgcKk",
+					"expanded_url": "https://twitter.com/cogdog/status/1202217072270249984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1268,
+									"y": 582,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 421,
+									"y": 193,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 341,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1268,
+									"y": 582,
+									"h": 190,
+									"w": 190
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202217035716939800,
+					"id_str": "1202217035716939777",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EK8iBjzU0AEXzV0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK8iBjzU0AEXzV0.jpg",
+					"url": "https://t.co/Z1hDeVgcKk",
+					"display_url": "pic.twitter.com/Z1hDeVgcKk",
+					"expanded_url": "https://twitter.com/cogdog/status/1202217072270249984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1268,
+									"y": 582,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 421,
+									"y": 193,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 341,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1268,
+									"y": 582,
+									"h": 190,
+									"w": 190
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202127537905664000,
+		"in_reply_to_status_id_str": "1202127537905664000",
+		"in_reply_to_user_id": 3567831,
+		"in_reply_to_user_id_str": "3567831",
+		"in_reply_to_screen_name": "sleslie",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1496,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sleslie One and the same! https://t.co/Z1hDeVgcKk"
+	},
+	{
 		"created_at": "Wed Dec 04 04:14:17 +0000 2019",
 		"id": 1202078647277912000,
 		"id_str": "1202078647277912064",

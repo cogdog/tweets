@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 17:01:23 +0000 2019",
+		"id": 1203358857562599400,
+		"id_str": "1203358857562599424",
+		"full_text": "@chadhflinn Thanks Chad! It’s just a bit of blending what WordPress provides built in and how the SPLOTbox can manage media (new version does not need secret authoring accounts). There’s another surprise in the works",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chadhflinn",
+					"name": "Chad Flinn",
+					"id": 247575439,
+					"id_str": "247575439",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203338939840393200,
+		"in_reply_to_status_id_str": "1203338939840393216",
+		"in_reply_to_user_id": 247575439,
+		"in_reply_to_user_id_str": "247575439",
+		"in_reply_to_screen_name": "chadhflinn",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10497,
+			"friends_count": 1495,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chadhflinn Thanks Chad! It’s just a bit of blending what WordPress provides built in and how the SPLOTbox can manage media (new version does not need secret authoring accounts). There’s another surprise in the works"
+	},
+	{
 		"created_at": "Sat Dec 07 00:59:51 +0000 2019",
 		"id": 1203116880661139500,
 		"id_str": "1203116880661139456",

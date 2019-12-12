@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 16:44:47 +0000 2019",
+		"id": 1205166619128844300,
+		"id_str": "1205166619128844289",
+		"full_text": "@davewiner It should be worth it just to have tweets source labeled as \"Little Pork Chop!\" https://t.co/w9ylmxV4xY",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "Dave Winer",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205166606969524200,
+					"id_str": "1205166606969524224",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmcpM-U0AAqRxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmcpM-U0AAqRxQ.jpg",
+					"url": "https://t.co/w9ylmxV4xY",
+					"display_url": "pic.twitter.com/w9ylmxV4xY",
+					"expanded_url": "https://twitter.com/cogdog/status/1205166619128844289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 628,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 628,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 497,
+									"y": 228,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 497,
+									"y": 228,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 470,
+									"y": 216,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 497,
+									"y": 228,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205166606969524200,
+					"id_str": "1205166606969524224",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmcpM-U0AAqRxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmcpM-U0AAqRxQ.jpg",
+					"url": "https://t.co/w9ylmxV4xY",
+					"display_url": "pic.twitter.com/w9ylmxV4xY",
+					"expanded_url": "https://twitter.com/cogdog/status/1205166619128844289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 628,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 628,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 497,
+									"y": 228,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 497,
+									"y": 228,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 470,
+									"y": 216,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 497,
+									"y": 228,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1205163446305775600,
+		"in_reply_to_status_id_str": "1205163446305775617",
+		"in_reply_to_user_id": 3839,
+		"in_reply_to_user_id_str": "3839",
+		"in_reply_to_screen_name": "davewiner",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10500,
+			"friends_count": 1495,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davewiner It should be worth it just to have tweets source labeled as \"Little Pork Chop!\" https://t.co/w9ylmxV4xY"
+	},
+	{
+		"created_at": "Thu Dec 12 16:42:12 +0000 2019",
+		"id": 1205165967942152200,
+		"id_str": "1205165967942152199",
+		"full_text": "I'd like a Twitter Data partner to help with... (one can still dream, right?) https://t.co/XGzGxdrXSX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205165735833555000,
+					"id_str": "1205165735833554944",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmb2fvU0AA5FCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmb2fvU0AA5FCp.jpg",
+					"url": "https://t.co/XGzGxdrXSX",
+					"display_url": "pic.twitter.com/XGzGxdrXSX",
+					"expanded_url": "https://twitter.com/cogdog/status/1205165967942152199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1212,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205165735833555000,
+					"id_str": "1205165735833554944",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmb2fvU0AA5FCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmb2fvU0AA5FCp.jpg",
+					"url": "https://t.co/XGzGxdrXSX",
+					"display_url": "pic.twitter.com/XGzGxdrXSX",
+					"expanded_url": "https://twitter.com/cogdog/status/1205165967942152199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1212,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10500,
+			"friends_count": 1495,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'd like a Twitter Data partner to help with... (one can still dream, right?) https://t.co/XGzGxdrXSX"
+	},
+	{
 		"created_at": "Wed Dec 11 21:50:19 +0000 2019",
 		"id": 1204881120384282600,
 		"id_str": "1204881120384282624",

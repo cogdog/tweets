@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 19:07:40 +0000 2019",
+		"id": 1208101680975270000,
+		"id_str": "1208101680975269889",
+		"full_text": "Great news and pressured perseverance, yet this is the tip of the Faceberg https://t.co/S7xIAGE9XZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S7xIAGE9XZ",
+					"expanded_url": "https://twitter.com/vinnysgreen/status/1208090221159436289",
+					"display_url": "twitter.com/vinnysgreen/st…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10507,
+			"friends_count": 1497,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208090221159436300,
+		"quoted_status_id_str": "1208090221159436289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S7xIAGE9XZ",
+			"expanded": "https://twitter.com/vinnysgreen/status/1208090221159436289",
+			"display": "twitter.com/vinnysgreen/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 20 18:22:08 +0000 2019",
+			"id": 1208090221159436300,
+			"id_str": "1208090221159436289",
+			"full_text": ".@snopes was first to report on The BL. For months these accounts inauthentically created and promoted content in support of @realDonaldTrump. Facebook refused to respond, then they refused to act. Now on the Friday before Xmas, they take a victory lap. \n\nhttps://t.co/IVlvrqX4Q4 https://t.co/KWHT6A6DTo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "snopes",
+						"name": "snopes.com",
+						"id": 14294848,
+						"id_str": "14294848",
+						"indices": [
+							1,
+							8
+						]
+					},
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							125,
+							141
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IVlvrqX4Q4",
+						"expanded_url": "https://www.snopes.com/news/2019/12/20/facebook-removes-the-bl-pages/",
+						"display_url": "snopes.com/news/2019/12/2…",
+						"indices": [
+							256,
+							279
+						]
+					},
+					{
+						"url": "https://t.co/KWHT6A6DTo",
+						"expanded_url": "https://twitter.com/vinnysgreen/status/1208067865141637121",
+						"display_url": "twitter.com/vinnysgreen/st…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2896866728,
+				"id_str": "2896866728",
+				"name": "Vinny Green",
+				"screen_name": "vinnysgreen",
+				"location": "San Diego, CA",
+				"description": "2nd-in-command at @Snopes | Marine Veteran | @Forbes #30Under30",
+				"url": "https://t.co/XraUl4ggNO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XraUl4ggNO",
+								"expanded_url": "https://snopes.com",
+								"display_url": "snopes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 874,
+				"friends_count": 584,
+				"listed_count": 28,
+				"created_at": "Tue Nov 11 20:09:34 +0000 2014",
+				"favourites_count": 736,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8211,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893174764113600512/jGHZByTJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893174764113600512/jGHZByTJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896866728/1556387861",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1208067865141637000,
+			"quoted_status_id_str": "1208067865141637121",
+			"quoted_status_permalink": {
+				"url": "https://t.co/KWHT6A6DTo",
+				"expanded": "https://twitter.com/vinnysgreen/status/1208067865141637121",
+				"display": "twitter.com/vinnysgreen/st…"
+			},
+			"retweet_count": 47,
+			"favorite_count": 98,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great news and pressured perseverance, yet this is the tip of the Faceberg https://t.co/S7xIAGE9XZ"
+	},
+	{
+		"created_at": "Fri Dec 20 19:04:07 +0000 2019",
+		"id": 1208100784954433500,
+		"id_str": "1208100784954433536",
+		"full_text": "@DonMacAskill @Flickr I'd like some better options in iOS app to search my own photos (e.g. sort/search by date)",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DonMacAskill",
+					"name": "Don MacAskill",
+					"id": 813491,
+					"id_str": "813491",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Flickr",
+					"name": "Flickr",
+					"id": 21237045,
+					"id_str": "21237045",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1024412481022611500,
+		"in_reply_to_status_id_str": "1024412481022611457",
+		"in_reply_to_user_id": 813491,
+		"in_reply_to_user_id_str": "813491",
+		"in_reply_to_screen_name": "DonMacAskill",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10507,
+			"friends_count": 1497,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DonMacAskill @Flickr I'd like some better options in iOS app to search my own photos (e.g. sort/search by date)"
+	},
+	{
 		"created_at": "Fri Dec 20 17:57:56 +0000 2019",
 		"id": 1208084129968836600,
 		"id_str": "1208084129968836608",

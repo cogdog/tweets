@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 27 00:26:21 +0000 2019",
+		"id": 1210321482309677000,
+		"id_str": "1210356205165645824",
+		"full_text": "Make pollution great again. https://t.co/OHtaTgvMWJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OHtaTgvMWJ",
+					"expanded_url": "https://twitter.com/thehill/status/1209627080075423744",
+					"display_url": "twitter.com/thehill/status…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923578168656752600,
+			"id_str": "923578168656752641",
+			"name": "Just Elizabeth",
+			"screen_name": "Eiggam5955",
+			"location": "Florida From Philly",
+			"description": "no filter. rape survivor. flaming liberal. philly girl 4 ever. love intelligence sarcasm humor good bourbon & the F word. #VoteLikeBlackWomen",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31484,
+			"friends_count": 29208,
+			"listed_count": 32,
+			"created_at": "Thu Oct 26 15:52:49 +0000 2017",
+			"favourites_count": 158072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210035051003600896/84g8ouc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210035051003600896/84g8ouc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923578168656752641/1577127700",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1209627080075423700,
+		"quoted_status_id_str": "1209627080075423744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OHtaTgvMWJ",
+			"expanded": "https://twitter.com/thehill/status/1209627080075423744",
+			"display": "twitter.com/thehill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 25 00:09:04 +0000 2019",
+			"id": 1209627080075423700,
+			"id_str": "1209627080075423744",
+			"full_text": "JUST IN: Trump admin shuts down map that allowed users to track pollution levels across US https://t.co/zpsRr6VAe0 https://t.co/s89h0XcoSP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zpsRr6VAe0",
+						"expanded_url": "http://hill.cm/aJlkfom",
+						"display_url": "hill.cm/aJlkfom",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1209627078406131700,
+						"id_str": "1209627078406131712",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/EMl1az8XUAARwD2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMl1az8XUAARwD2.jpg",
+						"url": "https://t.co/s89h0XcoSP",
+						"display_url": "pic.twitter.com/s89h0XcoSP",
+						"expanded_url": "https://twitter.com/thehill/status/1209627080075423744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1209627078406131700,
+						"id_str": "1209627078406131712",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/EMl1az8XUAARwD2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMl1az8XUAARwD2.jpg",
+						"url": "https://t.co/s89h0XcoSP",
+						"display_url": "pic.twitter.com/s89h0XcoSP",
+						"expanded_url": "https://twitter.com/thehill/status/1209627080075423744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 300,
+										"y": 22,
+										"h": 301,
+										"w": 301
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1917731,
+				"id_str": "1917731",
+				"name": "The Hill",
+				"screen_name": "thehill",
+				"location": "Washington, DC",
+				"description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+				"url": "http://t.co/t414UtTRv4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/t414UtTRv4",
+								"expanded_url": "http://www.thehill.com",
+								"display_url": "thehill.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3483194,
+				"friends_count": 256,
+				"listed_count": 26741,
+				"created_at": "Thu Mar 22 18:15:18 +0000 2007",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 671502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+				"profile_link_color": "FF0021",
+				"profile_sidebar_border_color": "ADADAA",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1984,
+			"favorite_count": 1344,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 35,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make pollution great again. https://t.co/OHtaTgvMWJ"
+	},
+	{
 		"created_at": "Thu Dec 26 21:23:03 +0000 2019",
 		"id": 1210310075820064800,
 		"id_str": "1210310075820064768",

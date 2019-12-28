@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 28 06:48:06 +0000 2019",
+		"id": 1210814663014772700,
+		"id_str": "1210814663014772738",
+		"full_text": "Without understanding one word of dialogue I fully understand the beautiful storytelling here. https://t.co/Ol3CYtd4h8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ol3CYtd4h8",
+					"expanded_url": "https://twitter.com/ammaraliqureshi/status/1210100234271023105",
+					"display_url": "twitter.com/ammaraliquresh…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 1496,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1210100234271023000,
+		"quoted_status_id_str": "1210100234271023105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ol3CYtd4h8",
+			"expanded": "https://twitter.com/ammaraliqureshi/status/1210100234271023105",
+			"display": "twitter.com/ammaraliquresh…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 26 07:29:13 +0000 2019",
+			"id": 1210100234271023000,
+			"id_str": "1210100234271023105",
+			"full_text": "Only cultured Iranians could have produced such a powerful video. Iranian short film (just over 1 min) that won an award at the Luxor Film Festival. The film maker is only 20 years old. https://t.co/cWkspBjQUy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1210100121133863000,
+						"id_str": "1210100121133862912",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210100121133862912/pu/img/YM2jPuZnZMDbBR__.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210100121133862912/pu/img/YM2jPuZnZMDbBR__.jpg",
+						"url": "https://t.co/cWkspBjQUy",
+						"display_url": "pic.twitter.com/cWkspBjQUy",
+						"expanded_url": "https://twitter.com/AmmarAliQureshi/status/1210100234271023105/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 372,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 464,
+								"h": 848,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 464,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1210100121133863000,
+						"id_str": "1210100121133862912",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210100121133862912/pu/img/YM2jPuZnZMDbBR__.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210100121133862912/pu/img/YM2jPuZnZMDbBR__.jpg",
+						"url": "https://t.co/cWkspBjQUy",
+						"display_url": "pic.twitter.com/cWkspBjQUy",
+						"expanded_url": "https://twitter.com/AmmarAliQureshi/status/1210100234271023105/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 372,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 464,
+								"h": 848,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 464,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								29,
+								53
+							],
+							"duration_millis": 111167,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1210100121133862912/pu/pl/k9z9o9GGPKSPhDNd.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1210100121133862912/pu/vid/320x584/0vDEcqL5qAX-683w.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1210100121133862912/pu/vid/464x848/Xc8GLIc7zeXJCkKW.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350406161,
+				"id_str": "350406161",
+				"name": "Ammar Ali Qureshi",
+				"screen_name": "AmmarAliQureshi",
+				"location": "",
+				"description": "ولی پوشیدہ اور کافر کھلا -  حسن پرست و شوقین  مزاج\n                                                 RT does not mean endorsement",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1770,
+				"friends_count": 1395,
+				"listed_count": 29,
+				"created_at": "Sun Aug 07 18:31:27 +0000 2011",
+				"favourites_count": 58603,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44435,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098957495748448256/ioLfFM9h_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098957495748448256/ioLfFM9h_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350406161/1551004911",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14304,
+			"favorite_count": 33395,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Without understanding one word of dialogue I fully understand the beautiful storytelling here. https://t.co/Ol3CYtd4h8"
+	},
+	{
 		"created_at": "Sat Dec 28 00:44:20 +0000 2019",
 		"id": 1210723118127272000,
 		"id_str": "1210723118127271937",

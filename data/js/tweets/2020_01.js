@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 01 20:28:36 +0000 2020",
+		"id": 1212470702126682000,
+		"id_str": "1212470702126682113",
+		"full_text": "@mhawksey @scottyab I used iRiver for recording in ~2004-2006. Played a key part in spontaneous network connections from recorded presentation by @NancyWhite in Vancouver to remix by colleagues in Hong Kong, Portugal https://t.co/86NIg3U1Xv",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "scottyab",
+					"name": "Scott Alexander-Bown",
+					"id": 15954607,
+					"id_str": "15954607",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "NancyWhite",
+					"name": "Nancy White",
+					"id": 25793,
+					"id_str": "25793",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/86NIg3U1Xv",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/2914542548",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1212465774255841300,
+		"in_reply_to_status_id_str": "1212465774255841285",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10498,
+			"friends_count": 1494,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mhawksey @scottyab I used iRiver for recording in ~2004-2006. Played a key part in spontaneous network connections from recorded presentation by @NancyWhite in Vancouver to remix by colleagues in Hong Kong, Portugal https://t.co/86NIg3U1Xv"
+	},
+	{
 		"created_at": "Wed Jan 01 19:15:37 +0000 2020",
 		"id": 1212452334770352000,
 		"id_str": "1212452334770352130",

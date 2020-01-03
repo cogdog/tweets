@@ -1,6 +1,766 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 03:10:50 +0000 2020",
+		"id": 1212934315467669500,
+		"id_str": "1212934315467669504",
+		"full_text": "I can’t even read an article on live”science” dot com because it’s hard to find words between the ads. Is this the internet the wizards stayed up late for? https://t.co/Qxf94MEFXI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212934300137488400,
+					"id_str": "1212934300137488388",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU1Uc-VAAQEQWw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU1Uc-VAAQEQWw.jpg",
+					"url": "https://t.co/Qxf94MEFXI",
+					"display_url": "pic.twitter.com/Qxf94MEFXI",
+					"expanded_url": "https://twitter.com/cogdog/status/1212934315467669504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 29,
+									"y": 277,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 544,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 544,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 489,
+									"h": 145,
+									"w": 145
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212934300137488400,
+					"id_str": "1212934300137488388",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU1Uc-VAAQEQWw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU1Uc-VAAQEQWw.jpg",
+					"url": "https://t.co/Qxf94MEFXI",
+					"display_url": "pic.twitter.com/Qxf94MEFXI",
+					"expanded_url": "https://twitter.com/cogdog/status/1212934315467669504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 29,
+									"y": 277,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 544,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 544,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 489,
+									"h": 145,
+									"w": 145
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212934300158447600,
+					"id_str": "1212934300158447616",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU1UdDU0AAQfTB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU1UdDU0AAQfTB.jpg",
+					"url": "https://t.co/Qxf94MEFXI",
+					"display_url": "pic.twitter.com/Qxf94MEFXI",
+					"expanded_url": "https://twitter.com/cogdog/status/1212934315467669504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10500,
+			"friends_count": 1494,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can’t even read an article on live”science” dot com because it’s hard to find words between the ads. Is this the internet the wizards stayed up late for? https://t.co/Qxf94MEFXI"
+	},
+	{
+		"created_at": "Fri Jan 03 03:01:42 +0000 2020",
+		"id": 1212932015357448200,
+		"id_str": "1212932015357448192",
+		"full_text": "SO WHAT IF AS PRESIDENT I GOLFED 1 OUT OF 5 DAYS IN 2019? THE OTHER 2 DAYS WERE SPENT TWEETING, ONE DAY FETCHING CHEESEBURGERS, AND ANOTHER DAY MAKING NEPOTISM GREAT AGAIN FOR MY KIDS. NO PRESIDENT HAS WORKED THIS HARD!  https://t.co/Ni6yP6l8sA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ni6yP6l8sA",
+					"expanded_url": "https://www.cnn.com/2019/12/31/politics/trump-golfing-vacation/index.html",
+					"display_url": "cnn.com/2019/12/31/pol…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10500,
+			"friends_count": 1494,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SO WHAT IF AS PRESIDENT I GOLFED 1 OUT OF 5 DAYS IN 2019? THE OTHER 2 DAYS WERE SPENT TWEETING, ONE DAY FETCHING CHEESEBURGERS, AND ANOTHER DAY MAKING NEPOTISM GREAT AGAIN FOR MY KIDS. NO PRESIDENT HAS WORKED THIS HARD!  https://t.co/Ni6yP6l8sA"
+	},
+	{
+		"created_at": "Fri Jan 03 02:36:07 +0000 2020",
+		"id": 1212925576941428700,
+		"id_str": "1212925576941428741",
+		"full_text": "There are actually people who scout the web to find link suggestions to add to 9 year old blog posts. #weirdJobs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "weirdJobs",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10500,
+			"friends_count": 1494,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "There are actually people who scout the web to find link suggestions to add to 9 year old blog posts. #weirdJobs"
+	},
+	{
+		"created_at": "Fri Jan 03 02:33:22 +0000 2020",
+		"id": 1212924884885500000,
+		"id_str": "1212924884885499904",
+		"full_text": "@holden @bjfr @chrisbuttimer @eveewing @karen_brennan @metasj @WikiEducation @amcollier Some more activities at bottom of WikiStuff for #muraludg project https://t.co/Rnmp9GZwoo",
+		"truncated": false,
+		"display_text_range": [
+			88,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "muraludg",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "bjfr",
+					"name": "Justin Reich",
+					"id": 14883339,
+					"id_str": "14883339",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"screen_name": "chrisbuttimer",
+					"name": "Chris Buttimer",
+					"id": 49373732,
+					"id_str": "49373732",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "eveewing",
+					"name": "wikipedia brown aka silk bonnet spectre",
+					"id": 19166519,
+					"id_str": "19166519",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "karen_brennan",
+					"name": "Karen Brennan",
+					"id": 88308667,
+					"id_str": "88308667",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "metasj",
+					"name": "Samuel Klein 🍑🌿",
+					"id": 75123,
+					"id_str": "75123",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"screen_name": "WikiEducation",
+					"name": "Wiki Education",
+					"id": 2181109652,
+					"id_str": "2181109652",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "amcollier",
+					"name": "Anne of Green Mountains",
+					"id": 17300374,
+					"id_str": "17300374",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rnmp9GZwoo",
+					"expanded_url": "https://muraludg.org/topics/open-question/",
+					"display_url": "muraludg.org/topics/open-qu…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212893916124500000,
+		"in_reply_to_status_id_str": "1212893916124499970",
+		"in_reply_to_user_id": 1912681,
+		"in_reply_to_user_id_str": "1912681",
+		"in_reply_to_screen_name": "holden",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10500,
+			"friends_count": 1494,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@holden @bjfr @chrisbuttimer @eveewing @karen_brennan @metasj @WikiEducation @amcollier Some more activities at bottom of WikiStuff for #muraludg project https://t.co/Rnmp9GZwoo"
+	},
+	{
 		"created_at": "Fri Jan 03 00:06:18 +0000 2020",
 		"id": 1212887877400416300,
 		"id_str": "1212887877400416257",

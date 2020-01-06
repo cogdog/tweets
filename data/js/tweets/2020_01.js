@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 15:09:54 +0000 2020",
+		"id": 1214202438711775200,
+		"id_str": "1214202438711775234",
+		"full_text": "This is insanely useful and also much easier to do than I might have guessed. Expect many of my Google Sheets to be sparklined! https://t.co/AqsQE8GRZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AqsQE8GRZ8",
+					"expanded_url": "https://twitter.com/ResearchBuzz/status/1214196677936132096",
+					"display_url": "twitter.com/ResearchBuzz/s…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1494,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214196677936132000,
+		"quoted_status_id_str": "1214196677936132096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AqsQE8GRZ8",
+			"expanded": "https://twitter.com/ResearchBuzz/status/1214196677936132096",
+			"display": "twitter.com/ResearchBuzz/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 14:47:01 +0000 2020",
+			"id": 1214196677936132000,
+			"id_str": "1214196677936132096",
+			"full_text": "How-To Geek: How to Use Sparklines in Google Sheets - https://t.co/thr7wklHI5 #spreadsheets  #charts #dataviz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "spreadsheets",
+						"indices": [
+							78,
+							91
+						]
+					},
+					{
+						"text": "charts",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "dataviz",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/thr7wklHI5",
+						"expanded_url": "https://buff.ly/36pwU48",
+						"display_url": "buff.ly/36pwU48",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6979102,
+				"id_str": "6979102",
+				"name": "Tara Calishain",
+				"screen_name": "ResearchBuzz",
+				"location": "",
+				"description": "Obsessed with search engines, info collections, and databases since forever. News and resources covering same since 1998. Wrote a stack of books. Say hi.",
+				"url": "http://t.co/N8gqhQKHJ5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/N8gqhQKHJ5",
+								"expanded_url": "http://www.researchbuzz.com",
+								"display_url": "researchbuzz.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5518,
+				"friends_count": 3383,
+				"listed_count": 596,
+				"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+				"favourites_count": 5005,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 56064,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+				"profile_link_color": "243A8F",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is insanely useful and also much easier to do than I might have guessed. Expect many of my Google Sheets to be sparklined! https://t.co/AqsQE8GRZ8"
+	},
+	{
 		"created_at": "Sun Jan 05 02:02:36 +0000 2020",
 		"id": 1213641918707404800,
 		"id_str": "1213641918707404800",

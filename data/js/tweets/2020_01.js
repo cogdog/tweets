@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 18:37:59 +0000 2020",
+		"id": 1214254802718183400,
+		"id_str": "1214254802718183424",
+		"full_text": "Laura is a guru at efficiently/creatively using blog post feeds - using a Feed Reader is an approach w/o having to build a blog hub (especially when you learn to set up blog comment feeds) - she/you can scan a whole class's activity in one view https://t.co/HiIPnByOxJ https://t.co/9amFvfhF1K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HiIPnByOxJ",
+					"expanded_url": "https://cogdogblog.com/2019/02/keep-blog-syndication-simpler/",
+					"display_url": "cogdogblog.com/2019/02/keep-b…",
+					"indices": [
+						245,
+						268
+					]
+				},
+				{
+					"url": "https://t.co/9amFvfhF1K",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1214244883294228481",
+					"display_url": "twitter.com/OnlineCrsLady/…",
+					"indices": [
+						269,
+						292
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10501,
+			"friends_count": 1494,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214244883294228500,
+		"quoted_status_id_str": "1214244883294228481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9amFvfhF1K",
+			"expanded": "https://twitter.com/OnlineCrsLady/status/1214244883294228481",
+			"display": "twitter.com/OnlineCrsLady/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 17:58:34 +0000 2020",
+			"id": 1214244883294228500,
+			"id_str": "1214244883294228481",
+			"full_text": "my #BeyondLMS workflow; in some ways @Inoreader is my LMS: as student blog posts come in, I can view them by person, by course, by assignment (Inoreader handles all that for me) and I star the posts as I comment on them. one task done: I commented on all the favorite places posts https://t.co/EAlzzcCuuq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BeyondLMS",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Inoreader",
+						"name": "Inoreader",
+						"id": 1536852836,
+						"id_str": "1536852836",
+						"indices": [
+							37,
+							47
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1214244875312488400,
+						"id_str": "1214244875312488448",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/ENndR99W4AApwgO.png",
+						"media_url_https": "https://pbs.twimg.com/media/ENndR99W4AApwgO.png",
+						"url": "https://t.co/EAlzzcCuuq",
+						"display_url": "pic.twitter.com/EAlzzcCuuq",
+						"expanded_url": "https://twitter.com/OnlineCrsLady/status/1214244883294228481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 531,
+								"h": 184,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 531,
+								"h": 184,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 531,
+								"h": 184,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214244875312488400,
+						"id_str": "1214244875312488448",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/ENndR99W4AApwgO.png",
+						"media_url_https": "https://pbs.twimg.com/media/ENndR99W4AApwgO.png",
+						"url": "https://t.co/EAlzzcCuuq",
+						"display_url": "pic.twitter.com/EAlzzcCuuq",
+						"expanded_url": "https://twitter.com/OnlineCrsLady/status/1214244883294228481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 531,
+								"h": 184,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 531,
+								"h": 184,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 531,
+								"h": 184,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7044082,
+				"id_str": "7044082",
+				"name": "Laura Gibbs",
+				"screen_name": "OnlineCrsLady",
+				"location": "the Interwebz",
+				"description": "Happily teaching online at Univ of Okla since 2002 \n#RSSForever #TotalCoLearner #Ungrading #MakeTeachingWeirdAgain #TrustStudents #HackLMS #BeyondLMS #NaNoWriMo",
+				"url": "http://t.co/HAXevMhfOE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HAXevMhfOE",
+								"expanded_url": "http://mythfolklore.net",
+								"display_url": "mythfolklore.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3699,
+				"friends_count": 1881,
+				"listed_count": 376,
+				"created_at": "Sun Jun 24 04:17:20 +0000 2007",
+				"favourites_count": 63735,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 71040,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "112E18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7044082/1528746359",
+				"profile_link_color": "196912",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Laura is a guru at efficiently/creatively using blog post feeds - using a Feed Reader is an approach w/o having to build a blog hub (especially when you learn to set up blog comment feeds) - she/you can scan a whole class's activity in one view https://t.co/HiIPnByOxJ https://t.co/9amFvfhF1K"
+	},
+	{
 		"created_at": "Mon Jan 06 17:15:09 +0000 2020",
 		"id": 1214233956536602600,
 		"id_str": "1214233956536602624",

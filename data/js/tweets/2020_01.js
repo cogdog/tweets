@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 22:25:42 +0000 2020",
+		"id": 1218660763616702500,
+		"id_str": "1218660763616702464",
+		"full_text": "With the LOC browser extension, each new tab opened offers frequently jaw dropping public domain images. Like this 1915 international modeling of gas masks. It feels somehow current https://t.co/3TIDD6q019 https://t.co/7Y2Eiwosww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3TIDD6q019",
+					"expanded_url": "https://www.loc.gov/resource/ggbain.27239",
+					"display_url": "loc.gov/resource/ggbai…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218660560872464400,
+					"id_str": "1218660560872464384",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EOmNUsiU4AA8s52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOmNUsiU4AA8s52.jpg",
+					"url": "https://t.co/7Y2Eiwosww",
+					"display_url": "pic.twitter.com/7Y2Eiwosww",
+					"expanded_url": "https://twitter.com/cogdog/status/1218660763616702464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 320,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 148,
+									"y": 603,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 547,
+									"y": 189,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 724,
+									"y": 182,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 320,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 148,
+									"y": 603,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 547,
+									"y": 189,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 724,
+									"y": 182,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 320,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 148,
+									"y": 603,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 547,
+									"y": 189,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 724,
+									"y": 182,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 212,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 98,
+									"y": 400,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 363,
+									"y": 125,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 480,
+									"y": 120,
+									"h": 66,
+									"w": 66
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218660560872464400,
+					"id_str": "1218660560872464384",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EOmNUsiU4AA8s52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOmNUsiU4AA8s52.jpg",
+					"url": "https://t.co/7Y2Eiwosww",
+					"display_url": "pic.twitter.com/7Y2Eiwosww",
+					"expanded_url": "https://twitter.com/cogdog/status/1218660763616702464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 320,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 148,
+									"y": 603,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 547,
+									"y": 189,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 724,
+									"y": 182,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 320,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 148,
+									"y": 603,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 547,
+									"y": 189,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 724,
+									"y": 182,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 320,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 148,
+									"y": 603,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 547,
+									"y": 189,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 724,
+									"y": 182,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 212,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 98,
+									"y": 400,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 363,
+									"y": 125,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 480,
+									"y": 120,
+									"h": 66,
+									"w": 66
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1502,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With the LOC browser extension, each new tab opened offers frequently jaw dropping public domain images. Like this 1915 international modeling of gas masks. It feels somehow current https://t.co/3TIDD6q019 https://t.co/7Y2Eiwosww"
+	},
+	{
+		"created_at": "Sat Jan 18 22:23:13 +0000 2020",
+		"id": 1218660140271845400,
+		"id_str": "1218660140271845376",
+		"full_text": "I double this worthy retweet; Dennis is remarkable with the lens https://t.co/qV5WlCVZFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qV5WlCVZFk",
+					"expanded_url": "https://twitter.com/tanbob/status/1218633318633095168",
+					"display_url": "twitter.com/tanbob/status/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1502,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218633318633095200,
+		"quoted_status_id_str": "1218633318633095168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qV5WlCVZFk",
+			"expanded": "https://twitter.com/tanbob/status/1218633318633095168",
+			"display": "twitter.com/tanbob/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 18 20:36:38 +0000 2020",
+			"id": 1218633318633095200,
+			"id_str": "1218633318633095168",
+			"full_text": "Ok going to jump in here and promote the beautiful photography of @denniskdyip His photos look great on merch or on the walls. He killed his IG after hitting 30k fans but you can enjoy them here https://t.co/GRguBB5p5v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "denniskdyip",
+						"name": "Dennis Yip",
+						"id": 174739964,
+						"id_str": "174739964",
+						"indices": [
+							66,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GRguBB5p5v",
+						"expanded_url": "https://dyip.smugmug.com/",
+						"display_url": "dyip.smugmug.com",
+						"indices": [
+							195,
+							218
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1218590957420990500,
+			"in_reply_to_status_id_str": "1218590957420990464",
+			"in_reply_to_user_id": 10817782,
+			"in_reply_to_user_id_str": "10817782",
+			"in_reply_to_screen_name": "tanbob",
+			"user": {
+				"id": 10817782,
+				"id_str": "10817782",
+				"name": "Dr. Tannis Morgan",
+				"screen_name": "tanbob",
+				"location": "Vancouver, Canada",
+				"description": "Advisor, Teaching + Learning @BCcampus. Researcher #OEP, #OER #REL. Curator of OER in other languages #oloer. Cofounder @openetc. Edtech + #femedtech. she/her",
+				"url": "https://t.co/sTlP9hj8pH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sTlP9hj8pH",
+								"expanded_url": "http://homonym.ca",
+								"display_url": "homonym.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2127,
+				"friends_count": 1700,
+				"listed_count": 140,
+				"created_at": "Mon Dec 03 18:43:21 +0000 2007",
+				"favourites_count": 6145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7558,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530559772/twitterProfilePhoto_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530559772/twitterProfilePhoto_normal.jpg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I double this worthy retweet; Dennis is remarkable with the lens https://t.co/qV5WlCVZFk"
+	},
+	{
 		"created_at": "Sat Jan 18 00:28:35 +0000 2020",
 		"id": 1218329301902250000,
 		"id_str": "1218329301902249984",

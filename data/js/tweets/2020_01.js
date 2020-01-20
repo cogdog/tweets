@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 13:11:13 +0000 2020",
+		"id": 1217819041496227800,
+		"id_str": "1219245999928963072",
+		"full_text": "Cows make milk. They milk themselves.\n\nOther cows check the milk (for free). \n\nCows - get this - PAY THE FARMER to take the milk away.\n \nThen the farmer (you won't believe this, honestly) sells the milk *back to the cows.* \n\n#academicpublishing https://t.co/mgYneu4Goi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academicpublishing",
+					"indices": [
+						225,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mgYneu4Goi",
+					"expanded_url": "https://twitter.com/DevilleSy/status/1216428583624855552",
+					"display_url": "twitter.com/DevilleSy/stat…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94360076,
+			"id_str": "94360076",
+			"name": "Ned Potter",
+			"screen_name": "ned_potter",
+			"location": "York",
+			"description": "Delighted to be working in the Information profession. Especially interested in communication + marketing libraries. I run workshops and sometimes do talks.",
+			"url": "https://t.co/UKNnUrv2PY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKNnUrv2PY",
+							"expanded_url": "http://www.ned-potter.com",
+							"display_url": "ned-potter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7042,
+			"friends_count": 1330,
+			"listed_count": 513,
+			"created_at": "Thu Dec 03 16:17:57 +0000 2009",
+			"favourites_count": 1126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190158737664856065/z7U5UODn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190158737664856065/z7U5UODn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94360076/1566138021",
+			"profile_link_color": "3B9C9C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1CEFDB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216428583624855600,
+		"quoted_status_id_str": "1216428583624855552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mgYneu4Goi",
+			"expanded": "https://twitter.com/DevilleSy/status/1216428583624855552",
+			"display": "twitter.com/DevilleSy/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 12 18:35:49 +0000 2020",
+			"id": 1216428583624855600,
+			"id_str": "1216428583624855552",
+			"full_text": "Explain academic publishing to me like I am Five",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331228486,
+				"id_str": "331228486",
+				"name": "Sylvain ❄️👨🏻‍🎓",
+				"screen_name": "DevilleSy",
+				"location": "France",
+				"description": "Freezing stuff since 1876. Will science for chocolate. ORCID Id 0000-0002-3363-3184. Author of \"Freezing Colloids\" https://t.co/fzcOCR91D5… #flyless",
+				"url": "https://t.co/mi9f7VLkKO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mi9f7VLkKO",
+								"expanded_url": "http://sylvaindeville.net",
+								"display_url": "sylvaindeville.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fzcOCR91D5",
+								"expanded_url": "http://springer.com/fr/book/978331",
+								"display_url": "springer.com/fr/book/978331",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5562,
+				"friends_count": 1456,
+				"listed_count": 213,
+				"created_at": "Thu Jul 07 21:04:05 +0000 2011",
+				"favourites_count": 12533,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31687,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "394145",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101053526439067649/UX-4gg-__normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101053526439067649/UX-4gg-__normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331228486/1551525964",
+				"profile_link_color": "003D6B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "3B3B3B",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2488,
+		"favorite_count": 6459,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cows make milk. They milk themselves.\n\nOther cows check the milk (for free). \n\nCows - get this - PAY THE FARMER to take the milk away.\n \nThen the farmer (you won't believe this, honestly) sells the milk *back to the cows.* \n\n#academicpublishing https://t.co/mgYneu4Goi"
+	},
+	{
 		"created_at": "Mon Jan 20 03:45:09 +0000 2020",
 		"id": 1219103545892298800,
 		"id_str": "1219103545892298754",

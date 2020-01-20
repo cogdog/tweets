@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 21:55:29 +0000 2020",
+		"id": 1219377934261051400,
+		"id_str": "1219377934261051392",
+		"full_text": "Oh 1910 when you got paid $30 a month for providing 8 photos to a newspaper. The contract made it into the LOC archives -Public domain is worth so much more...\n\nhttps://t.co/vEdBArJiND https://t.co/UpNYLN1UTk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vEdBArJiND",
+					"expanded_url": "https://www.loc.gov/resource/ggbain.09413",
+					"display_url": "loc.gov/resource/ggbai…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219377830628184000,
+					"id_str": "1219377830628184064",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EOwZrSmUUAA9R--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOwZrSmUUAA9R--.jpg",
+					"url": "https://t.co/UpNYLN1UTk",
+					"display_url": "pic.twitter.com/UpNYLN1UTk",
+					"expanded_url": "https://twitter.com/cogdog/status/1219377934261051392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 753,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 420,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 279,
+									"y": 269,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 236,
+									"y": 461,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 323,
+									"y": 192,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 740,
+									"y": 437,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 669,
+									"y": 411,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 297,
+									"y": 262,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 620,
+									"y": 409,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 432,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 135,
+									"y": 211,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 308,
+									"y": 278,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 185,
+									"y": 178,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 156,
+									"y": 306,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 214,
+									"y": 127,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 491,
+									"y": 290,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 444,
+									"y": 272,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 197,
+									"y": 173,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 411,
+									"y": 271,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 142,
+									"y": 286,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 89,
+									"y": 140,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 420,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 279,
+									"y": 269,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 236,
+									"y": 461,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 323,
+									"y": 192,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 740,
+									"y": 437,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 669,
+									"y": 411,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 297,
+									"y": 262,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 620,
+									"y": 409,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 432,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 135,
+									"y": 211,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 420,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 279,
+									"y": 269,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 236,
+									"y": 461,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 323,
+									"y": 192,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 740,
+									"y": 437,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 669,
+									"y": 411,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 297,
+									"y": 262,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 620,
+									"y": 409,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 432,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 135,
+									"y": 211,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219377830628184000,
+					"id_str": "1219377830628184064",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EOwZrSmUUAA9R--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOwZrSmUUAA9R--.jpg",
+					"url": "https://t.co/UpNYLN1UTk",
+					"display_url": "pic.twitter.com/UpNYLN1UTk",
+					"expanded_url": "https://twitter.com/cogdog/status/1219377934261051392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 753,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 420,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 279,
+									"y": 269,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 236,
+									"y": 461,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 323,
+									"y": 192,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 740,
+									"y": 437,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 669,
+									"y": 411,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 297,
+									"y": 262,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 620,
+									"y": 409,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 432,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 135,
+									"y": 211,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 308,
+									"y": 278,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 185,
+									"y": 178,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 156,
+									"y": 306,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 214,
+									"y": 127,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 491,
+									"y": 290,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 444,
+									"y": 272,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 197,
+									"y": 173,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 411,
+									"y": 271,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 142,
+									"y": 286,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 89,
+									"y": 140,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 420,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 279,
+									"y": 269,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 236,
+									"y": 461,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 323,
+									"y": 192,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 740,
+									"y": 437,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 669,
+									"y": 411,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 297,
+									"y": 262,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 620,
+									"y": 409,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 432,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 135,
+									"y": 211,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 420,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 279,
+									"y": 269,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 236,
+									"y": 461,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 323,
+									"y": 192,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 740,
+									"y": 437,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 669,
+									"y": 411,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 297,
+									"y": 262,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 620,
+									"y": 409,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 214,
+									"y": 432,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 135,
+									"y": 211,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1503,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh 1910 when you got paid $30 a month for providing 8 photos to a newspaper. The contract made it into the LOC archives -Public domain is worth so much more...\n\nhttps://t.co/vEdBArJiND https://t.co/UpNYLN1UTk"
+	},
+	{
+		"created_at": "Mon Jan 20 21:51:07 +0000 2020",
+		"id": 1219376838679490600,
+		"id_str": "1219376838679490560",
+		"full_text": "There went 90 minutes of my life because a developers docs said their software required PHP7.0  and tracing down the error logs showed they are using featured only in PHP7.1 and later. Decimals count here. Document better, please.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1503,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "There went 90 minutes of my life because a developers docs said their software required PHP7.0  and tracing down the error logs showed they are using featured only in PHP7.1 and later. Decimals count here. Document better, please."
+	},
+	{
 		"created_at": "Mon Jan 20 19:54:18 +0000 2020",
 		"id": 1219347440551096300,
 		"id_str": "1219347440551096320",

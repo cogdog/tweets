@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 15:57:57 +0000 2020",
+		"id": 1219650345590128600,
+		"id_str": "1219650345590128641",
+		"full_text": "Come for the \"You're Not Going to Believe What I'm About to Tell You\" gem from The Oatmeal, stay for the dismantling of a justice-less care-less use-less binary view of open. \n\nPriming for #netnarr #netmirror https://t.co/k3fLq6fzNx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "netmirror",
+					"indices": [
+						198,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k3fLq6fzNx",
+					"expanded_url": "https://twitter.com/mandylibrary/status/1216864808160489473",
+					"display_url": "twitter.com/mandylibrary/s…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1503,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216864808160489500,
+		"quoted_status_id_str": "1216864808160489473",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k3fLq6fzNx",
+			"expanded": "https://twitter.com/mandylibrary/status/1216864808160489473",
+			"display": "twitter.com/mandylibrary/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 23:29:13 +0000 2020",
+			"id": 1216864808160489500,
+			"id_str": "1216864808160489473",
+			"full_text": "I was asked to write a blog on the future of open and told to be provocative. \n\nSo I was.\n\n https://t.co/PJc0d57mnK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PJc0d57mnK",
+						"expanded_url": "https://medium.com/@beewithablog/open-is-cancelled-da7dd6f2aaaf",
+						"display_url": "medium.com/@beewithablog/…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1285904599,
+				"id_str": "1285904599",
+				"name": "Mandy",
+				"screen_name": "mandylibrary",
+				"location": "Aotearoa New Zealand",
+				"description": "Chief Executive for @tohatohanz   I'm a librarian.  I ride a bike.  I wrote a book on climate change & libraries.   You should read it. she/her. I block TERFs.",
+				"url": "https://t.co/HuIDJzCcI1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HuIDJzCcI1",
+								"expanded_url": "https://www.alastore.ala.org/content/ecology-economy-equity-path-carbon-neutral-library",
+								"display_url": "alastore.ala.org/content/ecolog…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 834,
+				"friends_count": 1535,
+				"listed_count": 27,
+				"created_at": "Thu Mar 21 12:48:40 +0000 2013",
+				"favourites_count": 21097,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10049,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1194886873006501889/hRtK9piD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194886873006501889/hRtK9piD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285904599/1571644819",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 129,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come for the \"You're Not Going to Believe What I'm About to Tell You\" gem from The Oatmeal, stay for the dismantling of a justice-less care-less use-less binary view of open. \n\nPriming for #netnarr #netmirror https://t.co/k3fLq6fzNx"
+	},
+	{
 		"created_at": "Tue Jan 21 04:32:42 +0000 2020",
 		"id": 1219477897087307800,
 		"id_str": "1219477897087307777",

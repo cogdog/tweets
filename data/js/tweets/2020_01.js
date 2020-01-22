@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 22 16:58:30 +0000 2020",
+		"id": 1219680460592373800,
+		"id_str": "1220027971521499136",
+		"full_text": "|n|otabilia 674  ⁂ from _Beyond the Wall: Essays from the Outside_ ⁂ Edward Abbey || Read more like this in *Notabilia*, a daily(ish) newsletter → https://t.co/sx3TZ4ku0O\n\n⁣⁣⁣#notabilia #quotes #newsletter #literaryquotes #commonplacebook #edwardabbey #activism #tinywisdom https://t.co/DUFq0H7Vck",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "notabilia",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"text": "newsletter",
+					"indices": [
+						194,
+						205
+					]
+				},
+				{
+					"text": "literaryquotes",
+					"indices": [
+						206,
+						221
+					]
+				},
+				{
+					"text": "commonplacebook",
+					"indices": [
+						222,
+						238
+					]
+				},
+				{
+					"text": "edwardabbey",
+					"indices": [
+						239,
+						251
+					]
+				},
+				{
+					"text": "activism",
+					"indices": [
+						252,
+						261
+					]
+				},
+				{
+					"text": "tinywisdom",
+					"indices": [
+						262,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sx3TZ4ku0O",
+					"expanded_url": "http://ktxc.to/nbts",
+					"display_url": "ktxc.to/nbts",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219680446671229000,
+					"id_str": "1219680446671228933",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EO0s53NUEAUrLjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO0s53NUEAUrLjS.jpg",
+					"url": "https://t.co/DUFq0H7Vck",
+					"display_url": "pic.twitter.com/DUFq0H7Vck",
+					"expanded_url": "https://twitter.com/notabilia/status/1219680460592373760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219680446671229000,
+					"id_str": "1219680446671228933",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EO0s53NUEAUrLjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO0s53NUEAUrLjS.jpg",
+					"url": "https://t.co/DUFq0H7Vck",
+					"display_url": "pic.twitter.com/DUFq0H7Vck",
+					"expanded_url": "https://twitter.com/notabilia/status/1219680460592373760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824431685076815900,
+			"id_str": "824431685076815872",
+			"name": "Notabilia",
+			"screen_name": "notabilia",
+			"location": "The World of Words",
+			"description": "A daily(ish) email with a single carefully chosen short poem, flash fiction, interesting list, quotation, or other excerpt. Check out @katexic too! By @fncll.",
+			"url": "https://t.co/q2sfnJSf7x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q2sfnJSf7x",
+							"expanded_url": "https://katexic.com/notabilia/",
+							"display_url": "katexic.com/notabilia/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Thu Jan 26 01:40:05 +0000 2017",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824709362870411264/GxJpdoEX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824709362870411264/GxJpdoEX_normal.jpg",
+			"profile_link_color": "760E0E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "|n|otabilia 674  ⁂ from _Beyond the Wall: Essays from the Outside_ ⁂ Edward Abbey || Read more like this in *Notabilia*, a daily(ish) newsletter → https://t.co/sx3TZ4ku0O\n\n⁣⁣⁣#notabilia #quotes #newsletter #literaryquotes #commonplacebook #edwardabbey #activism #tinywisdom https://t.co/DUFq0H7Vck"
+	},
+	{
 		"created_at": "Wed Jan 22 15:25:01 +0000 2020",
 		"id": 1220004447356506000,
 		"id_str": "1220004447356506114",

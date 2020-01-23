@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 19:00:21 +0000 2020",
+		"id": 1220421026607255600,
+		"id_str": "1220421026607255557",
+		"full_text": "@Bali_Maha @NomadWarMachine @koutropoulos @ronald_2008 @karenatsharon @davecormier @sensor63 @Lenandlar @dogtrax @Danceswithcloud @imagineacircle @tutormentorteam @telliowkuwp @EatcherVeggies @VanessaVaile @grammasheri @whitneykilgore @djsamson @WarwickLanguage @moocresearch @dolphinfish55 @JeffreyKeefer When I edited the bank, sometimes a submitted assignment was too small, so may have been converted to a TDC",
+		"truncated": false,
+		"display_text_range": [
+			306,
+			413
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "koutropoulos",
+					"name": "Apostolos K.",
+					"id": 17907414,
+					"id_str": "17907414",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "ronald_2008",
+					"name": "Ronald_2008 🤔",
+					"id": 211458710,
+					"id_str": "211458710",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "karenatsharon",
+					"name": "Karen Young",
+					"id": 186307153,
+					"id_str": "186307153",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"screen_name": "Lenandlar",
+					"name": "Lenandlar Singh",
+					"id": 23781321,
+					"id_str": "23781321",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						113,
+						129
+					]
+				},
+				{
+					"screen_name": "imagineacircle",
+					"name": "Aaron Johannes",
+					"id": 217193419,
+					"id_str": "217193419",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"screen_name": "tutormentorteam",
+					"name": "Daniel Bassill",
+					"id": 45338918,
+					"id_str": "45338918",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"screen_name": "telliowkuwp",
+					"name": "Terry Elliott",
+					"id": 326772515,
+					"id_str": "326772515",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"screen_name": "EatcherVeggies",
+					"name": "Moshie🐝",
+					"id": 45637368,
+					"id_str": "45637368",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"screen_name": "VanessaVaile",
+					"name": "VanessaVaile",
+					"id": 12122342,
+					"id_str": "12122342",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						206,
+						218
+					]
+				},
+				{
+					"screen_name": "whitneykilgore",
+					"name": "Whitney Kilgore",
+					"id": 12915742,
+					"id_str": "12915742",
+					"indices": [
+						219,
+						234
+					]
+				},
+				{
+					"screen_name": "djsamson",
+					"name": "Diana Samson",
+					"id": 31732334,
+					"id_str": "31732334",
+					"indices": [
+						235,
+						244
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						245,
+						261
+					]
+				},
+				{
+					"screen_name": "moocresearch",
+					"name": "Toni Rose",
+					"id": 1730086064,
+					"id_str": "1730086064",
+					"indices": [
+						262,
+						275
+					]
+				},
+				{
+					"screen_name": "dolphinfish55",
+					"name": "R. D. Maxwell",
+					"id": 33485159,
+					"id_str": "33485159",
+					"indices": [
+						276,
+						290
+					]
+				},
+				{
+					"screen_name": "JeffreyKeefer",
+					"name": "Jeffrey Keefer",
+					"id": 815875,
+					"id_str": "815875",
+					"indices": [
+						291,
+						305
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1220416301123932200,
+		"in_reply_to_status_id_str": "1220416301123932162",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1503,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bali_Maha @NomadWarMachine @koutropoulos @ronald_2008 @karenatsharon @davecormier @sensor63 @Lenandlar @dogtrax @Danceswithcloud @imagineacircle @tutormentorteam @telliowkuwp @EatcherVeggies @VanessaVaile @grammasheri @whitneykilgore @djsamson @WarwickLanguage @moocresearch @dolphinfish55 @JeffreyKeefer When I edited the bank, sometimes a submitted assignment was too small, so may have been converted to a TDC"
+	},
+	{
+		"created_at": "Thu Jan 23 18:59:12 +0000 2020",
+		"id": 1220420737573556200,
+		"id_str": "1220420737573556224",
+		"full_text": "@Bali_Maha @NomadWarMachine @koutropoulos @ronald_2008 @karenatsharon @davecormier @sensor63 @Lenandlar @dogtrax @Danceswithcloud @imagineacircle @tutormentorteam @telliowkuwp @EatcherVeggies @VanessaVaile @grammasheri @whitneykilgore @djsamson @WarwickLanguage @moocresearch @dolphinfish55 @JeffreyKeefer Sarah is correct, #ds106 bank is separate, it came first. These are used in a course\nhttps://t.co/OaJYPUBAb0\n\nTDC may overlap, more aimed at smaller scale activities just to practice.",
+		"truncated": false,
+		"display_text_range": [
+			306,
+			489
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						324,
+						330
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "koutropoulos",
+					"name": "Apostolos K.",
+					"id": 17907414,
+					"id_str": "17907414",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "ronald_2008",
+					"name": "Ronald_2008 🤔",
+					"id": 211458710,
+					"id_str": "211458710",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "karenatsharon",
+					"name": "Karen Young",
+					"id": 186307153,
+					"id_str": "186307153",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"screen_name": "Lenandlar",
+					"name": "Lenandlar Singh",
+					"id": 23781321,
+					"id_str": "23781321",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						113,
+						129
+					]
+				},
+				{
+					"screen_name": "imagineacircle",
+					"name": "Aaron Johannes",
+					"id": 217193419,
+					"id_str": "217193419",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"screen_name": "tutormentorteam",
+					"name": "Daniel Bassill",
+					"id": 45338918,
+					"id_str": "45338918",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"screen_name": "telliowkuwp",
+					"name": "Terry Elliott",
+					"id": 326772515,
+					"id_str": "326772515",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"screen_name": "EatcherVeggies",
+					"name": "Moshie🐝",
+					"id": 45637368,
+					"id_str": "45637368",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"screen_name": "VanessaVaile",
+					"name": "VanessaVaile",
+					"id": 12122342,
+					"id_str": "12122342",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						206,
+						218
+					]
+				},
+				{
+					"screen_name": "whitneykilgore",
+					"name": "Whitney Kilgore",
+					"id": 12915742,
+					"id_str": "12915742",
+					"indices": [
+						219,
+						234
+					]
+				},
+				{
+					"screen_name": "djsamson",
+					"name": "Diana Samson",
+					"id": 31732334,
+					"id_str": "31732334",
+					"indices": [
+						235,
+						244
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						245,
+						261
+					]
+				},
+				{
+					"screen_name": "moocresearch",
+					"name": "Toni Rose",
+					"id": 1730086064,
+					"id_str": "1730086064",
+					"indices": [
+						262,
+						275
+					]
+				},
+				{
+					"screen_name": "dolphinfish55",
+					"name": "R. D. Maxwell",
+					"id": 33485159,
+					"id_str": "33485159",
+					"indices": [
+						276,
+						290
+					]
+				},
+				{
+					"screen_name": "JeffreyKeefer",
+					"name": "Jeffrey Keefer",
+					"id": 815875,
+					"id_str": "815875",
+					"indices": [
+						291,
+						305
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OaJYPUBAb0",
+					"expanded_url": "http://assignments.ds106.us/about/",
+					"display_url": "assignments.ds106.us/about/",
+					"indices": [
+						391,
+						414
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1220416301123932200,
+		"in_reply_to_status_id_str": "1220416301123932162",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1503,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bali_Maha @NomadWarMachine @koutropoulos @ronald_2008 @karenatsharon @davecormier @sensor63 @Lenandlar @dogtrax @Danceswithcloud @imagineacircle @tutormentorteam @telliowkuwp @EatcherVeggies @VanessaVaile @grammasheri @whitneykilgore @djsamson @WarwickLanguage @moocresearch @dolphinfish55 @JeffreyKeefer Sarah is correct, #ds106 bank is separate, it came first. These are used in a course\nhttps://t.co/OaJYPUBAb0\n\nTDC may overlap, more aimed at smaller scale activities just to practice."
+	},
+	{
 		"created_at": "Wed Jan 22 22:10:44 +0000 2020",
 		"id": 1220106548594106400,
 		"id_str": "1220106548594106368",

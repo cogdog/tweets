@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 21:06:00 +0000 2020",
+		"id": 1222626972003491800,
+		"id_str": "1222626972003491840",
+		"full_text": "There's few organizations that do an open source \"stack\" as  thoroughly and effectively as @OERuniversitas #BeLikeDave https://t.co/5uaJdXVJip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeLikeDave",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OERuniversitas",
+					"name": "OERu",
+					"id": 2251530498,
+					"id_str": "2251530498",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5uaJdXVJip",
+					"expanded_url": "https://twitter.com/lightweight/status/1222614471559925760",
+					"display_url": "twitter.com/lightweight/st…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1504,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222614471559925800,
+		"quoted_status_id_str": "1222614471559925760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5uaJdXVJip",
+			"expanded": "https://twitter.com/lightweight/status/1222614471559925760",
+			"display": "twitter.com/lightweight/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 29 20:16:19 +0000 2020",
+			"id": 1222614471559925800,
+			"id_str": "1222614471559925760",
+			"full_text": "@OnlineCrsLady @Dan_Blick @Inoreader Yup - we're almost LMS-less for our global effort: https://t.co/7JES07AWs2 and our rationale https://t.co/ySX5XFkxH6. And we might be replacing our final stubborn proprietary component, Zoom, with the #FOSS BigBlueButton... wins all around.",
+			"truncated": false,
+			"display_text_range": [
+				37,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FOSS",
+						"indices": [
+							238,
+							243
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OnlineCrsLady",
+						"name": "Laura Gibbs",
+						"id": 7044082,
+						"id_str": "7044082",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "Dan_Blick",
+						"name": "Dan Blickensderfer",
+						"id": 188554158,
+						"id_str": "188554158",
+						"indices": [
+							15,
+							25
+						]
+					},
+					{
+						"screen_name": "Inoreader",
+						"name": "Inoreader",
+						"id": 1536852836,
+						"id_str": "1536852836",
+						"indices": [
+							26,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7JES07AWs2",
+						"expanded_url": "https://tech.oeru.org/2018-update-oeru-technology-stack",
+						"display_url": "tech.oeru.org/2018-update-oe…",
+						"indices": [
+							88,
+							111
+						]
+					},
+					{
+						"url": "https://t.co/ySX5XFkxH6",
+						"expanded_url": "https://tech.oeru.org/many-simple-tools-loosely-coupled",
+						"display_url": "tech.oeru.org/many-simple-to…",
+						"indices": [
+							130,
+							153
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1222610560363135000,
+			"in_reply_to_status_id_str": "1222610560363134977",
+			"in_reply_to_user_id": 7044082,
+			"in_reply_to_user_id_str": "7044082",
+			"in_reply_to_screen_name": "OnlineCrsLady",
+			"user": {
+				"id": 10454472,
+				"id_str": "10454472",
+				"name": "Dave Lane",
+				"screen_name": "lightweight",
+				"location": "Christchurch, NZ",
+				"description": "father husband FOSS OER cyclecommuter foodie ruminator swing-dancer disc-chucker(retired) muso/singer hopeful-idealist lightweight@mastodon.nzoss.nz",
+				"url": "https://t.co/ygIYAcqiLr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ygIYAcqiLr",
+								"expanded_url": "https://davelane.nz",
+								"display_url": "davelane.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1954,
+				"friends_count": 1126,
+				"listed_count": 175,
+				"created_at": "Wed Nov 21 23:44:45 +0000 2007",
+				"favourites_count": 18182,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48089,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461068397518667776/FfYIqhSS_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461068397518667776/FfYIqhSS_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10454472/1398762137",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's few organizations that do an open source \"stack\" as  thoroughly and effectively as @OERuniversitas #BeLikeDave https://t.co/5uaJdXVJip"
+	},
+	{
 		"created_at": "Wed Jan 29 18:24:39 +0000 2020",
 		"id": 1222586367336542200,
 		"id_str": "1222586367336542208",

@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 01:12:38 +0000 2020",
+		"id": 1222689039888703500,
+		"id_str": "1222689039888703488",
+		"full_text": "We have some experience in the #netnarr house- thanks for starting things up.\n\nBut who needs to be more aware of hackable medical devices? Who in these industries dont know? Who in govt? And don't we have to be better aware ourselves first? https://t.co/GoCNcgFKB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GoCNcgFKB2",
+					"expanded_url": "https://twitter.com/medeathewriter/status/1222670382731272195",
+					"display_url": "twitter.com/medeathewriter…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1504,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222670382731272200,
+		"quoted_status_id_str": "1222670382731272195",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GoCNcgFKB2",
+			"expanded": "https://twitter.com/medeathewriter/status/1222670382731272195",
+			"display": "twitter.com/medeathewriter…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 29 23:58:30 +0000 2020",
+			"id": 1222670382731272200,
+			"id_str": "1222670382731272195",
+			"full_text": "Remember- we need safe ware in every aspect of our lives including health. The healthcare industry &amp; gov't need to be made aware that medical devices can be hacked. I know I sound like an alarmist, but we've got to be vigilant &amp; smart &amp; ahead of every curve. #netnarr @netnarr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "netnarr",
+						"indices": [
+							271,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "netnarr",
+						"name": "Networked Narratives",
+						"id": 801306049663893500,
+						"id_str": "801306049663893504",
+						"indices": [
+							280,
+							288
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1171559262260269000,
+				"id_str": "1171559262260269056",
+				"name": "Medea_Chillemi",
+				"screen_name": "medeathewriter",
+				"location": "",
+				"description": "Creative writing is my passion. I am a student of art & culture. The photo above is from the Illustr'd vrsn of Jane Eyre. An Attorney; spks Italian & Espan~ol.",
+				"url": "https://t.co/bExiqJEcTF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bExiqJEcTF",
+								"expanded_url": "http://www.writingisevolutionmedea.wordpress.com",
+								"display_url": "writingisevolutionmedea.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 642,
+				"friends_count": 899,
+				"listed_count": 4,
+				"created_at": "Tue Sep 10 23:02:07 +0000 2019",
+				"favourites_count": 1526,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 966,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171559262260269056/1568213255",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have some experience in the #netnarr house- thanks for starting things up.\n\nBut who needs to be more aware of hackable medical devices? Who in these industries dont know? Who in govt? And don't we have to be better aware ourselves first? https://t.co/GoCNcgFKB2"
+	},
+	{
 		"created_at": "Wed Jan 29 21:06:00 +0000 2020",
 		"id": 1222626972003491800,
 		"id_str": "1222626972003491840",

@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 18:35:05 +0000 2020",
+		"id": 1222951380739973000,
+		"id_str": "1222951380739973121",
+		"full_text": "Privacy, why you so complicated? \n\nHealth data surveillance concerns flagged for #netnarr cc @medeathewriter https://t.co/1MnDGXVfgg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medeathewriter",
+					"name": "Medea_Chillemi",
+					"id": 1171559262260269000,
+					"id_str": "1171559262260269056",
+					"indices": [
+						93,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1MnDGXVfgg",
+					"expanded_url": "https://twitter.com/KayteSB/status/1206365507982700545",
+					"display_url": "twitter.com/KayteSB/status…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1504,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206365507982700500,
+		"quoted_status_id_str": "1206365507982700545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1MnDGXVfgg",
+			"expanded": "https://twitter.com/KayteSB/status/1206365507982700545",
+			"display": "twitter.com/KayteSB/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 16 00:08:44 +0000 2019",
+			"id": 1206365507982700500,
+			"id_str": "1206365507982700545",
+			"full_text": "Check out our recent piece in @sciencemagazine about when non-regulated entities collect your health data online, gather them together in \"shadow health records,\" and re-sell for research or advertising without your knowledge or consent *totally legally*\nhttps://t.co/f1bk6SRyU5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sciencemagazine",
+						"name": "Science Magazine",
+						"id": 32372834,
+						"id_str": "32372834",
+						"indices": [
+							30,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/f1bk6SRyU5",
+						"expanded_url": "https://science.sciencemag.org/content/363/6426/448",
+						"display_url": "science.sciencemag.org/content/363/64…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1410245676,
+				"id_str": "1410245676",
+				"name": "Kayte SpectorBagdady",
+				"screen_name": "KayteSB",
+				"location": "Ann Arbor, MI",
+				"description": "Law, ethics & big data @umichmedicine @UM_IHPI (view own) • Former @bioethicsgov • @PennLaw @UPenn_MedEthics @Middlebury alumna •Will speak on all female panels",
+				"url": "https://t.co/KFT20t3oBv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KFT20t3oBv",
+								"expanded_url": "http://cbssm.med.umich.edu/people/kayte-spector-bagdady-jd-mbioethics",
+								"display_url": "cbssm.med.umich.edu/people/kayte-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1200,
+				"friends_count": 660,
+				"listed_count": 59,
+				"created_at": "Tue May 07 13:36:08 +0000 2013",
+				"favourites_count": 5357,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4641,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1189629661892009984/tPXL7hkX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189629661892009984/tPXL7hkX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410245676/1547610678",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Privacy, why you so complicated? \n\nHealth data surveillance concerns flagged for #netnarr cc @medeathewriter https://t.co/1MnDGXVfgg"
+	},
+	{
 		"created_at": "Thu Jan 30 17:45:55 +0000 2020",
 		"id": 1222939007966793700,
 		"id_str": "1222939007966793728",

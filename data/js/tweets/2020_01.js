@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 18:48:00 +0000 2020",
+		"id": 1223317020583714800,
+		"id_str": "1223317020583714816",
+		"full_text": "Packing my satchel for a one way trip to Ugduch. https://t.co/n7OtO5wMC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n7OtO5wMC3",
+					"expanded_url": "https://twitter.com/unchartedatlas/status/1223316651782950915",
+					"display_url": "twitter.com/unchartedatlas…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1505,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223316651782951000,
+		"quoted_status_id_str": "1223316651782950915",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n7OtO5wMC3",
+			"expanded": "https://twitter.com/unchartedatlas/status/1223316651782950915",
+			"display": "twitter.com/unchartedatlas…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 18:46:32 +0000 2020",
+			"id": 1223316651782951000,
+			"id_str": "1223316651782950915",
+			"full_text": "The Outer Islands of Upper Ug zer Uddu https://t.co/qxjEdt9eqf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1223316650394574800,
+						"id_str": "1223316650394574848",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EPoYAxqW4AAQukh.png",
+						"media_url_https": "https://pbs.twimg.com/media/EPoYAxqW4AAQukh.png",
+						"url": "https://t.co/qxjEdt9eqf",
+						"display_url": "pic.twitter.com/qxjEdt9eqf",
+						"expanded_url": "https://twitter.com/unchartedatlas/status/1223316651782950915/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 808,
+								"h": 820,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 808,
+								"h": 820,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1223316650394574800,
+						"id_str": "1223316650394574848",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EPoYAxqW4AAQukh.png",
+						"media_url_https": "https://pbs.twimg.com/media/EPoYAxqW4AAQukh.png",
+						"url": "https://t.co/qxjEdt9eqf",
+						"display_url": "pic.twitter.com/qxjEdt9eqf",
+						"expanded_url": "https://twitter.com/unchartedatlas/status/1223316651782950915/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 808,
+								"h": 820,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 808,
+								"h": 820,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.martinoleary.com/\" rel=\"nofollow\">Martin's Bot App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702210829966516200,
+				"id_str": "702210829966516225",
+				"name": "Uncharted Atlas",
+				"screen_name": "unchartedatlas",
+				"location": "",
+				"description": "An atlas of unknown lands | bot by @mewo2",
+				"url": "https://t.co/faIImHVXQ2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/faIImHVXQ2",
+								"expanded_url": "https://shop.mewo2.com/",
+								"display_url": "shop.mewo2.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15951,
+				"friends_count": 4,
+				"listed_count": 486,
+				"created_at": "Tue Feb 23 19:18:03 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34097,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702213693673762816/D0Wokuj8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702213693673762816/D0Wokuj8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702210829966516225/1456255669",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Packing my satchel for a one way trip to Ugduch. https://t.co/n7OtO5wMC3"
+	},
+	{
 		"created_at": "Fri Jan 31 16:46:40 +0000 2020",
 		"id": 1223286484054134800,
 		"id_str": "1223286484054134784",

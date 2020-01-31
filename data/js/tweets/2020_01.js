@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 00:11:48 +0000 2020",
+		"id": 1223036120448979000,
+		"id_str": "1223036120448978945",
+		"full_text": "Resource for #netnarr #digciz https://t.co/YK3Xo7Tvq1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "digciz",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YK3Xo7Tvq1",
+					"expanded_url": "https://twitter.com/HoneybHighton/status/1222945396705636359",
+					"display_url": "twitter.com/HoneybHighton/…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 1505,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222945396705636400,
+		"quoted_status_id_str": "1222945396705636359",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YK3Xo7Tvq1",
+			"expanded": "https://twitter.com/HoneybHighton/status/1222945396705636359",
+			"display": "twitter.com/HoneybHighton/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 30 18:11:18 +0000 2020",
+			"id": 1222945396705636400,
+			"id_str": "1222945396705636359",
+			"full_text": "Our new Digital Safety and Citizenship web pages for staff and students at University of Edinburgh https://t.co/6wFyqKV2wy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6wFyqKV2wy",
+						"expanded_url": "https://www.ed.ac.uk/information-services/help-consultancy/is-skills/digital-safety-and-citizenship",
+						"display_url": "ed.ac.uk/information-se…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2382712322,
+				"id_str": "2382712322",
+				"name": "Melissa",
+				"screen_name": "HoneybHighton",
+				"location": "University of Edinburgh/Oxford",
+				"description": "Edtech blogger, IT Director, maven and occasional keynote. Interested in all things digital in higher education. Tweet people the way you want to be tweeted.",
+				"url": "https://t.co/ZkIRHSRTNv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZkIRHSRTNv",
+								"expanded_url": "http://thinking.is.ed.ac.uk/melissa/",
+								"display_url": "thinking.is.ed.ac.uk/melissa/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1798,
+				"friends_count": 826,
+				"listed_count": 149,
+				"created_at": "Mon Mar 10 21:36:05 +0000 2014",
+				"favourites_count": 1057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8078,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2382712322/1474024963",
+				"profile_link_color": "B3B300",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Resource for #netnarr #digciz https://t.co/YK3Xo7Tvq1"
+	},
+	{
+		"created_at": "Thu Jan 30 23:59:59 +0000 2020",
+		"id": 1223033144875475000,
+		"id_str": "1223033144875474944",
+		"full_text": "Let's see how many Senators go down in history as the ones who judged with their eyes/ears/minds closed. https://t.co/qlvV63ZMeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223032754968744000,
+					"id_str": "1223032754968743936",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EPkVz4yUUAAmvz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPkVz4yUUAAmvz7.jpg",
+					"url": "https://t.co/qlvV63ZMeX",
+					"display_url": "pic.twitter.com/qlvV63ZMeX",
+					"expanded_url": "https://twitter.com/cogdog/status/1223033144875474944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 992,
+									"y": 190,
+									"h": 156,
+									"w": 156
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 527,
+									"y": 100,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 930,
+									"y": 178,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 992,
+									"y": 190,
+									"h": 156,
+									"w": 156
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223032754968744000,
+					"id_str": "1223032754968743936",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EPkVz4yUUAAmvz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPkVz4yUUAAmvz7.jpg",
+					"url": "https://t.co/qlvV63ZMeX",
+					"display_url": "pic.twitter.com/qlvV63ZMeX",
+					"expanded_url": "https://twitter.com/cogdog/status/1223033144875474944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 992,
+									"y": 190,
+									"h": 156,
+									"w": 156
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 527,
+									"y": 100,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 930,
+									"y": 178,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 992,
+									"y": 190,
+									"h": 156,
+									"w": 156
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 1505,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let's see how many Senators go down in history as the ones who judged with their eyes/ears/minds closed. https://t.co/qlvV63ZMeX"
+	},
+	{
 		"created_at": "Thu Jan 30 20:13:22 +0000 2020",
 		"id": 1222976117889388500,
 		"id_str": "1222976117889388546",

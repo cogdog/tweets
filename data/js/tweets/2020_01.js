@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 15:01:48 +0000 2020",
+		"id": 1223260095410135000,
+		"id_str": "1223260095410135041",
+		"full_text": "We will be aiming towards \"complex interactive fiction\" in #netnarr but Mark's thread worth noting to think about possible characteristics of a networked narrative (and a suggestion to students to follow @samplereality) https://t.co/dOtPrPnkru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samplereality",
+					"name": "Mark Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						204,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dOtPrPnkru",
+					"expanded_url": "https://twitter.com/samplereality/status/1223256310566637568",
+					"display_url": "twitter.com/samplereality/…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1505,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223256310566637600,
+		"quoted_status_id_str": "1223256310566637568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dOtPrPnkru",
+			"expanded": "https://twitter.com/samplereality/status/1223256310566637568",
+			"display": "twitter.com/samplereality/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 14:46:46 +0000 2020",
+			"id": 1223256310566637600,
+			"id_str": "1223256310566637568",
+			"full_text": "For the next few days we're studying interactive fiction in class. I'm borrowing from @jmittell's Complex TV to work through what I'm calling complex interactive fiction.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jmittell",
+						"name": "Jason Mittell",
+						"id": 35295295,
+						"id_str": "35295295",
+						"indices": [
+							86,
+							95
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8497292,
+				"id_str": "8497292",
+				"name": "Mark Sample",
+				"screen_name": "samplereality",
+				"location": "",
+				"description": "👨‍🏫 👨‍👩‍👦‍👦 💻 🤖 🐳",
+				"url": "https://t.co/oRy4nnx6c1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oRy4nnx6c1",
+								"expanded_url": "https://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8825,
+				"friends_count": 1158,
+				"listed_count": 521,
+				"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+				"favourites_count": 1240,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42198,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3B3B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1189908279784280064/I1Z1PbLS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189908279784280064/I1Z1PbLS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1572531172",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We will be aiming towards \"complex interactive fiction\" in #netnarr but Mark's thread worth noting to think about possible characteristics of a networked narrative (and a suggestion to students to follow @samplereality) https://t.co/dOtPrPnkru"
+	},
+	{
+		"created_at": "Fri Jan 31 14:58:57 +0000 2020",
+		"id": 1223259379895398400,
+		"id_str": "1223259379895398400",
+		"full_text": "I am telling no one! https://t.co/CFz4ArIpqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CFz4ArIpqK",
+					"expanded_url": "https://twitter.com/pressedconf/status/1222940449389928454",
+					"display_url": "twitter.com/pressedconf/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1505,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222940449389928400,
+		"quoted_status_id_str": "1222940449389928454",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CFz4ArIpqK",
+			"expanded": "https://twitter.com/pressedconf/status/1222940449389928454",
+			"display": "twitter.com/pressedconf/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 30 17:51:38 +0000 2020",
+			"id": 1222940449389928400,
+			"id_str": "1222940449389928454",
+			"full_text": "Pssst. Want to know a secret?\n\n#PressEd20 is happening on March the 26th.\n\nhttps://t.co/yMLPsPzswE\n\nTell no one https://t.co/3JwExUXyUt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PressEd20",
+						"indices": [
+							31,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yMLPsPzswE",
+						"expanded_url": "https://2020.pressedconf.org/",
+						"display_url": "2020.pressedconf.org",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1222940437159215000,
+						"id_str": "1222940437159215105",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPjB2SJWAAEM_pE.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPjB2SJWAAEM_pE.jpg",
+						"url": "https://t.co/3JwExUXyUt",
+						"display_url": "pic.twitter.com/3JwExUXyUt",
+						"expanded_url": "https://twitter.com/pressedconf/status/1222940449389928454/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 262,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 262,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222940437159215000,
+						"id_str": "1222940437159215105",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPjB2SJWAAEM_pE.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPjB2SJWAAEM_pE.jpg",
+						"url": "https://t.co/3JwExUXyUt",
+						"display_url": "pic.twitter.com/3JwExUXyUt",
+						"expanded_url": "https://twitter.com/pressedconf/status/1222940449389928454/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 262,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 262,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								131
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EPjB2SJWAAEM_pE.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950354717212897300,
+				"id_str": "950354717212897280",
+				"name": "PressED Conf - A tweeting WordPress conference",
+				"screen_name": "pressedconf",
+				"location": "on twitter",
+				"description": "A WordPress Twitter Conference on all things education, pedagogy and research. #pressEDconf19 is on April 18th. Organisers @nlafferty and @pgogy",
+				"url": "https://t.co/PEDIaTNi6H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PEDIaTNi6H",
+								"expanded_url": "http://2019.pressedconf.org",
+								"display_url": "2019.pressedconf.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1371,
+				"friends_count": 2018,
+				"listed_count": 13,
+				"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+				"favourites_count": 1216,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2217,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1547021544",
+				"profile_link_color": "00FFFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am telling no one! https://t.co/CFz4ArIpqK"
+	},
+	{
 		"created_at": "Fri Jan 31 03:09:01 +0000 2020",
 		"id": 1223080718760169500,
 		"id_str": "1223080718760169472",

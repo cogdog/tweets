@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 21:11:12 +0000 2020",
+		"id": 1224440221787312000,
+		"id_str": "1224440221787312129",
+		"full_text": "The Daily Blank Theme Gets a Media Uploader https://t.co/gJ61Mxehax https://t.co/UEc1XFTiTz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gJ61Mxehax",
+					"expanded_url": "https://cogdogblog.com/2020/02/daily-blank-media-uploader/",
+					"display_url": "cogdogblog.com/2020/02/daily-…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224440219815932000,
+					"id_str": "1224440219815931905",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EP4V5H7UcAEf6UI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP4V5H7UcAEf6UI.jpg",
+					"url": "https://t.co/UEc1XFTiTz",
+					"display_url": "pic.twitter.com/UEc1XFTiTz",
+					"expanded_url": "https://twitter.com/cogdog/status/1224440221787312129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 809,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 597,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 597,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 501,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 597,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224440219815932000,
+					"id_str": "1224440219815931905",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EP4V5H7UcAEf6UI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP4V5H7UcAEf6UI.jpg",
+					"url": "https://t.co/UEc1XFTiTz",
+					"display_url": "pic.twitter.com/UEc1XFTiTz",
+					"expanded_url": "https://twitter.com/cogdog/status/1224440221787312129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 809,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 597,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 597,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 501,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 597,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1505,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Daily Blank Theme Gets a Media Uploader https://t.co/gJ61Mxehax https://t.co/UEc1XFTiTz"
+	},
+	{
 		"created_at": "Mon Feb 03 20:12:17 +0000 2020",
 		"id": 1224425394620838000,
 		"id_str": "1224425394620837888",

@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 21:41:26 +0000 2020",
+		"id": 1224447829319413800,
+		"id_str": "1224447829319413764",
+		"full_text": "Go bot Go https://t.co/qlub7gWZBJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qlub7gWZBJ",
+					"expanded_url": "https://twitter.com/picdescbot/status/746583745076072448",
+					"display_url": "twitter.com/picdescbot/sta…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1506,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 746583745076072400,
+		"quoted_status_id_str": "746583745076072448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qlub7gWZBJ",
+			"expanded": "https://twitter.com/picdescbot/status/746583745076072448",
+			"display": "twitter.com/picdescbot/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 25 06:00:10 +0000 2016",
+			"id": 746583745076072400,
+			"id_str": "746583745076072448",
+			"full_text": "a dinosaur on top of a surfboard https://t.co/IJFzqxplBL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 746583742009974800,
+						"id_str": "746583742009974784",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/Clxl9TGWIAAymJh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Clxl9TGWIAAymJh.jpg",
+						"url": "https://t.co/IJFzqxplBL",
+						"display_url": "pic.twitter.com/IJFzqxplBL",
+						"expanded_url": "https://twitter.com/picdescbot/status/746583745076072448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 741,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 434,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 246,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 746583742009974800,
+						"id_str": "746583742009974784",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/Clxl9TGWIAAymJh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Clxl9TGWIAAymJh.jpg",
+						"url": "https://t.co/IJFzqxplBL",
+						"display_url": "pic.twitter.com/IJFzqxplBL",
+						"expanded_url": "https://twitter.com/picdescbot/status/746583745076072448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 741,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 434,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 246,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/elad661/picdescbot\" rel=\"nofollow\">picdescbot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 715584275123449900,
+				"id_str": "715584275123449857",
+				"name": "picdescbot",
+				"screen_name": "picdescbot",
+				"location": "Not affiliated with Microsoft",
+				"description": "I'm a bot that describes random pictures from wikimedia commons using Microsoft Cognitive Services. Made by @elad3,\nModerated by @elad3 and @0xabad1dea",
+				"url": "https://t.co/RES1DigPgM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RES1DigPgM",
+								"expanded_url": "https://picdescbot.tumblr.com/about",
+								"display_url": "picdescbot.tumblr.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8392,
+				"friends_count": 0,
+				"listed_count": 186,
+				"created_at": "Thu Mar 31 16:59:20 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11152,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715641764158316544/kotPMx2h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715641764158316544/kotPMx2h_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 836,
+			"favorite_count": 1915,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go bot Go https://t.co/qlub7gWZBJ"
+	},
+	{
 		"created_at": "Mon Feb 03 21:11:12 +0000 2020",
 		"id": 1224440221787312000,
 		"id_str": "1224440221787312129",

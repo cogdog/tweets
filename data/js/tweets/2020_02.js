@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 20:12:17 +0000 2020",
+		"id": 1224425394620838000,
+		"id_str": "1224425394620837888",
+		"full_text": "@ammienoot @greeneterry @hj_dewaard @DocBlom @verenanz @noasbobs @voicEdcanada @oemconnect @OpenEdGlobal Maybe after you \"retyre\"?",
+		"truncated": false,
+		"display_text_range": [
+			105,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Green with an e",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "DocBlom",
+					"name": "Dr. Constance Blomgren",
+					"id": 2983333981,
+					"id_str": "2983333981",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "noasbobs",
+					"name": "Noa Daniel",
+					"id": 2802898817,
+					"id_str": "2802898817",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"screen_name": "voicEdcanada",
+					"name": "voicEd.ca",
+					"id": 514144436,
+					"id_str": "514144436",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"screen_name": "oemconnect",
+					"name": "The Mentoree (still @OEMConnect until Feb 18th)",
+					"id": 1047542621273436200,
+					"id_str": "1047542621273436160",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						91,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1224423953302724600,
+		"in_reply_to_status_id_str": "1224423953302724609",
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10502,
+			"friends_count": 1505,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ammienoot @greeneterry @hj_dewaard @DocBlom @verenanz @noasbobs @voicEdcanada @oemconnect @OpenEdGlobal Maybe after you \"retyre\"?"
+	},
+	{
 		"created_at": "Mon Feb 03 19:10:28 +0000 2020",
 		"id": 1224409836244426800,
 		"id_str": "1224409836244426753",

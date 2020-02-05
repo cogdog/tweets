@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 17:11:14 +0000 2020",
+		"id": 1225104605991899100,
+		"id_str": "1225104605991899137",
+		"full_text": "Could Have Been 70 https://t.co/3tZXHQCf9n https://t.co/c9Vbuspa4T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3tZXHQCf9n",
+					"expanded_url": "https://cogdogblog.com/2020/02/mom-dad-70/",
+					"display_url": "cogdogblog.com/2020/02/mom-da…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225104604343492600,
+					"id_str": "1225104604343492608",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EQByJZKW4AAg80g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQByJZKW4AAg80g.jpg",
+					"url": "https://t.co/c9Vbuspa4T",
+					"display_url": "pic.twitter.com/c9Vbuspa4T",
+					"expanded_url": "https://twitter.com/cogdog/status/1225104605991899137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 914,
+							"h": 910,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 910,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 552,
+									"y": 299,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 415,
+									"y": 308,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 333,
+									"y": 441,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 547,
+									"y": 43,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 481,
+									"y": 55,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 70,
+									"y": 466,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 58,
+									"y": 122,
+									"h": 121,
+									"w": 121
+								},
+								{
+									"x": 163,
+									"y": 75,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 403,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 558,
+									"y": 415,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 448,
+									"y": 593,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 736,
+									"y": 58,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 647,
+									"y": 75,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 95,
+									"y": 627,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 78,
+									"y": 164,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 220,
+									"y": 102,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 403,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 558,
+									"y": 415,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 448,
+									"y": 593,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 736,
+									"y": 58,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 647,
+									"y": 75,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 95,
+									"y": 627,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 78,
+									"y": 164,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 220,
+									"y": 102,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 403,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 558,
+									"y": 415,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 448,
+									"y": 593,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 736,
+									"y": 58,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 647,
+									"y": 75,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 95,
+									"y": 627,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 78,
+									"y": 164,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 220,
+									"y": 102,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225104604343492600,
+					"id_str": "1225104604343492608",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EQByJZKW4AAg80g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQByJZKW4AAg80g.jpg",
+					"url": "https://t.co/c9Vbuspa4T",
+					"display_url": "pic.twitter.com/c9Vbuspa4T",
+					"expanded_url": "https://twitter.com/cogdog/status/1225104605991899137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 914,
+							"h": 910,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 910,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 552,
+									"y": 299,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 415,
+									"y": 308,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 333,
+									"y": 441,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 547,
+									"y": 43,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 481,
+									"y": 55,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 70,
+									"y": 466,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 58,
+									"y": 122,
+									"h": 121,
+									"w": 121
+								},
+								{
+									"x": 163,
+									"y": 75,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 403,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 558,
+									"y": 415,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 448,
+									"y": 593,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 736,
+									"y": 58,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 647,
+									"y": 75,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 95,
+									"y": 627,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 78,
+									"y": 164,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 220,
+									"y": 102,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 403,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 558,
+									"y": 415,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 448,
+									"y": 593,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 736,
+									"y": 58,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 647,
+									"y": 75,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 95,
+									"y": 627,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 78,
+									"y": 164,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 220,
+									"y": 102,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 403,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 558,
+									"y": 415,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 448,
+									"y": 593,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 736,
+									"y": 58,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 647,
+									"y": 75,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 95,
+									"y": 627,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 78,
+									"y": 164,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 220,
+									"y": 102,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10501,
+			"friends_count": 1506,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Could Have Been 70 https://t.co/3tZXHQCf9n https://t.co/c9Vbuspa4T"
+	},
+	{
 		"created_at": "Wed Feb 05 03:43:33 +0000 2020",
 		"id": 1224901347906027500,
 		"id_str": "1224901347906027521",

@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 19:45:56 +0000 2020",
+		"id": 1225867451239239700,
+		"id_str": "1225868315354112001",
+		"full_text": "Was delighted to see the 8-track Mackie board I bought in 1992 to start Internet Talk Radio is still in service at @internetarchive https://t.co/71XuRdz7OJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetarchive",
+					"name": "Internet Archive",
+					"id": 18957805,
+					"id_str": "18957805",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225867444503232500,
+					"id_str": "1225867444503232512",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EQMn8iNUwAAUxpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQMn8iNUwAAUxpo.jpg",
+					"url": "https://t.co/71XuRdz7OJ",
+					"display_url": "pic.twitter.com/71XuRdz7OJ",
+					"expanded_url": "https://twitter.com/carlmalamud/status/1225867451239239680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225867444503232500,
+					"id_str": "1225867444503232512",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EQMn8iNUwAAUxpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQMn8iNUwAAUxpo.jpg",
+					"url": "https://t.co/71XuRdz7OJ",
+					"display_url": "pic.twitter.com/71XuRdz7OJ",
+					"expanded_url": "https://twitter.com/carlmalamud/status/1225867451239239680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17495946,
+			"id_str": "17495946",
+			"name": "Carl Malamud",
+			"screen_name": "carlmalamud",
+			"location": "Sebastopol, CA",
+			"description": "Archivist. Usually civil servant. Founder of https://t.co/j6ooU76oQO. Open source America's operating system. Code swaraj.",
+			"url": "http://t.co/jCuLZBPKTx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jCuLZBPKTx",
+							"expanded_url": "http://Public.Resource.Org/",
+							"display_url": "Public.Resource.Org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j6ooU76oQO",
+							"expanded_url": "http://Public.Resource.Org",
+							"display_url": "Public.Resource.Org",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14625,
+			"friends_count": 1223,
+			"listed_count": 833,
+			"created_at": "Wed Nov 19 21:14:58 +0000 2008",
+			"favourites_count": 3949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 55201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464912469278728192/X7T2lRQ5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464912469278728192/X7T2lRQ5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17495946/1355166548",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "BEBEBE",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Was delighted to see the 8-track Mackie board I bought in 1992 to start Internet Talk Radio is still in service at @internetarchive https://t.co/71XuRdz7OJ"
+	},
+	{
 		"created_at": "Fri Feb 07 15:20:06 +0000 2020",
 		"id": 1225801414796103700,
 		"id_str": "1225801414796103680",

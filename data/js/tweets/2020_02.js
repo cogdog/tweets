@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 15:20:06 +0000 2020",
+		"id": 1225801414796103700,
+		"id_str": "1225801414796103680",
+		"full_text": "We have some talented artists in our #netnarr class! I love this representation of the forces at work for Thriving Online. https://t.co/Qa8sYYIGOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qa8sYYIGOn",
+					"expanded_url": "https://twitter.com/DennisArt4/status/1225567804868481025",
+					"display_url": "twitter.com/DennisArt4/sta…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1513,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225567804868481000,
+		"quoted_status_id_str": "1225567804868481025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qa8sYYIGOn",
+			"expanded": "https://twitter.com/DennisArt4/status/1225567804868481025",
+			"display": "twitter.com/DennisArt4/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 06 23:51:49 +0000 2020",
+			"id": 1225567804868481000,
+			"id_str": "1225567804868481025",
+			"full_text": "@KettleSpills inspiration from your presentation #netnarr https://t.co/BYrwgKptcq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "netnarr",
+						"indices": [
+							49,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KettleSpills",
+						"name": "TheKettleSpills",
+						"id": 1173363926702198800,
+						"id_str": "1173363926702198784",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1225567795716423700,
+						"id_str": "1225567795716423682",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EQIXarfWAAIaaRO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQIXarfWAAIaaRO.jpg",
+						"url": "https://t.co/BYrwgKptcq",
+						"display_url": "pic.twitter.com/BYrwgKptcq",
+						"expanded_url": "https://twitter.com/DennisArt4/status/1225567804868481025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1225567795716423700,
+						"id_str": "1225567795716423682",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EQIXarfWAAIaaRO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQIXarfWAAIaaRO.jpg",
+						"url": "https://t.co/BYrwgKptcq",
+						"display_url": "pic.twitter.com/BYrwgKptcq",
+						"expanded_url": "https://twitter.com/DennisArt4/status/1225567804868481025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1173363926702198800,
+			"in_reply_to_user_id_str": "1173363926702198784",
+			"in_reply_to_screen_name": "KettleSpills",
+			"user": {
+				"id": 1130493594933125100,
+				"id_str": "1130493594933125120",
+				"name": "Dennis Art",
+				"screen_name": "DennisArt4",
+				"location": "",
+				"description": "\"Make a difference about something other than yourself\" - Toni Morrison   MA in English WritingStudies: Mentor|Educator|Artist|Student|Aspiring Traveler",
+				"url": "https://t.co/Dx6UPiTDfE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dx6UPiTDfE",
+								"expanded_url": "https://learningthroughthe.art/",
+								"display_url": "learningthroughthe.art",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23,
+				"friends_count": 47,
+				"listed_count": 0,
+				"created_at": "Mon May 20 15:20:51 +0000 2019",
+				"favourites_count": 121,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 148,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184595309655154690/ivf_scyx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184595309655154690/ivf_scyx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130493594933125120/1576187505",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have some talented artists in our #netnarr class! I love this representation of the forces at work for Thriving Online. https://t.co/Qa8sYYIGOn"
+	},
+	{
 		"created_at": "Fri Feb 07 03:59:30 +0000 2020",
 		"id": 1225630136067903500,
 		"id_str": "1225630136067903489",

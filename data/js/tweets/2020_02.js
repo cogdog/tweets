@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 23:27:28 +0000 2020",
+		"id": 1227011227559309300,
+		"id_str": "1227011227559309313",
+		"full_text": "Nobody brings more enthusiasm to confusiasm as Nancy White. Now she digs into the history, replete with portmanteaus https://t.co/zZg6ONzw3p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZg6ONzw3p",
+					"expanded_url": "https://twitter.com/NancyWhite/status/1226979831281311744",
+					"display_url": "twitter.com/NancyWhite/sta…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10509,
+			"friends_count": 1513,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226979831281311700,
+		"quoted_status_id_str": "1226979831281311744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zZg6ONzw3p",
+			"expanded": "https://twitter.com/NancyWhite/status/1226979831281311744",
+			"display": "twitter.com/NancyWhite/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 10 21:22:42 +0000 2020",
+			"id": 1226979831281311700,
+			"id_str": "1226979831281311744",
+			"full_text": "#confusiasm #confusiasmo - whatever you call it, I love that delicious spot between confusion and enthusiasm https://t.co/T179GxFmJ3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "confusiasm",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "confusiasmo",
+						"indices": [
+							12,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T179GxFmJ3",
+						"expanded_url": "https://fullcirc.com/2020/02/10/finding-the-roots-of-confusiasm/",
+						"display_url": "fullcirc.com/2020/02/10/fin…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25793,
+				"id_str": "25793",
+				"name": "Nancy White",
+				"screen_name": "NancyWhite",
+				"location": "Seattle",
+				"description": "#learner #visualthinker.  Coauthor #digitalhabitats #liberatingstructures #chocolate #confusiasm #emergence #ambiguity",
+				"url": "http://t.co/zTBU1p3FyK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zTBU1p3FyK",
+								"expanded_url": "http://www.fullcirc.com",
+								"display_url": "fullcirc.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7372,
+				"friends_count": 1372,
+				"listed_count": 699,
+				"created_at": "Mon Nov 27 22:27:34 +0000 2006",
+				"favourites_count": 5680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13256,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "87289B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1530565935/6116285195_9dd93cc9e4_s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530565935/6116285195_9dd93cc9e4_s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25793/1348542403",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nobody brings more enthusiasm to confusiasm as Nancy White. Now she digs into the history, replete with portmanteaus https://t.co/zZg6ONzw3p"
+	},
+	{
 		"created_at": "Mon Feb 10 20:36:22 +0000 2020",
 		"id": 1226968171086831600,
 		"id_str": "1226968171086831616",

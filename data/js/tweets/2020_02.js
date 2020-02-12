@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 16:36:41 +0000 2020",
+		"id": 1227632626384674800,
+		"id_str": "1227632626384674816",
+		"full_text": "Free as in poetry #netnarr https://t.co/kvcxIY0mIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvcxIY0mIA",
+					"expanded_url": "https://twitter.com/CLMOOC/status/1227605779257053185",
+					"display_url": "twitter.com/CLMOOC/status/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10509,
+			"friends_count": 1514,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227605779257053200,
+		"quoted_status_id_str": "1227605779257053185",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kvcxIY0mIA",
+			"expanded": "https://twitter.com/CLMOOC/status/1227605779257053185",
+			"display": "twitter.com/CLMOOC/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 14:50:00 +0000 2020",
+			"id": 1227605779257053200,
+			"id_str": "1227605779257053185",
+			"full_text": "We’ve written nearly a dozen poems with our #clmooc #poetryport adventure … but we still have room in the dock for more … you send us ideas; we write you a poem. No strings. Just connection. https://t.co/YdnR0el9Pn #nwp #netnarr https://t.co/M74BEiPVEC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "clmooc",
+						"indices": [
+							44,
+							51
+						]
+					},
+					{
+						"text": "poetryport",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"text": "nwp",
+						"indices": [
+							215,
+							219
+						]
+					},
+					{
+						"text": "netnarr",
+						"indices": [
+							220,
+							228
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YdnR0el9Pn",
+						"expanded_url": "https://forms.gle/YzfKjnka4etcXoPD9",
+						"display_url": "forms.gle/YzfKjnka4etcXo…",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1227552743914721300,
+						"id_str": "1227552743914721281",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQkkt3wX0AEqDlM.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQkkt3wX0AEqDlM.jpg",
+						"url": "https://t.co/M74BEiPVEC",
+						"display_url": "pic.twitter.com/M74BEiPVEC",
+						"expanded_url": "https://twitter.com/CLMOOC/status/1227605779257053185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227552743914721300,
+						"id_str": "1227552743914721281",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQkkt3wX0AEqDlM.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQkkt3wX0AEqDlM.jpg",
+						"url": "https://t.co/M74BEiPVEC",
+						"display_url": "pic.twitter.com/M74BEiPVEC",
+						"expanded_url": "https://twitter.com/CLMOOC/status/1227605779257053185/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EQkkt3wX0AEqDlM.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2479023120,
+				"id_str": "2479023120",
+				"name": "CLMOOC",
+				"screen_name": "CLMOOC",
+				"location": "",
+				"description": "A collaborative, knowledge-building and sharing experience. #clmooc",
+				"url": "https://t.co/0xLFemU2dm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0xLFemU2dm",
+								"expanded_url": "http://www.clmooc.com",
+								"display_url": "clmooc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1543,
+				"friends_count": 1044,
+				"listed_count": 49,
+				"created_at": "Tue May 06 00:48:54 +0000 2014",
+				"favourites_count": 359,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2654,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814887799413346304/Uya_1pbF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814887799413346304/Uya_1pbF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2479023120/1483119346",
+				"profile_link_color": "F07622",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Free as in poetry #netnarr https://t.co/kvcxIY0mIA"
+	},
+	{
 		"created_at": "Wed Feb 12 12:36:55 +0000 2020",
 		"id": 1227572289400688600,
 		"id_str": "1227572289400688640",

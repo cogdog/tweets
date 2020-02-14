@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 17:44:45 +0000 2020",
+		"id": 1228374534606078000,
+		"id_str": "1228374534606077953",
+		"full_text": "I've worked with and presented for these folks, a great move to make it an open online conference. GO sign up! https://t.co/50PKmMTfLb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/50PKmMTfLb",
+					"expanded_url": "https://twitter.com/elccolorado/status/1228372253131276290",
+					"display_url": "twitter.com/elccolorado/st…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10508,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228372253131276300,
+		"quoted_status_id_str": "1228372253131276290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/50PKmMTfLb",
+			"expanded": "https://twitter.com/elccolorado/status/1228372253131276290",
+			"display": "twitter.com/elccolorado/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 14 17:35:41 +0000 2020",
+			"id": 1228372253131276300,
+			"id_str": "1228372253131276290",
+			"full_text": "The eLearning Consortium of Colorado will like to invite everyone to our free online conference April 15 - 17!  Call for proposals open until Feb 24  https://t.co/PHJrXHxHyf #d2lconnection #eLCC2020 #edtech https://t.co/hPRRpzh6Dr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "d2lconnection",
+						"indices": [
+							174,
+							188
+						]
+					},
+					{
+						"text": "eLCC2020",
+						"indices": [
+							189,
+							198
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							199,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PHJrXHxHyf",
+						"expanded_url": "http://www.elearningcolorado.org/",
+						"display_url": "elearningcolorado.org",
+						"indices": [
+							150,
+							173
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1228371649550004200,
+						"id_str": "1228371649550004224",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/EQwNgc-WsAAiQdr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQwNgc-WsAAiQdr.jpg",
+						"url": "https://t.co/hPRRpzh6Dr",
+						"display_url": "pic.twitter.com/hPRRpzh6Dr",
+						"expanded_url": "https://twitter.com/elccolorado/status/1228372253131276290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1020,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1228371649550004200,
+						"id_str": "1228371649550004224",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/EQwNgc-WsAAiQdr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQwNgc-WsAAiQdr.jpg",
+						"url": "https://t.co/hPRRpzh6Dr",
+						"display_url": "pic.twitter.com/hPRRpzh6Dr",
+						"expanded_url": "https://twitter.com/elccolorado/status/1228372253131276290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1020,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 872290898,
+				"id_str": "872290898",
+				"name": "elccolorado",
+				"screen_name": "elccolorado",
+				"location": "Denver, CO",
+				"description": "eLearning Consortium of Colorado brings together Rocky Mountain Region higher education institutions in the spirit of collaboration and innovation",
+				"url": "https://t.co/Mc6MQFSBgm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mc6MQFSBgm",
+								"expanded_url": "http://elearningcolorado.org",
+								"display_url": "elearningcolorado.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93,
+				"friends_count": 92,
+				"listed_count": 12,
+				"created_at": "Wed Oct 10 18:29:38 +0000 2012",
+				"favourites_count": 40,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 489,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/709754211332849668/qu6UBv8v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/709754211332849668/qu6UBv8v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/872290898/1458053502",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've worked with and presented for these folks, a great move to make it an open online conference. GO sign up! https://t.co/50PKmMTfLb"
+	},
+	{
 		"created_at": "Fri Feb 14 16:59:59 +0000 2020",
 		"id": 1228363268948811800,
 		"id_str": "1228363268948811776",

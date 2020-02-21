@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 02:21:31 +0000 2020",
+		"id": 1230678908015534000,
+		"id_str": "1230678908015534081",
+		"full_text": "Witness the legacy for all Rebublicans who have sold their soul to the Wall Man, who once again places himself above law and reason. There’s a taller wall if karma awaiting all of them. https://t.co/sgxny7Twnn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sgxny7Twnn",
+					"expanded_url": "https://twitter.com/viasimonromero/status/1230368231510011904",
+					"display_url": "twitter.com/viasimonromero…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10514,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230368231510012000,
+		"quoted_status_id_str": "1230368231510011904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sgxny7Twnn",
+			"expanded": "https://twitter.com/viasimonromero/status/1230368231510011904",
+			"display": "twitter.com/viasimonromero…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 20 05:47:00 +0000 2020",
+			"id": 1230368231510012000,
+			"id_str": "1230368231510011904",
+			"full_text": "Cut a saguaro down in Arizona, you get arrested. But work crews building the border wall are now destroying the protected cactus, which can live for 200 years — longer than Arizona has been part of the United States. This was the scene today on the border near Sonoyta, Sonora: https://t.co/qNHF3RFDS2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1230368152225116200,
+						"id_str": "1230368152225116160",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230368152225116160/pu/img/7Kfv2ZCnmyWUWFGK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230368152225116160/pu/img/7Kfv2ZCnmyWUWFGK.jpg",
+						"url": "https://t.co/qNHF3RFDS2",
+						"display_url": "pic.twitter.com/qNHF3RFDS2",
+						"expanded_url": "https://twitter.com/viaSimonRomero/status/1230368231510011904/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1230368152225116200,
+						"id_str": "1230368152225116160",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230368152225116160/pu/img/7Kfv2ZCnmyWUWFGK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230368152225116160/pu/img/7Kfv2ZCnmyWUWFGK.jpg",
+						"url": "https://t.co/qNHF3RFDS2",
+						"display_url": "pic.twitter.com/qNHF3RFDS2",
+						"expanded_url": "https://twitter.com/viaSimonRomero/status/1230368231510011904/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 25355,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1230368152225116160/pu/vid/1280x720/KULCbJCCkzR52YqH.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1230368152225116160/pu/vid/640x360/TmoSkIGyXxEYfTBZ.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1230368152225116160/pu/vid/480x270/bJyBiGYIEbTXrsW0.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1230368152225116160/pu/pl/g65g2OseIdR0O4ua.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122792963,
+				"id_str": "122792963",
+				"name": "Simon Romero",
+				"screen_name": "viaSimonRomero",
+				"location": "Albuquerque, Nuevo México ",
+				"description": "NYT National Correspondent. Previous postings: Rio de Janeiro, Caracas, Houston, São Paulo, Brasília. New Mexico born & raised",
+				"url": "https://t.co/mrD4Qv6e8q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mrD4Qv6e8q",
+								"expanded_url": "http://nyti.ms/KqoJWk",
+								"display_url": "nyti.ms/KqoJWk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30375,
+				"friends_count": 9122,
+				"listed_count": 1224,
+				"created_at": "Sat Mar 13 23:06:30 +0000 2010",
+				"favourites_count": 7861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20337,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1209096915096346625/0D207Snk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209096915096346625/0D207Snk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122792963/1411823880",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9e94e24881000",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9e94e24881000.json",
+				"place_type": "poi",
+				"name": "Lukeville Customs and Border Protection Port of Entry",
+				"full_name": "Lukeville Customs and Border Protection Port of Entry",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-112.8167393629821,
+								31.881229600355802
+							],
+							[
+								-112.8167393629821,
+								31.881229600355802
+							],
+							[
+								-112.8167393629821,
+								31.881229600355802
+							],
+							[
+								-112.8167393629821,
+								31.881229600355802
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 563,
+			"favorite_count": 543,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Witness the legacy for all Rebublicans who have sold their soul to the Wall Man, who once again places himself above law and reason. There’s a taller wall if karma awaiting all of them. https://t.co/sgxny7Twnn"
+	},
+	{
 		"created_at": "Thu Feb 20 17:24:16 +0000 2020",
 		"id": 1230543706635280400,
 		"id_str": "1230543706635280384",

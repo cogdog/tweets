@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 21:44:59 +0000 2020",
+		"id": 1232783644164386800,
+		"id_str": "1232783644164386817",
+		"full_text": "Here for #netnarr is a (likely unwanted) filter bubble of your gmail inbox... everything is algorithmatized. https://t.co/zwC9IYsP7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zwC9IYsP7y",
+					"expanded_url": "https://twitter.com/themarkup/status/1232686243743485952",
+					"display_url": "twitter.com/themarkup/stat…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232686243743486000,
+		"quoted_status_id_str": "1232686243743485952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zwC9IYsP7y",
+			"expanded": "https://twitter.com/themarkup/status/1232686243743485952",
+			"display": "twitter.com/themarkup/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 15:17:57 +0000 2020",
+			"id": 1232686243743486000,
+			"id_str": "1232686243743485952",
+			"full_text": "In our experiment, Gmail sent 63 percent of Pete Buttigieg’s campaign email to the primary inbox. \n\nBut it sent none of Elizabeth Warren’s campaign email there. And only 2 percent of Bernie Sanders’s campaign email landed in the primary inbox.: https://t.co/kRzIKXU0eD https://t.co/VZn14Q9r9b https://t.co/fNrl6QzacQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				292
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kRzIKXU0eD",
+						"expanded_url": "https://themarkup.org/google-the-giant/2020/02/26/wheres-my-email",
+						"display_url": "themarkup.org/google-the-gia…",
+						"indices": [
+							245,
+							268
+						]
+					},
+					{
+						"url": "https://t.co/VZn14Q9r9b",
+						"expanded_url": "https://twitter.com/themarkup/status/1232625093458694146",
+						"display_url": "twitter.com/themarkup/stat…",
+						"indices": [
+							269,
+							292
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1232684491166093300,
+						"id_str": "1232684491166093312",
+						"indices": [
+							293,
+							316
+						],
+						"media_url": "http://pbs.twimg.com/media/ERtgA4AWkAAE3GT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERtgA4AWkAAE3GT.jpg",
+						"url": "https://t.co/fNrl6QzacQ",
+						"display_url": "pic.twitter.com/fNrl6QzacQ",
+						"expanded_url": "https://twitter.com/themarkup/status/1232686243743485952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232684491166093300,
+						"id_str": "1232684491166093312",
+						"indices": [
+							293,
+							316
+						],
+						"media_url": "http://pbs.twimg.com/media/ERtgA4AWkAAE3GT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERtgA4AWkAAE3GT.jpg",
+						"url": "https://t.co/fNrl6QzacQ",
+						"display_url": "pic.twitter.com/fNrl6QzacQ",
+						"expanded_url": "https://twitter.com/themarkup/status/1232686243743485952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1041785194095816700,
+				"id_str": "1041785194095816704",
+				"name": "The Markup",
+				"screen_name": "themarkup",
+				"location": "New York, NY",
+				"description": "A nonprofit news organization dedicated to data-driven tech accountability journalism and protecting your privacy.",
+				"url": "https://t.co/5ao1Dap6N7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5ao1Dap6N7",
+								"expanded_url": "https://themarkup.org",
+								"display_url": "themarkup.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35738,
+				"friends_count": 25,
+				"listed_count": 549,
+				"created_at": "Mon Sep 17 20:25:20 +0000 2018",
+				"favourites_count": 131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 225,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230147439967002624/M2MFkLLd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230147439967002624/M2MFkLLd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1041785194095816704/1582124980",
+				"profile_link_color": "FF335F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1232625093458694100,
+			"quoted_status_id_str": "1232625093458694146",
+			"quoted_status_permalink": {
+				"url": "https://t.co/VZn14Q9r9b",
+				"expanded": "https://twitter.com/themarkup/status/1232625093458694146",
+				"display": "twitter.com/themarkup/stat…"
+			},
+			"retweet_count": 98,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here for #netnarr is a (likely unwanted) filter bubble of your gmail inbox... everything is algorithmatized. https://t.co/zwC9IYsP7y"
+	},
+	{
+		"created_at": "Wed Feb 26 21:40:59 +0000 2020",
+		"id": 1232782638546477000,
+		"id_str": "1232782638546477058",
+		"full_text": "@medeathewriter This tweet needs a #netnarr hashtag (me as Human Unintelligence)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medeathewriter",
+					"name": "Medea_Chillemi",
+					"id": 1171559262260269000,
+					"id_str": "1171559262260269056",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1232782134315647000,
+		"in_reply_to_status_id_str": "1232782134315646976",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@medeathewriter This tweet needs a #netnarr hashtag (me as Human Unintelligence)"
+	},
+	{
+		"created_at": "Wed Feb 26 21:40:18 +0000 2020",
+		"id": 1232782465950830600,
+		"id_str": "1232782465950830592",
+		"full_text": "World News Articles (generated by AI) \" Every 30 minutes, the application will grab the top headlines from Reddit or Hacker News and have the Transformer dream up each article from scratch.\" https://t.co/avwWt6O4SN \n\n#netnarr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						217,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/avwWt6O4SN",
+					"expanded_url": "https://thisarticledoesnotexist.com/",
+					"display_url": "thisarticledoesnotexist.com",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "World News Articles (generated by AI) \" Every 30 minutes, the application will grab the top headlines from Reddit or Hacker News and have the Transformer dream up each article from scratch.\" https://t.co/avwWt6O4SN \n\n#netnarr"
+	},
+	{
 		"created_at": "Wed Feb 26 19:49:22 +0000 2020",
 		"id": 1232754547191189500,
 		"id_str": "1232754547191189504",

@@ -1,6 +1,895 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 18:14:14 +0000 2020",
+		"id": 1232730605575536600,
+		"id_str": "1232730605575536640",
+		"full_text": "@JRDingwall Thanks! I needed that. It seems that a word-break:break-all; is needed for the container. It will render like: https://t.co/qeQzTjid2E",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232730593718231000,
+					"id_str": "1232730593718231045",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ERuJ8ZZU4AUiJWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERuJ8ZZU4AUiJWZ.jpg",
+					"url": "https://t.co/qeQzTjid2E",
+					"display_url": "pic.twitter.com/qeQzTjid2E",
+					"expanded_url": "https://twitter.com/cogdog/status/1232730605575536640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232730593718231000,
+					"id_str": "1232730593718231045",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ERuJ8ZZU4AUiJWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERuJ8ZZU4AUiJWZ.jpg",
+					"url": "https://t.co/qeQzTjid2E",
+					"display_url": "pic.twitter.com/qeQzTjid2E",
+					"expanded_url": "https://twitter.com/cogdog/status/1232730605575536640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1232725292176806000,
+		"in_reply_to_status_id_str": "1232725292176805888",
+		"in_reply_to_user_id": 141806761,
+		"in_reply_to_user_id_str": "141806761",
+		"in_reply_to_screen_name": "JRDingwall",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JRDingwall Thanks! I needed that. It seems that a word-break:break-all; is needed for the container. It will render like: https://t.co/qeQzTjid2E"
+	},
+	{
+		"created_at": "Wed Feb 26 18:07:17 +0000 2020",
+		"id": 1232728860187222000,
+		"id_str": "1232728860187222016",
+		"full_text": "@JRDingwall Thanks! I needed that. It seems that a word-break:all; is needed for the container. It will render like- may not be optional- what do you think? https://t.co/iqXfHrfuvK",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232728733150089200,
+					"id_str": "1232728733150089217",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ERuIQGPUEAEBrJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERuIQGPUEAEBrJw.jpg",
+					"url": "https://t.co/iqXfHrfuvK",
+					"display_url": "pic.twitter.com/iqXfHrfuvK",
+					"expanded_url": "https://twitter.com/cogdog/status/1232728860187222016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232728733150089200,
+					"id_str": "1232728733150089217",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ERuIQGPUEAEBrJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERuIQGPUEAEBrJw.jpg",
+					"url": "https://t.co/iqXfHrfuvK",
+					"display_url": "pic.twitter.com/iqXfHrfuvK",
+					"expanded_url": "https://twitter.com/cogdog/status/1232728860187222016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1232725292176806000,
+		"in_reply_to_status_id_str": "1232725292176805888",
+		"in_reply_to_user_id": 141806761,
+		"in_reply_to_user_id_str": "141806761",
+		"in_reply_to_screen_name": "JRDingwall",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JRDingwall Thanks! I needed that. It seems that a word-break:all; is needed for the container. It will render like- may not be optional- what do you think? https://t.co/iqXfHrfuvK"
+	},
+	{
+		"created_at": "Wed Feb 26 18:02:19 +0000 2020",
+		"id": 1232727607973572600,
+		"id_str": "1232727607973572608",
+		"full_text": "@SenatorSinema @SenMcSallyAZ And remember the true story of what happened to the fools that shot up and destroyed saguaro cacti https://t.co/ezdlNgsm4B",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenatorSinema",
+					"name": "Kyrsten Sinema",
+					"id": 1080844782,
+					"id_str": "1080844782",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SenMcSallyAZ",
+					"name": "Martha McSally",
+					"id": 2964949642,
+					"id_str": "2964949642",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ezdlNgsm4B",
+					"expanded_url": "https://www.snopes.com/fact-check/man-killed-saguaro-cactus/",
+					"display_url": "snopes.com/fact-check/man…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1232727138140225500,
+		"in_reply_to_status_id_str": "1232727138140225536",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SenatorSinema @SenMcSallyAZ And remember the true story of what happened to the fools that shot up and destroyed saguaro cacti https://t.co/ezdlNgsm4B"
+	},
+	{
+		"created_at": "Wed Feb 26 18:00:27 +0000 2020",
+		"id": 1232727138140225500,
+		"id_str": "1232727138140225536",
+		"full_text": "I am horrified at this desecration of Arizona's icon and implore Senators @senatorsinema @senmcsallyaz (both twitter profiles feature photos of saguaros) to enforce the Native Plant Rules https://t.co/yE9xQCnwx8 https://t.co/6z76PFcNKD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenatorSinema",
+					"name": "Kyrsten Sinema",
+					"id": 1080844782,
+					"id_str": "1080844782",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"screen_name": "SenMcSallyAZ",
+					"name": "Martha McSally",
+					"id": 2964949642,
+					"id_str": "2964949642",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yE9xQCnwx8",
+					"expanded_url": "https://agriculture.az.gov/sites/default/files/Native%20Plant%20Rules%20-%20AZ%20Dept%20of%20Ag.pdf",
+					"display_url": "agriculture.az.gov/sites/default/…",
+					"indices": [
+						188,
+						211
+					]
+				},
+				{
+					"url": "https://t.co/6z76PFcNKD",
+					"expanded_url": "https://twitter.com/LaikenJordahl/status/1230576690188800000",
+					"display_url": "twitter.com/LaikenJordahl/…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230576690188800000,
+		"quoted_status_id_str": "1230576690188800000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6z76PFcNKD",
+			"expanded": "https://twitter.com/LaikenJordahl/status/1230576690188800000",
+			"display": "twitter.com/LaikenJordahl/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 20 19:35:20 +0000 2020",
+			"id": 1230576690188800000,
+			"id_str": "1230576690188800000",
+			"full_text": "Tuesday evening I photographed these two beautiful, ancient saguaros wrapped in a century-old embrace.\n\nWednesday morning I returned to find them gone. Flattened. Plowed to bits.\n\nThese saguaros were likely older than the border itself. \n\nWe have no right to do such things. https://t.co/65WdAfdumt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1230567502666596400,
+						"id_str": "1230567502666596352",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/ERPan7SVAAATLyF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERPan7SVAAATLyF.jpg",
+						"url": "https://t.co/65WdAfdumt",
+						"display_url": "pic.twitter.com/65WdAfdumt",
+						"expanded_url": "https://twitter.com/LaikenJordahl/status/1230576690188800000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1230567502666596400,
+						"id_str": "1230567502666596352",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/ERPan7SVAAATLyF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERPan7SVAAATLyF.jpg",
+						"url": "https://t.co/65WdAfdumt",
+						"display_url": "pic.twitter.com/65WdAfdumt",
+						"expanded_url": "https://twitter.com/LaikenJordahl/status/1230576690188800000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1230567508345680000,
+						"id_str": "1230567508345679872",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/ERPaoQcU8AA9fhF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERPaoQcU8AA9fhF.jpg",
+						"url": "https://t.co/65WdAfdumt",
+						"display_url": "pic.twitter.com/65WdAfdumt",
+						"expanded_url": "https://twitter.com/LaikenJordahl/status/1230576690188800000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2310862562,
+				"id_str": "2310862562",
+				"name": "Laiken Jordahl",
+				"screen_name": "LaikenJordahl",
+				"location": "Occupied O'odham lands, AZ",
+				"description": "bearing witness and fighting the #borderwall w @centerforbiodiv. fmr. @natlparkservice wilderness fellow. #SaveOrganPipe #StopTheWall #NoBorderWall",
+				"url": "https://t.co/afqfzJIrg0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/afqfzJIrg0",
+								"expanded_url": "http://borderviews.org",
+								"display_url": "borderviews.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9616,
+				"friends_count": 4007,
+				"listed_count": 107,
+				"created_at": "Sat Jan 25 23:28:00 +0000 2014",
+				"favourites_count": 9903,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1578,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1214049620294131713/IbfOHIwq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214049620294131713/IbfOHIwq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2310862562/1581433953",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1009,
+			"favorite_count": 1603,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am horrified at this desecration of Arizona's icon and implore Senators @senatorsinema @senmcsallyaz (both twitter profiles feature photos of saguaros) to enforce the Native Plant Rules https://t.co/yE9xQCnwx8 https://t.co/6z76PFcNKD"
+	},
+	{
 		"created_at": "Wed Feb 26 17:09:42 +0000 2020",
 		"id": 1232714366861987800,
 		"id_str": "1232714366861987840",

@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 19:29:39 +0000 2020",
+		"id": 1236011076891771000,
+		"id_str": "1236011076891770880",
+		"full_text": "New book out on AI Narratives (boo it costs $75) Google Preview gets you almost to chapter 2 for free. \n\nRelevant for #netnarr https://t.co/4YQIMk3cIR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4YQIMk3cIR",
+					"expanded_url": "https://twitter.com/LeverhulmeCFI/status/1235954498880880640",
+					"display_url": "twitter.com/LeverhulmeCFI/…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 1514,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235954498880880600,
+		"quoted_status_id_str": "1235954498880880640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4YQIMk3cIR",
+			"expanded": "https://twitter.com/LeverhulmeCFI/status/1235954498880880640",
+			"display": "twitter.com/LeverhulmeCFI/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 06 15:44:50 +0000 2020",
+			"id": 1235954498880880600,
+			"id_str": "1235954498880880640",
+			"full_text": "An interdisciplinary team effort- AI Narratives: a History of Imaginative Thinking about Intelligent Machines.\nThanks to contributors &amp; friends at @CambridgePhilos @Hughes_Hall @englishunicam @CamArtsHums @CRASSHlive\n@CambridgeHPS @CamDigHum @CSERCambridge\nhttps://t.co/KLnFJE7AyR https://t.co/Lcsk0smk3l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CambridgePhilos",
+						"name": "Cambridge Philosophy",
+						"id": 2253444823,
+						"id_str": "2253444823",
+						"indices": [
+							151,
+							167
+						]
+					},
+					{
+						"screen_name": "Hughes_Hall",
+						"name": "Hughes Hall",
+						"id": 254106510,
+						"id_str": "254106510",
+						"indices": [
+							168,
+							180
+						]
+					},
+					{
+						"screen_name": "englishunicam",
+						"name": "Faculty of English",
+						"id": 3823260496,
+						"id_str": "3823260496",
+						"indices": [
+							181,
+							195
+						]
+					},
+					{
+						"screen_name": "CamArtsHums",
+						"name": "Cam Arts&Humanities",
+						"id": 3945181395,
+						"id_str": "3945181395",
+						"indices": [
+							196,
+							208
+						]
+					},
+					{
+						"screen_name": "CRASSHlive",
+						"name": "CRASSH, Cambridge",
+						"id": 89962372,
+						"id_str": "89962372",
+						"indices": [
+							209,
+							220
+						]
+					},
+					{
+						"screen_name": "CambridgeHPS",
+						"name": "Cambridge HPS",
+						"id": 183255217,
+						"id_str": "183255217",
+						"indices": [
+							221,
+							234
+						]
+					},
+					{
+						"screen_name": "CamDigHum",
+						"name": "Cambridge Digital Humanities",
+						"id": 1378967467,
+						"id_str": "1378967467",
+						"indices": [
+							235,
+							245
+						]
+					},
+					{
+						"screen_name": "CSERCambridge",
+						"name": "Centre for the Study of Existential Risk",
+						"id": 3165955997,
+						"id_str": "3165955997",
+						"indices": [
+							246,
+							260
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KLnFJE7AyR",
+						"expanded_url": "https://global.oup.com/academic/product/ai-narratives-9780198846666",
+						"display_url": "global.oup.com/academic/produ…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1235950446797295600,
+						"id_str": "1235950446797295624",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/ESb6Yg1WkAgI7Nm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESb6Yg1WkAgI7Nm.jpg",
+						"url": "https://t.co/Lcsk0smk3l",
+						"display_url": "pic.twitter.com/Lcsk0smk3l",
+						"expanded_url": "https://twitter.com/LeverhulmeCFI/status/1235954498880880640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1235950446797295600,
+						"id_str": "1235950446797295624",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/ESb6Yg1WkAgI7Nm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESb6Yg1WkAgI7Nm.jpg",
+						"url": "https://t.co/Lcsk0smk3l",
+						"display_url": "pic.twitter.com/Lcsk0smk3l",
+						"expanded_url": "https://twitter.com/LeverhulmeCFI/status/1235954498880880640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4439862976,
+				"id_str": "4439862976",
+				"name": "Future Intelligence",
+				"screen_name": "LeverhulmeCFI",
+				"location": "Cambridge, England",
+				"description": "The Leverhulme Centre for the Future of Intelligence. \nExploring the implications of AI, at the Universities of Cambridge, Oxford, Imperial and Berkeley.",
+				"url": "https://t.co/OqEVdNKcEt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OqEVdNKcEt",
+								"expanded_url": "http://www.lcfi.ac.uk",
+								"display_url": "lcfi.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7130,
+				"friends_count": 619,
+				"listed_count": 259,
+				"created_at": "Thu Dec 10 17:40:08 +0000 2015",
+				"favourites_count": 1342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1027,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786951739442339840/yL34ZnFc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786951739442339840/yL34ZnFc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4439862976/1476458880",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New book out on AI Narratives (boo it costs $75) Google Preview gets you almost to chapter 2 for free. \n\nRelevant for #netnarr https://t.co/4YQIMk3cIR"
+	},
+	{
 		"created_at": "Fri Mar 06 19:11:02 +0000 2020",
 		"id": 1236006393192169500,
 		"id_str": "1236006393192169472",

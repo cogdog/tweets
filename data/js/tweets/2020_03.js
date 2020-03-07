@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 21:13:15 +0000 2020",
+		"id": 1236399536915923000,
+		"id_str": "1236399536915922944",
+		"full_text": "Here's an opportunity to join in a collaborative and daily photography  practice with students from Puerto Rico. \n\nAntonio! I need to get working on making this site theme multilingual. https://t.co/I6RWv7zNyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I6RWv7zNyE",
+					"expanded_url": "https://twitter.com/avunque/status/1236388280083546112",
+					"display_url": "twitter.com/avunque/status…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10509,
+			"friends_count": 1514,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236388280083546000,
+		"quoted_status_id_str": "1236388280083546112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I6RWv7zNyE",
+			"expanded": "https://twitter.com/avunque/status/1236388280083546112",
+			"display": "twitter.com/avunque/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 20:28:31 +0000 2020",
+			"id": 1236388280083546000,
+			"id_str": "1236388280083546112",
+			"full_text": "Let's see the world thru a lens. T minus 2 days for 1 Foto Cada Día -- One photo every day, 2020 from yours truly #inf115 @inf115_nmd #1fotocadadia.  Beginning Monday 9 Mar. Follow @AVBot2. cc @cogdog Welcome All!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "inf115",
+						"indices": [
+							114,
+							121
+						]
+					},
+					{
+						"text": "1fotocadadia",
+						"indices": [
+							134,
+							147
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "inf115_nmd",
+						"name": "Nuevos Medios Digitales y Redes Sociales",
+						"id": 1097599038952824800,
+						"id_str": "1097599038952824832",
+						"indices": [
+							122,
+							133
+						]
+					},
+					{
+						"screen_name": "AVBot2",
+						"name": "inf115_create",
+						"id": 1284431028,
+						"id_str": "1284431028",
+						"indices": [
+							181,
+							188
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							193,
+							200
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16528394,
+				"id_str": "16528394",
+				"name": "Antonio Vantaggiato",
+				"screen_name": "avunque",
+				"location": "San Juan",
+				"description": "Unsound tweets. Edtech, media, education. A bit from here, a bit from there.  #RejoinEU 🇪🇺",
+				"url": "https://t.co/M11qtBnPba",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M11qtBnPba",
+								"expanded_url": "http://skateofweb.com",
+								"display_url": "skateofweb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1127,
+				"friends_count": 1143,
+				"listed_count": 174,
+				"created_at": "Tue Sep 30 14:44:04 +0000 2008",
+				"favourites_count": 3903,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20817,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's an opportunity to join in a collaborative and daily photography  practice with students from Puerto Rico. \n\nAntonio! I need to get working on making this site theme multilingual. https://t.co/I6RWv7zNyE"
+	},
+	{
 		"created_at": "Sat Mar 07 20:04:17 +0000 2020",
 		"id": 1236382182936998000,
 		"id_str": "1236382182936997894",

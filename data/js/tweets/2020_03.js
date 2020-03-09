@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 00:59:26 +0000 2020",
+		"id": 1236818843994960000,
+		"id_str": "1236818843994959872",
+		"full_text": "Preserve this historical moment of leadership during a crisis. As far as buck stopping, he passed it on long ago. https://t.co/uK2gx6q6T1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uK2gx6q6T1",
+					"expanded_url": "https://twitter.com/ScottABC7/status/1236794140328890368",
+					"display_url": "twitter.com/ScottABC7/stat…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10505,
+			"friends_count": 1514,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236794140328890400,
+		"quoted_status_id_str": "1236794140328890368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uK2gx6q6T1",
+			"expanded": "https://twitter.com/ScottABC7/status/1236794140328890368",
+			"display": "twitter.com/ScottABC7/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 08 23:21:16 +0000 2020",
+			"id": 1236794140328890400,
+			"id_str": "1236794140328890368",
+			"full_text": "Look at this!\n\nPatrick Corbin, Ryan Zimmerman, Tre Turner, Kurt Suzuki and Jayson Werth played some golf today with @realDonaldTrump in Florida. https://t.co/9QJ8JJSXCg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							116,
+							132
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236794133928345600,
+						"id_str": "1236794133928345601",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/ESn5tkUWAAEiKRP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESn5tkUWAAEiKRP.jpg",
+						"url": "https://t.co/9QJ8JJSXCg",
+						"display_url": "pic.twitter.com/9QJ8JJSXCg",
+						"expanded_url": "https://twitter.com/ScottABC7/status/1236794140328890368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236794133928345600,
+						"id_str": "1236794133928345601",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/ESn5tkUWAAEiKRP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESn5tkUWAAEiKRP.jpg",
+						"url": "https://t.co/9QJ8JJSXCg",
+						"display_url": "pic.twitter.com/9QJ8JJSXCg",
+						"expanded_url": "https://twitter.com/ScottABC7/status/1236794140328890368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1236794134066839600,
+						"id_str": "1236794134066839553",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/ESn5tk1XQAEiSLe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESn5tk1XQAEiSLe.jpg",
+						"url": "https://t.co/9QJ8JJSXCg",
+						"display_url": "pic.twitter.com/9QJ8JJSXCg",
+						"expanded_url": "https://twitter.com/ScottABC7/status/1236794140328890368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22805792,
+				"id_str": "22805792",
+				"name": "Scott Abraham",
+				"screen_name": "ScottABC7",
+				"location": "Washington, DC",
+				"description": "Father, Husband & @ABC7News Emmy Award Winning Sports Reporter/Anchor. Views & Opinions are my own. Retweets are not endorsements. Syracuse University Alum.",
+				"url": "https://t.co/OAEtsUqwJf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OAEtsUqwJf",
+								"expanded_url": "http://www.wjla.com",
+								"display_url": "wjla.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14680,
+				"friends_count": 787,
+				"listed_count": 113,
+				"created_at": "Wed Mar 04 17:44:59 +0000 2009",
+				"favourites_count": 2412,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 84559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1A1E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1196967397284106240/oFUF39zZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196967397284106240/oFUF39zZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22805792/1581260681",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 98,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Preserve this historical moment of leadership during a crisis. As far as buck stopping, he passed it on long ago. https://t.co/uK2gx6q6T1"
+	},
+	{
 		"created_at": "Sun Mar 08 22:21:56 +0000 2020",
 		"id": 1236779211173417000,
 		"id_str": "1236779211173416960",

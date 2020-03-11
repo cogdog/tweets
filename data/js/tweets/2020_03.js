@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 18:43:57 +0000 2020",
+		"id": 1237811517413683200,
+		"id_str": "1237811517413683201",
+		"full_text": "\"Keep America Greatly Untested\" https://t.co/RdRdpbxVBv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RdRdpbxVBv",
+					"expanded_url": "https://twitter.com/Kelsoh/status/1237272933812195329",
+					"display_url": "twitter.com/Kelsoh/status/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10517,
+			"friends_count": 1517,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237272933812195300,
+		"quoted_status_id_str": "1237272933812195329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RdRdpbxVBv",
+			"expanded": "https://twitter.com/Kelsoh/status/1237272933812195329",
+			"display": "twitter.com/Kelsoh/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 10 07:03:49 +0000 2020",
+			"id": 1237272933812195300,
+			"id_str": "1237272933812195329",
+			"full_text": "\"Tests per million people\" for Coronavirus.\n\nCountries with universal healthcare are kicking ass.\n\n#COVID2019 #bcpoli #cdnpoli #MedicareForAll https://t.co/hxtO3tvVK8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID2019",
+						"indices": [
+							99,
+							109
+						]
+					},
+					{
+						"text": "bcpoli",
+						"indices": [
+							110,
+							117
+						]
+					},
+					{
+						"text": "cdnpoli",
+						"indices": [
+							118,
+							126
+						]
+					},
+					{
+						"text": "MedicareForAll",
+						"indices": [
+							127,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1237272553032274000,
+						"id_str": "1237272553032273920",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/ESus1OXUUAAqwnw.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESus1OXUUAAqwnw.png",
+						"url": "https://t.co/hxtO3tvVK8",
+						"display_url": "pic.twitter.com/hxtO3tvVK8",
+						"expanded_url": "https://twitter.com/Kelsoh/status/1237272933812195329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 489,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 443,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 489,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1237272553032274000,
+						"id_str": "1237272553032273920",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/ESus1OXUUAAqwnw.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESus1OXUUAAqwnw.png",
+						"url": "https://t.co/hxtO3tvVK8",
+						"display_url": "pic.twitter.com/hxtO3tvVK8",
+						"expanded_url": "https://twitter.com/Kelsoh/status/1237272933812195329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 489,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 443,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 489,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17690790,
+				"id_str": "17690790",
+				"name": "Kelsey Hannan",
+				"screen_name": "Kelsoh",
+				"location": "Vancouver, BC",
+				"description": "Full-stack digital expert passionate about business & politics. Creator of Vote Rural-Urban Proportional BC. FVC National Council. UVic Alumni.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 750,
+				"friends_count": 989,
+				"listed_count": 17,
+				"created_at": "Thu Nov 27 21:58:44 +0000 2008",
+				"favourites_count": 2394,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1250,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000173173943/074c530d59fa1be7d110c94479cd18e6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000173173943/074c530d59fa1be7d110c94479cd18e6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17690790/1544825081",
+				"profile_link_color": "090980",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 195,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Keep America Greatly Untested\" https://t.co/RdRdpbxVBv"
+	},
+	{
 		"created_at": "Wed Mar 11 16:31:51 +0000 2020",
 		"id": 1237778271967690800,
 		"id_str": "1237778271967690758",

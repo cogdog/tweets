@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 16:13:28 +0000 2020",
+		"id": 1238860808035000300,
+		"id_str": "1238860808035000320",
+		"full_text": "2020 finds us even more Huxley than Orwell, far past the 2009 comic https://t.co/pq0UoH8DNy #netnarr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pq0UoH8DNy",
+					"expanded_url": "https://web.archive.org/web/20120118045012/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html",
+					"display_url": "web.archive.org/web/2012011804…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1517,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2020 finds us even more Huxley than Orwell, far past the 2009 comic https://t.co/pq0UoH8DNy #netnarr"
+	},
+	{
+		"created_at": "Sat Mar 14 15:58:10 +0000 2020",
+		"id": 1238856960117633000,
+		"id_str": "1238856960117633025",
+		"full_text": "BESIDES BEING RECOGNIZED FOR THE BEST MEAT LOAF IN AMERICA MAR-A-LAGO RISING ON MAP OF BEST PLACES TO HAND SHAKE A STRANGER https://t.co/gzQoTdgJKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238856952932782000,
+					"id_str": "1238856952932782080",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFN1b8U0AA1zQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFN1b8U0AA1zQ9.jpg",
+					"url": "https://t.co/gzQoTdgJKb",
+					"display_url": "pic.twitter.com/gzQoTdgJKb",
+					"expanded_url": "https://twitter.com/cogdog/status/1238856960117633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 999,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 999,
+							"h": 505,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238856952932782000,
+					"id_str": "1238856952932782080",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFN1b8U0AA1zQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFN1b8U0AA1zQ9.jpg",
+					"url": "https://t.co/gzQoTdgJKb",
+					"display_url": "pic.twitter.com/gzQoTdgJKb",
+					"expanded_url": "https://twitter.com/cogdog/status/1238856960117633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 999,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 999,
+							"h": 505,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1517,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BESIDES BEING RECOGNIZED FOR THE BEST MEAT LOAF IN AMERICA MAR-A-LAGO RISING ON MAP OF BEST PLACES TO HAND SHAKE A STRANGER https://t.co/gzQoTdgJKb"
+	},
+	{
+		"created_at": "Sat Mar 14 15:37:41 +0000 2020",
+		"id": 1238851803560591400,
+		"id_str": "1238851803560591361",
+		"full_text": "I AM NOT RESPONSIBLE IN ANY WAY FOR MY OLD TWEETS! https://t.co/PRfK967W2i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PRfK967W2i",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/398887965302091776",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1517,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 398887965302091800,
+		"quoted_status_id_str": "398887965302091776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PRfK967W2i",
+			"expanded": "https://twitter.com/realdonaldtrump/status/398887965302091776",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 08 19:01:16 +0000 2013",
+			"id": 398887965302091800,
+			"id_str": "398887965302091776",
+			"full_text": "Leadership: Whatever happens, you're responsible. If it doesn't happen, you're responsible.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73874063,
+				"friends_count": 47,
+				"listed_count": 116330,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49783,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20956,
+			"favorite_count": 19179,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I AM NOT RESPONSIBLE IN ANY WAY FOR MY OLD TWEETS! https://t.co/PRfK967W2i"
+	},
+	{
 		"created_at": "Sat Mar 14 15:05:51 +0000 2020",
 		"id": 1238843794595778600,
 		"id_str": "1238843794595778560",

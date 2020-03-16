@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 18:43:02 +0000 2020",
+		"id": 1235946819038953500,
+		"id_str": "1239623224754720779",
+		"full_text": "Abled people: NO WE CANNOT DO REMOTE CONFERENCES ITS SOOOO HaRd\n\nDisabled ppl: it's not that hard rly, just try\n\nAbled ppl: NOOOO the cOMPLEXITY tHe CoST thE problMZ\n\nDisabled ppl: just try\n\nCoronavirus: Hi!\n\nAbled ppl: we're pleased to announce our new remote conferencing system",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6466252,
+			"id_str": "6466252",
+			"name": "Sasha Costanza-Chock",
+			"screen_name": "schock",
+			"location": "Boston",
+			"description": "Scholar + troublemaker. Author, https://t.co/y6I6NwCFx4. #designjustice. trans lib. Board member, https://t.co/BFUNlK4tH4. they/them, she/her.",
+			"url": "https://t.co/XUqUq3USeK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XUqUq3USeK",
+							"expanded_url": "https://schock.cc",
+							"display_url": "schock.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/y6I6NwCFx4",
+							"expanded_url": "http://mitpress.mit.edu/books/design-justice",
+							"display_url": "mitpress.mit.edu/books/design-j…",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/BFUNlK4tH4",
+							"expanded_url": "http://alliedmedia.org",
+							"display_url": "alliedmedia.org",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10701,
+			"friends_count": 7810,
+			"listed_count": 536,
+			"created_at": "Thu May 31 09:04:30 +0000 2007",
+			"favourites_count": 40325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174495896173719552/QiOyflzE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174495896173719552/QiOyflzE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6466252/1578937189",
+			"profile_link_color": "FA5A0C",
+			"profile_sidebar_border_color": "96FFE4",
+			"profile_sidebar_fill_color": "FAF77D",
+			"profile_text_color": "0F0101",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8501,
+		"favorite_count": 39250,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Abled people: NO WE CANNOT DO REMOTE CONFERENCES ITS SOOOO HaRd\n\nDisabled ppl: it's not that hard rly, just try\n\nAbled ppl: NOOOO the cOMPLEXITY tHe CoST thE problMZ\n\nDisabled ppl: just try\n\nCoronavirus: Hi!\n\nAbled ppl: we're pleased to announce our new remote conferencing system"
+	},
+	{
 		"created_at": "Mon Mar 16 17:19:07 +0000 2020",
 		"id": 1239602105804972000,
 		"id_str": "1239602105804972032",

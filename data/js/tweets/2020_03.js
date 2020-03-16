@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 17:13:29 +0000 2020",
+		"id": 1239594351619125200,
+		"id_str": "1239600688474124293",
+		"full_text": "Be well everyone &amp; be considerate of others. We will get through this if we practice compassion. It’s not about politics now, it’s about heart. Buy stock in compassion, it never devalues or becomes obsolete.@MiaZamoraPhD #netnarr #unboundeq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						225,
+						233
+					]
+				},
+				{
+					"text": "unboundeq",
+					"indices": [
+						234,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						211,
+						224
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1171559262260269000,
+			"id_str": "1171559262260269056",
+			"name": "Medea_Chillemi",
+			"screen_name": "medeathewriter",
+			"location": "",
+			"description": "Creative writing is my passion. I am a student of art & culture. The photo above is from the Illustr'd vrsn of Jane Eyre. An Attorney; spks Italian & Espan~ol.",
+			"url": "https://t.co/bExiqJEcTF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bExiqJEcTF",
+							"expanded_url": "http://www.writingisevolutionmedea.wordpress.com",
+							"display_url": "writingisevolutionmedea.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 928,
+			"listed_count": 4,
+			"created_at": "Tue Sep 10 23:02:07 +0000 2019",
+			"favourites_count": 1802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171559262260269056/1568213255",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Be well everyone &amp; be considerate of others. We will get through this if we practice compassion. It’s not about politics now, it’s about heart. Buy stock in compassion, it never devalues or becomes obsolete.@MiaZamoraPhD #netnarr #unboundeq"
+	},
+	{
 		"created_at": "Mon Mar 16 16:06:45 +0000 2020",
 		"id": 1239583894263005200,
 		"id_str": "1239583894263005192",

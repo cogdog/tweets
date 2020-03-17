@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 22:46:23 +0000 2020",
+		"id": 1240046853384597500,
+		"id_str": "1240046853384597508",
+		"full_text": "I take this as a point of pride! This tweet is going in my portfolio. https://t.co/WZnu3WsAnF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WZnu3WsAnF",
+					"expanded_url": "https://twitter.com/ken_bauer/status/1240029566191747072",
+					"display_url": "twitter.com/ken_bauer/stat…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10526,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240029566191747000,
+		"quoted_status_id_str": "1240029566191747072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WZnu3WsAnF",
+			"expanded": "https://twitter.com/ken_bauer/status/1240029566191747072",
+			"display": "twitter.com/ken_bauer/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 17 21:37:41 +0000 2020",
+			"id": 1240029566191747000,
+			"id_str": "1240029566191747072",
+			"full_text": "Colour me not surprised that @facebook thinks that my post linking to an @cogdog blog entry is goes \"against community standards\".\n\nLink to post is here, it is indeed a good post: https://t.co/Jb4SA6oFVv https://t.co/zzZRrWgj1I",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Facebook",
+						"name": "Facebook",
+						"id": 2425151,
+						"id_str": "2425151",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							73,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Jb4SA6oFVv",
+						"expanded_url": "https://cogdogblog.com/2020/03/greatest-flawed-experiment/",
+						"display_url": "cogdogblog.com/2020/03/greate…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1240029399006797800,
+						"id_str": "1240029399006797829",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/ETV4Kx7XYAUS1_r.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETV4Kx7XYAUS1_r.png",
+						"url": "https://t.co/zzZRrWgj1I",
+						"display_url": "pic.twitter.com/zzZRrWgj1I",
+						"expanded_url": "https://twitter.com/ken_bauer/status/1240029566191747072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 523,
+								"h": 754,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 523,
+								"h": 754,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 472,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240029399006797800,
+						"id_str": "1240029399006797829",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/ETV4Kx7XYAUS1_r.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETV4Kx7XYAUS1_r.png",
+						"url": "https://t.co/zzZRrWgj1I",
+						"display_url": "pic.twitter.com/zzZRrWgj1I",
+						"expanded_url": "https://twitter.com/ken_bauer/status/1240029566191747072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 523,
+								"h": 754,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 523,
+								"h": 754,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 472,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16033586,
+				"id_str": "16033586",
+				"name": "Ken Bauer Favel",
+				"screen_name": "ken_bauer",
+				"location": "Guadalajara, Jalisco, Mexico",
+				"description": "Assoc. Professor #CompSci @TecDeMonterrey in Guadalajara, #edupunk, @FlippedLearning chair, podcasts @AskTheFLN #OEP, #Oilers fan, Canadian in Mexico. He/Him",
+				"url": "https://t.co/vvHd8dpyVY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vvHd8dpyVY",
+								"expanded_url": "https://blog.kenbauer.me",
+								"display_url": "blog.kenbauer.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3916,
+				"friends_count": 2856,
+				"listed_count": 215,
+				"created_at": "Thu Aug 28 22:08:22 +0000 2008",
+				"favourites_count": 29794,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30946,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833769805928755200/GcOm4L7-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833769805928755200/GcOm4L7-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16033586/1561474534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I take this as a point of pride! This tweet is going in my portfolio. https://t.co/WZnu3WsAnF"
+	},
+	{
 		"created_at": "Tue Mar 17 20:45:56 +0000 2020",
 		"id": 1240016539329294300,
 		"id_str": "1240016539329294338",

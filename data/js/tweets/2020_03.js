@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 20:45:56 +0000 2020",
+		"id": 1240016539329294300,
+		"id_str": "1240016539329294338",
+		"full_text": "@Bali_Maha @bonni208 @greeneterry @chris_friend See also Grail, Holy. Soundcloud timeline comments are closest imho. Lots of tries https://t.co/FWC72QWaQK @xolotl already cited @judell review https://t.co/eHDxpgQITm",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "bonni208",
+					"name": "Bonni Stachowiak",
+					"id": 14777884,
+					"id_str": "14777884",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Green with an e",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "chris_friend",
+					"name": "Chris Friend",
+					"id": 73045157,
+					"id_str": "73045157",
+					"indices": [
+						34,
+						47
+					]
+				},
+				{
+					"screen_name": "xolotl",
+					"name": "Nate Angell",
+					"id": 3775651,
+					"id_str": "3775651",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"screen_name": "judell",
+					"name": "Jon Udell",
+					"id": 2937071,
+					"id_str": "2937071",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FWC72QWaQK",
+					"expanded_url": "https://www.google.com/search?q=audio+annotation+tool",
+					"display_url": "google.com/search?q=audio…",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/eHDxpgQITm",
+					"expanded_url": "https://blog.jonudell.net/2018/03/10/open-web-annotation-of-audio-and-video/",
+					"display_url": "blog.jonudell.net/2018/03/10/ope…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1240012585245737000,
+		"in_reply_to_status_id_str": "1240012585245736962",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10526,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bali_Maha @bonni208 @greeneterry @chris_friend See also Grail, Holy. Soundcloud timeline comments are closest imho. Lots of tries https://t.co/FWC72QWaQK @xolotl already cited @judell review https://t.co/eHDxpgQITm"
+	},
+	{
 		"created_at": "Tue Mar 17 17:17:32 +0000 2020",
 		"id": 1239964094460878800,
 		"id_str": "1239964094460878850",

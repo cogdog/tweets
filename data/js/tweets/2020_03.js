@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 19:16:34 +0000 2020",
+		"id": 1240356439266218000,
+		"id_str": "1240356439266217984",
+		"full_text": "For #netnarr topic of surveillance... you are not as anonymous as companies try to say you are. https://t.co/ln1KzRtlU8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ln1KzRtlU8",
+					"expanded_url": "https://twitter.com/oliviasolon/status/1240325365261905920",
+					"display_url": "twitter.com/oliviasolon/st…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10528,
+			"friends_count": 1519,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240325365261906000,
+		"quoted_status_id_str": "1240325365261905920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ln1KzRtlU8",
+			"expanded": "https://twitter.com/oliviasolon/status/1240325365261905920",
+			"display": "twitter.com/oliviasolon/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 17:13:05 +0000 2020",
+			"id": 1240325365261906000,
+			"id_str": "1240325365261905920",
+			"full_text": "Whenever I hear about tech companies using \"aggregated anonymous location data\" to do anything (including tracking pandemics) I think of this 2013 paper by @yvesalexandre highlighting how you only need a few location data points to identify individuals https://t.co/USDedCgatU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yvesalexandre",
+						"name": "Yves-A. de Montjoye",
+						"id": 14556945,
+						"id_str": "14556945",
+						"indices": [
+							156,
+							170
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/USDedCgatU",
+						"expanded_url": "https://www.nature.com/articles/srep01376",
+						"display_url": "nature.com/articles/srep0…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137703483,
+				"id_str": "137703483",
+				"name": "Olivia Solon",
+				"screen_name": "oliviasolon",
+				"location": "San Francisco via London",
+				"description": "Editor, Tech Investigations at @NBCNews. olivia.solon@nbcuni.com or @protonmail.com Mobile/Telegram/WhatsApp +1 415-619-9000 / Signal: +1 650-797-2472",
+				"url": "https://t.co/MiXwjyZLzj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MiXwjyZLzj",
+								"expanded_url": "https://www.nbcnews.com/pages/author/olivia-solon",
+								"display_url": "nbcnews.com/pages/author/o…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43201,
+				"friends_count": 3046,
+				"listed_count": 1623,
+				"created_at": "Tue Apr 27 14:01:38 +0000 2010",
+				"favourites_count": 39237,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707382834827120640/R-Eb9YZB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707382834827120640/R-Eb9YZB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137703483/1393926188",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For #netnarr topic of surveillance... you are not as anonymous as companies try to say you are. https://t.co/ln1KzRtlU8"
+	},
+	{
 		"created_at": "Wed Mar 18 18:48:34 +0000 2020",
 		"id": 1240349392973914000,
 		"id_str": "1240349392973914112",

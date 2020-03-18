@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 22:10:09 +0000 2020",
+		"id": 1240400124808958000,
+		"id_str": "1240400124808957953",
+		"full_text": "@academicdave Felix is very adept at Facetime...when he's not sitting in his 3 hour Zoom lectures for Calculus. https://t.co/l8uwmVkuFu",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "academicdave",
+					"name": "David Parry",
+					"id": 7067102,
+					"id_str": "7067102",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240399876782874600,
+					"id_str": "1240399876782874626",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ETbJHbMU4AIFzqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETbJHbMU4AIFzqg.jpg",
+					"url": "https://t.co/l8uwmVkuFu",
+					"display_url": "pic.twitter.com/l8uwmVkuFu",
+					"expanded_url": "https://twitter.com/cogdog/status/1240400124808957953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240399876782874600,
+					"id_str": "1240399876782874626",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ETbJHbMU4AIFzqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETbJHbMU4AIFzqg.jpg",
+					"url": "https://t.co/l8uwmVkuFu",
+					"display_url": "pic.twitter.com/l8uwmVkuFu",
+					"expanded_url": "https://twitter.com/cogdog/status/1240400124808957953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1240398872083599400,
+		"in_reply_to_status_id_str": "1240398872083599361",
+		"in_reply_to_user_id": 7067102,
+		"in_reply_to_user_id_str": "7067102",
+		"in_reply_to_screen_name": "academicdave",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10529,
+			"friends_count": 1519,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@academicdave Felix is very adept at Facetime...when he's not sitting in his 3 hour Zoom lectures for Calculus. https://t.co/l8uwmVkuFu"
+	},
+	{
+		"created_at": "Wed Mar 18 22:05:00 +0000 2020",
+		"id": 1240398828089507800,
+		"id_str": "1240398828089507841",
+		"full_text": "IT'S A VERY COMPLEX ISSUE AND THERE IS A LOT OF COMPLEXITY TO THE COMPLEXNESS OF THE ISSUE, A BIG ISSUE, A GREAT COMPLEX OF COMPLEXITY IN THIS COMPLEX ISSUE. BUT THERE ARE GREAT PEOPLE, REALLY GREAT COMPLEX PEOPLE TAKING ON THIS COMPLEX ISSUE.\n\nCAN I GO GOLFING NOW?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10529,
+			"friends_count": 1519,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "IT'S A VERY COMPLEX ISSUE AND THERE IS A LOT OF COMPLEXITY TO THE COMPLEXNESS OF THE ISSUE, A BIG ISSUE, A GREAT COMPLEX OF COMPLEXITY IN THIS COMPLEX ISSUE. BUT THERE ARE GREAT PEOPLE, REALLY GREAT COMPLEX PEOPLE TAKING ON THIS COMPLEX ISSUE.\n\nCAN I GO GOLFING NOW?"
+	},
+	{
+		"created_at": "Wed Mar 18 21:56:38 +0000 2020",
+		"id": 1240396722523816000,
+		"id_str": "1240396722523815937",
+		"full_text": "Free registration for #oer20 Now that everyone is home no reason not to sign up.\n\nNice picture there too ;-) https://t.co/xjhM25GFOk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer20",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xjhM25GFOk",
+					"expanded_url": "https://twitter.com/villaronrubia/status/1240363374426427392",
+					"display_url": "twitter.com/villaronrubia/…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10529,
+			"friends_count": 1519,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240363374426427400,
+		"quoted_status_id_str": "1240363374426427392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xjhM25GFOk",
+			"expanded": "https://twitter.com/villaronrubia/status/1240363374426427392",
+			"display": "twitter.com/villaronrubia/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 19:44:07 +0000 2020",
+			"id": 1240363374426427400,
+			"id_str": "1240363374426427392",
+			"full_text": "Anyone can now register for free to the (now 100% online) #OER20 Conference. Please spread the word! cc: @disrupt_learn @ZEMOS98 @savasavasava @Openreflections @joe_dev @MiaZamoraPhD @time_motion @ALT_OpenEdSIG @okfnedu https://t.co/kiHWMsbk54",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER20",
+						"indices": [
+							58,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "disrupt_learn",
+						"name": "Disruptive Media Learning Lab",
+						"id": 2521466321,
+						"id_str": "2521466321",
+						"indices": [
+							105,
+							119
+						]
+					},
+					{
+						"screen_name": "ZEMOS98",
+						"name": "ZEMOS98",
+						"id": 10532842,
+						"id_str": "10532842",
+						"indices": [
+							120,
+							128
+						]
+					},
+					{
+						"screen_name": "savasavasava",
+						"name": "dr. savasavasava",
+						"id": 16699990,
+						"id_str": "16699990",
+						"indices": [
+							129,
+							142
+						]
+					},
+					{
+						"screen_name": "Openreflections",
+						"name": "Janneke Adema",
+						"id": 68145811,
+						"id_str": "68145811",
+						"indices": [
+							143,
+							159
+						]
+					},
+					{
+						"screen_name": "joe_dev",
+						"name": "Joe Deville is all digital",
+						"id": 20026001,
+						"id_str": "20026001",
+						"indices": [
+							160,
+							168
+						]
+					},
+					{
+						"screen_name": "MiaZamoraPhD",
+						"name": "Mia Zamora",
+						"id": 579873574,
+						"id_str": "579873574",
+						"indices": [
+							169,
+							182
+						]
+					},
+					{
+						"screen_name": "time_motion",
+						"name": "Jonathan Shaw",
+						"id": 66360983,
+						"id_str": "66360983",
+						"indices": [
+							183,
+							195
+						]
+					},
+					{
+						"screen_name": "ALT_OpenEdSIG",
+						"name": "ALT Open Education Special Interest Group",
+						"id": 1159063897137131500,
+						"id_str": "1159063897137131521",
+						"indices": [
+							196,
+							210
+						]
+					},
+					{
+						"screen_name": "okfnedu",
+						"name": "Open Education",
+						"id": 1896407568,
+						"id_str": "1896407568",
+						"indices": [
+							211,
+							219
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kiHWMsbk54",
+						"expanded_url": "https://twitter.com/OERConf/status/1240328500352970752",
+						"display_url": "twitter.com/OERConf/status…",
+						"indices": [
+							220,
+							243
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41424326,
+				"id_str": "41424326",
+				"name": "Daniel Villar-Onrubia",
+				"screen_name": "villaronrubia",
+				"location": "Coventry, England",
+				"description": "Principal Innovation Lead at Coventry University's @disrupt_learn // @oiioxford DPhil alumnus. Views my own.",
+				"url": "http://t.co/JV6Tos7PAX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JV6Tos7PAX",
+								"expanded_url": "http://uk.linkedin.com/in/danielvillaronrubia/",
+								"display_url": "uk.linkedin.com/in/danielvilla…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1095,
+				"friends_count": 943,
+				"listed_count": 64,
+				"created_at": "Wed May 20 19:05:29 +0000 2009",
+				"favourites_count": 2968,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3069,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1240328500352970800,
+			"quoted_status_id_str": "1240328500352970752",
+			"quoted_status_permalink": {
+				"url": "https://t.co/kiHWMsbk54",
+				"expanded": "https://twitter.com/OERConf/status/1240328500352970752",
+				"display": "twitter.com/OERConf/status…"
+			},
+			"retweet_count": 11,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Free registration for #oer20 Now that everyone is home no reason not to sign up.\n\nNice picture there too ;-) https://t.co/xjhM25GFOk"
+	},
+	{
 		"created_at": "Wed Mar 18 19:16:34 +0000 2020",
 		"id": 1240356439266218000,
 		"id_str": "1240356439266217984",

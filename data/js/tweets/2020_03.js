@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 16:43:27 +0000 2020",
+		"id": 1240317905411043300,
+		"id_str": "1240317905411043329",
+		"full_text": "@shirky17 @bennettscience I was surprised how many photos of trains showed up, especially as pechaflickr draws from different accounts.\n\nA little digging found the reason- it's a particular locomotive that is popular among train buffs https://t.co/BL0eC4FpWC",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shirky17",
+					"name": "paul shircliff",
+					"id": 160300589,
+					"id_str": "160300589",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BL0eC4FpWC",
+					"expanded_url": "https://www.railmagazine.com/trains/current-trains/fearless-returns-after-15-years",
+					"display_url": "railmagazine.com/trains/current…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1240308741259571200,
+		"in_reply_to_status_id_str": "1240308741259571201",
+		"in_reply_to_user_id": 160300589,
+		"in_reply_to_user_id_str": "160300589",
+		"in_reply_to_screen_name": "shirky17",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10527,
+			"friends_count": 1519,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shirky17 @bennettscience I was surprised how many photos of trains showed up, especially as pechaflickr draws from different accounts.\n\nA little digging found the reason- it's a particular locomotive that is popular among train buffs https://t.co/BL0eC4FpWC"
+	},
+	{
+		"created_at": "Wed Mar 18 15:39:50 +0000 2020",
+		"id": 1240301894888648700,
+		"id_str": "1240301894888648704",
+		"full_text": "Today's pechaflickr challenge is difficult- figure out the tag for these 7 photos each displayed 7 seconds \n\nhttps://t.co/3K5LskPCa3 https://t.co/EV4b36OWtR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3K5LskPCa3",
+					"expanded_url": "http://bit.ly/pechaflickr-tag3",
+					"display_url": "bit.ly/pechaflickr-ta…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240301882620268500,
+					"id_str": "1240301882620268545",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ETZv_afUUAETKs_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETZv_afUUAETKs_.jpg",
+					"url": "https://t.co/EV4b36OWtR",
+					"display_url": "pic.twitter.com/EV4b36OWtR",
+					"expanded_url": "https://twitter.com/cogdog/status/1240301894888648704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240301882620268500,
+					"id_str": "1240301882620268545",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ETZv_afUUAETKs_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETZv_afUUAETKs_.jpg",
+					"url": "https://t.co/EV4b36OWtR",
+					"display_url": "pic.twitter.com/EV4b36OWtR",
+					"expanded_url": "https://twitter.com/cogdog/status/1240301894888648704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10527,
+			"friends_count": 1519,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's pechaflickr challenge is difficult- figure out the tag for these 7 photos each displayed 7 seconds \n\nhttps://t.co/3K5LskPCa3 https://t.co/EV4b36OWtR"
+	},
+	{
 		"created_at": "Wed Mar 18 15:02:30 +0000 2020",
 		"id": 1240292499710562300,
 		"id_str": "1240292499710562305",

@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 17:25:57 +0000 2020",
+		"id": 1241053379146571800,
+		"id_str": "1241053379146571777",
+		"full_text": "When people ask me what it's like to be a permanent resident in Canada, I can say, \"At least the national leader is not a vindictive, lying childish self-serving misogynist egomaniac bent on destroying everyone not in his golf club income bracket\" \n\nI missed a few adjectives. https://t.co/vzXFzwQKHr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vzXFzwQKHr",
+					"expanded_url": "https://twitter.com/rebeccaballhaus/status/1241040747081732096",
+					"display_url": "twitter.com/rebeccaballhau…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10537,
+			"friends_count": 1519,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241040747081732000,
+		"quoted_status_id_str": "1241040747081732096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vzXFzwQKHr",
+			"expanded": "https://twitter.com/rebeccaballhaus/status/1241040747081732096",
+			"display": "twitter.com/rebeccaballhau…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 20 16:35:46 +0000 2020",
+			"id": 1241040747081732000,
+			"id_str": "1241040747081732096",
+			"full_text": ".@PeterAlexander asks: \"What do you say to Americans who are scared right now?\"\n\n“I say that you’re a terrible reporter. That’s what I say,” Trump says. \" I think that’s a very nasty question, and I think that’s a very bad signal that you’re putting out to the American people.”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PeterAlexander",
+						"name": "Peter Alexander",
+						"id": 91386979,
+						"id_str": "91386979",
+						"indices": [
+							1,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 705706292,
+				"id_str": "705706292",
+				"name": "Rebecca Ballhaus",
+				"screen_name": "rebeccaballhaus",
+				"location": "Washington, D.C.",
+				"description": "@WSJ White House reporter",
+				"url": "https://t.co/BzzVgFj1vG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BzzVgFj1vG",
+								"expanded_url": "https://www.wsj.com/news/author/7537",
+								"display_url": "wsj.com/news/author/75…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90736,
+				"friends_count": 1864,
+				"listed_count": 2000,
+				"created_at": "Thu Jul 19 20:12:07 +0000 2012",
+				"favourites_count": 3520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19731,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011677272561025029/pFFA3nTS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011677272561025029/pFFA3nTS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/705706292/1546664300",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 794,
+			"favorite_count": 1502,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When people ask me what it's like to be a permanent resident in Canada, I can say, \"At least the national leader is not a vindictive, lying childish self-serving misogynist egomaniac bent on destroying everyone not in his golf club income bracket\" \n\nI missed a few adjectives. https://t.co/vzXFzwQKHr"
+	},
+	{
 		"created_at": "Fri Mar 20 17:05:18 +0000 2020",
 		"id": 1241047563463037000,
 		"id_str": "1241048179551830017",

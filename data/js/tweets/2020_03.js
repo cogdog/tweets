@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 17:05:18 +0000 2020",
+		"id": 1241047563463037000,
+		"id_str": "1241048179551830017",
+		"full_text": "I was just in a 30 minute Zoom meeting. It sent 260MB of data to my house, and I sent 29MB to it. Broadband is definitely required for these kinds of sessions. Not all students have access to reliable internet that can handle 500MB+ per hour…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817493053527113700,
+			"id_str": "817493053527113729",
+			"name": "D'Arcy Norman",
+			"screen_name": "realdlnorman",
+			"location": "Calgary, Alberta",
+			"description": "Futurist. Thought leader. Vapid platitude generator. The leading global expert on the Dunning–Kruger effect. My TED Talk has nearly 3 views.",
+			"url": "https://t.co/YfF3SjsidZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YfF3SjsidZ",
+							"expanded_url": "https://darcynorman.net",
+							"display_url": "darcynorman.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 339,
+			"listed_count": 14,
+			"created_at": "Fri Jan 06 22:08:27 +0000 2017",
+			"favourites_count": 4573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205654620955004928/8NQv6CXu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205654620955004928/8NQv6CXu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817493053527113729/1563929703",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I was just in a 30 minute Zoom meeting. It sent 260MB of data to my house, and I sent 29MB to it. Broadband is definitely required for these kinds of sessions. Not all students have access to reliable internet that can handle 500MB+ per hour…"
+	},
+	{
 		"created_at": "Fri Mar 20 02:43:28 +0000 2020",
 		"id": 1240831294247809000,
 		"id_str": "1240831294247809024",

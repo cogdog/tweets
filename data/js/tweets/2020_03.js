@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 00:54:21 +0000 2020",
+		"id": 1241528606955688000,
+		"id_str": "1241528606955687937",
+		"full_text": "Nothing beats the quarantine blues like recording a podcast episode with @avunque Look for another 20 Minute Rule Buster soon at https://t.co/SrDqHPmFOX https://t.co/kxRhSVD1Vm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avunque",
+					"name": "Antonio Vantaggiato",
+					"id": 16528394,
+					"id_str": "16528394",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SrDqHPmFOX",
+					"expanded_url": "http://prconnection.cogdog.casa",
+					"display_url": "prconnection.cogdog.casa",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/kxRhSVD1Vm",
+					"expanded_url": "https://twitter.com/avunque/status/1241504017907363843",
+					"display_url": "twitter.com/avunque/status…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10539,
+			"friends_count": 1520,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241504017907363800,
+		"quoted_status_id_str": "1241504017907363843",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kxRhSVD1Vm",
+			"expanded": "https://twitter.com/avunque/status/1241504017907363843",
+			"display": "twitter.com/avunque/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 21 23:16:38 +0000 2020",
+			"id": 1241504017907363800,
+			"id_str": "1241504017907363843",
+			"full_text": "These are the two universal hashtags in Puerto Rico for #RESISTENCIA  #EsteVirusLoParamosUnidos #YoMeQuedoEnCasa #YoMeQuedoEnMiCasa @cogdog",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RESISTENCIA",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"text": "EsteVirusLoParamosUnidos",
+						"indices": [
+							70,
+							95
+						]
+					},
+					{
+						"text": "YoMeQuedoEnCasa",
+						"indices": [
+							96,
+							112
+						]
+					},
+					{
+						"text": "YoMeQuedoEnMiCasa",
+						"indices": [
+							113,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							132,
+							139
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16528394,
+				"id_str": "16528394",
+				"name": "Antonio Vantaggiato",
+				"screen_name": "avunque",
+				"location": "San Juan",
+				"description": "Unsound tweets. Edtech, media, education. A bit from here, a bit from there.  #RejoinEU 🇪🇺",
+				"url": "https://t.co/M11qtBnPba",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M11qtBnPba",
+								"expanded_url": "http://skateofweb.com",
+								"display_url": "skateofweb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1123,
+				"friends_count": 1145,
+				"listed_count": 174,
+				"created_at": "Tue Sep 30 14:44:04 +0000 2008",
+				"favourites_count": 4030,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20873,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nothing beats the quarantine blues like recording a podcast episode with @avunque Look for another 20 Minute Rule Buster soon at https://t.co/SrDqHPmFOX https://t.co/kxRhSVD1Vm"
+	},
+	{
 		"created_at": "Sat Mar 21 16:42:58 +0000 2020",
 		"id": 1241404946198581200,
 		"id_str": "1241404946198581249",

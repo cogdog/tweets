@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 20:20:51 +0000 2020",
+		"id": 1242546944863424500,
+		"id_str": "1242546944863424512",
+		"full_text": "@shawnrram @gcouros @courosa @MrMacnology @patrickmlarkin @Google This looks like it *might* work but I never tried plus the reviews are rather mixed https://t.co/fvggsqzGXa",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shawnrram",
+					"name": "Shawn Ram",
+					"id": 138989319,
+					"id_str": "138989319",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "gcouros",
+					"name": "George Couros",
+					"id": 18368680,
+					"id_str": "18368680",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						20,
+						28
+					]
+				},
+				{
+					"screen_name": "MrMacnology",
+					"name": "Jeremy Macdonald",
+					"id": 83196461,
+					"id_str": "83196461",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "patrickmlarkin",
+					"name": "Patrick Larkin",
+					"id": 19074827,
+					"id_str": "19074827",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"screen_name": "Google",
+					"name": "Google",
+					"id": 20536157,
+					"id_str": "20536157",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fvggsqzGXa",
+					"expanded_url": "https://gsuite.google.com/marketplace/app/save_emails_and_attachments/513239564707",
+					"display_url": "gsuite.google.com/marketplace/ap…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1242541210444550100,
+		"in_reply_to_status_id_str": "1242541210444550144",
+		"in_reply_to_user_id": 138989319,
+		"in_reply_to_user_id_str": "138989319",
+		"in_reply_to_screen_name": "shawnrram",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10543,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shawnrram @gcouros @courosa @MrMacnology @patrickmlarkin @Google This looks like it *might* work but I never tried plus the reviews are rather mixed https://t.co/fvggsqzGXa"
+	},
+	{
 		"created_at": "Tue Mar 24 19:13:18 +0000 2020",
 		"id": 1242529943126335500,
 		"id_str": "1242529943126335489",

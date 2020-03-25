@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 15:53:36 +0000 2020",
+		"id": 1242842077374722000,
+		"id_str": "1242842077374722050",
+		"full_text": "@sensor63 @shansauro @makle1 @WarwickLanguage @telliowkuwp @NomadWarMachine I was just hearing this same thought yesterday from @felixadog He is enthusiastic when I start talking to the screen.",
+		"truncated": false,
+		"display_text_range": [
+			76,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "shansauro",
+					"name": "Shannon Sauro",
+					"id": 64323854,
+					"id_str": "64323854",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "makle1",
+					"name": "Marcin Kleban",
+					"id": 90346874,
+					"id_str": "90346874",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						29,
+						45
+					]
+				},
+				{
+					"screen_name": "telliowkuwp",
+					"name": "Terry Elliott",
+					"id": 326772515,
+					"id_str": "326772515",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"screen_name": "felixadog",
+					"name": "Felix",
+					"id": 725029637609381900,
+					"id_str": "725029637609381891",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1242828103929467000,
+		"in_reply_to_status_id_str": "1242828103929466886",
+		"in_reply_to_user_id": 84562932,
+		"in_reply_to_user_id_str": "84562932",
+		"in_reply_to_screen_name": "sensor63",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sensor63 @shansauro @makle1 @WarwickLanguage @telliowkuwp @NomadWarMachine I was just hearing this same thought yesterday from @felixadog He is enthusiastic when I start talking to the screen."
+	},
+	{
 		"created_at": "Wed Mar 25 01:52:38 +0000 2020",
 		"id": 1242630441183535000,
 		"id_str": "1242630441183535105",

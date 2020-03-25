@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 01:52:38 +0000 2020",
+		"id": 1242630441183535000,
+		"id_str": "1242630441183535105",
+		"full_text": "Look at this! #netnarr student finds perfect gif for moving courses online. Pivvvottt! It’s all how you say it https://t.co/WMIAClGe2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WMIAClGe2P",
+					"expanded_url": "https://twitter.com/medeathewriter/status/1242606276380635137",
+					"display_url": "twitter.com/medeathewriter…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10543,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242606276380635100,
+		"quoted_status_id_str": "1242606276380635137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WMIAClGe2P",
+			"expanded": "https://twitter.com/medeathewriter/status/1242606276380635137",
+			"display": "twitter.com/medeathewriter…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 25 00:16:37 +0000 2020",
+			"id": 1242606276380635100,
+			"id_str": "1242606276380635137",
+			"full_text": "@cogdog this is a great scene in Friends, Ross says Pivot. Pivvvottt. He pronounces it with great urgency as if that is going to help that couch make it up the stairwell! https://t.co/WmUtwwYCho",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1242606270005350400,
+						"id_str": "1242606270005350400",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET6f0adXkAAUQH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET6f0adXkAAUQH6.jpg",
+						"url": "https://t.co/WmUtwwYCho",
+						"display_url": "pic.twitter.com/WmUtwwYCho",
+						"expanded_url": "https://twitter.com/medeathewriter/status/1242606276380635137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 250,
+								"h": 160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 250,
+								"h": 160,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1242606270005350400,
+						"id_str": "1242606270005350400",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET6f0adXkAAUQH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET6f0adXkAAUQH6.jpg",
+						"url": "https://t.co/WmUtwwYCho",
+						"display_url": "pic.twitter.com/WmUtwwYCho",
+						"expanded_url": "https://twitter.com/medeathewriter/status/1242606276380635137/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 250,
+								"h": 160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 250,
+								"h": 160,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 160,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								16
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/ET6f0adXkAAUQH6.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1242585631718432800,
+			"in_reply_to_status_id_str": "1242585631718432769",
+			"in_reply_to_user_id": 740343,
+			"in_reply_to_user_id_str": "740343",
+			"in_reply_to_screen_name": "cogdog",
+			"user": {
+				"id": 1171559262260269000,
+				"id_str": "1171559262260269056",
+				"name": "Medea_Chillemi",
+				"screen_name": "medeathewriter",
+				"location": "",
+				"description": "Creative writing is my passion. I am a student of art & culture. The photo above is from the Illustr'd vrsn of Jane Eyre. An Attorney; spks Italian & Espan~ol.",
+				"url": "https://t.co/bExiqJEcTF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bExiqJEcTF",
+								"expanded_url": "http://www.writingisevolutionmedea.wordpress.com",
+								"display_url": "writingisevolutionmedea.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 666,
+				"friends_count": 939,
+				"listed_count": 4,
+				"created_at": "Tue Sep 10 23:02:07 +0000 2019",
+				"favourites_count": 1879,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1342,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171559262260269056/1568213255",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look at this! #netnarr student finds perfect gif for moving courses online. Pivvvottt! It’s all how you say it https://t.co/WMIAClGe2P"
+	},
+	{
 		"created_at": "Tue Mar 24 23:10:08 +0000 2020",
 		"id": 1242589544555348000,
 		"id_str": "1242589544555347969",

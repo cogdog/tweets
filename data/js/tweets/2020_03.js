@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 21:38:52 +0000 2020",
+		"id": 1242927613447786500,
+		"id_str": "1242928963472617473",
+		"full_text": "Neighbors in Strawberry are kind and generous, offering to make store trips and pick things up. We’re younger and able, but it’s great to know everyone of helping each other. Wife is out delivering hand sanitizer, lemons and English muffins to an elderly single neighbor. #Love https://t.co/CS0OhbqqXL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Love",
+					"indices": [
+						272,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242927603675091000,
+					"id_str": "1242927603675090944",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/ET_EEfqU0AA7DCD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET_EEfqU0AA7DCD.jpg",
+					"url": "https://t.co/CS0OhbqqXL",
+					"display_url": "pic.twitter.com/CS0OhbqqXL",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1242927613447786496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1486,
+							"h": 1983,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242927603675091000,
+					"id_str": "1242927603675090944",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/ET_EEfqU0AA7DCD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET_EEfqU0AA7DCD.jpg",
+					"url": "https://t.co/CS0OhbqqXL",
+					"display_url": "pic.twitter.com/CS0OhbqqXL",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1242927613447786496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1486,
+							"h": 1983,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1242927603675099100,
+					"id_str": "1242927603675099136",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/ET_EEfqU8AAnOMP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET_EEfqU8AAnOMP.jpg",
+					"url": "https://t.co/CS0OhbqqXL",
+					"display_url": "pic.twitter.com/CS0OhbqqXL",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1242927613447786496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 737483795608178700,
+			"id_str": "737483795608178688",
+			"name": "Strawberry, AZ 🍓🏜",
+			"screen_name": "Strawberry_AZ",
+			"location": "Strawberry, Arizona USA",
+			"description": "Strawberry, Arizona USA🍓2 hrs N of Phoenix by Pine AZ Gila County Mogollon Rim, Est 1878, Alt 5850' Pop 500+ Acct by f/t resident #Hiking #AzWx #Garden #Az🌲🏜",
+			"url": "https://t.co/BJXZbrNYFI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BJXZbrNYFI",
+							"expanded_url": "https://www.google.com/amp/www.onlyinyourstate.com/arizona/az-tiny-town-activities/amp/",
+							"display_url": "google.com/amp/www.onlyin…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1124,
+			"friends_count": 1077,
+			"listed_count": 19,
+			"created_at": "Tue May 31 03:20:13 +0000 2016",
+			"favourites_count": 5695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/737769234747383808/rlAk792q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/737769234747383808/rlAk792q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/737483795608178688/1584636315",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neighbors in Strawberry are kind and generous, offering to make store trips and pick things up. We’re younger and able, but it’s great to know everyone of helping each other. Wife is out delivering hand sanitizer, lemons and English muffins to an elderly single neighbor. #Love https://t.co/CS0OhbqqXL"
+	},
+	{
 		"created_at": "Wed Mar 25 20:27:17 +0000 2020",
 		"id": 1242910949310206000,
 		"id_str": "1242910949310205953",

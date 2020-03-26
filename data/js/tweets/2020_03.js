@@ -1,6 +1,2325 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 26 20:12:00 +0000 2020",
+		"id": 1243269491477237800,
+		"id_str": "1243269491477237760",
+		"full_text": "12/12 #pressedconf20 There's but a few minutes left here, but operators are standing by! \n\nTweet me your SPLOT ideas anytime or message via comment at https://t.co/otr2usPfJR https://t.co/k3P29HVIm9\n\n📷Wikimedia Commons PD image  https://t.co/OpLPWDuIyC https://t.co/CcbON2GmYn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/otr2usPfJR",
+					"expanded_url": "https://splot.ca/",
+					"display_url": "splot.ca",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/k3P29HVIm9",
+					"expanded_url": "https://codogblog.com",
+					"display_url": "codogblog.com",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/OpLPWDuIyC",
+					"expanded_url": "https://commons.wikimedia.org/wiki/File:Lionel_Barrymore.gif",
+					"display_url": "commons.wikimedia.org/wiki/File:Lion…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242909374139347000,
+					"id_str": "1242909374139346946",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-zfZWUMAI6BSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-zfZWUMAI6BSX.jpg",
+					"url": "https://t.co/CcbON2GmYn",
+					"display_url": "pic.twitter.com/CcbON2GmYn",
+					"expanded_url": "https://twitter.com/cogdog/status/1243269491477237760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 885,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242909374139347000,
+					"id_str": "1242909374139346946",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-zfZWUMAI6BSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-zfZWUMAI6BSX.jpg",
+					"url": "https://t.co/CcbON2GmYn",
+					"display_url": "pic.twitter.com/CcbON2GmYn",
+					"expanded_url": "https://twitter.com/cogdog/status/1243269491477237760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 885,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "12/12 #pressedconf20 There's but a few minutes left here, but operators are standing by! \n\nTweet me your SPLOT ideas anytime or message via comment at https://t.co/otr2usPfJR https://t.co/k3P29HVIm9\n\n📷Wikimedia Commons PD image  https://t.co/OpLPWDuIyC https://t.co/CcbON2GmYn"
+	},
+	{
+		"created_at": "Thu Mar 26 20:10:00 +0000 2020",
+		"id": 1243268988181680000,
+		"id_str": "1243268988181680128",
+		"full_text": "11/12 #pressedconf20 The question here is- what kind of visions do you have for a new SPLOT? \n\nI can't promise miracles (cue Engineer Scotty) but I'm hungry for ideas.\n\n📷Meme image of Engineer Scott from some online meme generator (sloppy attribution) https://t.co/KcKXzSEH5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242908621811286000,
+					"id_str": "1242908621811286017",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-yzmtVAAEu062.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-yzmtVAAEu062.jpg",
+					"url": "https://t.co/KcKXzSEH5S",
+					"display_url": "pic.twitter.com/KcKXzSEH5S",
+					"expanded_url": "https://twitter.com/cogdog/status/1243268988181680128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 704,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242908621811286000,
+					"id_str": "1242908621811286017",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-yzmtVAAEu062.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-yzmtVAAEu062.jpg",
+					"url": "https://t.co/KcKXzSEH5S",
+					"display_url": "pic.twitter.com/KcKXzSEH5S",
+					"expanded_url": "https://twitter.com/cogdog/status/1243268988181680128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 704,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "11/12 #pressedconf20 The question here is- what kind of visions do you have for a new SPLOT? \n\nI can't promise miracles (cue Engineer Scotty) but I'm hungry for ideas.\n\n📷Meme image of Engineer Scott from some online meme generator (sloppy attribution) https://t.co/KcKXzSEH5S"
+	},
+	{
+		"created_at": "Thu Mar 26 20:09:00 +0000 2020",
+		"id": 1243268736338940000,
+		"id_str": "1243268736338939904",
+		"full_text": "10/12 #pressedconf20 I love WordPress but that's no SPLOT boundary. \n\nA new (alpha) GitHub based SPLOT https://t.co/0Z6KvNLNmP Data files generate everything needed to set into motion https://t.co/7GTVlhUJpq https://t.co/qY1MmINEVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Z6KvNLNmP",
+					"expanded_url": "https://cogdog.github.io/permutator/",
+					"display_url": "cogdog.github.io/permutator/",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/7GTVlhUJpq",
+					"expanded_url": "https://cogdog.github.io/permutator/?wordsrc=splot",
+					"display_url": "cogdog.github.io/permutator/?wo…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242907982028927000,
+					"id_str": "1242907982028926976",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-yOXVU8AAlBy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-yOXVU8AAlBy-.jpg",
+					"url": "https://t.co/qY1MmINEVO",
+					"display_url": "pic.twitter.com/qY1MmINEVO",
+					"expanded_url": "https://twitter.com/cogdog/status/1243268736338939904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 759,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242907982028927000,
+					"id_str": "1242907982028926976",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-yOXVU8AAlBy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-yOXVU8AAlBy-.jpg",
+					"url": "https://t.co/qY1MmINEVO",
+					"display_url": "pic.twitter.com/qY1MmINEVO",
+					"expanded_url": "https://twitter.com/cogdog/status/1243268736338939904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 759,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "10/12 #pressedconf20 I love WordPress but that's no SPLOT boundary. \n\nA new (alpha) GitHub based SPLOT https://t.co/0Z6KvNLNmP Data files generate everything needed to set into motion https://t.co/7GTVlhUJpq https://t.co/qY1MmINEVO"
+	},
+	{
+		"created_at": "Thu Mar 26 20:08:00 +0000 2020",
+		"id": 1243268485154627600,
+		"id_str": "1243268485154627585",
+		"full_text": "9/12 #pressedconf20 9/12 #pressedconf20 Experiments with WordPress API demonstrate how SPLOT media in TRU Collector sites could power other (even non WP) sites https://t.co/B9KyphQ2XS and https://t.co/H6CUznukYO https://t.co/wuWJA3wR2t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "pressedconf20",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B9KyphQ2XS",
+					"expanded_url": "http://lab.cogdogblog.com/randysplot/",
+					"display_url": "lab.cogdogblog.com/randysplot/",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/H6CUznukYO",
+					"expanded_url": "https://lab.cogdogblog.com/glitchsplot/",
+					"display_url": "lab.cogdogblog.com/glitchsplot/",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242907383371681800,
+					"id_str": "1242907383371681792",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-xrhKUUAAACDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-xrhKUUAAACDH.jpg",
+					"url": "https://t.co/wuWJA3wR2t",
+					"display_url": "pic.twitter.com/wuWJA3wR2t",
+					"expanded_url": "https://twitter.com/cogdog/status/1243268485154627585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 786,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242907383371681800,
+					"id_str": "1242907383371681792",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ET-xrhKUUAAACDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET-xrhKUUAAACDH.jpg",
+					"url": "https://t.co/wuWJA3wR2t",
+					"display_url": "pic.twitter.com/wuWJA3wR2t",
+					"expanded_url": "https://twitter.com/cogdog/status/1243268485154627585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 786,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9/12 #pressedconf20 9/12 #pressedconf20 Experiments with WordPress API demonstrate how SPLOT media in TRU Collector sites could power other (even non WP) sites https://t.co/B9KyphQ2XS and https://t.co/H6CUznukYO https://t.co/wuWJA3wR2t"
+	},
+	{
+		"created_at": "Thu Mar 26 20:07:00 +0000 2020",
+		"id": 1243268233299460000,
+		"id_str": "1243268233299460096",
+		"full_text": "8/12 #pressedconf20 Given it's loosely defined acronym, scope of what might be SPLOT widens see @twoodwar gems https://t.co/u4cOg1gNCS \n\nMight https://t.co/se3sSM0goX be a SPLOT? And m WordPress Calling Card themes https://t.co/sm3bzsnjhF Yikes, what's not a SPLOT?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u4cOg1gNCS",
+					"expanded_url": "http://splot.tools",
+					"display_url": "splot.tools",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/se3sSM0goX",
+					"expanded_url": "http://pechaflickr.net",
+					"display_url": "pechaflickr.net",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/sm3bzsnjhF",
+					"expanded_url": "https://cards.cog.dog/",
+					"display_url": "cards.cog.dog",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "8/12 #pressedconf20 Given it's loosely defined acronym, scope of what might be SPLOT widens see @twoodwar gems https://t.co/u4cOg1gNCS \n\nMight https://t.co/se3sSM0goX be a SPLOT? And m WordPress Calling Card themes https://t.co/sm3bzsnjhF Yikes, what's not a SPLOT?"
+	},
+	{
+		"created_at": "Thu Mar 26 20:06:00 +0000 2020",
+		"id": 1243267981557280800,
+		"id_str": "1243267981557280770",
+		"full_text": "7/12 #pressedconf20 New SPLOT developments include TRU Writer as plugin https://t.co/qYKzPgFwfO plus main themes no longer requiring secret user accounts. \n\nSPLOTbox https://t.co/b9vEIHvnkl offers option for built in audio recording and support to publish podcast feeds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qYKzPgFwfO",
+					"expanded_url": "https://github.com/cogdog/splotwriter",
+					"display_url": "github.com/cogdog/splotwr…",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/b9vEIHvnkl",
+					"expanded_url": "https://github.com/cogdog/splotbox",
+					"display_url": "github.com/cogdog/splotbox",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7/12 #pressedconf20 New SPLOT developments include TRU Writer as plugin https://t.co/qYKzPgFwfO plus main themes no longer requiring secret user accounts. \n\nSPLOTbox https://t.co/b9vEIHvnkl offers option for built in audio recording and support to publish podcast feeds"
+	},
+	{
+		"created_at": "Thu Mar 26 20:05:00 +0000 2020",
+		"id": 1243267730083664000,
+		"id_str": "1243267730083663873",
+		"full_text": "6/12 #pressedconf20 See how @chadhflinn publishes Open Pedagogy Playlist - a mix tape metaphor of web media built with the SPLOTbox theme https://t.co/rTBBJx1u0z https://t.co/7jRQ04kzkn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chadhflinn",
+					"name": "Chad Flinn",
+					"id": 247575439,
+					"id_str": "247575439",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rTBBJx1u0z",
+					"expanded_url": "http://openpedagogyplaylist.com/",
+					"display_url": "openpedagogyplaylist.com",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242837692775149600,
+					"id_str": "1242837692775149568",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ET9yS_dUMAA8l-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET9yS_dUMAA8l-w.jpg",
+					"url": "https://t.co/7jRQ04kzkn",
+					"display_url": "pic.twitter.com/7jRQ04kzkn",
+					"expanded_url": "https://twitter.com/cogdog/status/1243267730083663873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1051,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242837692775149600,
+					"id_str": "1242837692775149568",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ET9yS_dUMAA8l-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET9yS_dUMAA8l-w.jpg",
+					"url": "https://t.co/7jRQ04kzkn",
+					"display_url": "pic.twitter.com/7jRQ04kzkn",
+					"expanded_url": "https://twitter.com/cogdog/status/1243267730083663873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1051,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6/12 #pressedconf20 See how @chadhflinn publishes Open Pedagogy Playlist - a mix tape metaphor of web media built with the SPLOTbox theme https://t.co/rTBBJx1u0z https://t.co/7jRQ04kzkn"
+	},
+	{
+		"created_at": "Thu Mar 26 20:04:00 +0000 2020",
+		"id": 1243267478290985000,
+		"id_str": "1243267478290984960",
+		"full_text": "5/12 #pressedconf20 And just shared yesterday from @unimed_network is an inspiring shared resource collection of COVID-19 Resilience Stories built with TRU Collector https://t.co/V25OLr99mo\n\nhttps://t.co/DsNWMheRqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unimed_network",
+					"name": "unimed_network",
+					"id": 53349748,
+					"id_str": "53349748",
+					"indices": [
+						51,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V25OLr99mo",
+					"expanded_url": "https://onlineresilience.uni-med.net/",
+					"display_url": "onlineresilience.uni-med.net",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/DsNWMheRqB",
+					"expanded_url": "https://twitter.com/villaronrubia/status/1242552033963659264",
+					"display_url": "twitter.com/villaronrubia/…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242552033963659300,
+		"quoted_status_id_str": "1242552033963659264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DsNWMheRqB",
+			"expanded": "https://twitter.com/villaronrubia/status/1242552033963659264",
+			"display": "twitter.com/villaronrubia/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 20:41:05 +0000 2020",
+			"id": 1242552033963659300,
+			"id_str": "1242552033963659264",
+			"full_text": "Another #splot under the sun, this one initiated by @unimed_network: A collection of Online Learning Stories to bridge the gap between education as usual and our new goal of flattening the curve https://t.co/6IUkV7mfUp cc: @cogdog @cri_ste #OER20",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "splot",
+						"indices": [
+							8,
+							14
+						]
+					},
+					{
+						"text": "OER20",
+						"indices": [
+							240,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "unimed_network",
+						"name": "unimed_network",
+						"id": 53349748,
+						"id_str": "53349748",
+						"indices": [
+							52,
+							67
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							223,
+							230
+						]
+					},
+					{
+						"screen_name": "cri_ste",
+						"name": "Cristina Stefanelli",
+						"id": 10276642,
+						"id_str": "10276642",
+						"indices": [
+							231,
+							239
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6IUkV7mfUp",
+						"expanded_url": "https://onlineresilience.uni-med.net/",
+						"display_url": "onlineresilience.uni-med.net",
+						"indices": [
+							195,
+							218
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41424326,
+				"id_str": "41424326",
+				"name": "Daniel Villar-Onrubia",
+				"screen_name": "villaronrubia",
+				"location": "Coventry, England",
+				"description": "Principal Innovation Lead at Coventry University's @disrupt_learn // @oiioxford DPhil alumnus. Views my own.",
+				"url": "http://t.co/JV6Tos7PAX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JV6Tos7PAX",
+								"expanded_url": "http://uk.linkedin.com/in/danielvillaronrubia/",
+								"display_url": "uk.linkedin.com/in/danielvilla…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1100,
+				"friends_count": 946,
+				"listed_count": 64,
+				"created_at": "Wed May 20 19:05:29 +0000 2009",
+				"favourites_count": 3028,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3090,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5/12 #pressedconf20 And just shared yesterday from @unimed_network is an inspiring shared resource collection of COVID-19 Resilience Stories built with TRU Collector https://t.co/V25OLr99mo\n\nhttps://t.co/DsNWMheRqB"
+	},
+	{
+		"created_at": "Thu Mar 26 20:03:00 +0000 2020",
+		"id": 1243267226788073500,
+		"id_str": "1243267226788073476",
+		"full_text": "4/12 #pressedconf20 See TRU Writer gathering #femedtech  stories on the front page of https://t.co/fo5BFDW3KF and TRU Collector for contributions to the  Quilt of Care and Justice in Open Education project https://t.co/XvG12aHjcF https://t.co/QrnBFWjBUQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "femedtech",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fo5BFDW3KF",
+					"expanded_url": "http://femedtech.net/",
+					"display_url": "femedtech.net",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/XvG12aHjcF",
+					"expanded_url": "https://quilt.femedtech.net/",
+					"display_url": "quilt.femedtech.net",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242836151964074000,
+					"id_str": "1242836151964073984",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/ET9w5TfVAAAxaxY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET9w5TfVAAAxaxY.jpg",
+					"url": "https://t.co/QrnBFWjBUQ",
+					"display_url": "pic.twitter.com/QrnBFWjBUQ",
+					"expanded_url": "https://twitter.com/cogdog/status/1243267226788073476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242836151964074000,
+					"id_str": "1242836151964073984",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/ET9w5TfVAAAxaxY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET9w5TfVAAAxaxY.jpg",
+					"url": "https://t.co/QrnBFWjBUQ",
+					"display_url": "pic.twitter.com/QrnBFWjBUQ",
+					"expanded_url": "https://twitter.com/cogdog/status/1243267226788073476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1242836345925460000,
+					"id_str": "1242836345925459969",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/ET9xEmDU4AE2hmt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET9xEmDU4AE2hmt.jpg",
+					"url": "https://t.co/QrnBFWjBUQ",
+					"display_url": "pic.twitter.com/QrnBFWjBUQ",
+					"expanded_url": "https://twitter.com/cogdog/status/1243267226788073476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 651,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4/12 #pressedconf20 See TRU Writer gathering #femedtech  stories on the front page of https://t.co/fo5BFDW3KF and TRU Collector for contributions to the  Quilt of Care and Justice in Open Education project https://t.co/XvG12aHjcF https://t.co/QrnBFWjBUQ"
+	},
+	{
+		"created_at": "Thu Mar 26 20:02:00 +0000 2020",
+		"id": 1243266975129731000,
+		"id_str": "1243266975129731072",
+		"full_text": "3/12 #pressedconf20 After five years still not quite clear what SPLOTs are. \n\nPfffft to definitions. \n\nDrive past the billboards from #pressedconf18 https://t.co/A9suLvvpGR https://t.co/jJk8QP4qGM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "pressedconf18",
+					"indices": [
+						134,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A9suLvvpGR",
+					"expanded_url": "https://cog.dog/show/2018/03/29/what-the-splot-is-that-pressed/",
+					"display_url": "cog.dog/show/2018/03/2…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242832933506830300,
+					"id_str": "1242832933506830336",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ET9t99zU0AAXPPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET9t99zU0AAXPPs.jpg",
+					"url": "https://t.co/jJk8QP4qGM",
+					"display_url": "pic.twitter.com/jJk8QP4qGM",
+					"expanded_url": "https://twitter.com/cogdog/status/1243266975129731072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 588,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242832933506830300,
+					"id_str": "1242832933506830336",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ET9t99zU0AAXPPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET9t99zU0AAXPPs.jpg",
+					"url": "https://t.co/jJk8QP4qGM",
+					"display_url": "pic.twitter.com/jJk8QP4qGM",
+					"expanded_url": "https://twitter.com/cogdog/status/1243266975129731072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 588,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3/12 #pressedconf20 After five years still not quite clear what SPLOTs are. \n\nPfffft to definitions. \n\nDrive past the billboards from #pressedconf18 https://t.co/A9suLvvpGR https://t.co/jJk8QP4qGM"
+	},
+	{
+		"created_at": "Thu Mar 26 20:01:00 +0000 2020",
+		"id": 1243266723312103400,
+		"id_str": "1243266723312103424",
+		"full_text": "2/12 #pressedconf20 Smallest Possible Learning Online Tools* SPLOTs since 2014 at  https://t.co/DvozDEMpjB are widely used and spawning new features. \n\nWhat might be built next? Tweet in!\n\n*one possible definition https://t.co/UlsP9dHipC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf20",
+					"indices": [
+						5,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DvozDEMpjB",
+					"expanded_url": "http://splot.ca",
+					"display_url": "splot.ca",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242832596733579300,
+					"id_str": "1242832596733579264",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET9tqXOU0AAoFp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET9tqXOU0AAoFp4.jpg",
+					"url": "https://t.co/UlsP9dHipC",
+					"display_url": "pic.twitter.com/UlsP9dHipC",
+					"expanded_url": "https://twitter.com/cogdog/status/1243266723312103424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 306,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 306,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242832596733579300,
+					"id_str": "1242832596733579264",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET9tqXOU0AAoFp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET9tqXOU0AAoFp4.jpg",
+					"url": "https://t.co/UlsP9dHipC",
+					"display_url": "pic.twitter.com/UlsP9dHipC",
+					"expanded_url": "https://twitter.com/cogdog/status/1243266723312103424/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 306,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 306,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							51
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ET9tqXOU0AAoFp4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2/12 #pressedconf20 Smallest Possible Learning Online Tools* SPLOTs since 2014 at  https://t.co/DvozDEMpjB are widely used and spawning new features. \n\nWhat might be built next? Tweet in!\n\n*one possible definition https://t.co/UlsP9dHipC"
+	},
+	{
 		"created_at": "Thu Mar 26 18:57:43 +0000 2020",
 		"id": 1243250800001835000,
 		"id_str": "1243250800001835008",

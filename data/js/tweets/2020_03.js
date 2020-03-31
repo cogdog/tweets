@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 15:07:39 +0000 2020",
+		"id": 1245004838116528000,
+		"id_str": "1245004838116528129",
+		"full_text": "Thar be a #SPLOT! https://t.co/I17bKDxYkD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPLOT",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I17bKDxYkD",
+					"expanded_url": "https://twitter.com/MiaZamoraPhD/status/1244992613016653824",
+					"display_url": "twitter.com/MiaZamoraPhD/s…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10545,
+			"friends_count": 1519,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244992613016653800,
+		"quoted_status_id_str": "1244992613016653824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I17bKDxYkD",
+			"expanded": "https://twitter.com/MiaZamoraPhD/status/1244992613016653824",
+			"display": "twitter.com/MiaZamoraPhD/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 31 14:19:04 +0000 2020",
+			"id": 1244992613016653800,
+			"id_str": "1244992613016653824",
+			"full_text": "Help build r #oer20 community! Add yourself 2 the who-is-who directory 4 #OER20: https://t.co/WIFUWCY8UB @OERConf #digciz #connectedlearning #opened  \ncc: @ammienoot @Bali_Maha @catherinecronin @KateMfD @Czernie @francesbell @Autumm @sundilu @debbaff @greeneterry @cogdog @hey_km",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oer20",
+						"indices": [
+							13,
+							19
+						]
+					},
+					{
+						"text": "OER20",
+						"indices": [
+							73,
+							79
+						]
+					},
+					{
+						"text": "digciz",
+						"indices": [
+							114,
+							121
+						]
+					},
+					{
+						"text": "connectedlearning",
+						"indices": [
+							122,
+							140
+						]
+					},
+					{
+						"text": "opened",
+						"indices": [
+							141,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OERConf",
+						"name": "OER Open Education Conference #OER20",
+						"id": 2695133612,
+						"id_str": "2695133612",
+						"indices": [
+							105,
+							113
+						]
+					},
+					{
+						"screen_name": "ammienoot",
+						"name": "Anne-Marie Scott",
+						"id": 22673907,
+						"id_str": "22673907",
+						"indices": [
+							155,
+							165
+						]
+					},
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							166,
+							176
+						]
+					},
+					{
+						"screen_name": "catherinecronin",
+						"name": "Dr. Catherine Cronin",
+						"id": 59833587,
+						"id_str": "59833587",
+						"indices": [
+							177,
+							193
+						]
+					},
+					{
+						"screen_name": "KateMfD",
+						"name": "Kate Bowles",
+						"id": 379065166,
+						"id_str": "379065166",
+						"indices": [
+							194,
+							202
+						]
+					},
+					{
+						"screen_name": "Czernie",
+						"name": "Laura Czerniewicz",
+						"id": 55540675,
+						"id_str": "55540675",
+						"indices": [
+							203,
+							211
+						]
+					},
+					{
+						"screen_name": "francesbell",
+						"name": "Frances Bell",
+						"id": 12438922,
+						"id_str": "12438922",
+						"indices": [
+							212,
+							224
+						]
+					},
+					{
+						"screen_name": "Autumm",
+						"name": "Autumm Caines is a Liminal Space",
+						"id": 6292182,
+						"id_str": "6292182",
+						"indices": [
+							225,
+							232
+						]
+					},
+					{
+						"screen_name": "sundilu",
+						"name": "Sundi Richard",
+						"id": 16592181,
+						"id_str": "16592181",
+						"indices": [
+							233,
+							241
+						]
+					},
+					{
+						"screen_name": "debbaff",
+						"name": "Deb Baff",
+						"id": 231750350,
+						"id_str": "231750350",
+						"indices": [
+							242,
+							250
+						]
+					},
+					{
+						"screen_name": "greeneterry",
+						"name": "Terry Green with an e",
+						"id": 212019344,
+						"id_str": "212019344",
+						"indices": [
+							251,
+							263
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							264,
+							271
+						]
+					},
+					{
+						"screen_name": "hey_km",
+						"name": "Kate Molloy",
+						"id": 59152004,
+						"id_str": "59152004",
+						"indices": [
+							272,
+							279
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WIFUWCY8UB",
+						"expanded_url": "https://oer20.socialbingo.oerconf.org/",
+						"display_url": "oer20.socialbingo.oerconf.org",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 579873574,
+				"id_str": "579873574",
+				"name": "Mia Zamora",
+				"screen_name": "MiaZamoraPhD",
+				"location": "",
+				"description": "Associate Prof of English, Director of MA in Writing Studies @KUWSP @KUWP; #OER20 Co-Chair, #unboundeq @netnarr @eliterature; Dig Culture Fulbright @UiB '17-'18",
+				"url": "https://t.co/or5VrfYs4s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/or5VrfYs4s",
+								"expanded_url": "http://miazamoraphd.com",
+								"display_url": "miazamoraphd.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2865,
+				"friends_count": 1836,
+				"listed_count": 199,
+				"created_at": "Mon May 14 13:20:04 +0000 2012",
+				"favourites_count": 11352,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14804,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2242077148/MZpic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2242077148/MZpic_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/579873574/1432505380",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thar be a #SPLOT! https://t.co/I17bKDxYkD"
+	},
+	{
 		"created_at": "Tue Mar 31 14:14:29 +0000 2020",
 		"id": 1244991458907533300,
 		"id_str": "1244991458907533313",

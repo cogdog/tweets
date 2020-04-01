@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 18:11:32 +0000 2020",
+		"id": 1245413502128230400,
+		"id_str": "1245413502128230400",
+		"full_text": "@medeathewriter This is what you were asking for! #netnarr https://t.co/eVjB7TVtLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medeathewriter",
+					"name": "Medea_Chillemi",
+					"id": 1171559262260269000,
+					"id_str": "1171559262260269056",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eVjB7TVtLl",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1245412310623096837",
+					"display_url": "twitter.com/timmmmyboy/sta…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1171559262260269000,
+		"in_reply_to_user_id_str": "1171559262260269056",
+		"in_reply_to_screen_name": "medeathewriter",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1517,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245412310623096800,
+		"quoted_status_id_str": "1245412310623096837",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eVjB7TVtLl",
+			"expanded": "https://twitter.com/timmmmyboy/status/1245412310623096837",
+			"display": "twitter.com/timmmmyboy/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 01 18:06:48 +0000 2020",
+			"id": 1245412310623096800,
+			"id_str": "1245412310623096837",
+			"full_text": "Are you ready to see what socially distant karaoke looks like? At 8PM BST/3PM EDT head to https://t.co/mCDYozvS9H to watch live. And #OER20 folks check https://t.co/VzWxNCdVD0 for all the info to be a part of this.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER20",
+						"indices": [
+							133,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mCDYozvS9H",
+						"expanded_url": "https://ds106.tv",
+						"display_url": "ds106.tv",
+						"indices": [
+							90,
+							113
+						]
+					},
+					{
+						"url": "https://t.co/VzWxNCdVD0",
+						"expanded_url": "https://bit.ly/karaoerke",
+						"display_url": "bit.ly/karaoerke",
+						"indices": [
+							152,
+							175
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1025923491495903200,
+				"id_str": "1025923491495903232",
+				"name": "timmmmyboy",
+				"screen_name": "timmmmyboy",
+				"location": "Fredericksburg, VA",
+				"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+				"url": "https://t.co/WRb8RPVfpf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WRb8RPVfpf",
+								"expanded_url": "https://blog.timowens.io",
+								"display_url": "blog.timowens.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 302,
+				"friends_count": 283,
+				"listed_count": 5,
+				"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+				"favourites_count": 596,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 943,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@medeathewriter This is what you were asking for! #netnarr https://t.co/eVjB7TVtLl"
+	},
+	{
 		"created_at": "Wed Apr 01 17:14:49 +0000 2020",
 		"id": 1245399228345536500,
 		"id_str": "1245399228345536513",

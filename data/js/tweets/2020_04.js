@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 01:58:58 +0000 2020",
+		"id": 1245531137591525400,
+		"id_str": "1245531137591525376",
+		"full_text": "@realdlnorman @BadLibrarian @proftomuofr @drmarcspooner @courosa @DanikaTipping @khibbert @LingardLorelei @westernuCERI @mgacsm @MGVanstone @Kori_LaDonna @KlasenJennifer @westernuEdu @DevanBoomen @imthechange2 @MarkRPriestley @mary_mott2 @msjrea @ac_lytle @shareski @st3v3turn3r @paulrwood @_valeriei @SSpellmanCann @npdrifter @Carla4Lakeview @buddhall @PaulDechene @PassmoreRW @JeremyRayner @Kub64 @gleocbc @ppival @WindingDot @AcousticS_IN_UK @mareserinitatis 1) golf course driving range attendant\n2) PLATO tutor\n3) soil compaction tester\n4) programmer analyst / instructional systems (first real job)\n5) non tagger",
+		"truncated": false,
+		"display_text_range": [
+			462,
+			618
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BadLibrarian",
+					"name": "Joнɴ “Heteroclyte” Wrιɢнт 🐌",
+					"id": 109375565,
+					"id_str": "109375565",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "proftomuofr",
+					"name": "Tom McIntosh",
+					"id": 250364353,
+					"id_str": "250364353",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "drmarcspooner",
+					"name": "Marc Spooner",
+					"id": 271251442,
+					"id_str": "271251442",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"screen_name": "DanikaTipping",
+					"name": "Danika Tipping",
+					"id": 18127036,
+					"id_str": "18127036",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "khibbert",
+					"name": "Dr Kathy Hibbert",
+					"id": 15473210,
+					"id_str": "15473210",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"screen_name": "LingardLorelei",
+					"name": "Lorelei Lingard",
+					"id": 2815057617,
+					"id_str": "2815057617",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"screen_name": "westernuCERI",
+					"name": "CERI",
+					"id": 728633570823176200,
+					"id_str": "728633570823176192",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"screen_name": "mgacsm",
+					"name": "Clare Morris",
+					"id": 80610132,
+					"id_str": "80610132",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"screen_name": "MGVanstone",
+					"name": "Meredith Vanstone",
+					"id": 18061160,
+					"id_str": "18061160",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "Kori_LaDonna",
+					"name": "Kori LaDonna",
+					"id": 193948234,
+					"id_str": "193948234",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "KlasenJennifer",
+					"name": "Jennifer Klasen",
+					"id": 891378711185940500,
+					"id_str": "891378711185940480",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "westernuEdu",
+					"name": "Faculty of Education",
+					"id": 68163264,
+					"id_str": "68163264",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"screen_name": "DevanBoomen",
+					"name": "Devan Vanden Boomen",
+					"id": 727299916050120700,
+					"id_str": "727299916050120705",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"screen_name": "imthechange2",
+					"name": "imthechange",
+					"id": 4867822978,
+					"id_str": "4867822978",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"screen_name": "MarkRPriestley",
+					"name": "Mark Priestley 🇪🇺",
+					"id": 531346364,
+					"id_str": "531346364",
+					"indices": [
+						210,
+						225
+					]
+				},
+				{
+					"screen_name": "mary_mott2",
+					"name": "mary ott",
+					"id": 754033124665950200,
+					"id_str": "754033124665950209",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"screen_name": "msjrea",
+					"name": "Jamie Reaburn",
+					"id": 14468274,
+					"id_str": "14468274",
+					"indices": [
+						238,
+						245
+					]
+				},
+				{
+					"screen_name": "ac_lytle",
+					"name": "A Damn Lytle",
+					"id": 274812082,
+					"id_str": "274812082",
+					"indices": [
+						246,
+						255
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						256,
+						265
+					]
+				},
+				{
+					"screen_name": "st3v3turn3r",
+					"name": "Stephen Turner",
+					"id": 554476689,
+					"id_str": "554476689",
+					"indices": [
+						266,
+						278
+					]
+				},
+				{
+					"screen_name": "paulrwood",
+					"name": "Paul R Wood",
+					"id": 9885022,
+					"id_str": "9885022",
+					"indices": [
+						279,
+						289
+					]
+				},
+				{
+					"screen_name": "_valeriei",
+					"name": "Dr. Valerie Irvine [she/her]",
+					"id": 40426722,
+					"id_str": "40426722",
+					"indices": [
+						290,
+						300
+					]
+				},
+				{
+					"screen_name": "SSpellmanCann",
+					"name": "Susan Spellman Cann",
+					"id": 357925862,
+					"id_str": "357925862",
+					"indices": [
+						301,
+						315
+					]
+				},
+				{
+					"screen_name": "npdrifter",
+					"name": "Paul Orlowski",
+					"id": 1046422117,
+					"id_str": "1046422117",
+					"indices": [
+						316,
+						326
+					]
+				},
+				{
+					"screen_name": "Carla4Lakeview",
+					"name": "Carla Beck",
+					"id": 2987178668,
+					"id_str": "2987178668",
+					"indices": [
+						327,
+						342
+					]
+				},
+				{
+					"screen_name": "buddhall",
+					"name": "Budd Hall",
+					"id": 16391942,
+					"id_str": "16391942",
+					"indices": [
+						343,
+						352
+					]
+				},
+				{
+					"screen_name": "PaulDechene",
+					"name": "Paul Dechene",
+					"id": 76961493,
+					"id_str": "76961493",
+					"indices": [
+						353,
+						365
+					]
+				},
+				{
+					"screen_name": "PassmoreRW",
+					"name": "Randy Passmore",
+					"id": 926780953,
+					"id_str": "926780953",
+					"indices": [
+						366,
+						377
+					]
+				},
+				{
+					"screen_name": "JeremyRayner",
+					"name": "Jeremy Rayner",
+					"id": 1106946792,
+					"id_str": "1106946792",
+					"indices": [
+						378,
+						391
+					]
+				},
+				{
+					"screen_name": "Kub64",
+					"name": "Glenn Kubish",
+					"id": 20487791,
+					"id_str": "20487791",
+					"indices": [
+						392,
+						398
+					]
+				},
+				{
+					"screen_name": "gleocbc",
+					"name": "Geoff Leo",
+					"id": 204072272,
+					"id_str": "204072272",
+					"indices": [
+						399,
+						407
+					]
+				},
+				{
+					"screen_name": "ppival",
+					"name": "𝐏𝐚𝐮𝐥 𝐑. 𝐏𝐢𝐯𝐚𝐥 🚴 🇨🇦 🐐",
+					"id": 5537702,
+					"id_str": "5537702",
+					"indices": [
+						408,
+						415
+					]
+				},
+				{
+					"screen_name": "WindingDot",
+					"name": "Football in the groin!",
+					"id": 15743527,
+					"id_str": "15743527",
+					"indices": [
+						416,
+						427
+					]
+				},
+				{
+					"screen_name": "AcousticS_IN_UK",
+					"name": "Paul Hopwood",
+					"id": 107256258,
+					"id_str": "107256258",
+					"indices": [
+						428,
+						444
+					]
+				},
+				{
+					"screen_name": "mareserinitatis",
+					"name": "Mare Serenitatis 🌹🌔",
+					"id": 39768723,
+					"id_str": "39768723",
+					"indices": [
+						445,
+						461
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1245526247540588500,
+		"in_reply_to_status_id_str": "1245526247540588544",
+		"in_reply_to_user_id": 817493053527113700,
+		"in_reply_to_user_id_str": "817493053527113729",
+		"in_reply_to_screen_name": "realdlnorman",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10549,
+			"friends_count": 1517,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@realdlnorman @BadLibrarian @proftomuofr @drmarcspooner @courosa @DanikaTipping @khibbert @LingardLorelei @westernuCERI @mgacsm @MGVanstone @Kori_LaDonna @KlasenJennifer @westernuEdu @DevanBoomen @imthechange2 @MarkRPriestley @mary_mott2 @msjrea @ac_lytle @shareski @st3v3turn3r @paulrwood @_valeriei @SSpellmanCann @npdrifter @Carla4Lakeview @buddhall @PaulDechene @PassmoreRW @JeremyRayner @Kub64 @gleocbc @ppival @WindingDot @AcousticS_IN_UK @mareserinitatis 1) golf course driving range attendant\n2) PLATO tutor\n3) soil compaction tester\n4) programmer analyst / instructional systems (first real job)\n5) non tagger"
+	},
+	{
 		"created_at": "Thu Apr 02 00:22:40 +0000 2020",
 		"id": 1245506900847804400,
 		"id_str": "1245506900847804417",

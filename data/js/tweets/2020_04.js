@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 23:41:20 +0000 2020",
+		"id": 1245496500186009600,
+		"id_str": "1245496500186009602",
+		"full_text": "In the next scene, it is zoombombed by user pontius35779 https://t.co/E02TX0gPJV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E02TX0gPJV",
+					"expanded_url": "https://twitter.com/beardandbible/status/1245314481250611201",
+					"display_url": "twitter.com/beardandbible/…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1517,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245314481250611200,
+		"quoted_status_id_str": "1245314481250611201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E02TX0gPJV",
+			"expanded": "https://twitter.com/beardandbible/status/1245314481250611201",
+			"display": "twitter.com/beardandbible/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 01 11:38:03 +0000 2020",
+			"id": 1245314481250611200,
+			"id_str": "1245314481250611201",
+			"full_text": "I don’t know who made this but they deserve an award https://t.co/X2loscc8uB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1245314461373812700,
+						"id_str": "1245314461373812737",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EUg-55fX0AEjlZ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUg-55fX0AEjlZ-.jpg",
+						"url": "https://t.co/X2loscc8uB",
+						"display_url": "pic.twitter.com/X2loscc8uB",
+						"expanded_url": "https://twitter.com/beardandbible/status/1245314481250611201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 563,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 563,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1245314461373812700,
+						"id_str": "1245314461373812737",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EUg-55fX0AEjlZ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUg-55fX0AEjlZ-.jpg",
+						"url": "https://t.co/X2loscc8uB",
+						"display_url": "pic.twitter.com/X2loscc8uB",
+						"expanded_url": "https://twitter.com/beardandbible/status/1245314481250611201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 563,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 563,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 553710279,
+				"id_str": "553710279",
+				"name": "Jon Brown",
+				"screen_name": "beardandbible",
+				"location": "",
+				"description": "Author of More REAL (@IVPbookcentre)  // Staff at @newcomchurch // Half British, Half American // https://t.co/vUoX3rWAFq",
+				"url": "https://t.co/fehQ5sgCCs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fehQ5sgCCs",
+								"expanded_url": "https://www.amazon.co.uk/dp/1783597682/ref=cm_sw_em_r_mt_dp_U_4tArCb5VACZHV",
+								"display_url": "amazon.co.uk/dp/1783597682/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vUoX3rWAFq",
+								"expanded_url": "http://beardandbible.com",
+								"display_url": "beardandbible.com",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 449,
+				"friends_count": 347,
+				"listed_count": 9,
+				"created_at": "Sat Apr 14 15:44:36 +0000 2012",
+				"favourites_count": 1342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1770,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245315548231143424/12SIkBsq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245315548231143424/12SIkBsq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/553710279/1549543308",
+				"profile_link_color": "4E1078",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1733,
+			"favorite_count": 6156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the next scene, it is zoombombed by user pontius35779 https://t.co/E02TX0gPJV"
+	},
+	{
 		"created_at": "Wed Apr 01 21:15:10 +0000 2020",
 		"id": 1245459714168598500,
 		"id_str": "1245459714168598530",

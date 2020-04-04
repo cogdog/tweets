@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 07:12:22 +0000 2020",
+		"id": 1246334782499246000,
+		"id_str": "1246334782499246080",
+		"full_text": "@thomcochrane @jamesclay @vnarayan @GirirajssRaj @sverjans @NeilCowie3 @lisaransom @ATZ119 @amanda_lees @aiello_stephen @TLightworker @ToddStretton @Jinhong5849 @david_sinfield @HelenSissons This was yesterday's green pesto delight, hope you are safe too, Thom https://t.co/tTxlBGe0pu",
+		"truncated": false,
+		"display_text_range": [
+			191,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomcochrane",
+					"name": "thomcochrane",
+					"id": 17764797,
+					"id_str": "17764797",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jamesclay",
+					"name": "James Clay",
+					"id": 2272841,
+					"id_str": "2272841",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "vnarayan",
+					"name": "Vickel Narayan",
+					"id": 16752442,
+					"id_str": "16752442",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "GirirajssRaj",
+					"name": "Associate Prof Raj Shekhawat",
+					"id": 751006149667856400,
+					"id_str": "751006149667856385",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "sverjans",
+					"name": "Steven Verjans",
+					"id": 2204721,
+					"id_str": "2204721",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "NeilCowie3",
+					"name": "Neil Cowie ",
+					"id": 3318507667,
+					"id_str": "3318507667",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "lisaransom",
+					"name": "Lisa Ransom",
+					"id": 32165120,
+					"id_str": "32165120",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"screen_name": "ATZ119",
+					"name": "ATZ119",
+					"id": 97410311,
+					"id_str": "97410311",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"screen_name": "amanda_lees",
+					"name": "Amanda Lees",
+					"id": 333532590,
+					"id_str": "333532590",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "aiello_stephen",
+					"name": "Stephen Aiello",
+					"id": 702998898772586500,
+					"id_str": "702998898772586496",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "TLightworker",
+					"name": "Toddles Lightworker (Todd Cochrane)",
+					"id": 48841886,
+					"id_str": "48841886",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"screen_name": "ToddStretton",
+					"name": "Todd Stretton",
+					"id": 1936484713,
+					"id_str": "1936484713",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "Jinhong5849",
+					"name": "Jin Hong",
+					"id": 1000265514,
+					"id_str": "1000265514",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"screen_name": "david_sinfield",
+					"name": "David Sinfield",
+					"id": 702728052271243300,
+					"id_str": "702728052271243264",
+					"indices": [
+						161,
+						176
+					]
+				},
+				{
+					"screen_name": "HelenSissons",
+					"name": "Dr Helen Sissons",
+					"id": 360287263,
+					"id_str": "360287263",
+					"indices": [
+						177,
+						190
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246334730531819500,
+					"id_str": "1246334730531819523",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EUve1YSU0AMqbY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUve1YSU0AMqbY-.jpg",
+					"url": "https://t.co/tTxlBGe0pu",
+					"display_url": "pic.twitter.com/tTxlBGe0pu",
+					"expanded_url": "https://twitter.com/cogdog/status/1246334782499246080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246334730531819500,
+					"id_str": "1246334730531819523",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EUve1YSU0AMqbY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUve1YSU0AMqbY-.jpg",
+					"url": "https://t.co/tTxlBGe0pu",
+					"display_url": "pic.twitter.com/tTxlBGe0pu",
+					"expanded_url": "https://twitter.com/cogdog/status/1246334782499246080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1246321559775543300,
+		"in_reply_to_status_id_str": "1246321559775543296",
+		"in_reply_to_user_id": 17764797,
+		"in_reply_to_user_id_str": "17764797",
+		"in_reply_to_screen_name": "thomcochrane",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10549,
+			"friends_count": 1518,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@thomcochrane @jamesclay @vnarayan @GirirajssRaj @sverjans @NeilCowie3 @lisaransom @ATZ119 @amanda_lees @aiello_stephen @TLightworker @ToddStretton @Jinhong5849 @david_sinfield @HelenSissons This was yesterday's green pesto delight, hope you are safe too, Thom https://t.co/tTxlBGe0pu"
+	},
+	{
 		"created_at": "Sat Apr 04 03:22:36 +0000 2020",
 		"id": 1246276960898056200,
 		"id_str": "1246276960898056194",

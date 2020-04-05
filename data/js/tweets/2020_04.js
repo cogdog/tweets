@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 02:00:18 +0000 2020",
+		"id": 1246618636132831200,
+		"id_str": "1246618636132831232",
+		"full_text": "We'll talk about this in next week's 3 hour zoom meeting ;-)\n\nThis is brilliant.\n\nAnd I'm exhausted. https://t.co/SIdIDISD5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SIdIDISD5T",
+					"expanded_url": "https://twitter.com/gpetriglieri/status/1246221849018720256",
+					"display_url": "twitter.com/gpetriglieri/s…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10547,
+			"friends_count": 1518,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246221849018720300,
+		"quoted_status_id_str": "1246221849018720256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SIdIDISD5T",
+			"expanded": "https://twitter.com/gpetriglieri/status/1246221849018720256",
+			"display": "twitter.com/gpetriglieri/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 03 23:43:37 +0000 2020",
+			"id": 1246221849018720300,
+			"id_str": "1246221849018720256",
+			"full_text": "I spoke to an old therapist friend today, and finally understood why everyone’s so exhausted after the video calls. It’s the plausible deniability of each other’s absence. Our minds tricked into the idea of being together when our bodies feel we’re not. Dissonance is exhausting.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257153464,
+				"id_str": "257153464",
+				"name": "Gianpiero Petriglieri",
+				"screen_name": "gpetriglieri",
+				"location": "Fontainebleau, France",
+				"description": "Management prof @insead. Unrepentant cosmopolitan. Research and ramblings on leadership, identity, and learning. Pictures of food = endorsement.",
+				"url": "https://t.co/mhDLdXnB6N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mhDLdXnB6N",
+								"expanded_url": "http://www.gpetriglieri.com",
+								"display_url": "gpetriglieri.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17341,
+				"friends_count": 1447,
+				"listed_count": 790,
+				"created_at": "Thu Feb 24 21:11:31 +0000 2011",
+				"favourites_count": 8987,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30085,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738764876928192512/Xo3yLsKh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738764876928192512/Xo3yLsKh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257153464/1446969831",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5705,
+			"favorite_count": 25279,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'll talk about this in next week's 3 hour zoom meeting ;-)\n\nThis is brilliant.\n\nAnd I'm exhausted. https://t.co/SIdIDISD5T"
+	},
+	{
 		"created_at": "Sun Apr 05 00:25:34 +0000 2020",
 		"id": 1246594796652597200,
 		"id_str": "1246594796652597248",

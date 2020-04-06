@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 16:45:16 +0000 2020",
+		"id": 1247154727604736000,
+		"id_str": "1247203734184058888",
+		"full_text": "#dda367 #netnarr Spark in the Night https://t.co/bGnNo14pOP https://t.co/7Or9avmTTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dda367",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "netnarr",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bGnNo14pOP",
+					"expanded_url": "http://dlvr.it/RTGT0J",
+					"display_url": "dlvr.it/RTGT0J",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247154725788639200,
+					"id_str": "1247154725788639232",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/EU7InYqU4AApVEK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU7InYqU4AApVEK.jpg",
+					"url": "https://t.co/7Or9avmTTq",
+					"display_url": "pic.twitter.com/7Or9avmTTq",
+					"expanded_url": "https://twitter.com/netnarr/status/1247154727604736000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247154725788639200,
+					"id_str": "1247154725788639232",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/EU7InYqU4AApVEK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU7InYqU4AApVEK.jpg",
+					"url": "https://t.co/7Or9avmTTq",
+					"display_url": "pic.twitter.com/7Or9avmTTq",
+					"expanded_url": "https://twitter.com/netnarr/status/1247154727604736000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801306049663893500,
+			"id_str": "801306049663893504",
+			"name": "NetNarr / NetMirror",
+			"screen_name": "netnarr",
+			"location": "Everywhere and nowhere",
+			"description": "Participants and fan(s) of the Networked Narratives open course at Kean University, currently playing as the show \"Net Mirror\" https://t.co/jgPU6wr2Ty",
+			"url": "https://t.co/pGrBuKMF7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pGrBuKMF7S",
+							"expanded_url": "http://netnarr.arganee.world",
+							"display_url": "netnarr.arganee.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jgPU6wr2Ty",
+							"expanded_url": "http://netmirror.arganee.world",
+							"display_url": "netmirror.arganee.world",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 183,
+			"listed_count": 14,
+			"created_at": "Wed Nov 23 06:07:04 +0000 2016",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240346950777450499/NPb8LwtC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240346950777450499/NPb8LwtC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801306049663893504/1584556733",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#dda367 #netnarr Spark in the Night https://t.co/bGnNo14pOP https://t.co/7Or9avmTTq"
+	},
+	{
+		"created_at": "Mon Apr 06 16:22:05 +0000 2020",
+		"id": 1247197900196593700,
+		"id_str": "1247197900196593665",
+		"full_text": "@eliast05 Thanks and wishing the same to you. Small stories all the way across the mountains",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliast05",
+					"name": "Tanya Elias",
+					"id": 206925887,
+					"id_str": "206925887",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1247182547471102000,
+		"in_reply_to_status_id_str": "1247182547471101955",
+		"in_reply_to_user_id": 206925887,
+		"in_reply_to_user_id_str": "206925887",
+		"in_reply_to_screen_name": "eliast05",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10552,
+			"friends_count": 1518,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eliast05 Thanks and wishing the same to you. Small stories all the way across the mountains"
+	},
+	{
 		"created_at": "Mon Apr 06 15:11:00 +0000 2020",
 		"id": 1247180008738693000,
 		"id_str": "1247180008738693120",

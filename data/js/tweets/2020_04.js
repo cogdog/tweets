@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 21:13:32 +0000 2020",
+		"id": 1247633634154045400,
+		"id_str": "1247633634154045440",
+		"full_text": "It's not thorns that make a cactus it's the lack of leaves (which the Ocotillo has). One of my favorites from Arizona deserts. https://t.co/lL45xdPwsp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lL45xdPwsp",
+					"expanded_url": "https://twitter.com/rebecca_latson/status/1247526971375906829",
+					"display_url": "twitter.com/rebecca_latson…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10555,
+			"friends_count": 1519,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247526971375906800,
+		"quoted_status_id_str": "1247526971375906829",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lL45xdPwsp",
+			"expanded": "https://twitter.com/rebecca_latson/status/1247526971375906829",
+			"display": "twitter.com/rebecca_latson…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 14:09:42 +0000 2020",
+			"id": 1247526971375906800,
+			"id_str": "1247526971375906829",
+			"full_text": "It's #TriviaTuesday ! Did you know the ocotillo found all over Big Bend #NationalPark in #Texas is a shrub and not a cactus? Those evilly-thorny branches can grow as tall as 20 feet. In the spring, the flowerettes' nectar attracts hummingbirds. Now you know.\n\n#photography #Canon https://t.co/Wsn99yQCJR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TriviaTuesday",
+						"indices": [
+							5,
+							19
+						]
+					},
+					{
+						"text": "NationalPark",
+						"indices": [
+							72,
+							85
+						]
+					},
+					{
+						"text": "Texas",
+						"indices": [
+							89,
+							95
+						]
+					},
+					{
+						"text": "photography",
+						"indices": [
+							260,
+							272
+						]
+					},
+					{
+						"text": "Canon",
+						"indices": [
+							273,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247525580683112400,
+						"id_str": "1247525580683112449",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVAZ5-zUcAE6eY-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVAZ5-zUcAE6eY-.jpg",
+						"url": "https://t.co/Wsn99yQCJR",
+						"display_url": "pic.twitter.com/Wsn99yQCJR",
+						"expanded_url": "https://twitter.com/rebecca_latson/status/1247526971375906829/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247525580683112400,
+						"id_str": "1247525580683112449",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVAZ5-zUcAE6eY-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVAZ5-zUcAE6eY-.jpg",
+						"url": "https://t.co/Wsn99yQCJR",
+						"display_url": "pic.twitter.com/Wsn99yQCJR",
+						"expanded_url": "https://twitter.com/rebecca_latson/status/1247526971375906829/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1247525603860828200,
+						"id_str": "1247525603860828162",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVAZ7VJUUAIQND-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVAZ7VJUUAIQND-.jpg",
+						"url": "https://t.co/Wsn99yQCJR",
+						"display_url": "pic.twitter.com/Wsn99yQCJR",
+						"expanded_url": "https://twitter.com/rebecca_latson/status/1247526971375906829/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1247525627982299100,
+						"id_str": "1247525627982299144",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVAZ8vAUwAg3e5p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVAZ8vAUwAg3e5p.jpg",
+						"url": "https://t.co/Wsn99yQCJR",
+						"display_url": "pic.twitter.com/Wsn99yQCJR",
+						"expanded_url": "https://twitter.com/rebecca_latson/status/1247526971375906829/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1247525669656866800,
+						"id_str": "1247525669656866829",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVAZ_KQUMA0RToT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVAZ_KQUMA0RToT.jpg",
+						"url": "https://t.co/Wsn99yQCJR",
+						"display_url": "pic.twitter.com/Wsn99yQCJR",
+						"expanded_url": "https://twitter.com/rebecca_latson/status/1247526971375906829/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1191511919674310700,
+				"id_str": "1191511919674310657",
+				"name": "Where The Trails Take You Photography",
+				"screen_name": "rebecca_latson",
+				"location": "Yakima, WA",
+				"description": "A photographer & writer in WA State contributing articles & photos for the National Parks Traveler. I love our public lands, science, the Seahawks, and whiskey.",
+				"url": "https://t.co/qm33scBFpb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qm33scBFpb",
+								"expanded_url": "http://www.wherethetrailstakeyou.com",
+								"display_url": "wherethetrailstakeyou.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46,
+				"friends_count": 157,
+				"listed_count": 1,
+				"created_at": "Tue Nov 05 00:27:20 +0000 2019",
+				"favourites_count": 799,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 344,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244290993802764290/TM7TLBUg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244290993802764290/TM7TLBUg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1191511919674310657/1581866159",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's not thorns that make a cactus it's the lack of leaves (which the Ocotillo has). One of my favorites from Arizona deserts. https://t.co/lL45xdPwsp"
+	},
+	{
 		"created_at": "Tue Apr 07 20:09:22 +0000 2020",
 		"id": 1247617483843891200,
 		"id_str": "1247617483843891200",

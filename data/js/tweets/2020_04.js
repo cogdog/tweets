@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 21:56:57 +0000 2020",
+		"id": 1248006945224589300,
+		"id_str": "1248006945224589313",
+		"full_text": "Love this tip. Also like CB radio. Tempted to say in sessions \"Breaker Breaker One Niner, got a twenty on that baby bear?\" https://t.co/98vfrJhZVk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/98vfrJhZVk",
+					"expanded_url": "https://twitter.com/mrbenjaminlaw/status/1247790242540556304",
+					"display_url": "twitter.com/mrbenjaminlaw/…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10550,
+			"friends_count": 1519,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247790242540556300,
+		"quoted_status_id_str": "1247790242540556304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/98vfrJhZVk",
+			"expanded": "https://twitter.com/mrbenjaminlaw/status/1247790242540556304",
+			"display": "twitter.com/mrbenjaminlaw/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 08 07:35:51 +0000 2020",
+			"id": 1247790242540556300,
+			"id_str": "1247790242540556304",
+			"full_text": "FUN TIP! Stay muted in Zoom meetings, and when you want to speak, hold the space bar. Release to snap back to mute. \n\nIt’s super fun, reminscent of being a kid using a walkie talkie, and will make you briefly forget you’re an adult trying to survive in a waking hellscape!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41088384,
+				"id_str": "41088384",
+				"name": "Benjamin Wash Your Fkn Hands & Stay TF Indoors Law",
+				"screen_name": "mrbenjaminlaw",
+				"location": "Sydney | Eora Nation",
+				"description": "Writer, raconteur and local homosexual",
+				"url": "https://t.co/RA95X818dS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RA95X818dS",
+								"expanded_url": "http://www.benjamin-law.com",
+								"display_url": "benjamin-law.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109910,
+				"friends_count": 3727,
+				"listed_count": 948,
+				"created_at": "Tue May 19 10:00:55 +0000 2009",
+				"favourites_count": 108464,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 82246,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190430147603816450/tiyYpeFR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190430147603816450/tiyYpeFR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41088384/1572655760",
+				"profile_link_color": "9C3700",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "003C52",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 240,
+			"favorite_count": 2562,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this tip. Also like CB radio. Tempted to say in sessions \"Breaker Breaker One Niner, got a twenty on that baby bear?\" https://t.co/98vfrJhZVk"
+	},
+	{
 		"created_at": "Wed Apr 08 18:48:48 +0000 2020",
 		"id": 1247959597026963500,
 		"id_str": "1247959597026963457",

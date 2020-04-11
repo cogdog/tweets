@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 05:33:21 +0000 2020",
+		"id": 1248846577352847400,
+		"id_str": "1248846577352847360",
+		"full_text": "Following up on this week’s #netnarr discussions https://t.co/hWjci2HtXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hWjci2HtXP",
+					"expanded_url": "https://twitter.com/davegershgorn/status/1248245974180302849",
+					"display_url": "twitter.com/davegershgorn/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10550,
+			"friends_count": 1520,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248245974180302800,
+		"quoted_status_id_str": "1248245974180302849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hWjci2HtXP",
+			"expanded": "https://twitter.com/davegershgorn/status/1248245974180302849",
+			"display": "twitter.com/davegershgorn/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 09 13:46:46 +0000 2020",
+			"id": 1248245974180302800,
+			"id_str": "1248245974180302849",
+			"full_text": "New on @ozm: We found 28 countries implementing new surveillance measures in the wake of Covid-19. \n\nThey range from compulsory GPS quarantine-tracking apps to real-time facial recognition.\n\nRead here:\n\nhttps://t.co/KdvYBfTDhZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ozm",
+						"name": "OneZero",
+						"id": 1123227507631820800,
+						"id_str": "1123227507631820803",
+						"indices": [
+							7,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KdvYBfTDhZ",
+						"expanded_url": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+						"display_url": "onezero.medium.com/the-pandemic-i…",
+						"indices": [
+							203,
+							226
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2743000744,
+				"id_str": "2743000744",
+				"name": "Dave Gershgorn",
+				"screen_name": "davegershgorn",
+				"location": "New York",
+				"description": "senior writer for @medium's OneZero, focused on artificial intelligence. no pitches, please.",
+				"url": "https://t.co/6xwqIzTAqS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6xwqIzTAqS",
+								"expanded_url": "http://yikes.zone",
+								"display_url": "yikes.zone",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14701,
+				"friends_count": 932,
+				"listed_count": 548,
+				"created_at": "Thu Aug 14 21:09:26 +0000 2014",
+				"favourites_count": 34138,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 134,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103337182545227777/C1MiNHf2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103337182545227777/C1MiNHf2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2743000744/1582041121",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Following up on this week’s #netnarr discussions https://t.co/hWjci2HtXP"
+	},
+	{
 		"created_at": "Sat Apr 11 01:45:13 +0000 2020",
 		"id": 1248789167993049000,
 		"id_str": "1248789167993049088",

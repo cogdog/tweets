@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 18:53:21 +0000 2020",
+		"id": 1250497457940619300,
+		"id_str": "1250497457940619264",
+		"full_text": "@lyrlobo @corisaas @tcchawaii @Durff @ifrank @FrankieY @barbaratruman @JimMcDermott11 @GmSimNetwork @NorthMetroTech Fantastic to see/hear you too, always with such great enthusiasm, which is more than virtual. Mahalo to the fantastic @tcchawaii team #tccsilver",
+		"truncated": false,
+		"display_text_range": [
+			116,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tccsilver",
+					"indices": [
+						250,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lyrlobo",
+					"name": "Lyr Lobo",
+					"id": 10907172,
+					"id_str": "10907172",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "corisaas",
+					"name": "Cori Saas",
+					"id": 69189398,
+					"id_str": "69189398",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "tcchawaii",
+					"name": "TCCHawaii",
+					"id": 121657213,
+					"id_str": "121657213",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "Durff",
+					"name": "Durff",
+					"id": 3642951,
+					"id_str": "3642951",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"screen_name": "ifrank",
+					"name": "ifrank",
+					"id": 7615192,
+					"id_str": "7615192",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"screen_name": "FrankieY",
+					"name": "FrankieY",
+					"id": 17520343,
+					"id_str": "17520343",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "barbaratruman",
+					"name": "Dr. Barbara Truman",
+					"id": 16867801,
+					"id_str": "16867801",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "JimMcDermott11",
+					"name": "Jim McDermott",
+					"id": 1194266660,
+					"id_str": "1194266660",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"screen_name": "GmSimNetwork",
+					"name": "Games n Simulations",
+					"id": 2499750516,
+					"id_str": "2499750516",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "NorthMetroTech",
+					"name": "NorthMetroTech",
+					"id": 15122229,
+					"id_str": "15122229",
+					"indices": [
+						100,
+						115
+					]
+				},
+				{
+					"screen_name": "tcchawaii",
+					"name": "TCCHawaii",
+					"id": 121657213,
+					"id_str": "121657213",
+					"indices": [
+						234,
+						244
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1250469604763119600,
+		"in_reply_to_status_id_str": "1250469604763119621",
+		"in_reply_to_user_id": 10907172,
+		"in_reply_to_user_id_str": "10907172",
+		"in_reply_to_screen_name": "lyrlobo",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 1522,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lyrlobo @corisaas @tcchawaii @Durff @ifrank @FrankieY @barbaratruman @JimMcDermott11 @GmSimNetwork @NorthMetroTech Fantastic to see/hear you too, always with such great enthusiasm, which is more than virtual. Mahalo to the fantastic @tcchawaii team #tccsilver"
+	},
+	{
 		"created_at": "Wed Apr 15 03:28:50 +0000 2020",
 		"id": 1250264794038325200,
 		"id_str": "1250264794038325248",

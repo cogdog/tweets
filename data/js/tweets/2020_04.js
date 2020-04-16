@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 00:30:02 +0000 2020",
+		"id": 1249929489951277000,
+		"id_str": "1250582185335091200",
+		"full_text": "“Dad, I found this ‘Inspect Element’ thing in Chrome that lets me see what the answers to the quizzes are in Schoology and Google Classrooms!\n\n“There’s this ‘if true’ thing and only one answer has 1 and the others have 0.”\n\nSo proud. But mebbe the devs cudda obfuscated more?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15989043,
+			"id_str": "15989043",
+			"name": "Ben Galbraith",
+			"screen_name": "bgalbs",
+			"location": "Palo Alto, California",
+			"description": "Tech entrepreneur, executive, and investor; octo-dad; former Googler, now VP Product at https://t.co/dvQWg0FBKM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dvQWg0FBKM",
+							"expanded_url": "http://Segment.com",
+							"display_url": "Segment.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4419,
+			"friends_count": 1098,
+			"listed_count": 344,
+			"created_at": "Mon Aug 25 23:14:30 +0000 2008",
+			"favourites_count": 14005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161641876882984960/YcIOVnzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161641876882984960/YcIOVnzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15989043/1565990626",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 859,
+		"favorite_count": 5928,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Dad, I found this ‘Inspect Element’ thing in Chrome that lets me see what the answers to the quizzes are in Schoology and Google Classrooms!\n\n“There’s this ‘if true’ thing and only one answer has 1 and the others have 0.”\n\nSo proud. But mebbe the devs cudda obfuscated more?"
+	},
+	{
 		"created_at": "Wed Apr 15 21:26:11 +0000 2020",
 		"id": 1250535920115179500,
 		"id_str": "1250535920115179520",

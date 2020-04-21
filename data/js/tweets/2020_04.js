@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 19:54:48 +0000 2020",
+		"id": 1252687248945905700,
+		"id_str": "1252687248945905664",
+		"full_text": "@jesslyndw @MKT2090 @melyoung00 @data_professor @ProfRPalacios @ProfvocateMel @NurseKillam @OnlineCrsLady What works well is setting up start of class a Twitter TAGS worksheet for a class hashtag https://t.co/AtnXaYjO4s there is a way to construct links to the visualization that shows one person their activity in the yarn pile https://t.co/TGUgt5VrSy",
+		"truncated": false,
+		"display_text_range": [
+			106,
+			352
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesslyndw",
+					"name": "Jess Wilkinson (she/her)",
+					"id": 1519806174,
+					"id_str": "1519806174",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MKT2090",
+					"name": "MKT2090",
+					"id": 474214137,
+					"id_str": "474214137",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "melyoung00",
+					"name": "Mel Young",
+					"id": 3069828447,
+					"id_str": "3069828447",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "data_professor",
+					"name": "Professor Sid",
+					"id": 1029384755178090500,
+					"id_str": "1029384755178090496",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "ProfRPalacios",
+					"name": "Rita M. Palacios",
+					"id": 619117506,
+					"id_str": "619117506",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "ProfvocateMel",
+					"name": "Prof Mel",
+					"id": 1029386512125882400,
+					"id_str": "1029386512125882369",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "NurseKillam",
+					"name": "Laura Killam (she/her/elle)",
+					"id": 268432639,
+					"id_str": "268432639",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AtnXaYjO4s",
+					"expanded_url": "http://tags.hawksey.info",
+					"display_url": "tags.hawksey.info",
+					"indices": [
+						196,
+						219
+					]
+				},
+				{
+					"url": "https://t.co/TGUgt5VrSy",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1vEfH0ZKcQ2dZx8f31Pt18tnUCHi5nHKSSPndNHC2YUc&gid=400689247&name=cogdog",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						329,
+						352
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1252686855759229000,
+		"in_reply_to_status_id_str": "1252686855759228928",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10552,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jesslyndw @MKT2090 @melyoung00 @data_professor @ProfRPalacios @ProfvocateMel @NurseKillam @OnlineCrsLady What works well is setting up start of class a Twitter TAGS worksheet for a class hashtag https://t.co/AtnXaYjO4s there is a way to construct links to the visualization that shows one person their activity in the yarn pile https://t.co/TGUgt5VrSy"
+	},
+	{
+		"created_at": "Tue Apr 21 19:53:14 +0000 2020",
+		"id": 1252686855759229000,
+		"id_str": "1252686855759228928",
+		"full_text": "@jesslyndw @MKT2090 @melyoung00 @data_professor @ProfRPalacios @ProfvocateMel @NurseKillam @OnlineCrsLady It's part of my class topic (but never forced, options are offered). Rather than me assessing students on twitter (and blogging), I set it up so activity is linkable, and students self-assess their own activity https://t.co/IB8jaF415u",
+		"truncated": false,
+		"display_text_range": [
+			106,
+			340
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesslyndw",
+					"name": "Jess Wilkinson (she/her)",
+					"id": 1519806174,
+					"id_str": "1519806174",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MKT2090",
+					"name": "MKT2090",
+					"id": 474214137,
+					"id_str": "474214137",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "melyoung00",
+					"name": "Mel Young",
+					"id": 3069828447,
+					"id_str": "3069828447",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "data_professor",
+					"name": "Professor Sid",
+					"id": 1029384755178090500,
+					"id_str": "1029384755178090496",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "ProfRPalacios",
+					"name": "Rita M. Palacios",
+					"id": 619117506,
+					"id_str": "619117506",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "ProfvocateMel",
+					"name": "Prof Mel",
+					"id": 1029386512125882400,
+					"id_str": "1029386512125882369",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "NurseKillam",
+					"name": "Laura Killam (she/her/elle)",
+					"id": 268432639,
+					"id_str": "268432639",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IB8jaF415u",
+					"expanded_url": "http://netnarr.arganee.world/week-15-0/",
+					"display_url": "netnarr.arganee.world/week-15-0/",
+					"indices": [
+						317,
+						340
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1252681740252065800,
+		"in_reply_to_status_id_str": "1252681740252065798",
+		"in_reply_to_user_id": 1519806174,
+		"in_reply_to_user_id_str": "1519806174",
+		"in_reply_to_screen_name": "jesslyndw",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10552,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jesslyndw @MKT2090 @melyoung00 @data_professor @ProfRPalacios @ProfvocateMel @NurseKillam @OnlineCrsLady It's part of my class topic (but never forced, options are offered). Rather than me assessing students on twitter (and blogging), I set it up so activity is linkable, and students self-assess their own activity https://t.co/IB8jaF415u"
+	},
+	{
+		"created_at": "Tue Apr 21 19:31:27 +0000 2020",
+		"id": 1252681372927357000,
+		"id_str": "1252681372927356930",
+		"full_text": "@psychemedia My days like yours, much busier with projects, much more easily distracted. All in all thought gratitude for being in a safe part of a country not run by a bad tv actor.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychemedia",
+					"name": "Tony Hirst",
+					"id": 7129072,
+					"id_str": "7129072",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1252234128839241700,
+		"in_reply_to_status_id_str": "1252234128839241735",
+		"in_reply_to_user_id": 7129072,
+		"in_reply_to_user_id_str": "7129072",
+		"in_reply_to_screen_name": "psychemedia",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10552,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@psychemedia My days like yours, much busier with projects, much more easily distracted. All in all thought gratitude for being in a safe part of a country not run by a bad tv actor."
+	},
+	{
 		"created_at": "Tue Apr 21 18:04:26 +0000 2020",
 		"id": 1252659473178521600,
 		"id_str": "1252659473178521600",

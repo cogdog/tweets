@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 18:08:37 +0000 2020",
+		"id": 1253022916196708400,
+		"id_str": "1253022916196708352",
+		"full_text": "Now we have some #netnarr gif a speculative fiction action! Woot. Check out this Make for more how info https://t.co/Y5pteLhJk8 https://t.co/OKCAswRH7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y5pteLhJk8",
+					"expanded_url": "http://make.arganee.world/thing/gif-surveillance/",
+					"display_url": "make.arganee.world/thing/gif-surv…",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/OKCAswRH7y",
+					"expanded_url": "https://twitter.com/medeathewriter/status/1253020480002494464",
+					"display_url": "twitter.com/medeathewriter…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10554,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253020480002494500,
+		"quoted_status_id_str": "1253020480002494464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OKCAswRH7y",
+			"expanded": "https://twitter.com/medeathewriter/status/1253020480002494464",
+			"display": "twitter.com/medeathewriter…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 22 17:58:57 +0000 2020",
+			"id": 1253020480002494500,
+			"id_str": "1253020480002494464",
+			"full_text": "https://t.co/dyzbolfxLm via @GIPHY #netnarr https://t.co/J9IAi1Mgoq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "netnarr",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GIPHY",
+						"name": "GIPHY",
+						"id": 1020383864,
+						"id_str": "1020383864",
+						"indices": [
+							28,
+							34
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dyzbolfxLm",
+						"expanded_url": "https://gph.is/g/4Dkg7LB",
+						"display_url": "gph.is/g/4Dkg7LB",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1253020467729969200,
+						"id_str": "1253020467729969152",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWOfegNWsAAq5Y4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWOfegNWsAAq5Y4.jpg",
+						"url": "https://t.co/J9IAi1Mgoq",
+						"display_url": "pic.twitter.com/J9IAi1Mgoq",
+						"expanded_url": "https://twitter.com/medeathewriter/status/1253020480002494464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253020467729969200,
+						"id_str": "1253020467729969152",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWOfegNWsAAq5Y4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWOfegNWsAAq5Y4.jpg",
+						"url": "https://t.co/J9IAi1Mgoq",
+						"display_url": "pic.twitter.com/J9IAi1Mgoq",
+						"expanded_url": "https://twitter.com/medeathewriter/status/1253020480002494464/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EWOfegNWsAAq5Y4.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://giphy.com/\" rel=\"nofollow\">GIPHY oauth</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1171559262260269000,
+				"id_str": "1171559262260269056",
+				"name": "Medea333",
+				"screen_name": "medeathewriter",
+				"location": "",
+				"description": "Creative writing is my passion. I am a student of art & culture. The photo above is from the Illustr'd vrsn of Jane Eyre. An Attorney; spks Italian & Espan~ol.",
+				"url": "https://t.co/KsSeMO0ial",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KsSeMO0ial",
+								"expanded_url": "http://netmirror.arganee.world/author/medea/",
+								"display_url": "netmirror.arganee.world/author/medea/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 688,
+				"friends_count": 971,
+				"listed_count": 4,
+				"created_at": "Tue Sep 10 23:02:07 +0000 2019",
+				"favourites_count": 2254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1691,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178019264575483905/yejSoK9k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171559262260269056/1568213255",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now we have some #netnarr gif a speculative fiction action! Woot. Check out this Make for more how info https://t.co/Y5pteLhJk8 https://t.co/OKCAswRH7y"
+	},
+	{
+		"created_at": "Wed Apr 22 18:06:11 +0000 2020",
+		"id": 1253022301299204000,
+		"id_str": "1253022301299204096",
+		"full_text": "Seeking shared stories of extraordinary educator efforts in responding to coronavirus thing, like https://t.co/LoS1QjLBwn\n\nIt might take a few minutes more than a like/retweet/emoji reaction but a new story is much better.\n\nSPLOT share one now please! https://t.co/cohxLxidbf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LoS1QjLBwn",
+					"expanded_url": "https://splot.ca/extraordinary/all/",
+					"display_url": "splot.ca/extraordinary/…",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/cohxLxidbf",
+					"expanded_url": "https://splot.ca/extraordinary/collect/",
+					"display_url": "splot.ca/extraordinary/…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10554,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seeking shared stories of extraordinary educator efforts in responding to coronavirus thing, like https://t.co/LoS1QjLBwn\n\nIt might take a few minutes more than a like/retweet/emoji reaction but a new story is much better.\n\nSPLOT share one now please! https://t.co/cohxLxidbf"
+	},
+	{
 		"created_at": "Tue Apr 21 19:54:48 +0000 2020",
 		"id": 1252687248945905700,
 		"id_str": "1252687248945905664",

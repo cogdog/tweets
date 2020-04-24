@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 15:47:56 +0000 2020",
+		"id": 1253712284024582100,
+		"id_str": "1253712284024582144",
+		"full_text": "@kourakos_kevin This looks similar to speculative fiction story idea you shared in last #netnarr class (and it looks like a scene from 'Frames' cc @savasavasava) https://t.co/FvANKizGAE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kourakos_kevin",
+					"name": "Kevin Kourakos",
+					"id": 1172958810291486700,
+					"id_str": "1172958810291486720",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "savasavasava",
+					"name": "dr. savasavasava",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						147,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FvANKizGAE",
+					"expanded_url": "https://twitter.com/techreview/status/1253629152349097985",
+					"display_url": "twitter.com/techreview/sta…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1172958810291486700,
+		"in_reply_to_user_id_str": "1172958810291486720",
+		"in_reply_to_screen_name": "kourakos_kevin",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10554,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253629152349098000,
+		"quoted_status_id_str": "1253629152349097985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FvANKizGAE",
+			"expanded": "https://twitter.com/techreview/status/1253629152349097985",
+			"display": "twitter.com/techreview/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 24 10:17:35 +0000 2020",
+			"id": 1253629152349098000,
+			"id_str": "1253629152349097985",
+			"full_text": "This new workplace monitoring tool issues an alert when anyone is less than six feet apart. Amazon is also using similar software to monitor the distances between their warehouse staff. https://t.co/aUiVgUMWg5 https://t.co/gN3Soc5ecE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aUiVgUMWg5",
+						"expanded_url": "https://www.technologyreview.com/2020/04/17/1000092/ai-machine-learning-watches-social-distancing-at-work/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=Twitter#Echobox=1587145642",
+						"display_url": "technologyreview.com/2020/04/17/100…",
+						"indices": [
+							186,
+							209
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1253629121000878000,
+						"id_str": "1253629121000878080",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253629121000878080/pu/img/j7MAI_ntwQ8NPgXg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253629121000878080/pu/img/j7MAI_ntwQ8NPgXg.jpg",
+						"url": "https://t.co/gN3Soc5ecE",
+						"display_url": "pic.twitter.com/gN3Soc5ecE",
+						"expanded_url": "https://twitter.com/techreview/status/1253629152349097985/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 546,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 582,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253629121000878000,
+						"id_str": "1253629121000878080",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253629121000878080/pu/img/j7MAI_ntwQ8NPgXg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253629121000878080/pu/img/j7MAI_ntwQ8NPgXg.jpg",
+						"url": "https://t.co/gN3Soc5ecE",
+						"display_url": "pic.twitter.com/gN3Soc5ecE",
+						"expanded_url": "https://twitter.com/techreview/status/1253629152349097985/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 546,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 582,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								640,
+								291
+							],
+							"duration_millis": 30033,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253629121000878080/pu/vid/592x270/Mw4_YxqWtVp5CNXj.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253629121000878080/pu/vid/790x360/Z5gLcZDaQP0mftu1.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253629121000878080/pu/vid/1280x582/__hySBuYB0kOZTux.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1253629121000878080/pu/pl/LJ65ETBDgafzCust.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15808647,
+				"id_str": "15808647",
+				"name": "MIT Technology Review",
+				"screen_name": "techreview",
+				"location": "Cambridge, MA",
+				"description": "A media company making technology a greater force for good. Get our journalism: https://t.co/rbg0HN1XQI",
+				"url": "https://t.co/ucX68zPPhl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ucX68zPPhl",
+								"expanded_url": "http://www.technologyreview.com",
+								"display_url": "technologyreview.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rbg0HN1XQI",
+								"expanded_url": "https://go.technologyreview.com/newsletters",
+								"display_url": "go.technologyreview.com/newsletters",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1070002,
+				"friends_count": 3371,
+				"listed_count": 20179,
+				"created_at": "Mon Aug 11 14:31:16 +0000 2008",
+				"favourites_count": 7405,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072880528712495106/ahuQUlOb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072880528712495106/ahuQUlOb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15808647/1586983661",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0C0C0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 128,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@kourakos_kevin This looks similar to speculative fiction story idea you shared in last #netnarr class (and it looks like a scene from 'Frames' cc @savasavasava) https://t.co/FvANKizGAE"
+	},
+	{
 		"created_at": "Fri Apr 24 15:01:06 +0000 2020",
 		"id": 1253700501540974600,
 		"id_str": "1253700501540974592",

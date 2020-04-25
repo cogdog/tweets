@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 14:24:08 +0000 2020",
+		"id": 1254053586125811700,
+		"id_str": "1254053586125811712",
+		"full_text": "Under a regime where its leader even lies about lying, perversity and graft are totally normalized.  The system of checks and balances is now shrugs and silences. Trump et al need not only to lose in November but by crushing numbers. https://t.co/Oy2ZqVfWHu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oy2ZqVfWHu",
+					"expanded_url": "https://twitter.com/nicolesganga/status/1253455078071173128",
+					"display_url": "twitter.com/nicolesganga/s…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10558,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253455078071173000,
+		"quoted_status_id_str": "1253455078071173128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Oy2ZqVfWHu",
+			"expanded": "https://twitter.com/nicolesganga/status/1253455078071173128",
+			"display": "twitter.com/nicolesganga/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 23 22:45:53 +0000 2020",
+			"id": 1253455078071173000,
+			"id_str": "1253455078071173128",
+			"full_text": "Today, the Trump campaign launched its official \"Trump 2020\" app. \n\nIts developer @phunware received a $2.85 million loan from Paycheck Protection Program, nearly 14X the current PPP average of $206,000. \n\nMore via @CBSNews @GrahamKates @stephengandel 👇👇 https://t.co/WLdZ5dnXfq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "phunware",
+						"name": "Phunware, Inc.",
+						"id": 39883315,
+						"id_str": "39883315",
+						"indices": [
+							82,
+							91
+						]
+					},
+					{
+						"screen_name": "CBSNews",
+						"name": "CBS News",
+						"id": 15012486,
+						"id_str": "15012486",
+						"indices": [
+							215,
+							223
+						]
+					},
+					{
+						"screen_name": "GrahamKates",
+						"name": "Graham Kates",
+						"id": 48190435,
+						"id_str": "48190435",
+						"indices": [
+							224,
+							236
+						]
+					},
+					{
+						"screen_name": "stephengandel",
+						"name": "Stephen Gandel",
+						"id": 125356532,
+						"id_str": "125356532",
+						"indices": [
+							237,
+							251
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WLdZ5dnXfq",
+						"expanded_url": "https://www.cbsnews.com/news/phunware-data-collection-trump-campaign-coronavirus-small-business-loans/",
+						"display_url": "cbsnews.com/news/phunware-…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1428908562,
+				"id_str": "1428908562",
+				"name": "Nicole Sganga",
+				"screen_name": "NicoleSganga",
+				"location": "Washington, DC",
+				"description": "CBS News Campaign Reporter || formerly & forever #nhpolitics @notredame @UniofOxford || Tips, recipes, haikus: sgangan@cbsnews.com",
+				"url": "https://t.co/Re8txizSBO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Re8txizSBO",
+								"expanded_url": "https://www.cbsnews.com/feature/nicole-sganga/",
+								"display_url": "cbsnews.com/feature/nicole…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7150,
+				"friends_count": 3315,
+				"listed_count": 199,
+				"created_at": "Tue May 14 21:58:10 +0000 2013",
+				"favourites_count": 4972,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6790,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2C79B8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230352568779517952/KOP0c3lO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230352568779517952/KOP0c3lO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1428908562/1582831785",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9041,
+			"favorite_count": 8239,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Under a regime where its leader even lies about lying, perversity and graft are totally normalized.  The system of checks and balances is now shrugs and silences. Trump et al need not only to lose in November but by crushing numbers. https://t.co/Oy2ZqVfWHu"
+	},
+	{
 		"created_at": "Fri Apr 24 23:29:14 +0000 2020",
 		"id": 1253828377972113400,
 		"id_str": "1253828377972113408",

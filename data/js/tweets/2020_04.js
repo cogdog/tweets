@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 15:54:19 +0000 2020",
+		"id": 1255163444300411000,
+		"id_str": "1255163444300410880",
+		"full_text": "Here you go @kourakos_kevin some more \"Frames for Schools\" stuff? #netnarr https://t.co/Pa8M2abjnG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kourakos_kevin",
+					"name": "Kevin Kourakos",
+					"id": 1172958810291486700,
+					"id_str": "1172958810291486720",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pa8M2abjnG",
+					"expanded_url": "https://twitter.com/Paula_Piccard/status/1252429823231717377",
+					"display_url": "twitter.com/Paula_Piccard/…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10560,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252429823231717400,
+		"quoted_status_id_str": "1252429823231717377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pa8M2abjnG",
+			"expanded": "https://twitter.com/Paula_Piccard/status/1252429823231717377",
+			"display": "twitter.com/Paula_Piccard/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 21 02:51:53 +0000 2020",
+			"id": 1252429823231717400,
+			"id_str": "1252429823231717377",
+			"full_text": "This school in #China scans students every 30 seconds with #FacialRecognition technology \n\n@TechJuicePk #AI #EdTech #MachineLearning #DeepLearning #ComputerVision #IoT  v/ @MikeQuindazzi \n\n@mvollmer1 @HaroldSinnott @ipfconline1 @SpirosMargaris @andi_staub \nhttps://t.co/tcKQTarUT2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "China",
+						"indices": [
+							15,
+							21
+						]
+					},
+					{
+						"text": "FacialRecognition",
+						"indices": [
+							59,
+							77
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							104,
+							107
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							108,
+							115
+						]
+					},
+					{
+						"text": "MachineLearning",
+						"indices": [
+							116,
+							132
+						]
+					},
+					{
+						"text": "DeepLearning",
+						"indices": [
+							133,
+							146
+						]
+					},
+					{
+						"text": "ComputerVision",
+						"indices": [
+							147,
+							162
+						]
+					},
+					{
+						"text": "IoT",
+						"indices": [
+							163,
+							167
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TechJuicePk",
+						"name": "TechJuice",
+						"id": 944267155,
+						"id_str": "944267155",
+						"indices": [
+							91,
+							103
+						]
+					},
+					{
+						"screen_name": "MikeQuindazzi",
+						"name": "Mike Quindazzi ✨",
+						"id": 2344530218,
+						"id_str": "2344530218",
+						"indices": [
+							172,
+							186
+						]
+					},
+					{
+						"screen_name": "mvollmer1",
+						"name": "Dr. Marcell Vollmer #SocialDistancing #StayHome",
+						"id": 99674560,
+						"id_str": "99674560",
+						"indices": [
+							189,
+							199
+						]
+					},
+					{
+						"screen_name": "HaroldSinnott",
+						"name": "Harold Sinnott 📲 😷 #StayHome 😷 #StopTheSpread",
+						"id": 202590356,
+						"id_str": "202590356",
+						"indices": [
+							200,
+							214
+						]
+					},
+					{
+						"screen_name": "ipfconline1",
+						"name": "ipfconline",
+						"id": 705539763349164000,
+						"id_str": "705539763349164032",
+						"indices": [
+							215,
+							227
+						]
+					},
+					{
+						"screen_name": "SpirosMargaris",
+						"name": "Spiros Margaris",
+						"id": 2711212681,
+						"id_str": "2711212681",
+						"indices": [
+							228,
+							243
+						]
+					},
+					{
+						"screen_name": "andi_staub",
+						"name": "Andreas Staub",
+						"id": 298704683,
+						"id_str": "298704683",
+						"indices": [
+							244,
+							255
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114030661940199400,
+						"id_str": "1114030661940199425",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1114030661940199425/pu/img/WRZSJIxOizIQQjxk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1114030661940199425/pu/img/WRZSJIxOizIQQjxk.jpg",
+						"url": "https://t.co/tcKQTarUT2",
+						"display_url": "pic.twitter.com/tcKQTarUT2",
+						"expanded_url": "https://twitter.com/MikeQuindazzi/status/1114030780806832128/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1114030780806832100,
+						"source_status_id_str": "1114030780806832128",
+						"source_user_id": 2344530218,
+						"source_user_id_str": "2344530218"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114030661940199400,
+						"id_str": "1114030661940199425",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1114030661940199425/pu/img/WRZSJIxOizIQQjxk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1114030661940199425/pu/img/WRZSJIxOizIQQjxk.jpg",
+						"url": "https://t.co/tcKQTarUT2",
+						"display_url": "pic.twitter.com/tcKQTarUT2",
+						"expanded_url": "https://twitter.com/MikeQuindazzi/status/1114030780806832128/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1114030780806832100,
+						"source_status_id_str": "1114030780806832128",
+						"source_user_id": 2344530218,
+						"source_user_id_str": "2344530218",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 74800,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1114030661940199425/pu/vid/320x320/f8oAA-c_o7LV12XM.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1114030661940199425/pu/vid/480x480/jwRFjlZO92OU-tUy.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1114030661940199425/pu/pl/XXtc9M25d-Z6cv4V.m3u8?tag=8"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1114030661940199425/pu/vid/720x720/pbyj4-vQ0f5_x8Tn.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2344530218,
+								"id_str": "2344530218",
+								"name": "Mike Quindazzi ✨",
+								"screen_name": "MikeQuindazzi",
+								"location": "Los Angeles, CA",
+								"description": "US #Digital Alliances Sales Leader @PwCUS • EC & Board @LAEDC • Tweets for the C-Suite #CEO #CFO #CMO #CIO #CDO #CISO on Global #Megatrends & #EmergingTech!",
+								"url": "https://t.co/ANfWqWqqSU",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/ANfWqWqqSU",
+												"expanded_url": "http://www.linkedin.com/in/MikeQuindazzi",
+												"display_url": "linkedin.com/in/MikeQuindaz…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 152748,
+								"friends_count": 3635,
+								"listed_count": 5815,
+								"created_at": "Sat Feb 15 04:17:08 +0000 2014",
+								"favourites_count": 126957,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 54124,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1118575351653752832/lTdTAyMh_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118575351653752832/lTdTAyMh_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2344530218/1527574812",
+								"profile_link_color": "F00909",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "EFEFEF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 291831562,
+				"id_str": "291831562",
+				"name": "Paula Piccard 2020 #COVID19 🇵🇷 🇺🇸",
+				"screen_name": "Paula_Piccard",
+				"location": "New York, USA",
+				"description": "New Yorker #WomeninTech Digital + #SocialMedia #Marketing #Influencer #Cybersecurity Advocate",
+				"url": "https://t.co/LxiX2dqJGR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LxiX2dqJGR",
+								"expanded_url": "https://campsite.bio/paulapiccard",
+								"display_url": "campsite.bio/paulapiccard",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53870,
+				"friends_count": 9757,
+				"listed_count": 1402,
+				"created_at": "Mon May 02 17:47:28 +0000 2011",
+				"favourites_count": 93823,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 97345,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ADB0DE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1007344781050048512/tThzjCI__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007344781050048512/tThzjCI__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/291831562/1586622487",
+				"profile_link_color": "1D43DE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 240,
+			"favorite_count": 243,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here you go @kourakos_kevin some more \"Frames for Schools\" stuff? #netnarr https://t.co/Pa8M2abjnG"
+	},
+	{
+		"created_at": "Tue Apr 28 15:48:14 +0000 2020",
+		"id": 1255161912934887400,
+		"id_str": "1255161912934887424",
+		"full_text": "@A_L_T @iad4learnteach @mweller Should be okay now, long story won't fit in tweet about Alan's code getting wonked by a parent theme update.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "iad4learnteach",
+					"name": "iad4learnteach",
+					"id": 1735206024,
+					"id_str": "1735206024",
+					"indices": [
+						7,
+						22
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1255159195957104600,
+		"in_reply_to_status_id_str": "1255159195957104640",
+		"in_reply_to_user_id": 41210876,
+		"in_reply_to_user_id_str": "41210876",
+		"in_reply_to_screen_name": "A_L_T",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10560,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@A_L_T @iad4learnteach @mweller Should be okay now, long story won't fit in tweet about Alan's code getting wonked by a parent theme update."
+	},
+	{
 		"created_at": "Tue Apr 28 06:41:23 +0000 2020",
 		"id": 1255024295119515600,
 		"id_str": "1255024295119515648",

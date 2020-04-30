@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 19:44:39 +0000 2020",
+		"id": 1255944078547538000,
+		"id_str": "1255946186688622592",
+		"full_text": "Through community effort, our 1920s downtown Phoenix bar @TheLostLeaf has been saved and will re-open when is safe to do so! We also host Live music most every night with no cover, as well as being open till 2am everyday of the year! 😘 Photos by: https://t.co/du9lqydRkc https://t.co/oyyXqUajA1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheLostLeaf",
+					"name": "The Lost Leaf",
+					"id": 216843589,
+					"id_str": "216843589",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/du9lqydRkc",
+					"expanded_url": "https://instagram.com/livinletlivesick?igshid=pa5yxga5lxua",
+					"display_url": "instagram.com/livinletlivesi…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255944065851379700,
+					"id_str": "1255944065851379713",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4CeT7U0AEC6LO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4CeT7U0AEC6LO.jpg",
+					"url": "https://t.co/oyyXqUajA1",
+					"display_url": "pic.twitter.com/oyyXqUajA1",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1255944078547537920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255944065851379700,
+					"id_str": "1255944065851379713",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4CeT7U0AEC6LO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4CeT7U0AEC6LO.jpg",
+					"url": "https://t.co/oyyXqUajA1",
+					"display_url": "pic.twitter.com/oyyXqUajA1",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1255944078547537920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1255944065855586300,
+					"id_str": "1255944065855586305",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4CeT8VAAELPzn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4CeT8VAAELPzn.jpg",
+					"url": "https://t.co/oyyXqUajA1",
+					"display_url": "pic.twitter.com/oyyXqUajA1",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1255944078547537920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1255944066006569000,
+					"id_str": "1255944066006568960",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4CeUgU0AA-bIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4CeUgU0AA-bIo.jpg",
+					"url": "https://t.co/oyyXqUajA1",
+					"display_url": "pic.twitter.com/oyyXqUajA1",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1255944078547537920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1255944066010759200,
+					"id_str": "1255944066010759168",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EW4CeUhUwAArh6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW4CeUhUwAArh6K.jpg",
+					"url": "https://t.co/oyyXqUajA1",
+					"display_url": "pic.twitter.com/oyyXqUajA1",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1255944078547537920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 737483795608178700,
+			"id_str": "737483795608178688",
+			"name": "Strawberry, AZ 🍓🏜",
+			"screen_name": "Strawberry_AZ",
+			"location": "Strawberry, Arizona USA",
+			"description": "Strawberry, Arizona USA🍓2 hrs N of Phoenix by Pine AZ Gila County Mogollon Rim, Est 1878, Alt 5850' Pop 500+ Acct by f/t resident #Hiking #AzWx #Garden #Az🌲🏜",
+			"url": "https://t.co/BJXZbrNYFI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BJXZbrNYFI",
+							"expanded_url": "https://www.google.com/amp/www.onlyinyourstate.com/arizona/az-tiny-town-activities/amp/",
+							"display_url": "google.com/amp/www.onlyin…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1160,
+			"friends_count": 1113,
+			"listed_count": 17,
+			"created_at": "Tue May 31 03:20:13 +0000 2016",
+			"favourites_count": 6073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/737769234747383808/rlAk792q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/737769234747383808/rlAk792q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/737483795608178688/1587954864",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Through community effort, our 1920s downtown Phoenix bar @TheLostLeaf has been saved and will re-open when is safe to do so! We also host Live music most every night with no cover, as well as being open till 2am everyday of the year! 😘 Photos by: https://t.co/du9lqydRkc https://t.co/oyyXqUajA1"
+	},
+	{
 		"created_at": "Thu Apr 30 15:18:20 +0000 2020",
 		"id": 1255879162876719000,
 		"id_str": "1255879162876719117",

@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 04:55:04 +0000 2020",
+		"id": 1256150052357042200,
+		"id_str": "1256447091213135872",
+		"full_text": "Honored to have been able to take @GardnerCampbell 's Seminar on @errolmorris 's work. Truly one of the greatest experiences I've had at @VCUEnglish \n\nhttps://t.co/p7yVUJCWke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "errolmorris",
+					"name": "errolmorris",
+					"id": 14248315,
+					"id_str": "14248315",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "VCUEnglish",
+					"name": "VCU English Dept.",
+					"id": 1096489741044908000,
+					"id_str": "1096489741044908033",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p7yVUJCWke",
+					"expanded_url": "https://news.vcu.edu/article/The_special_guest_in_a_VCU_class_on_Academy_Awardwinning_filmmaker",
+					"display_url": "news.vcu.edu/article/The_sp…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1137405562134466600,
+			"id_str": "1137405562134466565",
+			"name": "Wren Dalton",
+			"screen_name": "PoemsAndPlay",
+			"location": "Richmond, VA",
+			"description": "Almost not a VCU Undergraduate English  student \n-  Alternate Reality Games, New Media, Digital Anthropology   \n-  Never be afraid to say hi!\n- (They/Them)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 186,
+			"listed_count": 0,
+			"created_at": "Sat Jun 08 17:06:32 +0000 2019",
+			"favourites_count": 1022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245434634567061505/VprIRJA8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245434634567061505/VprIRJA8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1137405562134466565/1585832868",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honored to have been able to take @GardnerCampbell 's Seminar on @errolmorris 's work. Truly one of the greatest experiences I've had at @VCUEnglish \n\nhttps://t.co/p7yVUJCWke"
+	},
+	{
 		"created_at": "Sat May 02 00:15:29 +0000 2020",
 		"id": 1256376732078059500,
 		"id_str": "1256376732078059520",

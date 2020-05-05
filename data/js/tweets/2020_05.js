@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 01:55:59 +0000 2020",
+		"id": 1257489184735916000,
+		"id_str": "1257489184735916033",
+		"full_text": "@thomcochrane @vnarayan @jamesclay @GirirajssRaj @NeilCowie3 @sverjans @ATZ119 Bonus points for asparagus, Thom. Got a Level3+ on the grill now! Stay tuned #internationalpizzachallenge",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "internationalpizzachallenge",
+					"indices": [
+						156,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomcochrane",
+					"name": "thomcochrane",
+					"id": 17764797,
+					"id_str": "17764797",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "vnarayan",
+					"name": "Vickel Narayan",
+					"id": 16752442,
+					"id_str": "16752442",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "jamesclay",
+					"name": "James Clay",
+					"id": 2272841,
+					"id_str": "2272841",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "GirirajssRaj",
+					"name": "Associate Prof Raj Shekhawat",
+					"id": 751006149667856400,
+					"id_str": "751006149667856385",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "NeilCowie3",
+					"name": "Neil Cowie ",
+					"id": 3318507667,
+					"id_str": "3318507667",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "sverjans",
+					"name": "Steven Verjans",
+					"id": 2204721,
+					"id_str": "2204721",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "ATZ119",
+					"name": "ATZ119",
+					"id": 97410311,
+					"id_str": "97410311",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1257438598053404700,
+		"in_reply_to_status_id_str": "1257438598053404677",
+		"in_reply_to_user_id": 17764797,
+		"in_reply_to_user_id_str": "17764797",
+		"in_reply_to_screen_name": "thomcochrane",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10571,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thomcochrane @vnarayan @jamesclay @GirirajssRaj @NeilCowie3 @sverjans @ATZ119 Bonus points for asparagus, Thom. Got a Level3+ on the grill now! Stay tuned #internationalpizzachallenge"
+	},
+	{
 		"created_at": "Mon May 04 19:04:09 +0000 2020",
 		"id": 1257385544545435600,
 		"id_str": "1257385544545435663",

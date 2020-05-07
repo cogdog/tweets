@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 05:14:56 +0000 2020",
+		"id": 1258264029576880000,
+		"id_str": "1258264029576880128",
+		"full_text": "@downes gave a nice shout out https://t.co/wFNX2HwM7X but better, submitted his own Extraordinary Story of Educators Response to the _____  pandemic https://t.co/BytLvdvnyc \n\nI'll trade stories for retweets any day. Drop here https://t.co/cohxLxidbf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Downes",
+					"name": "Downes",
+					"id": 7470932,
+					"id_str": "7470932",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wFNX2HwM7X",
+					"expanded_url": "https://www.downes.ca/cgi-bin/page.cgi?post=70845",
+					"display_url": "downes.ca/cgi-bin/page.c…",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/BytLvdvnyc",
+					"expanded_url": "https://splot.ca/extraordinary/story/312/",
+					"display_url": "splot.ca/extraordinary/…",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/cohxLxidbf",
+					"expanded_url": "https://splot.ca/extraordinary/collect/",
+					"display_url": "splot.ca/extraordinary/…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 7470932,
+		"in_reply_to_user_id_str": "7470932",
+		"in_reply_to_screen_name": "Downes",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10569,
+			"friends_count": 1523,
+			"listed_count": 795,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@downes gave a nice shout out https://t.co/wFNX2HwM7X but better, submitted his own Extraordinary Story of Educators Response to the _____  pandemic https://t.co/BytLvdvnyc \n\nI'll trade stories for retweets any day. Drop here https://t.co/cohxLxidbf"
+	},
+	{
 		"created_at": "Wed May 06 17:19:59 +0000 2020",
 		"id": 1258056120280678400,
 		"id_str": "1258084105545060353",

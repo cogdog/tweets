@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 13:43:19 +0000 2020",
+		"id": 1263465396889432000,
+		"id_str": "1263465396889432066",
+		"full_text": "@mhawksey @tutormentorteam @SSpellmanCann @bhwilkoff @fryed @EHordyskiLuong @grammasheri @karenatsharon @jacbalen @verenanz @tina_p @debbiefuco @rljessen @paulsignorelli @valerielopes @JeffMerrell @amyburvall @dendari @SISQITMAN @folynick @clhendricksbc Genius again! And that's only from Jan 31-Apr 10, 2013, 10,000+ #ETMOOC tweets. Now seen as giant tweet ball. https://t.co/fXUYV8AFSM",
+		"truncated": false,
+		"display_text_range": [
+			254,
+			363
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ETMOOC",
+					"indices": [
+						318,
+						325
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "tutormentorteam",
+					"name": "Daniel Bassill",
+					"id": 45338918,
+					"id_str": "45338918",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "SSpellmanCann",
+					"name": "Susan Spellman Cann",
+					"id": 357925862,
+					"id_str": "357925862",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "fryed",
+					"name": "Donna Miller Fry",
+					"id": 13210942,
+					"id_str": "13210942",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"screen_name": "EHordyskiLuong",
+					"name": "Erin Luong",
+					"id": 389131847,
+					"id_str": "389131847",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"screen_name": "karenatsharon",
+					"name": "Karen Young",
+					"id": 186307153,
+					"id_str": "186307153",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"screen_name": "jacbalen",
+					"name": "Julie Balen",
+					"id": 31440678,
+					"id_str": "31440678",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "tina_p",
+					"name": "Tina Photakis",
+					"id": 14162617,
+					"id_str": "14162617",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"screen_name": "debbiefuco",
+					"name": "Debbie Fucoloro, PhD",
+					"id": 15280795,
+					"id_str": "15280795",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"screen_name": "rljessen",
+					"name": "Rhonda Jessen",
+					"id": 201893567,
+					"id_str": "201893567",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"screen_name": "paulsignorelli",
+					"name": "Paul Signorelli",
+					"id": 212475303,
+					"id_str": "212475303",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "valerielopes",
+					"name": "Valerie Lopes",
+					"id": 21463354,
+					"id_str": "21463354",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"screen_name": "JeffMerrell",
+					"name": "Jeff Merrell",
+					"id": 21969011,
+					"id_str": "21969011",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"screen_name": "dendari",
+					"name": "Brendan Murphy",
+					"id": 14299391,
+					"id_str": "14299391",
+					"indices": [
+						209,
+						217
+					]
+				},
+				{
+					"screen_name": "SISQITMAN",
+					"name": "Glenn Hervieux",
+					"id": 149788214,
+					"id_str": "149788214",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"screen_name": "folynick",
+					"name": "Fenella Olynick",
+					"id": 301803313,
+					"id_str": "301803313",
+					"indices": [
+						229,
+						238
+					]
+				},
+				{
+					"screen_name": "clhendricksbc",
+					"name": "Christina Hendricks",
+					"id": 260919324,
+					"id_str": "260919324",
+					"indices": [
+						239,
+						253
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263465325892268000,
+					"id_str": "1263465325892268032",
+					"indices": [
+						364,
+						387
+					],
+					"media_url": "http://pbs.twimg.com/media/EYi7BQ_U8AAZjvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYi7BQ_U8AAZjvj.jpg",
+					"url": "https://t.co/fXUYV8AFSM",
+					"display_url": "pic.twitter.com/fXUYV8AFSM",
+					"expanded_url": "https://twitter.com/cogdog/status/1263465396889432066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263465325892268000,
+					"id_str": "1263465325892268032",
+					"indices": [
+						364,
+						387
+					],
+					"media_url": "http://pbs.twimg.com/media/EYi7BQ_U8AAZjvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYi7BQ_U8AAZjvj.jpg",
+					"url": "https://t.co/fXUYV8AFSM",
+					"display_url": "pic.twitter.com/fXUYV8AFSM",
+					"expanded_url": "https://twitter.com/cogdog/status/1263465396889432066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1263442501052104700,
+		"in_reply_to_status_id_str": "1263442501052104705",
+		"in_reply_to_user_id": 13046992,
+		"in_reply_to_user_id_str": "13046992",
+		"in_reply_to_screen_name": "mhawksey",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10557,
+			"friends_count": 1524,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mhawksey @tutormentorteam @SSpellmanCann @bhwilkoff @fryed @EHordyskiLuong @grammasheri @karenatsharon @jacbalen @verenanz @tina_p @debbiefuco @rljessen @paulsignorelli @valerielopes @JeffMerrell @amyburvall @dendari @SISQITMAN @folynick @clhendricksbc Genius again! And that's only from Jan 31-Apr 10, 2013, 10,000+ #ETMOOC tweets. Now seen as giant tweet ball. https://t.co/fXUYV8AFSM"
+	},
+	{
 		"created_at": "Thu May 21 02:11:21 +0000 2020",
 		"id": 1263291258895650800,
 		"id_str": "1263291258895650816",

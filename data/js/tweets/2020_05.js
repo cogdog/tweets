@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 23:34:31 +0000 2020",
+		"id": 1263251788771152000,
+		"id_str": "1263251788771151872",
+		"full_text": "@SSpellmanCann @bhwilkoff @fryed @EHordyskiLuong @grammasheri @karenatsharon @jacbalen @verenanz @tina_p @debbiefuco @rljessen @paulsignorelli @valerielopes @JeffMerrell @amyburvall @dendari @SISQITMAN @tutormentorteam @folynick @clhendricksbc Not so long ago, or was it? #ETMOOC was one of my early tries at doing a #ds106 like blog syndication hub, glad it’s still there as a bit of history. Exciting times.",
+		"truncated": false,
+		"display_text_range": [
+			244,
+			409
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ETMOOC",
+					"indices": [
+						272,
+						279
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						317,
+						323
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SSpellmanCann",
+					"name": "Susan Spellman Cann",
+					"id": 357925862,
+					"id_str": "357925862",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "fryed",
+					"name": "Donna Miller Fry",
+					"id": 13210942,
+					"id_str": "13210942",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"screen_name": "EHordyskiLuong",
+					"name": "Erin Luong",
+					"id": 389131847,
+					"id_str": "389131847",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "karenatsharon",
+					"name": "Karen Young",
+					"id": 186307153,
+					"id_str": "186307153",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "jacbalen",
+					"name": "Julie Balen",
+					"id": 31440678,
+					"id_str": "31440678",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "tina_p",
+					"name": "Tina Photakis",
+					"id": 14162617,
+					"id_str": "14162617",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"screen_name": "debbiefuco",
+					"name": "Debbie Fucoloro, PhD",
+					"id": 15280795,
+					"id_str": "15280795",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"screen_name": "rljessen",
+					"name": "Rhonda Jessen",
+					"id": 201893567,
+					"id_str": "201893567",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"screen_name": "paulsignorelli",
+					"name": "Paul Signorelli",
+					"id": 212475303,
+					"id_str": "212475303",
+					"indices": [
+						127,
+						142
+					]
+				},
+				{
+					"screen_name": "valerielopes",
+					"name": "Valerie Lopes",
+					"id": 21463354,
+					"id_str": "21463354",
+					"indices": [
+						143,
+						156
+					]
+				},
+				{
+					"screen_name": "JeffMerrell",
+					"name": "Jeff Merrell",
+					"id": 21969011,
+					"id_str": "21969011",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"screen_name": "dendari",
+					"name": "Brendan Murphy",
+					"id": 14299391,
+					"id_str": "14299391",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"screen_name": "SISQITMAN",
+					"name": "Glenn Hervieux",
+					"id": 149788214,
+					"id_str": "149788214",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"screen_name": "tutormentorteam",
+					"name": "Daniel Bassill",
+					"id": 45338918,
+					"id_str": "45338918",
+					"indices": [
+						202,
+						218
+					]
+				},
+				{
+					"screen_name": "folynick",
+					"name": "Fenella Olynick",
+					"id": 301803313,
+					"id_str": "301803313",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"screen_name": "clhendricksbc",
+					"name": "Christina Hendricks",
+					"id": 260919324,
+					"id_str": "260919324",
+					"indices": [
+						229,
+						243
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083476814134034400,
+		"in_reply_to_status_id_str": "1083476814134034432",
+		"in_reply_to_user_id": 357925862,
+		"in_reply_to_user_id_str": "357925862",
+		"in_reply_to_screen_name": "SSpellmanCann",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10558,
+			"friends_count": 1524,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SSpellmanCann @bhwilkoff @fryed @EHordyskiLuong @grammasheri @karenatsharon @jacbalen @verenanz @tina_p @debbiefuco @rljessen @paulsignorelli @valerielopes @JeffMerrell @amyburvall @dendari @SISQITMAN @tutormentorteam @folynick @clhendricksbc Not so long ago, or was it? #ETMOOC was one of my early tries at doing a #ds106 like blog syndication hub, glad it’s still there as a bit of history. Exciting times."
+	},
+	{
 		"created_at": "Wed May 20 17:15:11 +0000 2020",
 		"id": 1263156326546288600,
 		"id_str": "1263156326546288641",

@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 22:22:27 +0000 2020",
+		"id": 1263596039753232400,
+		"id_str": "1263596039753232392",
+		"full_text": "Sad to hear via @oldaily of the passing of @520507 Read more of Keith's full life https://t.co/6sW94RHsTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oldaily",
+					"name": "🍁 Stephen Downes",
+					"id": 96139902,
+					"id_str": "96139902",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"screen_name": "520507",
+					"name": "Keith Lyons",
+					"id": 16072425,
+					"id_str": "16072425",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6sW94RHsTV",
+					"expanded_url": "https://keithlyons.me/blog/2020/05/17/obituary-keith-lyons/",
+					"display_url": "keithlyons.me/blog/2020/05/1…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10556,
+			"friends_count": 1524,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sad to hear via @oldaily of the passing of @520507 Read more of Keith's full life https://t.co/6sW94RHsTV"
+	},
+	{
 		"created_at": "Thu May 21 13:43:19 +0000 2020",
 		"id": 1263465396889432000,
 		"id_str": "1263465396889432066",

@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 02:11:21 +0000 2020",
+		"id": 1263291258895650800,
+		"id_str": "1263291258895650816",
+		"full_text": "@tutormentorteam @SSpellmanCann @bhwilkoff @fryed @EHordyskiLuong @grammasheri @karenatsharon @jacbalen @verenanz @tina_p @debbiefuco @rljessen @paulsignorelli @valerielopes @JeffMerrell @amyburvall @dendari @SISQITMAN @folynick @clhendricksbc You might be thinking of the visualization of the #etmooc tweets? That was done with an ancient version of @mhawksey Twitter TAGS (v3). The visualization is not working, but the archive and summary is at https://t.co/6umJh2LNH7",
+		"truncated": false,
+		"display_text_range": [
+			244,
+			471
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "etmooc",
+					"indices": [
+						294,
+						301
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tutormentorteam",
+					"name": "Daniel Bassill",
+					"id": 45338918,
+					"id_str": "45338918",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SSpellmanCann",
+					"name": "Susan Spellman Cann",
+					"id": 357925862,
+					"id_str": "357925862",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "fryed",
+					"name": "Donna Miller Fry",
+					"id": 13210942,
+					"id_str": "13210942",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"screen_name": "EHordyskiLuong",
+					"name": "Erin Luong",
+					"id": 389131847,
+					"id_str": "389131847",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"screen_name": "karenatsharon",
+					"name": "Karen Young",
+					"id": 186307153,
+					"id_str": "186307153",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "jacbalen",
+					"name": "Julie Balen",
+					"id": 31440678,
+					"id_str": "31440678",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"screen_name": "tina_p",
+					"name": "Tina Photakis",
+					"id": 14162617,
+					"id_str": "14162617",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"screen_name": "debbiefuco",
+					"name": "Debbie Fucoloro, PhD",
+					"id": 15280795,
+					"id_str": "15280795",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"screen_name": "rljessen",
+					"name": "Rhonda Jessen",
+					"id": 201893567,
+					"id_str": "201893567",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"screen_name": "paulsignorelli",
+					"name": "Paul Signorelli",
+					"id": 212475303,
+					"id_str": "212475303",
+					"indices": [
+						144,
+						159
+					]
+				},
+				{
+					"screen_name": "valerielopes",
+					"name": "Valerie Lopes",
+					"id": 21463354,
+					"id_str": "21463354",
+					"indices": [
+						160,
+						173
+					]
+				},
+				{
+					"screen_name": "JeffMerrell",
+					"name": "Jeff Merrell",
+					"id": 21969011,
+					"id_str": "21969011",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"screen_name": "dendari",
+					"name": "Brendan Murphy",
+					"id": 14299391,
+					"id_str": "14299391",
+					"indices": [
+						199,
+						207
+					]
+				},
+				{
+					"screen_name": "SISQITMAN",
+					"name": "Glenn Hervieux",
+					"id": 149788214,
+					"id_str": "149788214",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"screen_name": "folynick",
+					"name": "Fenella Olynick",
+					"id": 301803313,
+					"id_str": "301803313",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"screen_name": "clhendricksbc",
+					"name": "Christina Hendricks",
+					"id": 260919324,
+					"id_str": "260919324",
+					"indices": [
+						229,
+						243
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey #altc",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						351,
+						360
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6umJh2LNH7",
+					"expanded_url": "https://docs.google.com/spreadsheets/d/1zu8mC-itQ17mbAy43CuksLt8pcjtHoS_rDvPAh63JAY/edit?usp=sharing",
+					"display_url": "docs.google.com/spreadsheets/d…",
+					"indices": [
+						448,
+						471
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1263263958183678000,
+		"in_reply_to_status_id_str": "1263263958183677959",
+		"in_reply_to_user_id": 45338918,
+		"in_reply_to_user_id_str": "45338918",
+		"in_reply_to_screen_name": "tutormentorteam",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10558,
+			"friends_count": 1524,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tutormentorteam @SSpellmanCann @bhwilkoff @fryed @EHordyskiLuong @grammasheri @karenatsharon @jacbalen @verenanz @tina_p @debbiefuco @rljessen @paulsignorelli @valerielopes @JeffMerrell @amyburvall @dendari @SISQITMAN @folynick @clhendricksbc You might be thinking of the visualization of the #etmooc tweets? That was done with an ancient version of @mhawksey Twitter TAGS (v3). The visualization is not working, but the archive and summary is at https://t.co/6umJh2LNH7"
+	},
+	{
 		"created_at": "Wed May 20 23:34:31 +0000 2020",
 		"id": 1263251788771152000,
 		"id_str": "1263251788771151872",

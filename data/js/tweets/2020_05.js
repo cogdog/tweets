@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 19:06:19 +0000 2020",
+		"id": 1263909072069259300,
+		"id_str": "1263909072069259265",
+		"full_text": "From the other room listening in, this was amazing, I bet even more so in the zoom. https://t.co/QrHuvWPWgv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QrHuvWPWgv",
+					"expanded_url": "https://twitter.com/corisaas/status/1263685750672945154",
+					"display_url": "twitter.com/corisaas/statu…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10558,
+			"friends_count": 1524,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263685750672945200,
+		"quoted_status_id_str": "1263685750672945154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QrHuvWPWgv",
+			"expanded": "https://twitter.com/corisaas/status/1263685750672945154",
+			"display": "twitter.com/corisaas/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 22 04:18:55 +0000 2020",
+			"id": 1263685750672945200,
+			"id_str": "1263685750672945154",
+			"full_text": "And that’s a wrap. 4hours 40minutes. Tears, laughter, &amp; lessons.  #booklovers Final thoughts: can we keep the book, let’s do this every two weeks, &amp; these kids love to read. #reading #lifelongreaders #booklovers https://t.co/uWScCbiRsg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "booklovers",
+						"indices": [
+							70,
+							81
+						]
+					},
+					{
+						"text": "reading",
+						"indices": [
+							182,
+							190
+						]
+					},
+					{
+						"text": "lifelongreaders",
+						"indices": [
+							191,
+							207
+						]
+					},
+					{
+						"text": "booklovers",
+						"indices": [
+							208,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263685735187546000,
+						"id_str": "1263685735187546112",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EYmDexmVAAApVah.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYmDexmVAAApVah.jpg",
+						"url": "https://t.co/uWScCbiRsg",
+						"display_url": "pic.twitter.com/uWScCbiRsg",
+						"expanded_url": "https://twitter.com/corisaas/status/1263685750672945154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1021,
+								"h": 647,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1021,
+								"h": 647,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263685735187546000,
+						"id_str": "1263685735187546112",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EYmDexmVAAApVah.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYmDexmVAAApVah.jpg",
+						"url": "https://t.co/uWScCbiRsg",
+						"display_url": "pic.twitter.com/uWScCbiRsg",
+						"expanded_url": "https://twitter.com/corisaas/status/1263685750672945154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1021,
+								"h": 647,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1021,
+								"h": 647,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1263685735200092200,
+						"id_str": "1263685735200092160",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EYmDexpUcAAWMXc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYmDexpUcAAWMXc.jpg",
+						"url": "https://t.co/uWScCbiRsg",
+						"display_url": "pic.twitter.com/uWScCbiRsg",
+						"expanded_url": "https://twitter.com/corisaas/status/1263685750672945154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 965,
+								"h": 658,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 965,
+								"h": 658,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69189398,
+				"id_str": "69189398",
+				"name": "Cori Saas",
+				"screen_name": "corisaas",
+				"location": "Mortlach, SK, Canada",
+				"description": "adventurer, mom, partner, friend, student, educator, storier, loves @jessyleesaas & @cogdog",
+				"url": "https://t.co/RJZdoQfeEM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RJZdoQfeEM",
+								"expanded_url": "http://coyotechalk.com",
+								"display_url": "coyotechalk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1125,
+				"friends_count": 1226,
+				"listed_count": 59,
+				"created_at": "Thu Aug 27 03:33:12 +0000 2009",
+				"favourites_count": 9848,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10938,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/655980191232069632/ub2MC4Xd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/655980191232069632/ub2MC4Xd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69189398/1370191103",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From the other room listening in, this was amazing, I bet even more so in the zoom. https://t.co/QrHuvWPWgv"
+	},
+	{
 		"created_at": "Fri May 22 14:49:37 +0000 2020",
 		"id": 1263844469108957200,
 		"id_str": "1263844469108957186",

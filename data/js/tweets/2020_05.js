@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 19:26:38 +0000 2020",
+		"id": 1266088509275664400,
+		"id_str": "1266088509275664384",
+		"full_text": "A worthy watch for anyone still following #netnarr Even when the class ends the hashtag keeps on going https://t.co/LuNEp6lXgn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LuNEp6lXgn",
+					"expanded_url": "https://twitter.com/remixmanifesto/status/1266069355088904193",
+					"display_url": "twitter.com/remixmanifesto…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10562,
+			"friends_count": 1524,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266069355088904200,
+		"quoted_status_id_str": "1266069355088904193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LuNEp6lXgn",
+			"expanded": "https://twitter.com/remixmanifesto/status/1266069355088904193",
+			"display": "twitter.com/remixmanifesto…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 28 18:10:31 +0000 2020",
+			"id": 1266069355088904200,
+			"id_str": "1266069355088904193",
+			"full_text": "Today's episode of The Internet of Everything feels raw - we visited @stoplapdspying &amp; @LACANetwork to discover how home surveillance technologies and predictive policing impact communities of colour in the US https://t.co/aypzdxwVmn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stoplapdspying",
+						"name": "stoplapdspying",
+						"id": 575959144,
+						"id_str": "575959144",
+						"indices": [
+							69,
+							84
+						]
+					},
+					{
+						"screen_name": "LACANetwork",
+						"name": "LA CAN",
+						"id": 52227189,
+						"id_str": "52227189",
+						"indices": [
+							91,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aypzdxwVmn",
+						"expanded_url": "https://www.youtube.com/watch?v=7bypptePtzM&feature=youtu.be",
+						"display_url": "youtube.com/watch?v=7byppt…",
+						"indices": [
+							214,
+							237
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17851599,
+				"id_str": "17851599",
+				"name": "Brett Gaylor",
+				"screen_name": "remixmanifesto",
+				"location": "Victoria, BC",
+				"description": "Making documentaries about the Internet: The Internet of Everything @donottrackdoc and Rip! A Remix Manifesto. Board @OpenMediaOrg + @fernwoodNRG, alum @mozilla",
+				"url": "https://t.co/DH73OGjmAW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DH73OGjmAW",
+								"expanded_url": "http://www.brettgaylor.com",
+								"display_url": "brettgaylor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5459,
+				"friends_count": 1087,
+				"listed_count": 449,
+				"created_at": "Wed Dec 03 22:36:45 +0000 2008",
+				"favourites_count": 1846,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15008,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0A0A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17851599/1585003328",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A worthy watch for anyone still following #netnarr Even when the class ends the hashtag keeps on going https://t.co/LuNEp6lXgn"
+	},
+	{
 		"created_at": "Thu May 28 17:42:10 +0000 2020",
 		"id": 1266062219160121300,
 		"id_str": "1266062219160121344",

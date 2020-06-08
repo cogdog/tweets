@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 13:56:31 +0000 2020",
+		"id": 1269991703030595600,
+		"id_str": "1269991703030595585",
+		"full_text": "This is bigger than testifying to Congress. Go @hypervisible go! https://t.co/u8fZM0u75u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypervisible",
+					"name": "All I don't wanna do is zoom-a-zoom-zoom-zoom",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						47,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u8fZM0u75u",
+					"expanded_url": "https://twitter.com/WFMU/status/1269989319642578946",
+					"display_url": "twitter.com/WFMU/status/12…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10542,
+			"friends_count": 1522,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269989319642579000,
+		"quoted_status_id_str": "1269989319642578946",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u8fZM0u75u",
+			"expanded": "https://twitter.com/WFMU/status/1269989319642578946",
+			"display": "twitter.com/WFMU/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 08 13:47:03 +0000 2020",
+			"id": 1269989319642579000,
+			"id_str": "1269989319642578946",
+			"full_text": "This week's guests &amp; specials on WFMU: Chris Gilliard on Big Tech companies' responses to racial injustice; composer/author Alessandro De Rosa;  ex-Brian Wilson bodyguard Rocky Pamplin &amp; his co-author Ron Hamady, plus the Drummer Stream Discotheque  More: https://t.co/VYKK8ZGZd9 https://t.co/s8BG99tPyH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				287
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VYKK8ZGZd9",
+						"expanded_url": "http://www.wfmu.org/upcoming",
+						"display_url": "wfmu.org/upcoming",
+						"indices": [
+							264,
+							287
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1269989316463399000,
+						"id_str": "1269989316463398912",
+						"indices": [
+							288,
+							311
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ_ojfxXkAA2H1p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ_ojfxXkAA2H1p.jpg",
+						"url": "https://t.co/s8BG99tPyH",
+						"display_url": "pic.twitter.com/s8BG99tPyH",
+						"expanded_url": "https://twitter.com/WFMU/status/1269989319642578946/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 985,
+								"h": 988,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 985,
+								"h": 988,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1269989316463399000,
+						"id_str": "1269989316463398912",
+						"indices": [
+							288,
+							311
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ_ojfxXkAA2H1p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ_ojfxXkAA2H1p.jpg",
+						"url": "https://t.co/s8BG99tPyH",
+						"display_url": "pic.twitter.com/s8BG99tPyH",
+						"expanded_url": "https://twitter.com/WFMU/status/1269989319642578946/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 985,
+								"h": 988,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 985,
+								"h": 988,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17369528,
+				"id_str": "17369528",
+				"name": "WFMU",
+				"screen_name": "WFMU",
+				"location": "Jersey City, New Jersey",
+				"description": "The freeform station of the nation! Independent, creative, rocking radio. \nTweeter behind the curtain: @efd. Submit music via   https://t.co/zBdBzCwXjN",
+				"url": "https://t.co/1gvmStEIf3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1gvmStEIf3",
+								"expanded_url": "http://wfmu.org",
+								"display_url": "wfmu.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zBdBzCwXjN",
+								"expanded_url": "https://wfmu.org/sendmusic.html",
+								"display_url": "wfmu.org/sendmusic.html",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 87605,
+				"friends_count": 30247,
+				"listed_count": 2527,
+				"created_at": "Thu Nov 13 17:29:33 +0000 2008",
+				"favourites_count": 1746,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23343,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120844665681600512/cfcgLHht_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120844665681600512/cfcgLHht_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17369528/1556067820",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is bigger than testifying to Congress. Go @hypervisible go! https://t.co/u8fZM0u75u"
+	},
+	{
 		"created_at": "Mon Jun 08 13:13:09 +0000 2020",
 		"id": 1269980788235227100,
 		"id_str": "1269980788235227136",

@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 17:14:34 +0000 2020",
+		"id": 1271128706489057300,
+		"id_str": "1271128706489057280",
+		"full_text": "@johnjohnston @Bali_Maha @mrkrndvs Ah, my quick reading mistake. I used local storage too for a project this year, it works great, cannot be read remotely, and is almost never used.",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1271127909810557000,
+		"in_reply_to_status_id_str": "1271127909810556929",
+		"in_reply_to_user_id": 7484192,
+		"in_reply_to_user_id_str": "7484192",
+		"in_reply_to_screen_name": "johnjohnston",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10536,
+			"friends_count": 1521,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@johnjohnston @Bali_Maha @mrkrndvs Ah, my quick reading mistake. I used local storage too for a project this year, it works great, cannot be read remotely, and is almost never used."
+	},
+	{
+		"created_at": "Thu Jun 11 17:04:07 +0000 2020",
+		"id": 1271125894644617200,
+		"id_str": "1271126074529734657",
+		"full_text": "Know someone that deserves recognition for their contribution to open education?  Submit a nomination by JUNE 30!   @cccoer @OEWeek    https://t.co/VKITA1Wt34 https://t.co/hScLwbLgif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cccoer",
+					"name": "CCCOER",
+					"id": 3576910273,
+					"id_str": "3576910273",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"screen_name": "OEWeek",
+					"name": "Open Education Week",
+					"id": 396632857,
+					"id_str": "396632857",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VKITA1Wt34",
+					"expanded_url": "http://ow.ly/LHAi50A4WUf",
+					"display_url": "ow.ly/LHAi50A4WUf",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271125893533089800,
+					"id_str": "1271125893533089794",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EaPyQ_TXQAIHy6K.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaPyQ_TXQAIHy6K.png",
+					"url": "https://t.co/hScLwbLgif",
+					"display_url": "pic.twitter.com/hScLwbLgif",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1271125894644617216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 239,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 239,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271125893533089800,
+					"id_str": "1271125893533089794",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EaPyQ_TXQAIHy6K.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaPyQ_TXQAIHy6K.png",
+					"url": "https://t.co/hScLwbLgif",
+					"display_url": "pic.twitter.com/hScLwbLgif",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1271125894644617216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 239,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 239,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16548567,
+			"id_str": "16548567",
+			"name": "Open Education Global",
+			"screen_name": "OpenEdGlobal",
+			"location": "Global",
+			"description": "The Open Education Global is a worldwide community of hundreds of universities and associated organizations committed to advancing Open Education globally.",
+			"url": "https://t.co/0Ax8ss2IzW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Ax8ss2IzW",
+							"expanded_url": "https://www.oeglobal.org/",
+							"display_url": "oeglobal.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10303,
+			"friends_count": 462,
+			"listed_count": 542,
+			"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+			"favourites_count": 2293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1589918078",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Know someone that deserves recognition for their contribution to open education?  Submit a nomination by JUNE 30!   @cccoer @OEWeek    https://t.co/VKITA1Wt34 https://t.co/hScLwbLgif"
+	},
+	{
 		"created_at": "Thu Jun 11 02:03:47 +0000 2020",
 		"id": 1270899499121049600,
 		"id_str": "1270899499121049601",

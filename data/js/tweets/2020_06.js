@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 01:45:19 +0000 2020",
+		"id": 1272706790199713800,
+		"id_str": "1272706790199713793",
+		"full_text": "It's pretty bad to need the Supreme Court to affirm that there are no asterisks on Equal Rights. Too bad the current administration and GOP henchpeople act otherwise.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10532,
+			"friends_count": 1523,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It's pretty bad to need the Supreme Court to affirm that there are no asterisks on Equal Rights. Too bad the current administration and GOP henchpeople act otherwise."
+	},
+	{
+		"created_at": "Tue Jun 16 01:44:02 +0000 2020",
+		"id": 1272703858075209700,
+		"id_str": "1272706467942940672",
+		"full_text": "Tens of thousands across US march in support of black trans people https://t.co/eL4w0cZjB8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eL4w0cZjB8",
+					"expanded_url": "https://www.theguardian.com/us-news/2020/jun/15/black-trans-protests-rally-america?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/us-news/2020/j…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15810854,
+			"id_str": "15810854",
+			"name": "Ed Webb",
+			"screen_name": "edwebb",
+			"location": "PA, USA",
+			"description": "Educator, learner. Interests: West Asia/Africa politics; media; Islam; autism/disabilities; LGBTQ+ rights. Musician. Dogfather. Routinely fails Rorschach test.",
+			"url": "http://t.co/zsFUv3H9lK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/zsFUv3H9lK",
+							"expanded_url": "http://about.me/edwebb",
+							"display_url": "about.me/edwebb",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3375,
+			"friends_count": 3136,
+			"listed_count": 265,
+			"created_at": "Mon Aug 11 17:41:11 +0000 2008",
+			"favourites_count": 4036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 180178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E2E3E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246927336303362048/CUp0F47H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246927336303362048/CUp0F47H_normal.jpg",
+			"profile_link_color": "7B9CA7",
+			"profile_sidebar_border_color": "B4E4DE",
+			"profile_sidebar_fill_color": "ACAEA7",
+			"profile_text_color": "532727",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tens of thousands across US march in support of black trans people https://t.co/eL4w0cZjB8"
+	},
+	{
+		"created_at": "Tue Jun 16 01:42:47 +0000 2020",
+		"id": 1272706151952420900,
+		"id_str": "1272706151952420864",
+		"full_text": "We ought to do more that just retweet this idea. Let's make some Phylo Trading Cards. Not just for kids. https://t.co/XYMKxSVkwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XYMKxSVkwx",
+					"expanded_url": "https://twitter.com/Ng_Dave/status/1272665558761132032",
+					"display_url": "twitter.com/Ng_Dave/status…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10532,
+			"friends_count": 1523,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272665558761132000,
+		"quoted_status_id_str": "1272665558761132032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XYMKxSVkwx",
+			"expanded": "https://twitter.com/Ng_Dave/status/1272665558761132032",
+			"display": "twitter.com/Ng_Dave/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 23:01:28 +0000 2020",
+			"id": 1272665558761132000,
+			"id_str": "1272665558761132032",
+			"full_text": "Would be cool if kids make more of these SARS-CoV-2 cards. &amp; bc there's so much misinfo around, it would be extra cool if the cards would bust COVID myths in the \"facts\" section.  \n\nRT if you like this idea (my lab could turn the cards into a STEMed game)\n\nhttps://t.co/Hh4kQfPXcu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Hh4kQfPXcu",
+						"expanded_url": "https://www.scq.ubc.ca/introducing-the-phylo-trading-card-game-diy-home-school-activity/",
+						"display_url": "scq.ubc.ca/introducing-th…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1272664389489848300,
+			"in_reply_to_status_id_str": "1272664389489848320",
+			"in_reply_to_user_id": 91375691,
+			"in_reply_to_user_id_str": "91375691",
+			"in_reply_to_screen_name": "Ng_Dave",
+			"user": {
+				"id": 91375691,
+				"id_str": "91375691",
+				"name": "Dave Ng",
+				"screen_name": "Ng_Dave",
+				"location": "vancouver, BC",
+				"description": "UBC academic, sciencegeek, & writer. I run a science literacy lab & tweets are mostly science, art, & Chewbacca. He/Him IG: https://t.co/0E38d9JuPQ",
+				"url": "https://t.co/mAlrvx5BEn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mAlrvx5BEn",
+								"expanded_url": "http://thisishowitalkscience.tumblr.com",
+								"display_url": "thisishowitalkscience.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0E38d9JuPQ",
+								"expanded_url": "http://www.instagram.com/ng_dave",
+								"display_url": "instagram.com/ng_dave",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3124,
+				"friends_count": 365,
+				"listed_count": 218,
+				"created_at": "Fri Nov 20 16:39:24 +0000 2009",
+				"favourites_count": 2548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103494626772582400/90QefFxS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103494626772582400/90QefFxS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/91375691/1377806600",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We ought to do more that just retweet this idea. Let's make some Phylo Trading Cards. Not just for kids. https://t.co/XYMKxSVkwx"
+	},
+	{
 		"created_at": "Tue Jun 16 01:05:18 +0000 2020",
 		"id": 1272696722343391200,
 		"id_str": "1272696722343391232",

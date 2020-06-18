@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 06:08:34 +0000 2020",
+		"id": 1273497818347368400,
+		"id_str": "1273497818347368448",
+		"full_text": "In this time of no briefing, over 60,000 Americans died, families left grieving. \n\nWhat has the White House done to show compassion, concern, empathy for deaths above the scale of war?\n\nAll we get are tweets. https://t.co/2nJPxXKBHz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2nJPxXKBHz",
+					"expanded_url": "https://twitter.com/drsanjaygupta/status/1273090574187409408",
+					"display_url": "twitter.com/drsanjaygupta/…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10534,
+			"friends_count": 1522,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273090574187409400,
+		"quoted_status_id_str": "1273090574187409408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2nJPxXKBHz",
+			"expanded": "https://twitter.com/drsanjaygupta/status/1273090574187409408",
+			"display": "twitter.com/drsanjaygupta/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 17 03:10:20 +0000 2020",
+			"id": 1273090574187409400,
+			"id_str": "1273090574187409408",
+			"full_text": "April 27 was the last time there was a White House coronavirus task force briefing, leaving us with more than a month without regular updates from the group Vice President Mike Pence was tapped to lead. (1/24)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18170896,
+				"id_str": "18170896",
+				"name": "Dr. Sanjay Gupta",
+				"screen_name": "drsanjaygupta",
+				"location": "Home",
+				"description": "Associate Professor of Neurosurgery. Emory University Hospital; CNN Chief Medical Correspondent",
+				"url": "https://t.co/TOlC9YadhB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TOlC9YadhB",
+								"expanded_url": "http://www.cnn.com/profiles/sanjay-gupta-profile",
+								"display_url": "cnn.com/profiles/sanja…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2484211,
+				"friends_count": 240,
+				"listed_count": 15578,
+				"created_at": "Tue Dec 16 19:57:49 +0000 2008",
+				"favourites_count": 307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4832,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244708941940117506/0Ufslm6g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244708941940117506/0Ufslm6g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18170896/1585596713",
+				"profile_link_color": "0012B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCDBFF",
+				"profile_text_color": "100E0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25890,
+			"favorite_count": 79961,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this time of no briefing, over 60,000 Americans died, families left grieving. \n\nWhat has the White House done to show compassion, concern, empathy for deaths above the scale of war?\n\nAll we get are tweets. https://t.co/2nJPxXKBHz"
+	},
+	{
 		"created_at": "Wed Jun 17 23:47:37 +0000 2020",
 		"id": 1273401947702190000,
 		"id_str": "1273401947702190081",

@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 19:10:24 +0000 2020",
+		"id": 1273984010125889500,
+		"id_str": "1274056957272326144",
+		"full_text": "This video by @livlaughlob is so very well done...bravo! #abed #studentlife #learningfromhome https://t.co/mgjBIMf4Yc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "abed",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "studentlife",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"text": "learningfromhome",
+					"indices": [
+						76,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "livlaughlob",
+					"name": "libby🧚🏻‍♀️",
+					"id": 1258432856893927400,
+					"id_str": "1258432856893927427",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mgjBIMf4Yc",
+					"expanded_url": "https://twitter.com/realsarahpolley/status/1273666328826728448",
+					"display_url": "twitter.com/realsarahpolle…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1604499811,
+			"id_str": "1604499811",
+			"name": "Filomena Gomes",
+			"screen_name": "YYCfrancophile",
+			"location": "",
+			"description": "Professeure de l'immersion française/Français Langue Seconde (FLA/FLS/FLE) -j'aime enseigner/apprendre, écrire et découvrir les trésors de ma ville",
+			"url": "https://t.co/DbS3dQ0YdC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DbS3dQ0YdC",
+							"expanded_url": "http://innovateandeducate.weebly.com/blog",
+							"display_url": "innovateandeducate.weebly.com/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 1629,
+			"listed_count": 58,
+			"created_at": "Thu Jul 18 22:23:38 +0000 2013",
+			"favourites_count": 42352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834608816280920065/qulNahBI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834608816280920065/qulNahBI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1604499811/1450147200",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273666328826728400,
+		"quoted_status_id_str": "1273666328826728448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mgjBIMf4Yc",
+			"expanded": "https://twitter.com/realsarahpolley/status/1273666328826728448",
+			"display": "twitter.com/realsarahpolle…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 17:18:11 +0000 2020",
+			"id": 1273666328826728400,
+			"id_str": "1273666328826728448",
+			"full_text": "This (very short) film is a masterpiece about the lockdown made by Grade 9 student Liv McNeil. Do yourself a favour and take three minutes to watch it. Best film I've seen in a long time. Just. Wow.\nhttps://t.co/tQmSUkLgEB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tQmSUkLgEB",
+						"expanded_url": "https://www.youtube.com/watch?v=iSkbd6hRkXo",
+						"display_url": "youtube.com/watch?v=iSkbd6…",
+						"indices": [
+							199,
+							222
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1247624837209743400,
+				"id_str": "1247624837209743365",
+				"name": "@realSarahPolley",
+				"screen_name": "realsarahpolley",
+				"location": "",
+				"description": "Back on Twitter. I was once an actor. Then a filmmaker.  These days I raise kids and write things. My lack of ambition is my strong suit. She/Her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9815,
+				"friends_count": 363,
+				"listed_count": 42,
+				"created_at": "Tue Apr 07 20:38:51 +0000 2020",
+				"favourites_count": 723,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 350,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247624981363732482/6TPxh6qw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247624981363732482/6TPxh6qw_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 183,
+			"favorite_count": 570,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This video by @livlaughlob is so very well done...bravo! #abed #studentlife #learningfromhome https://t.co/mgjBIMf4Yc"
+	},
+	{
 		"created_at": "Thu Jun 18 19:27:02 +0000 2020",
 		"id": 1273698757738029000,
 		"id_str": "1273698757738029057",

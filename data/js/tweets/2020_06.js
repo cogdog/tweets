@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 03:30:03 +0000 2020",
+		"id": 1274527971513004000,
+		"id_str": "1274545088526340102",
+		"full_text": "https://t.co/mxToRoHWNn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274527965762613200,
+					"id_str": "1274527965762613248",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EbAIbp-U8AAfw0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbAIbp-U8AAfw0k.jpg",
+					"url": "https://t.co/mxToRoHWNn",
+					"display_url": "pic.twitter.com/mxToRoHWNn",
+					"expanded_url": "https://twitter.com/tompetty/status/1274527971513004033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274527965762613200,
+					"id_str": "1274527965762613248",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EbAIbp-U8AAfw0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbAIbp-U8AAfw0k.jpg",
+					"url": "https://t.co/mxToRoHWNn",
+					"display_url": "pic.twitter.com/mxToRoHWNn",
+					"expanded_url": "https://twitter.com/tompetty/status/1274527971513004033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12449542,
+			"id_str": "12449542",
+			"name": "Tom Petty",
+			"screen_name": "tompetty",
+			"location": "California, USA",
+			"description": "",
+			"url": "https://t.co/bYZFP4djsg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bYZFP4djsg",
+							"expanded_url": "http://www.tompetty.com",
+							"display_url": "tompetty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439256,
+			"friends_count": 35,
+			"listed_count": 2799,
+			"created_at": "Sun Jan 20 03:56:51 +0000 2008",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249799725508788224/Xi43TJRi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249799725508788224/Xi43TJRi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12449542/1586810518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24258,
+		"favorite_count": 81883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/mxToRoHWNn"
+	},
+	{
 		"created_at": "Fri Jun 19 19:10:24 +0000 2020",
 		"id": 1273984010125889500,
 		"id_str": "1274056957272326144",
@@ -38,7 +212,7 @@ Grailbird.data.tweets_2020_06 =
 			"user_mentions": [
 				{
 					"screen_name": "livlaughlob",
-					"name": "libby🧚🏻‍♀️",
+					"name": "libby🧚🏻♀️",
 					"id": 1258432856893927400,
 					"id_str": "1258432856893927427",
 					"indices": [

@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 18:10:50 +0000 2020",
+		"id": 1276216294711292000,
+		"id_str": "1276216294711291904",
+		"full_text": "I cannot say enough how creative and effective this form of branching fiction is. And it's just ... text (and links).\n\nIf I was doing storytelling classes, I'd be teaching a lot of twine https://t.co/7BZthuoZPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7BZthuoZPB",
+					"expanded_url": "https://twitter.com/caitskirby/status/1276199390663839748",
+					"display_url": "twitter.com/caitskirby/sta…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10523,
+			"friends_count": 1523,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276199390663839700,
+		"quoted_status_id_str": "1276199390663839748",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7BZthuoZPB",
+			"expanded": "https://twitter.com/caitskirby/status/1276199390663839748",
+			"display": "twitter.com/caitskirby/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 25 17:03:40 +0000 2020",
+			"id": 1276199390663839700,
+			"id_str": "1276199390663839748",
+			"full_text": "Universities are still pursuing in-person classes in fall 2020 \"for the good of the students.\" In this interactive story, you move through just one day of in-person classes from the perspective of a faculty member. #HigherEd #AcademicChatter @twinethreads\n\nhttps://t.co/vzz4cIGUbb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HigherEd",
+						"indices": [
+							215,
+							224
+						]
+					},
+					{
+						"text": "AcademicChatter",
+						"indices": [
+							225,
+							241
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "twinethreads",
+						"name": "Twine",
+						"id": 1342166828,
+						"id_str": "1342166828",
+						"indices": [
+							242,
+							255
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vzz4cIGUbb",
+						"expanded_url": "https://caitkirby.com/downloads/October1st2020.html",
+						"display_url": "caitkirby.com/downloads/Octo…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1183754910292238300,
+				"id_str": "1183754910292238336",
+				"name": "Cait S. Kirby (she/her)",
+				"screen_name": "caitskirby",
+				"location": "Vanderbilt University",
+				"description": "F31-funded PhD Candidate studying mtDNA w/ Maulik Patel.\nBiologist, biology teacher, teacher teacher. #HigherEd\nManaging #Crohns + #endo. #DEI #equity #access.",
+				"url": "https://t.co/O9Db0cyzmi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O9Db0cyzmi",
+								"expanded_url": "http://caitkirby.com",
+								"display_url": "caitkirby.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 718,
+				"friends_count": 326,
+				"listed_count": 7,
+				"created_at": "Mon Oct 14 14:42:25 +0000 2019",
+				"favourites_count": 1569,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 869,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183806740376236032/rs8GVbMy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183806740376236032/rs8GVbMy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1183754910292238336/1584807568",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I cannot say enough how creative and effective this form of branching fiction is. And it's just ... text (and links).\n\nIf I was doing storytelling classes, I'd be teaching a lot of twine https://t.co/7BZthuoZPB"
+	},
+	{
+		"created_at": "Thu Jun 25 18:08:11 +0000 2020",
+		"id": 1276215629599486000,
+		"id_str": "1276215629599485952",
+		"full_text": "Not Me! https://t.co/KF09iFYKpA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276215614298706000,
+					"id_str": "1276215614298705921",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYHVusU0AEvq5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYHVusU0AEvq5j.jpg",
+					"url": "https://t.co/KF09iFYKpA",
+					"display_url": "pic.twitter.com/KF09iFYKpA",
+					"expanded_url": "https://twitter.com/cogdog/status/1276215629599485952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 473,
+							"h": 592,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 473,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276215614298706000,
+					"id_str": "1276215614298705921",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYHVusU0AEvq5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYHVusU0AEvq5j.jpg",
+					"url": "https://t.co/KF09iFYKpA",
+					"display_url": "pic.twitter.com/KF09iFYKpA",
+					"expanded_url": "https://twitter.com/cogdog/status/1276215629599485952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 473,
+							"h": 592,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 473,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1276215532555874300,
+		"in_reply_to_status_id_str": "1276215532555874305",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10523,
+			"friends_count": 1523,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not Me! https://t.co/KF09iFYKpA"
+	},
+	{
 		"created_at": "Thu Jun 25 13:40:16 +0000 2020",
 		"id": 1276148205701357600,
 		"id_str": "1276148205701357568",

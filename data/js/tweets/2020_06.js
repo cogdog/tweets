@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 05:35:48 +0000 2020",
+		"id": 1276388672896524300,
+		"id_str": "1276388672896524290",
+		"full_text": "Not to mention that this failed businessman insisted his name be put on said checks. As if he was some benevolent uncle giving you money when it is all borrowed against your money. It’s a bigger scam than a flopped casino. https://t.co/tJzrxFrLOH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tJzrxFrLOH",
+					"expanded_url": "https://twitter.com/chrislu44/status/1276163339404664833",
+					"display_url": "twitter.com/chrislu44/stat…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10525,
+			"friends_count": 1523,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276163339404664800,
+		"quoted_status_id_str": "1276163339404664833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tJzrxFrLOH",
+			"expanded": "https://twitter.com/chrislu44/status/1276163339404664833",
+			"display": "twitter.com/chrislu44/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 25 14:40:24 +0000 2020",
+			"id": 1276163339404664800,
+			"id_str": "1276163339404664833",
+			"full_text": "Earlier this month, we learned that 30 to 35 million Americans are still waiting on stimulus checks\n\nAnd now, we learn that 1.1 million checks were sent to dead people\n\nSo much for the idea that a businessman would be better at running government\nhttps://t.co/b4Et4vFsft",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b4Et4vFsft",
+						"expanded_url": "https://www.nbcnews.com/politics/politics-news/dead-wrong-feds-sent-1-4b-stimulus-checks-over-million-n1232070",
+						"display_url": "nbcnews.com/politics/polit…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 461697741,
+				"id_str": "461697741",
+				"name": "Chris Lu",
+				"screen_name": "ChrisLu44",
+				"location": "",
+				"description": "Former Obama WH Cabinet Secretary; Deputy Secretary of Labor; Transition Director | Now: @Miller_Center Fellow; @FiscalNote Advisor",
+				"url": "https://t.co/vjhQwOnGF5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vjhQwOnGF5",
+								"expanded_url": "https://millercenter.org/experts/chris-lu",
+								"display_url": "millercenter.org/experts/chris-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65786,
+				"friends_count": 3516,
+				"listed_count": 678,
+				"created_at": "Thu Jan 12 02:50:29 +0000 2012",
+				"favourites_count": 55045,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19789,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739167604514934784/as9mVLOb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739167604514934784/as9mVLOb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/461697741/1423878868",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 960,
+			"favorite_count": 2014,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not to mention that this failed businessman insisted his name be put on said checks. As if he was some benevolent uncle giving you money when it is all borrowed against your money. It’s a bigger scam than a flopped casino. https://t.co/tJzrxFrLOH"
+	},
+	{
 		"created_at": "Thu Jun 25 18:10:50 +0000 2020",
 		"id": 1276216294711292000,
 		"id_str": "1276216294711291904",

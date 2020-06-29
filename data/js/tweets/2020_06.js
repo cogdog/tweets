@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 13:52:58 +0000 2020",
+		"id": 1277600950786523100,
+		"id_str": "1277600950786523137",
+		"full_text": "@twoodwar @bennettscience Looks like its 2 step- (1) to put in local storage; (2) fetch an embed code. At least it reverts to a blockquote.\n\nBut the blockquote block has an attribution line, couldn't you achieve same result with CSS?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1277584486763561000,
+		"in_reply_to_status_id_str": "1277584486763560962",
+		"in_reply_to_user_id": 10076902,
+		"in_reply_to_user_id_str": "10076902",
+		"in_reply_to_screen_name": "twoodwar",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10527,
+			"friends_count": 1524,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@twoodwar @bennettscience Looks like its 2 step- (1) to put in local storage; (2) fetch an embed code. At least it reverts to a blockquote.\n\nBut the blockquote block has an attribution line, couldn't you achieve same result with CSS?"
+	},
+	{
+		"created_at": "Mon Jun 29 13:42:10 +0000 2020",
+		"id": 1277202585305284600,
+		"id_str": "1277598233963839490",
+		"full_text": "found object #ScholComm #OpenAccess https://t.co/WyF9yCjnYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ScholComm",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "OpenAccess",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277188773168722000,
+					"id_str": "1277188773168721921",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebl8bB_WsAEXMvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebl8bB_WsAEXMvV.jpg",
+					"url": "https://t.co/WyF9yCjnYz",
+					"display_url": "pic.twitter.com/WyF9yCjnYz",
+					"expanded_url": "https://twitter.com/ernestopriego/status/1277202585305284611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277188773168722000,
+					"id_str": "1277188773168721921",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebl8bB_WsAEXMvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebl8bB_WsAEXMvV.jpg",
+					"url": "https://t.co/WyF9yCjnYz",
+					"display_url": "pic.twitter.com/WyF9yCjnYz",
+					"expanded_url": "https://twitter.com/ernestopriego/status/1277202585305284611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18059285,
+			"id_str": "18059285",
+			"name": "Ernesto Priego",
+			"screen_name": "ernestopriego",
+			"location": "Some tweets are scheduled.",
+			"description": "Academic. Editor @ComicsGrid. Views on or via this account do not represent employers. Follows, RTs, ❤s ≠ endorsements. Open Access is not just for quarantines.",
+			"url": "https://t.co/SIhY3sIFxu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIhY3sIFxu",
+							"expanded_url": "https://epriego.blog/",
+							"display_url": "epriego.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9624,
+			"friends_count": 9224,
+			"listed_count": 566,
+			"created_at": "Thu Dec 11 20:28:20 +0000 2008",
+			"favourites_count": 38897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 112346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268061458941857792/99Hm6NkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268061458941857792/99Hm6NkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18059285/1593177276",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "found object #ScholComm #OpenAccess https://t.co/WyF9yCjnYz"
+	},
+	{
 		"created_at": "Mon Jun 29 05:43:13 +0000 2020",
 		"id": 1277477703969460200,
 		"id_str": "1277477703969460224",

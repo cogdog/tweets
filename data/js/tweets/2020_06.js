@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 00:16:05 +0000 2020",
+		"id": 1277757766669439000,
+		"id_str": "1277757766669438976",
+		"full_text": "Classic. Rod foresaw AI. https://t.co/xfEn1tYQqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xfEn1tYQqL",
+					"expanded_url": "https://twitter.com/TheNightGallery/status/1277756233156423681",
+					"display_url": "twitter.com/TheNightGaller…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10526,
+			"friends_count": 1525,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277756233156423700,
+		"quoted_status_id_str": "1277756233156423681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xfEn1tYQqL",
+			"expanded": "https://twitter.com/TheNightGallery/status/1277756233156423681",
+			"display": "twitter.com/TheNightGaller…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 30 00:10:00 +0000 2020",
+			"id": 1277756233156423700,
+			"id_str": "1277756233156423681",
+			"full_text": "\"Television, electric razor, clock, typewriter. They'll be machines, but they'll also be monsters.\"  \n\n#ZonePromos #S2E4\n\n\"A Thing About Machines\" by Rod Serling stars Richard Haydn. https://t.co/k4Sl1WXwPH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ZonePromos",
+						"indices": [
+							103,
+							114
+						]
+					},
+					{
+						"text": "S2E4",
+						"indices": [
+							115,
+							120
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1277727039861260300,
+						"id_str": "1277727039861260291",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/Ebtl-RrXgAM3gPP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ebtl-RrXgAM3gPP.jpg",
+						"url": "https://t.co/k4Sl1WXwPH",
+						"display_url": "pic.twitter.com/k4Sl1WXwPH",
+						"expanded_url": "https://twitter.com/TheNightGallery/status/1277756233156423681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1137,
+								"h": 859,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1137,
+								"h": 859,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277727039861260300,
+						"id_str": "1277727039861260291",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/Ebtl-RrXgAM3gPP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ebtl-RrXgAM3gPP.jpg",
+						"url": "https://t.co/k4Sl1WXwPH",
+						"display_url": "pic.twitter.com/k4Sl1WXwPH",
+						"expanded_url": "https://twitter.com/TheNightGallery/status/1277756233156423681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1137,
+								"h": 859,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1137,
+								"h": 859,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1277727223768928300,
+						"id_str": "1277727223768928258",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EbtmI-yX0AIfBOy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbtmI-yX0AIfBOy.jpg",
+						"url": "https://t.co/k4Sl1WXwPH",
+						"display_url": "pic.twitter.com/k4Sl1WXwPH",
+						"expanded_url": "https://twitter.com/TheNightGallery/status/1277756233156423681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1107,
+								"h": 877,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1107,
+								"h": 877,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 539,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1277727465214029800,
+						"id_str": "1277727465214029830",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EbtmXCPXsAYKg8c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbtmXCPXsAYKg8c.jpg",
+						"url": "https://t.co/k4Sl1WXwPH",
+						"display_url": "pic.twitter.com/k4Sl1WXwPH",
+						"expanded_url": "https://twitter.com/TheNightGallery/status/1277756233156423681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1181,
+								"h": 881,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1181,
+								"h": 881,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1277727465226502100,
+						"id_str": "1277727465226502145",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EbtmXCSWAAE0SdN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbtmXCSWAAE0SdN.jpg",
+						"url": "https://t.co/k4Sl1WXwPH",
+						"display_url": "pic.twitter.com/k4Sl1WXwPH",
+						"expanded_url": "https://twitter.com/TheNightGallery/status/1277756233156423681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 496,
+								"h": 368,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 496,
+								"h": 368,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 496,
+								"h": 368,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190403384,
+				"id_str": "190403384",
+				"name": "The Twilight Zone",
+				"screen_name": "TheNightGallery",
+				"location": "A corner of the fifth dimension near Baltimore, MD",
+				"description": "Fan of the Twilight Zone? No need to wait for a marathon. Join me (Paul) for daily quotes and facts from TZ, Night Gallery, and Rod Serling's many other works.",
+				"url": "https://t.co/eJdaA1eJG6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eJdaA1eJG6",
+								"expanded_url": "http://thenightgallery.wordpress.com/",
+								"display_url": "thenightgallery.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31155,
+				"friends_count": 2038,
+				"listed_count": 343,
+				"created_at": "Mon Sep 13 21:34:06 +0000 2010",
+				"favourites_count": 25881,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76548,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/471378910114889728/ZoYJ17X-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/471378910114889728/ZoYJ17X-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190403384/1466395060",
+				"profile_link_color": "DE0B0B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "47C1D1",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Classic. Rod foresaw AI. https://t.co/xfEn1tYQqL"
+	},
+	{
 		"created_at": "Mon Jun 29 22:27:52 +0000 2020",
 		"id": 1277730532135071700,
 		"id_str": "1277730532135071745",

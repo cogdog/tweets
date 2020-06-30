@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 22:08:19 +0000 2020",
+		"id": 1278087998823821300,
+		"id_str": "1278087998823821312",
+		"full_text": "Thanks @greeneterry for sharing this useful set of zoom tricks (using videos as multiple camera sources using OBS open source software) -- all shared by @RyanStraight https://t.co/aRDDjzgr4G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene stays 2 metres away from you",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						7,
+						19
+					]
+				},
+				{
+					"screen_name": "RyanStraight",
+					"name": "Dr. Ryan Straight on 🏡 Staycation! 🏡",
+					"id": 2227286222,
+					"id_str": "2227286222",
+					"indices": [
+						153,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aRDDjzgr4G",
+					"expanded_url": "https://ryanstraight.com/post/zoom-and-obs/",
+					"display_url": "ryanstraight.com/post/zoom-and-…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10528,
+			"friends_count": 1528,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @greeneterry for sharing this useful set of zoom tricks (using videos as multiple camera sources using OBS open source software) -- all shared by @RyanStraight https://t.co/aRDDjzgr4G"
+	},
+	{
+		"created_at": "Tue Jun 30 21:40:07 +0000 2020",
+		"id": 1278080903319707600,
+		"id_str": "1278080903319707648",
+		"full_text": "forgot the mention! twitter rookie mistake #12445 @leohavemann https://t.co/m647Kq01TL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						50,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m647Kq01TL",
+					"expanded_url": "https://twitter.com/cogdog/status/1278080536536211457",
+					"display_url": "twitter.com/cogdog/status/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10528,
+			"friends_count": 1528,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1278080536536211500,
+		"quoted_status_id_str": "1278080536536211457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m647Kq01TL",
+			"expanded": "https://twitter.com/cogdog/status/1278080536536211457",
+			"display": "twitter.com/cogdog/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 30 21:38:40 +0000 2020",
+			"id": 1278080536536211500,
+			"id_str": "1278080536536211457",
+			"full_text": "@eliast05 Nothing but broken links from the conference site https://t.co/cPklifW8Ap\n\nbut the prezi lives here-- the work of @jminguillona\n https://t.co/yNeO0OPY4d",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "eliast05",
+						"name": "Tanya",
+						"id": 206925887,
+						"id_str": "206925887",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "jminguillona",
+						"name": "Julià Minguillón",
+						"id": 91856307,
+						"id_str": "91856307",
+						"indices": [
+							124,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cPklifW8Ap",
+						"expanded_url": "http://openedconference.org/2012/program/archive-of-sessions/day-3/day-3-1030am-c485/",
+						"display_url": "openedconference.org/2012/program/a…",
+						"indices": [
+							60,
+							83
+						]
+					},
+					{
+						"url": "https://t.co/yNeO0OPY4d",
+						"expanded_url": "https://prezi.com/lto-kzmoip6k/analyzing-and-supporting-interaction-in-complex-scenarios-the-case-of-ds106/",
+						"display_url": "prezi.com/lto-kzmoip6k/a…",
+						"indices": [
+							139,
+							162
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1278079389469520000,
+			"in_reply_to_status_id_str": "1278079389469519872",
+			"in_reply_to_user_id": 206925887,
+			"in_reply_to_user_id_str": "206925887",
+			"in_reply_to_screen_name": "eliast05",
+			"user": {
+				"id": 740343,
+				"id_str": "740343",
+				"name": "Alan Levine",
+				"screen_name": "cogdog",
+				"location": "Mortlach, Saskatchewan",
+				"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+				"url": "https://t.co/wAzdfm9TIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wAzdfm9TIB",
+								"expanded_url": "http://cog.dog",
+								"display_url": "cog.dog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZxC70YWtmO",
+								"expanded_url": "http://cogdogblog.com",
+								"display_url": "cogdogblog.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10528,
+				"friends_count": 1528,
+				"listed_count": 790,
+				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+				"favourites_count": 836,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 91068,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "forgot the mention! twitter rookie mistake #12445 @leohavemann https://t.co/m647Kq01TL"
+	},
+	{
 		"created_at": "Tue Jun 30 20:52:44 +0000 2020",
 		"id": 1278068979982987300,
 		"id_str": "1278068979982987264",

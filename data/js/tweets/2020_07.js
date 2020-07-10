@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 23:29:00 +0000 2020",
+		"id": 1281369795548418000,
+		"id_str": "1281369795548418048",
+		"full_text": "The child IS the administration,, the infant is 74 years old. https://t.co/gNY2oCkOVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gNY2oCkOVN",
+					"expanded_url": "https://twitter.com/atrupar/status/1281301236080410629",
+					"display_url": "twitter.com/atrupar/status…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10524,
+			"friends_count": 1529,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281301236080410600,
+		"quoted_status_id_str": "1281301236080410629",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gNY2oCkOVN",
+			"expanded": "https://twitter.com/atrupar/status/1281301236080410629",
+			"display": "twitter.com/atrupar/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 09 18:56:34 +0000 2020",
+			"id": 1281301236080410600,
+			"id_str": "1281301236080410629",
+			"full_text": "“The child will always come first in this administration” — the kids Trump separated from their parents might beg to differ https://t.co/2sYSRnFWtF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1281301198763589600,
+						"id_str": "1281301198763589638",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281301198763589638/pu/img/w-RS1sr_qyX11Gn1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281301198763589638/pu/img/w-RS1sr_qyX11Gn1.jpg",
+						"url": "https://t.co/2sYSRnFWtF",
+						"display_url": "pic.twitter.com/2sYSRnFWtF",
+						"expanded_url": "https://twitter.com/atrupar/status/1281301236080410629/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1281301198763589600,
+						"id_str": "1281301198763589638",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281301198763589638/pu/img/w-RS1sr_qyX11Gn1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281301198763589638/pu/img/w-RS1sr_qyX11Gn1.jpg",
+						"url": "https://t.co/2sYSRnFWtF",
+						"display_url": "pic.twitter.com/2sYSRnFWtF",
+						"expanded_url": "https://twitter.com/atrupar/status/1281301236080410629/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 36637,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1281301198763589638/pu/pl/AiP132APv3cCR2Au.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1281301198763589638/pu/vid/1280x720/81urxAeURnnLiU4h.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1281301198763589638/pu/vid/480x270/xg2ju7Id3pqDrB35.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1281301198763589638/pu/vid/640x360/GL6p5Uoc9CRvlhcf.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 288277167,
+				"id_str": "288277167",
+				"name": "Aaron Rupar",
+				"screen_name": "atrupar",
+				"location": "",
+				"description": "journalist @voxdotcom. on parental leave.",
+				"url": "https://t.co/RnqX4a5AQt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RnqX4a5AQt",
+								"expanded_url": "http://vox.com",
+								"display_url": "vox.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 429271,
+				"friends_count": 998,
+				"listed_count": 3557,
+				"created_at": "Tue Apr 26 15:22:47 +0000 2011",
+				"favourites_count": 115013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76218,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2353,
+			"favorite_count": 7924,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The child IS the administration,, the infant is 74 years old. https://t.co/gNY2oCkOVN"
+	},
+	{
 		"created_at": "Thu Jul 09 16:29:31 +0000 2020",
 		"id": 1281264227949277200,
 		"id_str": "1281264227949277184",

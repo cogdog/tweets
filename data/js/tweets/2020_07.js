@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 01:57:55 +0000 2020",
+		"id": 1282856823603654700,
+		"id_str": "1282856823603654658",
+		"full_text": "The trifecta is McD's in the rear view mirror. https://t.co/j4Rta1tkvS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j4Rta1tkvS",
+					"expanded_url": "https://twitter.com/yungdresscode/status/1282787434175094785",
+					"display_url": "twitter.com/yungdresscode/…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10523,
+			"friends_count": 1529,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282787434175094800,
+		"quoted_status_id_str": "1282787434175094785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j4Rta1tkvS",
+			"expanded": "https://twitter.com/yungdresscode/status/1282787434175094785",
+			"display": "twitter.com/yungdresscode/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 13 21:22:12 +0000 2020",
+			"id": 1282787434175094800,
+			"id_str": "1282787434175094785",
+			"full_text": "which way western man https://t.co/o4BMwqDOAX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282787424582750200,
+						"id_str": "1282787424582750212",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec1gXbyX0AQSAUl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec1gXbyX0AQSAUl.jpg",
+						"url": "https://t.co/o4BMwqDOAX",
+						"display_url": "pic.twitter.com/o4BMwqDOAX",
+						"expanded_url": "https://twitter.com/yungdresscode/status/1282787434175094785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282787424582750200,
+						"id_str": "1282787424582750212",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec1gXbyX0AQSAUl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec1gXbyX0AQSAUl.jpg",
+						"url": "https://t.co/o4BMwqDOAX",
+						"display_url": "pic.twitter.com/o4BMwqDOAX",
+						"expanded_url": "https://twitter.com/yungdresscode/status/1282787434175094785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 965421784878239700,
+				"id_str": "965421784878239744",
+				"name": "𝗽𝗼𝗱 𝗷𝗼𝗵𝗻 𝘃.𝟱",
+				"screen_name": "yungdresscode",
+				"location": "Florida, USA",
+				"description": "hey i'm john i flew 1500 miles in the middle of a pandemic to meet a mutual",
+				"url": "https://t.co/RcCNCwpajD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RcCNCwpajD",
+								"expanded_url": "https://www.youtube.com/channel/UCbLCyQcwO3DYUnLmd2YG5yQ",
+								"display_url": "youtube.com/channel/UCbLCy…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1264,
+				"friends_count": 760,
+				"listed_count": 4,
+				"created_at": "Mon Feb 19 03:04:24 +0000 2018",
+				"favourites_count": 49117,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13852,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1279835313125445633/a9_PyUHO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279835313125445633/a9_PyUHO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/965421784878239744/1594654020",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10868,
+			"favorite_count": 65517,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The trifecta is McD's in the rear view mirror. https://t.co/j4Rta1tkvS"
+	},
+	{
 		"created_at": "Mon Jul 13 21:54:57 +0000 2020",
 		"id": 1282795679346077700,
 		"id_str": "1282795679346077696",

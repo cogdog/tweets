@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 14:38:40 +0000 2020",
+		"id": 1283410661301600300,
+		"id_str": "1283410661301600256",
+		"full_text": "No place SPLOTs like Coventry! https://t.co/NHjG9KCZhv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NHjG9KCZhv",
+					"expanded_url": "https://twitter.com/villaronrubia/status/1283317741513068545",
+					"display_url": "twitter.com/villaronrubia/…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1530,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283317741513068500,
+		"quoted_status_id_str": "1283317741513068545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NHjG9KCZhv",
+			"expanded": "https://twitter.com/villaronrubia/status/1283317741513068545",
+			"display": "twitter.com/villaronrubia/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 15 08:29:27 +0000 2020",
+			"id": 1283317741513068500,
+			"id_str": "1283317741513068545",
+			"full_text": "Today is the Coventry Teaching &amp; Learning Staff Conference #CovConf2020. This year happening online. Building on the #OER20 experience, we have launched a social bingo site too: https://t.co/LJPmMX7AJ2 cc: @MiaZamoraPhD @MarenDeepwell @mhawksey @cogdog  @time_motion",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CovConf2020",
+						"indices": [
+							63,
+							75
+						]
+					},
+					{
+						"text": "OER20",
+						"indices": [
+							121,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MiaZamoraPhD",
+						"name": "Mia Zamora",
+						"id": 579873574,
+						"id_str": "579873574",
+						"indices": [
+							210,
+							223
+						]
+					},
+					{
+						"screen_name": "MarenDeepwell",
+						"name": "Dr Maren Deepwell",
+						"id": 323173367,
+						"id_str": "323173367",
+						"indices": [
+							224,
+							238
+						]
+					},
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							239,
+							248
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							249,
+							256
+						]
+					},
+					{
+						"screen_name": "time_motion",
+						"name": "Jonathan Shaw",
+						"id": 66360983,
+						"id_str": "66360983",
+						"indices": [
+							258,
+							270
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LJPmMX7AJ2",
+						"expanded_url": "https://www.socialbingo.coventry.domains/",
+						"display_url": "socialbingo.coventry.domains",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41424326,
+				"id_str": "41424326",
+				"name": "Daniel Villar-Onrubia",
+				"screen_name": "villaronrubia",
+				"location": "Coventry, England",
+				"description": "Principal Innovation Lead at Coventry University's @disrupt_learn // @oiioxford DPhil alumnus. Views my own.",
+				"url": "http://t.co/JV6Tos7PAX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JV6Tos7PAX",
+								"expanded_url": "http://uk.linkedin.com/in/danielvillaronrubia/",
+								"display_url": "uk.linkedin.com/in/danielvilla…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1140,
+				"friends_count": 963,
+				"listed_count": 64,
+				"created_at": "Wed May 20 19:05:29 +0000 2009",
+				"favourites_count": 3367,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3299,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939186553968123904/hfJvuNB1_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No place SPLOTs like Coventry! https://t.co/NHjG9KCZhv"
+	},
+	{
 		"created_at": "Wed Jul 15 13:26:39 +0000 2020",
 		"id": 1283392535604260900,
 		"id_str": "1283392535604260866",

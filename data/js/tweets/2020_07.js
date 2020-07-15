@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 04:55:14 +0000 2020",
+		"id": 1283263832928817200,
+		"id_str": "1283263832928817152",
+		"full_text": "Just because public domain does not *require* attribution does mean you shouldn’t. Why not give credit? ABA Always Be Attrubuting. https://t.co/xAgT2sF1pE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xAgT2sF1pE",
+					"expanded_url": "https://twitter.com/creativecommons/status/1283127855749255173",
+					"display_url": "twitter.com/creativecommon…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1529,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283127855749255200,
+		"quoted_status_id_str": "1283127855749255173",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xAgT2sF1pE",
+			"expanded": "https://twitter.com/creativecommons/status/1283127855749255173",
+			"display": "twitter.com/creativecommon…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 14 19:54:54 +0000 2020",
+			"id": 1283127855749255200,
+			"id_str": "1283127855749255173",
+			"full_text": "☝️ FYI: CC0, our public domain dedication tool, doesn't require attribution. However, it’s best practice to identify provenance—where the work is stewarded—this includes listing the institution the image was sourced from. \n\nFor more guidance, check out: https://t.co/xmYdjf9gxL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xmYdjf9gxL",
+						"expanded_url": "http://bit.ly/3h4QKGZ",
+						"display_url": "bit.ly/3h4QKGZ",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1283126730060857300,
+			"in_reply_to_status_id_str": "1283126730060857344",
+			"in_reply_to_user_id": 17462723,
+			"in_reply_to_user_id_str": "17462723",
+			"in_reply_to_screen_name": "creativecommons",
+			"user": {
+				"id": 17462723,
+				"id_str": "17462723",
+				"name": "Creative Commons",
+				"screen_name": "creativecommons",
+				"location": "Everywhere",
+				"description": "The nonprofit behind the licenses and tools the world uses to share. 🌍\nFollow us for all things #openaccess.\n\n 📸: \"Malus Baccata\" via @BioDivLibrary (PD)",
+				"url": "https://t.co/AqqagUyLew",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AqqagUyLew",
+								"expanded_url": "https://creativecommons.org",
+								"display_url": "creativecommons.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 554569,
+				"friends_count": 2041,
+				"listed_count": 9599,
+				"created_at": "Tue Nov 18 11:54:02 +0000 2008",
+				"favourites_count": 6050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "21547B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111661918962573312/D9sKPfLC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111661918962573312/D9sKPfLC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17462723/1593610073",
+				"profile_link_color": "5783A5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just because public domain does not *require* attribution does mean you shouldn’t. Why not give credit? ABA Always Be Attrubuting. https://t.co/xAgT2sF1pE"
+	},
+	{
 		"created_at": "Wed Jul 15 01:10:19 +0000 2020",
 		"id": 1283207230620233700,
 		"id_str": "1283207230620233735",

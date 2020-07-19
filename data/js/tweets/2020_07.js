@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 17:03:29 +0000 2020",
+		"id": 1284896554105610200,
+		"id_str": "1284896655708270598",
+		"full_text": "\"Last year 37,000 Americans died from the common flu. Nothing is shut down, life and the economy go on... Think about that.\" https://t.co/pVRbUayz3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pVRbUayz3L",
+					"expanded_url": "https://www.worldometers.info/coronavirus/country/us/",
+					"display_url": "worldometers.info/coronavirus/co…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://makeamericagrate.io\" rel=\"nofollow\">American Grating</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 797267729090629600,
+			"id_str": "797267729090629632",
+			"name": "Is America Grate?",
+			"screen_name": "isamericagrate",
+			"location": "The Republic of America",
+			"description": "If your America is not yet grate, then we have suggestions!",
+			"url": "https://t.co/ypu0fJejCG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ypu0fJejCG",
+							"expanded_url": "https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/here-are-76-of-donald-trumps-many-ca",
+							"display_url": "washingtonpost.com/news/post-poli…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14,
+			"friends_count": 124,
+			"listed_count": 4,
+			"created_at": "Sat Nov 12 02:40:13 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797284868057010177/gGCU60Xp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797284868057010177/gGCU60Xp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/797267729090629632/1478919177",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Last year 37,000 Americans died from the common flu. Nothing is shut down, life and the economy go on... Think about that.\" https://t.co/pVRbUayz3L"
+	},
+	{
 		"created_at": "Sat Jul 18 14:28:02 +0000 2020",
 		"id": 1284495148890460200,
 		"id_str": "1284495148890460162",

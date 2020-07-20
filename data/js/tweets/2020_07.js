@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 06:29:07 +0000 2020",
+		"id": 1285099397684945000,
+		"id_str": "1285099397684944896",
+		"full_text": "@brlamb @brennacgray @MiaZamoraPhD You place a lot of faith on voting systems ;-) https://t.co/AGPh7RKOxD",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "brennacgray",
+					"name": "Brenna Clarke Gray",
+					"id": 14109848,
+					"id_str": "14109848",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285099263458869200,
+					"id_str": "1285099263458869248",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdWW-KuVAAAY4Bc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdWW-KuVAAAY4Bc.jpg",
+					"url": "https://t.co/AGPh7RKOxD",
+					"display_url": "pic.twitter.com/AGPh7RKOxD",
+					"expanded_url": "https://twitter.com/cogdog/status/1285099397684944896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285099263458869200,
+					"id_str": "1285099263458869248",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdWW-KuVAAAY4Bc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdWW-KuVAAAY4Bc.jpg",
+					"url": "https://t.co/AGPh7RKOxD",
+					"display_url": "pic.twitter.com/AGPh7RKOxD",
+					"expanded_url": "https://twitter.com/cogdog/status/1285099397684944896/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EdWW-KuVAAAY4Bc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1285045461942845400,
+		"in_reply_to_status_id_str": "1285045461942845440",
+		"in_reply_to_user_id": 745903,
+		"in_reply_to_user_id_str": "745903",
+		"in_reply_to_screen_name": "brlamb",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10518,
+			"friends_count": 1529,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@brlamb @brennacgray @MiaZamoraPhD You place a lot of faith on voting systems ;-) https://t.co/AGPh7RKOxD"
+	},
+	{
 		"created_at": "Sun Jul 19 17:03:29 +0000 2020",
 		"id": 1284896554105610200,
 		"id_str": "1284896655708270598",

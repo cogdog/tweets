@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 14:53:11 +0000 2020",
+		"id": 1288850131337412600,
+		"id_str": "1288850131337412609",
+		"full_text": "And 150,000 people can no longer render an opinion. But we can surmise what they might say. https://t.co/xWnZ10HpeG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xWnZ10HpeG",
+					"expanded_url": "https://twitter.com/ZackBornstein/status/1288322412807729152",
+					"display_url": "twitter.com/ZackBornstein/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10512,
+			"friends_count": 1530,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288322412807729200,
+		"quoted_status_id_str": "1288322412807729152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xWnZ10HpeG",
+			"expanded": "https://twitter.com/ZackBornstein/status/1288322412807729152",
+			"display": "twitter.com/ZackBornstein/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 29 03:56:13 +0000 2020",
+			"id": 1288322412807729200,
+			"id_str": "1288322412807729152",
+			"full_text": "Just imagine seeing this image with no context in 2014 https://t.co/wI80vLabNV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1288322353613529000,
+						"id_str": "1288322353613529090",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/EeEKWtNUYAI5ahd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeEKWtNUYAI5ahd.jpg",
+						"url": "https://t.co/wI80vLabNV",
+						"display_url": "pic.twitter.com/wI80vLabNV",
+						"expanded_url": "https://twitter.com/ZackBornstein/status/1288322412807729152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 667,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 667,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 667,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288322353613529000,
+						"id_str": "1288322353613529090",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/EeEKWtNUYAI5ahd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeEKWtNUYAI5ahd.jpg",
+						"url": "https://t.co/wI80vLabNV",
+						"display_url": "pic.twitter.com/wI80vLabNV",
+						"expanded_url": "https://twitter.com/ZackBornstein/status/1288322412807729152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 667,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 667,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 667,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51654515,
+				"id_str": "51654515",
+				"name": "Zack Bornstein",
+				"screen_name": "ZackBornstein",
+				"location": "Los Angeles, CA",
+				"description": "Emmy-losing Writer / Director / Comedian (@nbcSNL, @JimmyKimmelLive, #Alternatino, @Netflix, @GameOn, @ComedyCentral, @NewYorker). IG: ZackBornstein",
+				"url": "https://t.co/wANVgrtAq8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wANVgrtAq8",
+								"expanded_url": "http://bornsteinzack.com",
+								"display_url": "bornsteinzack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91348,
+				"friends_count": 3918,
+				"listed_count": 625,
+				"created_at": "Sun Jun 28 04:55:36 +0000 2009",
+				"favourites_count": 152363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9291,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288686204204904455/S9QH6SUd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288686204204904455/S9QH6SUd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51654515/1531623602",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31773,
+			"favorite_count": 186873,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And 150,000 people can no longer render an opinion. But we can surmise what they might say. https://t.co/xWnZ10HpeG"
+	},
+	{
 		"created_at": "Thu Jul 30 12:56:18 +0000 2020",
 		"id": 1288820717228683300,
 		"id_str": "1288820717228683264",

@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 22:36:02 +0000 2020",
+		"id": 1289328997021622300,
+		"id_str": "1289328997021622274",
+		"full_text": "@eCampusOntario Big fan of H5Pstudio but not clear how to report bugs. \n\nWhen I enter a content type of \"Drag Text\"  as a filter, it returns any content type with \"drag\" in title (?) I get this as returns https://t.co/LMRofn2M21 https://t.co/F8sXaHiJ4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LMRofn2M21",
+					"expanded_url": "https://h5pstudio.ecampusontario.ca/?key=&h5ptype=Drag%20Text&field_tags_target_id=&author=",
+					"display_url": "h5pstudio.ecampusontario.ca/?key=&h5ptype=…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289328901764731000,
+					"id_str": "1289328901764730880",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EeSdzhRU0AA9SK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeSdzhRU0AA9SK9.jpg",
+					"url": "https://t.co/F8sXaHiJ4c",
+					"display_url": "pic.twitter.com/F8sXaHiJ4c",
+					"expanded_url": "https://twitter.com/cogdog/status/1289328997021622274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 1326,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289328901764731000,
+					"id_str": "1289328901764730880",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EeSdzhRU0AA9SK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeSdzhRU0AA9SK9.jpg",
+					"url": "https://t.co/F8sXaHiJ4c",
+					"display_url": "pic.twitter.com/F8sXaHiJ4c",
+					"expanded_url": "https://twitter.com/cogdog/status/1289328997021622274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 1326,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289328901785710600,
+					"id_str": "1289328901785710593",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EeSdzhWU8AEF6ha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeSdzhWU8AEF6ha.jpg",
+					"url": "https://t.co/F8sXaHiJ4c",
+					"display_url": "pic.twitter.com/F8sXaHiJ4c",
+					"expanded_url": "https://twitter.com/cogdog/status/1289328997021622274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 838,
+							"h": 1174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1174,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3429881050,
+		"in_reply_to_user_id_str": "3429881050",
+		"in_reply_to_screen_name": "eCampusOntario",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1530,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eCampusOntario Big fan of H5Pstudio but not clear how to report bugs. \n\nWhen I enter a content type of \"Drag Text\"  as a filter, it returns any content type with \"drag\" in title (?) I get this as returns https://t.co/LMRofn2M21 https://t.co/F8sXaHiJ4c"
+	},
+	{
 		"created_at": "Fri Jul 31 19:59:53 +0000 2020",
 		"id": 1289289701187190800,
 		"id_str": "1289289701187190786",

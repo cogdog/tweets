@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 07 06:38:44 +0000 2020",
+		"id": 1291624801648304000,
+		"id_str": "1291624801648304128",
+		"full_text": "\"Person, woman, man, camera, TV\" https://t.co/AGeXr6Jtji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AGeXr6Jtji",
+					"expanded_url": "https://twitter.com/dncwarroom/status/1290664696278855680",
+					"display_url": "twitter.com/dncwarroom/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10514,
+			"friends_count": 1530,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290664696278855700,
+		"quoted_status_id_str": "1290664696278855680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AGeXr6Jtji",
+			"expanded": "https://twitter.com/dncwarroom/status/1290664696278855680",
+			"display": "twitter.com/dncwarroom/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 04 15:03:37 +0000 2020",
+			"id": 1290664696278855700,
+			"id_str": "1290664696278855680",
+			"full_text": "tfw you’re the president and don’t know how to pronounce “Yosemite” https://t.co/r1oyzrXb6D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1290664172661936000,
+						"id_str": "1290664172661936137",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290664172661936137/pu/img/TTt8EezPkgR5-uGI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290664172661936137/pu/img/TTt8EezPkgR5-uGI.jpg",
+						"url": "https://t.co/r1oyzrXb6D",
+						"display_url": "pic.twitter.com/r1oyzrXb6D",
+						"expanded_url": "https://twitter.com/DNCWarRoom/status/1290664696278855680/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 902,
+								"h": 511,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 902,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1290664172661936000,
+						"id_str": "1290664172661936137",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290664172661936137/pu/img/TTt8EezPkgR5-uGI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290664172661936137/pu/img/TTt8EezPkgR5-uGI.jpg",
+						"url": "https://t.co/r1oyzrXb6D",
+						"display_url": "pic.twitter.com/r1oyzrXb6D",
+						"expanded_url": "https://twitter.com/DNCWarRoom/status/1290664696278855680/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 902,
+								"h": 511,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 902,
+								"h": 511,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								902,
+								511
+							],
+							"duration_millis": 12372,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1290664172661936137/pu/vid/900x510/D7s-uYQuEI82cjke.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1290664172661936137/pu/vid/476x270/u4YUuh9Thr5qHotx.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1290664172661936137/pu/vid/634x360/K5FZWr6aCOqMUW3h.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1290664172661936137/pu/pl/S2dfrhBY4EDIMGzy.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4486093643,
+				"id_str": "4486093643",
+				"name": "DNC War Room",
+				"screen_name": "DNCWarRoom",
+				"location": "Washington, DC",
+				"description": "Official Twitter Account for @TheDemocrats War Room.",
+				"url": "https://t.co/jLlJ4BS2Kx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jLlJ4BS2Kx",
+								"expanded_url": "http://www.democrats.org",
+								"display_url": "democrats.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62311,
+				"friends_count": 86,
+				"listed_count": 634,
+				"created_at": "Mon Dec 14 23:34:33 +0000 2015",
+				"favourites_count": 27,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7695,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116283451844517888/bv_lObPX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116283451844517888/bv_lObPX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4486093643/1556556093",
+				"profile_link_color": "00AEF3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3036,
+			"favorite_count": 8191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "\"Person, woman, man, camera, TV\" https://t.co/AGeXr6Jtji"
+	},
+	{
 		"created_at": "Fri Aug 07 02:59:04 +0000 2020",
 		"id": 1291569518892871700,
 		"id_str": "1291569518892871680",

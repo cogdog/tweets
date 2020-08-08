@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 19:00:42 +0000 2020",
+		"id": 1292173909308006400,
+		"id_str": "1292173909308006400",
+		"full_text": "Written with a black sharpie pen atop the existing ACA legislation that already does this... which he and his cronies are trying to destroy. Or maybe the order will be mailed via the USPS (ditto on destruction). https://t.co/uqkGw6VuEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uqkGw6VuEl",
+					"expanded_url": "https://twitter.com/markknoller/status/1291885939682422784",
+					"display_url": "twitter.com/markknoller/st…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10515,
+			"friends_count": 1529,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1291885939682422800,
+		"quoted_status_id_str": "1291885939682422784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uqkGw6VuEl",
+			"expanded": "https://twitter.com/markknoller/status/1291885939682422784",
+			"display": "twitter.com/markknoller/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 07 23:56:24 +0000 2020",
+			"id": 1291885939682422800,
+			"id_str": "1291885939682422784",
+			"full_text": "Over next two weeks, Pres Trump says he'll be working on \"a major Executive Order,\" requiring health insurance companies to cover pre-existing conditions \"for all of its customers.\" https://t.co/32uNYFqvi1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1291885838729719800,
+						"id_str": "1291885838729719813",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/Ee2zU1vXsAUAGEn.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ee2zU1vXsAUAGEn.png",
+						"url": "https://t.co/32uNYFqvi1",
+						"display_url": "pic.twitter.com/32uNYFqvi1",
+						"expanded_url": "https://twitter.com/markknoller/status/1291885939682422784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1291885838729719800,
+						"id_str": "1291885838729719813",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/Ee2zU1vXsAUAGEn.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ee2zU1vXsAUAGEn.png",
+						"url": "https://t.co/32uNYFqvi1",
+						"display_url": "pic.twitter.com/32uNYFqvi1",
+						"expanded_url": "https://twitter.com/markknoller/status/1291885939682422784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31127446,
+				"id_str": "31127446",
+				"name": "Mark Knoller",
+				"screen_name": "markknoller",
+				"location": "Washington, D.C.",
+				"description": "CBS News White House Correspondent",
+				"url": "http://t.co/BCxDdZjO0a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BCxDdZjO0a",
+								"expanded_url": "http://cbsnews.com",
+								"display_url": "cbsnews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 353035,
+				"friends_count": 2260,
+				"listed_count": 9078,
+				"created_at": "Tue Apr 14 14:01:03 +0000 2009",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 140308,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0A0B0F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/137394623/knoller_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/137394623/knoller_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31127446/1358276248",
+				"profile_link_color": "DD4020",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EAEDF0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 361,
+			"favorite_count": 1359,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Written with a black sharpie pen atop the existing ACA legislation that already does this... which he and his cronies are trying to destroy. Or maybe the order will be mailed via the USPS (ditto on destruction). https://t.co/uqkGw6VuEl"
+	},
+	{
 		"created_at": "Sat Aug 08 17:57:35 +0000 2020",
 		"id": 1292158027773046800,
 		"id_str": "1292158027773046784",

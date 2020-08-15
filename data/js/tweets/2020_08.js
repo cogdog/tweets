@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 18:55:08 +0000 2020",
+		"id": 1294709223582924800,
+		"id_str": "1294709223582924801",
+		"full_text": "@emiliovavarella @BryanAlexander @bgblogging @fncll @SFFAudio @notjessewalker @edwebb Quantum photography and time as a handkerchief and glitches all woven together. Great interview lots to absorb",
+		"truncated": false,
+		"display_text_range": [
+			86,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emiliovavarella",
+					"name": "Emilio Vavarella",
+					"id": 2293379731,
+					"id_str": "2293379731",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "bgblogging",
+					"name": "Barbara Ganley",
+					"id": 6110252,
+					"id_str": "6110252",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"screen_name": "fncll",
+					"name": "🐒 Chris Lott",
+					"id": 2345538506,
+					"id_str": "2345538506",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"screen_name": "SFFAudio",
+					"name": "SFFaudio",
+					"id": 4654971,
+					"id_str": "4654971",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"screen_name": "notjessewalker",
+					"name": "Jesse Walker",
+					"id": 211031794,
+					"id_str": "211031794",
+					"indices": [
+						62,
+						77
+					]
+				},
+				{
+					"screen_name": "edwebb",
+					"name": "Ed Webb",
+					"id": 15810854,
+					"id_str": "15810854",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1294439861047513000,
+		"in_reply_to_status_id_str": "1294439861047513091",
+		"in_reply_to_user_id": 2293379731,
+		"in_reply_to_user_id_str": "2293379731",
+		"in_reply_to_screen_name": "emiliovavarella",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10519,
+			"friends_count": 1529,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@emiliovavarella @BryanAlexander @bgblogging @fncll @SFFAudio @notjessewalker @edwebb Quantum photography and time as a handkerchief and glitches all woven together. Great interview lots to absorb"
+	},
+	{
 		"created_at": "Sat Aug 15 16:36:43 +0000 2020",
 		"id": 1294674389821034500,
 		"id_str": "1294674389821034496",

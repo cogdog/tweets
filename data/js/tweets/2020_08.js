@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 16:54:40 +0000 2020",
+		"id": 1295766073149538300,
+		"id_str": "1295766073149538306",
+		"full_text": "This is a fantastic collection of community building online activities, not at all tied to tools/platforms. \n\nThanks @UnboundEq @oneheglobal and kudos to creators @Bali_Maha @MiaZamoraPhD @Autumm @Profpatrice @wavinya66 https://t.co/7QnIdVhVmI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UnboundEq",
+					"name": "Equity Unbound",
+					"id": 1020191831861219300,
+					"id_str": "1020191831861219329",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"screen_name": "oneheglobal",
+					"name": "OneHEglobal",
+					"id": 1042767738031296500,
+					"id_str": "1042767738031296513",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						174,
+						187
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"screen_name": "Profpatrice",
+					"name": "Patrice Torcivia Prusko",
+					"id": 117825013,
+					"id_str": "117825013",
+					"indices": [
+						196,
+						208
+					]
+				},
+				{
+					"screen_name": "wavinya66",
+					"name": "Irene Maweu",
+					"id": 123168263,
+					"id_str": "123168263",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7QnIdVhVmI",
+					"expanded_url": "https://twitter.com/Bali_Maha/status/1295693174740930563",
+					"display_url": "twitter.com/Bali_Maha/stat…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1530,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295693174740930600,
+		"quoted_status_id_str": "1295693174740930563",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7QnIdVhVmI",
+			"expanded": "https://twitter.com/Bali_Maha/status/1295693174740930563",
+			"display": "twitter.com/Bali_Maha/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 18 12:05:00 +0000 2020",
+			"id": 1295693174740930600,
+			"id_str": "1295693174740930563",
+			"full_text": "Just (soft) launched with 6 starter activities/ideas! \n\nCommunity-building resources for online learning via @UnboundEq @oneheglobal @VConnecting \n\nCreated with @MiaZamoraPhD @Autumm @Profpatrice @wavinya66 \n\nhttps://t.co/3tUEMUb0wb\n\nhttps://t.co/5NoM71wiGd\n#unboundeq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "unboundeq",
+						"indices": [
+							258,
+							268
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UnboundEq",
+						"name": "Equity Unbound",
+						"id": 1020191831861219300,
+						"id_str": "1020191831861219329",
+						"indices": [
+							109,
+							119
+						]
+					},
+					{
+						"screen_name": "oneheglobal",
+						"name": "OneHEglobal",
+						"id": 1042767738031296500,
+						"id_str": "1042767738031296513",
+						"indices": [
+							120,
+							132
+						]
+					},
+					{
+						"screen_name": "VConnecting",
+						"name": "Virtually Connecting conversation not presentation",
+						"id": 3230962884,
+						"id_str": "3230962884",
+						"indices": [
+							133,
+							145
+						]
+					},
+					{
+						"screen_name": "MiaZamoraPhD",
+						"name": "Mia Zamora",
+						"id": 579873574,
+						"id_str": "579873574",
+						"indices": [
+							161,
+							174
+						]
+					},
+					{
+						"screen_name": "Autumm",
+						"name": "Autumm Caines is a Liminal Space",
+						"id": 6292182,
+						"id_str": "6292182",
+						"indices": [
+							175,
+							182
+						]
+					},
+					{
+						"screen_name": "Profpatrice",
+						"name": "Patrice Torcivia Prusko",
+						"id": 117825013,
+						"id_str": "117825013",
+						"indices": [
+							183,
+							195
+						]
+					},
+					{
+						"screen_name": "wavinya66",
+						"name": "Irene Maweu",
+						"id": 123168263,
+						"id_str": "123168263",
+						"indices": [
+							196,
+							206
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3tUEMUb0wb",
+						"expanded_url": "https://oneheglobal.org/equity-unbound/",
+						"display_url": "oneheglobal.org/equity-unbound/",
+						"indices": [
+							209,
+							232
+						]
+					},
+					{
+						"url": "https://t.co/5NoM71wiGd",
+						"expanded_url": "http://unboundeq.creativitycourse.org/activities/community-building-online-open-resources-from-oneheglobal-unboundeq/",
+						"display_url": "unboundeq.creativitycourse.org/activities/com…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1535273520,
+				"id_str": "1535273520",
+				"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+				"screen_name": "Bali_Maha",
+				"location": "AUC, Cairo, #Egypt",
+				"description": "Writaholic/Learnaholic. Associate Prof of Practice #facdev @cltauc. Co-founder @VConnecting & @UnboundEq. Part of @HybridPed #digped\nWas #PhDmum @SheffieldUni",
+				"url": "https://t.co/pjHqig6ctM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjHqig6ctM",
+								"expanded_url": "http://blog.mahabali.me",
+								"display_url": "blog.mahabali.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9235,
+				"friends_count": 7594,
+				"listed_count": 480,
+				"created_at": "Thu Jun 20 23:42:32 +0000 2013",
+				"favourites_count": 94278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65576,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139214312147492867/APfYW47O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139214312147492867/APfYW47O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535273520/1380017817",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a fantastic collection of community building online activities, not at all tied to tools/platforms. \n\nThanks @UnboundEq @oneheglobal and kudos to creators @Bali_Maha @MiaZamoraPhD @Autumm @Profpatrice @wavinya66 https://t.co/7QnIdVhVmI"
+	},
+	{
 		"created_at": "Sat Aug 15 21:10:24 +0000 2020",
 		"id": 1294743264600432600,
 		"id_str": "1294743264600432646",

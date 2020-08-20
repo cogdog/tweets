@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 14:37:08 +0000 2020",
+		"id": 1296456237064781800,
+		"id_str": "1296456237064781824",
+		"full_text": "Listen to this and then just skip using cute fonts. https://t.co/PFuGXej93F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFuGXej93F",
+					"expanded_url": "https://twitter.com/kentcdodds/status/1083073242330361856",
+					"display_url": "twitter.com/kentcdodds/sta…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10525,
+			"friends_count": 1530,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083073242330361900,
+		"quoted_status_id_str": "1083073242330361856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PFuGXej93F",
+			"expanded": "https://twitter.com/kentcdodds/status/1083073242330361856",
+			"display": "twitter.com/kentcdodds/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 09 18:49:18 +0000 2019",
+			"id": 1083073242330361900,
+			"id_str": "1083073242330361856",
+			"full_text": "You 𝘵𝘩𝘪𝘯𝘬 it's 𝒸𝓊𝓉ℯ to 𝘄𝗿𝗶𝘁𝗲 your tweets and usernames 𝖙𝖍𝖎𝖘 𝖜𝖆𝖞. But have you 𝙡𝙞𝙨𝙩𝙚𝙣𝙚𝙙 to what it 𝘴𝘰𝘶𝘯𝘥𝘴 𝘭𝘪𝘬𝘦 with assistive technologies like 𝓥𝓸𝓲𝓬𝓮𝓞𝓿𝓮𝓻? https://t.co/CywCf1b3Lm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083073166715498500,
+						"id_str": "1083073166715498496",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"url": "https://t.co/CywCf1b3Lm",
+						"display_url": "pic.twitter.com/CywCf1b3Lm",
+						"expanded_url": "https://twitter.com/kentcdodds/status/1083073242330361856/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083073166715498500,
+						"id_str": "1083073166715498496",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"url": "https://t.co/CywCf1b3Lm",
+						"display_url": "pic.twitter.com/CywCf1b3Lm",
+						"expanded_url": "https://twitter.com/kentcdodds/status/1083073242330361856/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								18
+							],
+							"duration_millis": 77667,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/pl/y1xwsyS7H4kSNiHv.m3u8?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/vid/1000x720/YuLuvB9FdwdZ_kO_.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/vid/500x360/IKmg1jZ3EZmYHSnz.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/vid/250x180/HEbHKr-HlfTtWZXP.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 389681470,
+				"id_str": "389681470",
+				"name": "Kent C. Dodds 🌌",
+				"screen_name": "kentcdodds",
+				"location": "Pleasant Grove, UT",
+				"description": "Improving the world w/ quality software · Husband, Father, Latter-day Saint, Teacher, OSS · https://t.co/BPGwlZKHOo · https://t.co/E1TQ8Ju1OS · Be Kind",
+				"url": "https://t.co/F3SmzPLcfn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3SmzPLcfn",
+								"expanded_url": "http://kentcdodds.com",
+								"display_url": "kentcdodds.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BPGwlZKHOo",
+								"expanded_url": "http://TestingJavaScript.com",
+								"display_url": "TestingJavaScript.com",
+								"indices": [
+									92,
+									115
+								]
+							},
+							{
+								"url": "https://t.co/E1TQ8Ju1OS",
+								"expanded_url": "http://EpicReact.Dev",
+								"display_url": "EpicReact.Dev",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 111318,
+				"friends_count": 678,
+				"listed_count": 2209,
+				"created_at": "Wed Oct 12 20:43:38 +0000 2011",
+				"favourites_count": 158566,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 102204,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDEDED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/389681470/1573580089",
+				"profile_link_color": "223891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29737,
+			"favorite_count": 47260,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to this and then just skip using cute fonts. https://t.co/PFuGXej93F"
+	},
+	{
 		"created_at": "Thu Aug 20 05:00:17 +0000 2020",
 		"id": 1296311067535184000,
 		"id_str": "1296311067535183872",

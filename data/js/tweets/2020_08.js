@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 28 14:11:22 +0000 2020",
+		"id": 1299348855054450700,
+		"id_str": "1299348855054450688",
+		"full_text": "Wow, this RSS thing might be interesting ;-) https://t.co/vpbdjXFFMx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vpbdjXFFMx",
+					"expanded_url": "https://twitter.com/intrcnnctd/status/1293546866072748037",
+					"display_url": "twitter.com/intrcnnctd/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10524,
+			"friends_count": 1530,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293546866072748000,
+		"quoted_status_id_str": "1293546866072748037",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vpbdjXFFMx",
+			"expanded": "https://twitter.com/intrcnnctd/status/1293546866072748037",
+			"display": "twitter.com/intrcnnctd/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 12 13:56:20 +0000 2020",
+			"id": 1293546866072748000,
+			"id_str": "1293546866072748037",
+			"full_text": "New post: Introducing https://t.co/sTpkq5Oy0S, a Getting Started guide for web feeds and RSS https://t.co/OdTrjdaqkL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sTpkq5Oy0S",
+						"expanded_url": "http://aboutfeeds.com",
+						"display_url": "aboutfeeds.com",
+						"indices": [
+							22,
+							45
+						]
+					},
+					{
+						"url": "https://t.co/OdTrjdaqkL",
+						"expanded_url": "http://interconnected.org/home/2020/08/12/introducing_aboutfeeds",
+						"display_url": "interconnected.org/home/2020/08/1…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237283855,
+				"id_str": "237283855",
+				"name": "Matt Webb's blog",
+				"screen_name": "intrcnnctd",
+				"location": "London, UK",
+				"description": "Posts made to Interconnected, a weblog by itinerant besserwisser Matt Webb aka @genmon. Est Feb 2000",
+				"url": "https://t.co/TrqrjlFHQY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TrqrjlFHQY",
+								"expanded_url": "http://interconnected.org/home",
+								"display_url": "interconnected.org/home",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 888,
+				"friends_count": 1,
+				"listed_count": 54,
+				"created_at": "Wed Jan 12 14:03:26 +0000 2011",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213696490/2010-01-12_Interconnected_Twitter_avatar_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213696490/2010-01-12_Interconnected_Twitter_avatar_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237283855/1417341235",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, this RSS thing might be interesting ;-) https://t.co/vpbdjXFFMx"
+	},
+	{
 		"created_at": "Thu Aug 27 21:44:18 +0000 2020",
 		"id": 1299100452076712000,
 		"id_str": "1299100452076711936",

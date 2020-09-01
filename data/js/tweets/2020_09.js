@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 01 20:15:08 +0000 2020",
+		"id": 1300889952213856300,
+		"id_str": "1300889952213856256",
+		"full_text": "@OnlineCrsLady @judell Remember the early dinosaur logos? Mosaic+Godzilla = Mozilla!\n\nhttps://t.co/NqRaQ0B64L https://t.co/nlyl2YjczA",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "judell",
+					"name": "Jon Udell",
+					"id": 2937071,
+					"id_str": "2937071",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NqRaQ0B64L",
+					"expanded_url": "http://www.davetitus.com/mozilla/",
+					"display_url": "davetitus.com/mozilla/",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300889814061822000,
+					"id_str": "1300889814061821952",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg2wZLsUMAAEI2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg2wZLsUMAAEI2O.jpg",
+					"url": "https://t.co/nlyl2YjczA",
+					"display_url": "pic.twitter.com/nlyl2YjczA",
+					"expanded_url": "https://twitter.com/cogdog/status/1300889952213856256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 137,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 137,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 137,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 137,
+							"h": 137,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300889814061822000,
+					"id_str": "1300889814061821952",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg2wZLsUMAAEI2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg2wZLsUMAAEI2O.jpg",
+					"url": "https://t.co/nlyl2YjczA",
+					"display_url": "pic.twitter.com/nlyl2YjczA",
+					"expanded_url": "https://twitter.com/cogdog/status/1300889952213856256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 137,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 137,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 137,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 137,
+							"h": 137,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1300888601807515600,
+		"in_reply_to_status_id_str": "1300888601807515649",
+		"in_reply_to_user_id": 7044082,
+		"in_reply_to_user_id_str": "7044082",
+		"in_reply_to_screen_name": "OnlineCrsLady",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10518,
+			"friends_count": 1531,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OnlineCrsLady @judell Remember the early dinosaur logos? Mosaic+Godzilla = Mozilla!\n\nhttps://t.co/NqRaQ0B64L https://t.co/nlyl2YjczA"
+	},
+	{
 		"created_at": "Tue Sep 01 18:28:39 +0000 2020",
 		"id": 1300863154700693500,
 		"id_str": "1300863154700693504",

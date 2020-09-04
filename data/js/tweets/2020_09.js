@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 22:27:35 +0000 2020",
+		"id": 1301563518186029000,
+		"id_str": "1302010447512526848",
+		"full_text": "Extend @eCampusOntario has gone GLOBAL! Extending all the way to New Zealand where COEP \npartnered @otago are piloting this @eCampusOntario program before rolling it out nationally &amp; internationally via @OERuniversitas Read this blog post by @Mackiwg  https://t.co/Qbh7EbGyje https://t.co/DPabtUBOBa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						7,
+						22
+					]
+				},
+				{
+					"screen_name": "otago",
+					"name": "University of Otago",
+					"id": 19513912,
+					"id_str": "19513912",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						124,
+						139
+					]
+				},
+				{
+					"screen_name": "OERuniversitas",
+					"name": "OERu",
+					"id": 2251530498,
+					"id_str": "2251530498",
+					"indices": [
+						207,
+						222
+					]
+				},
+				{
+					"screen_name": "Mackiwg",
+					"name": "Wayne Mackintosh",
+					"id": 28217898,
+					"id_str": "28217898",
+					"indices": [
+						246,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qbh7EbGyje",
+					"expanded_url": "https://oerfoundation.org/2020/08/28/ontario-extend-going-global-with-oeru/",
+					"display_url": "oerfoundation.org/2020/08/28/ont…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301563512922275800,
+					"id_str": "1301563512922275847",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhAVHnhXgAc45qy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhAVHnhXgAc45qy.jpg",
+					"url": "https://t.co/DPabtUBOBa",
+					"display_url": "pic.twitter.com/DPabtUBOBa",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1301563518186029057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301563512922275800,
+					"id_str": "1301563512922275847",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhAVHnhXgAc45qy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhAVHnhXgAc45qy.jpg",
+					"url": "https://t.co/DPabtUBOBa",
+					"display_url": "pic.twitter.com/DPabtUBOBa",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1301563518186029057/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EhAVHnhXgAc45qy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885339669457776600,
+			"id_str": "885339669457776641",
+			"name": "OntarioExtend",
+			"screen_name": "ontarioextend",
+			"location": "Toronto, Ontario",
+			"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+			"url": "https://t.co/VrJt2KX1mc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VrJt2KX1mc",
+							"expanded_url": "https://extend.ecampusontario.ca",
+							"display_url": "extend.ecampusontario.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1113,
+			"friends_count": 553,
+			"listed_count": 21,
+			"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+			"favourites_count": 3694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179847729830416387/QG8ACgTy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179847729830416387/QG8ACgTy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Extend @eCampusOntario has gone GLOBAL! Extending all the way to New Zealand where COEP \npartnered @otago are piloting this @eCampusOntario program before rolling it out nationally &amp; internationally via @OERuniversitas Read this blog post by @Mackiwg  https://t.co/Qbh7EbGyje https://t.co/DPabtUBOBa"
+	},
+	{
 		"created_at": "Fri Sep 04 19:48:04 +0000 2020",
 		"id": 1301970304957251600,
 		"id_str": "1301970304957251584",

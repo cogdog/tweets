@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 18:37:02 +0000 2020",
+		"id": 1302314813507289000,
+		"id_str": "1302314813507289088",
+		"full_text": "These trainings \"run counter to the fundamental beliefs for which our nation has stood since its inception\" \n\nAt time nation was incepted beliefs included ownership of slaves, women w/ no voting rights, violent removal of those who occupied lands for centuries before settlers https://t.co/TnSDE6M81N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TnSDE6M81N",
+					"expanded_url": "https://twitter.com/kfasimpaur/status/1302305852326584320",
+					"display_url": "twitter.com/kfasimpaur/sta…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10515,
+			"friends_count": 1531,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302305852326584300,
+		"quoted_status_id_str": "1302305852326584320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TnSDE6M81N",
+			"expanded": "https://twitter.com/kfasimpaur/status/1302305852326584320",
+			"display": "twitter.com/kfasimpaur/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 05 18:01:25 +0000 2020",
+			"id": 1302305852326584300,
+			"id_str": "1302305852326584320",
+			"full_text": "White House memo calls for ban on federal agencies conducting training on \"critical race theory,\" \"white privilege\" with taxpayer dollars\n\nhttps://t.co/HROdJCU1lV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HROdJCU1lV",
+						"expanded_url": "https://flip.it/6hdW_k",
+						"display_url": "flip.it/6hdW_k",
+						"indices": [
+							139,
+							162
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7461192,
+				"id_str": "7461192",
+				"name": "Karen Fasimpaur",
+				"screen_name": "kfasimpaur",
+				"location": "Portal, AZ",
+				"description": "#maker; lover of #rural life, #sustainableag, #seedlibrary, + #food; work in non-profit, edu + community building; advocate; usually #amwriting; she/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1586,
+				"friends_count": 1056,
+				"listed_count": 146,
+				"created_at": "Fri Jul 13 22:15:44 +0000 2007",
+				"favourites_count": 6124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24366,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E2EFF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886664223404695553/u3XDTW3v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886664223404695553/u3XDTW3v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7461192/1597095359",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These trainings \"run counter to the fundamental beliefs for which our nation has stood since its inception\" \n\nAt time nation was incepted beliefs included ownership of slaves, women w/ no voting rights, violent removal of those who occupied lands for centuries before settlers https://t.co/TnSDE6M81N"
+	},
+	{
 		"created_at": "Sat Sep 05 15:54:28 +0000 2020",
 		"id": 1302273905122406400,
 		"id_str": "1302273905122406400",

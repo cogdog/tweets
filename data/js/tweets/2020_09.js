@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 18:49:20 +0000 2020",
+		"id": 1304065750324392000,
+		"id_str": "1304129849217355776",
+		"full_text": "Someone put Bladerunner 2049 music to drone footage of San Francisco and at first I didn’t know whether to be amazed or horrified. This is very much horrifying. https://t.co/XQTv4qrE93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303909097616502800,
+					"id_str": "1303909097616502785",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"url": "https://t.co/XQTv4qrE93",
+					"display_url": "pic.twitter.com/XQTv4qrE93",
+					"expanded_url": "https://twitter.com/Bunny_Godfather/status/1303909838376722432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1303909838376722400,
+					"source_status_id_str": "1303909838376722432",
+					"source_user_id": 36287570,
+					"source_user_id_str": "36287570"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303909097616502800,
+					"id_str": "1303909097616502785",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"url": "https://t.co/XQTv4qrE93",
+					"display_url": "pic.twitter.com/XQTv4qrE93",
+					"expanded_url": "https://twitter.com/Bunny_Godfather/status/1303909838376722432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1303909838376722400,
+					"source_status_id_str": "1303909838376722432",
+					"source_user_id": 36287570,
+					"source_user_id_str": "36287570",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45042,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/vid/480x270/Vj4g2EaCyWu82YT7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/vid/640x360/HRRVRxQzVr0QjiC_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/vid/1280x720/yKms8iYrqduIi-M9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/pl/AkSb5eYANyK8hXaq.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 36287570,
+							"id_str": "36287570",
+							"name": "Andreas_sensei",
+							"screen_name": "Bunny_Godfather",
+							"location": "Yokohama",
+							"description": "German by birth but living in Japan since 1995 with my wife and 2 free roaming rabbits. Love to cycling along the Tsurumi river and other places.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1008,
+							"friends_count": 1520,
+							"listed_count": 46,
+							"created_at": "Wed Apr 29 04:32:44 +0000 2009",
+							"favourites_count": 4996,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 23004,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "022330",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1298801180118679552/bO1qlcdf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298801180118679552/bO1qlcdf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/36287570/1500856082",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "C0DFEC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369788077,
+			"id_str": "369788077",
+			"name": "Omar Jimenez",
+			"screen_name": "OmarJimenez",
+			"location": "Chicago, IL",
+			"description": "Correspondent @CNN. OJ Trop. @MedillSchool Mafia. Former @wbaltv. Gamer. Links & RTs aren't endorsements. Opinions are my own. ATL👉🏾CHI🥶. IG: OmarCNN",
+			"url": "https://t.co/tg4mA6Yr6T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tg4mA6Yr6T",
+							"expanded_url": "http://www.cnn.com/profiles/omar-jimenez",
+							"display_url": "cnn.com/profiles/omar-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307505,
+			"friends_count": 2036,
+			"listed_count": 912,
+			"created_at": "Wed Sep 07 23:20:11 +0000 2011",
+			"favourites_count": 35878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900761974488915968/yaUDtsw7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900761974488915968/yaUDtsw7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369788077/1503680420",
+			"profile_link_color": "0E0E70",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12980,
+		"favorite_count": 29546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone put Bladerunner 2049 music to drone footage of San Francisco and at first I didn’t know whether to be amazed or horrified. This is very much horrifying. https://t.co/XQTv4qrE93"
+	},
+	{
 		"created_at": "Thu Sep 10 16:05:27 +0000 2020",
 		"id": 1304088607838232600,
 		"id_str": "1304088607838232576",

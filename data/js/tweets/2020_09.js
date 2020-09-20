@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 03:20:20 +0000 2020",
+		"id": 1307519937888436200,
+		"id_str": "1307519937888436224",
+		"full_text": "@wentale @simtyrell @gamerlearner @ZacInDarwin It’s running in a Pressbooks aka WordPress instance, not quite as versatile as twine",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wentale",
+					"name": "Wendy Taleo",
+					"id": 1072328905,
+					"id_str": "1072328905",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "simtyrell",
+					"name": "Simone Tyrell",
+					"id": 1518201740,
+					"id_str": "1518201740",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "gamerlearner",
+					"name": "Colin Simpson",
+					"id": 239649193,
+					"id_str": "239649193",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "ZacInDarwin",
+					"name": "Zachary Watt",
+					"id": 772585944679526400,
+					"id_str": "772585944679526400",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1307516203666030600,
+		"in_reply_to_status_id_str": "1307516203666030593",
+		"in_reply_to_user_id": 1072328905,
+		"in_reply_to_user_id_str": "1072328905",
+		"in_reply_to_screen_name": "wentale",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10524,
+			"friends_count": 1534,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wentale @simtyrell @gamerlearner @ZacInDarwin It’s running in a Pressbooks aka WordPress instance, not quite as versatile as twine"
+	},
+	{
 		"created_at": "Sat Sep 19 22:32:23 +0000 2020",
 		"id": 1307447475159007200,
 		"id_str": "1307447475159007233",

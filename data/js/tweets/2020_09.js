@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 22:08:43 +0000 2020",
+		"id": 1308166291920834600,
+		"id_str": "1308166291920834560",
+		"full_text": "Definitely both adjectives fit! Deepfake videos imagining alternative presents? This is definitely some future #netnarr #netmirror stuff, added to the library https://t.co/IqQgWVbx8P https://t.co/1ExqfJfqpj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "netmirror",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IqQgWVbx8P",
+					"expanded_url": "http://netmirror.arganee.world/library/",
+					"display_url": "netmirror.arganee.world/library/",
+					"indices": [
+						159,
+						182
+					]
+				},
+				{
+					"url": "https://t.co/1ExqfJfqpj",
+					"expanded_url": "https://twitter.com/cascio/status/1308160884947132416",
+					"display_url": "twitter.com/cascio/status/…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10520,
+			"friends_count": 1535,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308160884947132400,
+		"quoted_status_id_str": "1308160884947132416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1ExqfJfqpj",
+			"expanded": "https://twitter.com/cascio/status/1308160884947132416",
+			"display": "twitter.com/cascio/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 21 21:47:14 +0000 2020",
+			"id": 1308160884947132400,
+			"id_str": "1308160884947132416",
+			"full_text": "Fascinating and disturbing. \n\nhttps://t.co/yQ4IUUJ7WL\n\nExplicitly-marked deepfake videos of Mark Zuckerberg, Brent Kavanaugh, and Alex Jones, in which they each make public reckonings for their pasts.\n\nI can’t help but imagine what a mirror version of this would look like.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yQ4IUUJ7WL",
+						"expanded_url": "http://www.deepreckonings.com",
+						"display_url": "deepreckonings.com",
+						"indices": [
+							30,
+							53
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3564041,
+				"id_str": "3564041",
+				"name": "Jamais Cascio",
+				"screen_name": "cascio",
+				"location": "Five minutes from now.",
+				"description": "\"A sad rascal, without shame.\" \nInvestigator of the plausibly surreal. Writer, Speaker, Futurist. He/him.\n\nThis is the only real Jamais Cascio account, btw.",
+				"url": "http://t.co/eKQ6eGDl6S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eKQ6eGDl6S",
+								"expanded_url": "http://www.openthefuture.com/2009/03/twitter_faq.html",
+								"display_url": "openthefuture.com/2009/03/twitte…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6704,
+				"friends_count": 783,
+				"listed_count": 651,
+				"created_at": "Thu Apr 05 22:19:24 +0000 2007",
+				"favourites_count": 1185,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14145,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1254839129122025473/Z5aXLMhB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254839129122025473/Z5aXLMhB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3564041/1522775935",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Definitely both adjectives fit! Deepfake videos imagining alternative presents? This is definitely some future #netnarr #netmirror stuff, added to the library https://t.co/IqQgWVbx8P https://t.co/1ExqfJfqpj"
+	},
+	{
 		"created_at": "Mon Sep 21 18:40:57 +0000 2020",
 		"id": 1308114005639061500,
 		"id_str": "1308114005639061504",

@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 18:04:06 +0000 2020",
+		"id": 1308467120749994000,
+		"id_str": "1308467120749993985",
+		"full_text": "Join us in the H5P/Pressbooks Kitchen Thursday 10am PT for \"Infusing A Medical Terminology Open Textbook With H5P Interactivity\" a @bccampus webinar with @Kcarte02 @rutherfor_marie https://t.co/wIKMX6V2hL\n\nEntry into the Kitchen requires an RSVP https://t.co/7NSdNyrDfA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BCcampus",
+					"name": "BCcampus",
+					"id": 93710949,
+					"id_str": "93710949",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"screen_name": "Kcarte02",
+					"name": "Kim Carter",
+					"id": 1245025976,
+					"id_str": "1245025976",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"screen_name": "rutherfor_marie",
+					"name": "Marie Rutherford",
+					"id": 923290846664933400,
+					"id_str": "923290846664933377",
+					"indices": [
+						164,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wIKMX6V2hL",
+					"expanded_url": "https://kitchen.opened.ca/2020/09/02/september-webinar/",
+					"display_url": "kitchen.opened.ca/2020/09/02/sep…",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/7NSdNyrDfA",
+					"expanded_url": "https://events.eply.com/2020OpenWebinarSept24",
+					"display_url": "events.eply.com/2020OpenWebina…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1535,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us in the H5P/Pressbooks Kitchen Thursday 10am PT for \"Infusing A Medical Terminology Open Textbook With H5P Interactivity\" a @bccampus webinar with @Kcarte02 @rutherfor_marie https://t.co/wIKMX6V2hL\n\nEntry into the Kitchen requires an RSVP https://t.co/7NSdNyrDfA"
+	},
+	{
 		"created_at": "Tue Sep 22 16:25:14 +0000 2020",
 		"id": 1308442238888730600,
 		"id_str": "1308442238888730627",

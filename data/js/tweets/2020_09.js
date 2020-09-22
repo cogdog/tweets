@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 03:24:07 +0000 2020",
+		"id": 1308213633155911700,
+		"id_str": "1308245667479867396",
+		"full_text": "If I read this right, we extorted a foreign corporation from an authoritarian regime for money to build an authoritarian curriculum our emerging authoritarian regime. https://t.co/1iCpnge78D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1iCpnge78D",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-09-20/trump-wants-5-billion-from-tiktok-deal-for-new-history-project",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1912681,
+			"id_str": "1912681",
+			"name": "Mike Caulfield",
+			"screen_name": "holden",
+			"location": "Portland, OR (he/him)",
+			"description": "Radically rethinking how online information literacy is taught for WSU Vancouver and partnering national organizations. Recent project with NWP: http://infodemi",
+			"url": "https://t.co/ty2GJPfEz8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ty2GJPfEz8",
+							"expanded_url": "http://hapgood.us",
+							"display_url": "hapgood.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9775,
+			"friends_count": 1286,
+			"listed_count": 492,
+			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+			"favourites_count": 19404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1598808865",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I read this right, we extorted a foreign corporation from an authoritarian regime for money to build an authoritarian curriculum our emerging authoritarian regime. https://t.co/1iCpnge78D"
+	},
+	{
 		"created_at": "Tue Sep 22 01:14:11 +0000 2020",
 		"id": 1308212967750512600,
 		"id_str": "1308212967750512642",

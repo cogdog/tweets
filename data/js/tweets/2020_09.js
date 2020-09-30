@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 22:56:46 +0000 2020",
+		"id": 1311439876471115800,
+		"id_str": "1311439876471115776",
+		"full_text": "I've read that only 6% of US citizens living in Canada vote. Let's bump that by... 94%?? \n\nIt's really easy with UOCAVA, been doing it since becoming permanent resident in 2018 https://t.co/31qf1EMedF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/31qf1EMedF",
+					"expanded_url": "https://twitter.com/AmbassadorRice/status/1311436639529512961",
+					"display_url": "twitter.com/AmbassadorRice…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311436639529513000,
+		"quoted_status_id_str": "1311436639529512961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/31qf1EMedF",
+			"expanded": "https://twitter.com/AmbassadorRice/status/1311436639529512961",
+			"display": "twitter.com/AmbassadorRice…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 30 22:43:54 +0000 2020",
+			"id": 1311436639529513000,
+			"id_str": "1311436639529512961",
+			"full_text": "TO: AMERICANS ABROAD\n\nAfter that debate from hell, it’s clearer than ever, America needs new leadership.  \n\nYou can make all the difference if you VOTE!\n\nGo to https://t.co/rtstjj95rH \n\nRegister NOW. Request ballot. Fill it out carefully. Send it back FAST. \n⁦@DemsAbroad⁩ https://t.co/xdaEKGB66c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DemsAbroad",
+						"name": "Democrats Abroad",
+						"id": 26775504,
+						"id_str": "26775504",
+						"indices": [
+							260,
+							271
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rtstjj95rH",
+						"expanded_url": "http://VoteFromAbroad.org",
+						"display_url": "VoteFromAbroad.org",
+						"indices": [
+							160,
+							183
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311436582273060900,
+						"id_str": "1311436582273060873",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311436582273060873/pu/img/cBjASRo6Vo04znYa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311436582273060873/pu/img/cBjASRo6Vo04znYa.jpg",
+						"url": "https://t.co/xdaEKGB66c",
+						"display_url": "pic.twitter.com/xdaEKGB66c",
+						"expanded_url": "https://twitter.com/AmbassadorRice/status/1311436639529512961/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311436582273060900,
+						"id_str": "1311436582273060873",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311436582273060873/pu/img/cBjASRo6Vo04znYa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311436582273060873/pu/img/cBjASRo6Vo04znYa.jpg",
+						"url": "https://t.co/xdaEKGB66c",
+						"display_url": "pic.twitter.com/xdaEKGB66c",
+						"expanded_url": "https://twitter.com/AmbassadorRice/status/1311436639529512961/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 42170,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1311436582273060873/pu/vid/640x360/JgyhmTIMPniyWQ_o.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1311436582273060873/pu/pl/J_VPvo-ZU5CnvA9Y.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1311436582273060873/pu/vid/480x270/NVeiP9T11CtEGc5_.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1311436582273060873/pu/vid/1280x720/rm-uJ5fY696qwBKC.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 820378690920058900,
+				"id_str": "820378690920058880",
+				"name": "Susan Rice",
+				"screen_name": "AmbassadorRice",
+				"location": "Washington, DC",
+				"description": "National Security Advisor; UN Amb; Mom; SIS, AU; Belfer Ctr; NYT Contributor; Author, NYT bestseller Tough Love: My Story of the Things Worth Fighting For",
+				"url": "https://t.co/WNcukGPcFv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WNcukGPcFv",
+								"expanded_url": "http://susanricebook.com",
+								"display_url": "susanricebook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 483037,
+				"friends_count": 896,
+				"listed_count": 2641,
+				"created_at": "Sat Jan 14 21:14:56 +0000 2017",
+				"favourites_count": 4630,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4602,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129211905489473537/nPyhCl9o_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129211905489473537/nPyhCl9o_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/820378690920058880/1558455657",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 377,
+			"favorite_count": 994,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've read that only 6% of US citizens living in Canada vote. Let's bump that by... 94%?? \n\nIt's really easy with UOCAVA, been doing it since becoming permanent resident in 2018 https://t.co/31qf1EMedF"
+	},
+	{
 		"created_at": "Wed Sep 30 21:19:33 +0000 2020",
 		"id": 1311415409246179300,
 		"id_str": "1311415409246179334",

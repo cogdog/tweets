@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 13:58:32 +0000 2020",
+		"id": 1312029200346476500,
+		"id_str": "1312029200346476550",
+		"full_text": "@xinli_w this looks relaxant! https://t.co/KWghRjQbhp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xinli_w",
+					"name": "Xinli Wang王新丽",
+					"id": 134294732,
+					"id_str": "134294732",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KWghRjQbhp",
+					"expanded_url": "https://twitter.com/libretexts/status/1311945751509958657",
+					"display_url": "twitter.com/libretexts/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 134294732,
+		"in_reply_to_user_id_str": "134294732",
+		"in_reply_to_screen_name": "xinli_w",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311945751509958700,
+		"quoted_status_id_str": "1311945751509958657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KWghRjQbhp",
+			"expanded": "https://twitter.com/libretexts/status/1311945751509958657",
+			"display": "twitter.com/libretexts/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 02 08:26:56 +0000 2020",
+			"id": 1311945751509958700,
+			"id_str": "1311945751509958657",
+			"full_text": "Please join WeBWorK, Libretexts, and Rederly as we present a standalone WeBWorK problem renderer that sets the foundation to use WeBWorK problems across the OER ecosystem &amp; as an embedded micro-service.\n\nOct. 8, 2020 12:00 Eastern. Register in advance\n\nhttps://t.co/WztdjAyYsN https://t.co/id2WjiWgjn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WztdjAyYsN",
+						"expanded_url": "https://us02web.zoom.us/meeting/register/tZYlfu2srzgoEtJWP80PRWlBgrzdkbYQxOXQ",
+						"display_url": "us02web.zoom.us/meeting/regist…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311944944664289300,
+						"id_str": "1311944944664289280",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EjT2-eeVoAAVg7t.png",
+						"media_url_https": "https://pbs.twimg.com/media/EjT2-eeVoAAVg7t.png",
+						"url": "https://t.co/id2WjiWgjn",
+						"display_url": "pic.twitter.com/id2WjiWgjn",
+						"expanded_url": "https://twitter.com/LibreTexts/status/1311945751509958657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 609,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 609,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 609,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311944944664289300,
+						"id_str": "1311944944664289280",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EjT2-eeVoAAVg7t.png",
+						"media_url_https": "https://pbs.twimg.com/media/EjT2-eeVoAAVg7t.png",
+						"url": "https://t.co/id2WjiWgjn",
+						"display_url": "pic.twitter.com/id2WjiWgjn",
+						"expanded_url": "https://twitter.com/LibreTexts/status/1311945751509958657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 609,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 609,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 609,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80937370,
+				"id_str": "80937370",
+				"name": "Delmar Larsen",
+				"screen_name": "LibreTexts",
+				"location": "Davis, CA",
+				"description": "A collaborative effort to generate free textbooks to replace conventional books via a constantly edited infrastructure. https://t.co/TlcxHlomr9",
+				"url": "https://t.co/38xWpVXMQs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/38xWpVXMQs",
+								"expanded_url": "http://LibreTexts.org",
+								"display_url": "LibreTexts.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TlcxHlomr9",
+								"expanded_url": "https://youtube.com/LibreTexts",
+								"display_url": "youtube.com/LibreTexts",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1177,
+				"friends_count": 704,
+				"listed_count": 53,
+				"created_at": "Thu Oct 08 20:37:33 +0000 2009",
+				"favourites_count": 3122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1939,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793535441261572096/XVySiSH7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793535441261572096/XVySiSH7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80937370/1415290745",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@xinli_w this looks relaxant! https://t.co/KWghRjQbhp"
+	},
+	{
 		"created_at": "Fri Oct 02 01:35:25 +0000 2020",
 		"id": 1311842187852816400,
 		"id_str": "1311842187852816386",

@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 20:24:19 +0000 2020",
+		"id": 1312126288639873000,
+		"id_str": "1312126288639873024",
+		"full_text": "This is sew cool ;-) \n\nSeriously it is, sewing for social change. https://t.co/0DFzrkDSmG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0DFzrkDSmG",
+					"expanded_url": "https://twitter.com/noiseprofessor/status/1312113718738604032",
+					"display_url": "twitter.com/noiseprofessor…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312113718738604000,
+		"quoted_status_id_str": "1312113718738604032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0DFzrkDSmG",
+			"expanded": "https://twitter.com/noiseprofessor/status/1312113718738604032",
+			"display": "twitter.com/noiseprofessor…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 02 19:34:23 +0000 2020",
+			"id": 1312113718738604000,
+			"id_str": "1312113718738604032",
+			"full_text": "Sara Trail from Social Justice Sewing Academy @SJSACADEMY sharing her story at #MakerEdConvening Students have done some sewing in our Making Social Change course inspired by this work https://t.co/NWLfVsNle0 and https://t.co/1i4WzMnk8q cc: @DianeECarlson",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MakerEdConvening",
+						"indices": [
+							79,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SJSACADEMY",
+						"name": "SJSA:",
+						"id": 891846697491480600,
+						"id_str": "891846697491480576",
+						"indices": [
+							46,
+							57
+						]
+					},
+					{
+						"screen_name": "DianeECarlson",
+						"name": "Diane E. Carlson",
+						"id": 2332805696,
+						"id_str": "2332805696",
+						"indices": [
+							241,
+							255
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NWLfVsNle0",
+						"expanded_url": "https://www.flcinnovation.org/sewing-social-change/",
+						"display_url": "flcinnovation.org/sewing-social-…",
+						"indices": [
+							185,
+							208
+						]
+					},
+					{
+						"url": "https://t.co/1i4WzMnk8q",
+						"expanded_url": "https://www.flcinnovation.org/making-and-advocacy-in-action/",
+						"display_url": "flcinnovation.org/making-and-adv…",
+						"indices": [
+							213,
+							236
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23041881,
+				"id_str": "23041881",
+				"name": "Zack Dowell",
+				"screen_name": "noiseprofessor",
+				"location": "California, USA",
+				"description": "Community College Faculty Maker #makered Making Across the Curriculum https://t.co/uQwW5lrOYJ… Food https://t.co/HkJuK8l94A he/him/his",
+				"url": "https://t.co/iSvHzUfcuq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iSvHzUfcuq",
+								"expanded_url": "http://www.flcinnovation.org",
+								"display_url": "flcinnovation.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uQwW5lrOYJ",
+								"expanded_url": "http://flcinnovation.org/tag/making-acr",
+								"display_url": "flcinnovation.org/tag/making-acr",
+								"indices": [
+									70,
+									93
+								]
+							},
+							{
+								"url": "https://t.co/HkJuK8l94A",
+								"expanded_url": "http://Forest-foodforestgarden.org",
+								"display_url": "Forest-foodforestgarden.org",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 692,
+				"friends_count": 734,
+				"listed_count": 48,
+				"created_at": "Fri Mar 06 07:24:28 +0000 2009",
+				"favourites_count": 1209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2861178213/8451b6786897e8c4f1171d5abd90f260_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2861178213/8451b6786897e8c4f1171d5abd90f260_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23041881/1353171020",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is sew cool ;-) \n\nSeriously it is, sewing for social change. https://t.co/0DFzrkDSmG"
+	},
+	{
 		"created_at": "Fri Oct 02 19:56:13 +0000 2020",
 		"id": 1312119216531628000,
 		"id_str": "1312119216531628033",

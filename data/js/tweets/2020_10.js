@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 22:19:28 +0000 2020",
+		"id": 1312517654008139800,
+		"id_str": "1312517654008139777",
+		"full_text": "Be there. Set clocks. Stay up late. Be there. https://t.co/wAuwli5522",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wAuwli5522",
+					"expanded_url": "https://twitter.com/bali_maha/status/1312459895594131457",
+					"display_url": "twitter.com/bali_maha/stat…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10523,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312459895594131500,
+		"quoted_status_id_str": "1312459895594131457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wAuwli5522",
+			"expanded": "https://twitter.com/bali_maha/status/1312459895594131457",
+			"display": "twitter.com/bali_maha/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 03 18:29:58 +0000 2020",
+			"id": 1312459895594131500,
+			"id_str": "1312459895594131457",
+			"full_text": "Imagining a Socially Just Academia Launch w \n@unboundeq @socialjustacad - join us Oct 9 at 1pm UTC (9am EDT, 3pm Cairo/SAST) led by me + Doris Jones \n@KimFoxWOSU @MiaZamoraPhD @zeca72 @tutaleni @lesliekwchan @BenitaMoolman @ProfJasmine\n #unboundeq #BLM https://t.co/YWozrPgGxZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "unboundeq",
+						"indices": [
+							237,
+							247
+						]
+					},
+					{
+						"text": "BLM",
+						"indices": [
+							248,
+							252
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UnboundEq",
+						"name": "Equity Unbound",
+						"id": 1020191831861219300,
+						"id_str": "1020191831861219329",
+						"indices": [
+							45,
+							55
+						]
+					},
+					{
+						"screen_name": "socialjustacad",
+						"name": "Socially Just Academia",
+						"id": 1312440733144670200,
+						"id_str": "1312440733144670219",
+						"indices": [
+							56,
+							71
+						]
+					},
+					{
+						"screen_name": "KimFoxWOSU",
+						"name": "Kim Fox, 🎧 The Podcast Professor",
+						"id": 19994279,
+						"id_str": "19994279",
+						"indices": [
+							150,
+							161
+						]
+					},
+					{
+						"screen_name": "MiaZamoraPhD",
+						"name": "Mia Zamora",
+						"id": 579873574,
+						"id_str": "579873574",
+						"indices": [
+							162,
+							175
+						]
+					},
+					{
+						"screen_name": "zeca72",
+						"name": "Jose Cossa",
+						"id": 16650860,
+						"id_str": "16650860",
+						"indices": [
+							176,
+							183
+						]
+					},
+					{
+						"screen_name": "tutaleni",
+						"name": "Tutaleni",
+						"id": 48223678,
+						"id_str": "48223678",
+						"indices": [
+							184,
+							193
+						]
+					},
+					{
+						"screen_name": "lesliekwchan",
+						"name": "Leslie Chan",
+						"id": 154251965,
+						"id_str": "154251965",
+						"indices": [
+							194,
+							207
+						]
+					},
+					{
+						"screen_name": "BenitaMoolman",
+						"name": "Benita Moolman",
+						"id": 320892312,
+						"id_str": "320892312",
+						"indices": [
+							208,
+							222
+						]
+					},
+					{
+						"screen_name": "ProfJasmine",
+						"name": "Jasmine Roberts",
+						"id": 3028202687,
+						"id_str": "3028202687",
+						"indices": [
+							223,
+							235
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YWozrPgGxZ",
+						"expanded_url": "http://unboundeq.creativitycourse.org/uncategorized/invitation-to-join-imagining-a-socially-just-academia-launch-conversation/",
+						"display_url": "unboundeq.creativitycourse.org/uncategorized/…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1535273520,
+				"id_str": "1535273520",
+				"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+				"screen_name": "Bali_Maha",
+				"location": "AUC, Cairo, #Egypt",
+				"description": "Writaholic/Learnaholic. Assoc Prof of Practice #facdev @cltauc. Co-founder @VConnecting & @UnboundEq. Part of @HybridPed #digped. #BLM\nWas #PhDmum @SheffieldUni",
+				"url": "https://t.co/pjHqig6ctM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjHqig6ctM",
+								"expanded_url": "http://blog.mahabali.me",
+								"display_url": "blog.mahabali.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9631,
+				"friends_count": 8046,
+				"listed_count": 480,
+				"created_at": "Thu Jun 20 23:42:32 +0000 2013",
+				"favourites_count": 96450,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 66876,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1309499164687060993/JAoyWzd8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309499164687060993/JAoyWzd8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535273520/1380017817",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be there. Set clocks. Stay up late. Be there. https://t.co/wAuwli5522"
+	},
+	{
 		"created_at": "Sat Oct 03 14:50:23 +0000 2020",
 		"id": 1312404637572649000,
 		"id_str": "1312404637572648960",

@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 05:39:07 +0000 2020",
+		"id": 1312602398469357600,
+		"id_str": "1312628294609776640",
+		"full_text": "https://t.co/eMpQDi6vTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312602393943650300,
+					"id_str": "1312602393943650304",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdM7D5WsAA-0v_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdM7D5WsAA-0v_.jpg",
+					"url": "https://t.co/eMpQDi6vTQ",
+					"display_url": "pic.twitter.com/eMpQDi6vTQ",
+					"expanded_url": "https://twitter.com/DavidCayJ/status/1312602398469357568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 691,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312602393943650300,
+					"id_str": "1312602393943650304",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdM7D5WsAA-0v_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdM7D5WsAA-0v_.jpg",
+					"url": "https://t.co/eMpQDi6vTQ",
+					"display_url": "pic.twitter.com/eMpQDi6vTQ",
+					"expanded_url": "https://twitter.com/DavidCayJ/status/1312602398469357568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 691,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338608917,
+			"id_str": "338608917",
+			"name": "David Cay Johnston",
+			"screen_name": "DavidCayJ",
+			"location": "Rochester NY",
+			"description": "Co-founder https://t.co/WOxAZ05hj8; '01 Pulitzer; 4 bestsellers; Syracuse U law lecturer; 53 yrs of investigative reporting; Dad of 8; aka Mr. Jennifer Leonard for 38 yrs.",
+			"url": "https://t.co/LctSNeopcu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LctSNeopcu",
+							"expanded_url": "https://www.dcreport.org",
+							"display_url": "dcreport.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WOxAZ05hj8",
+							"expanded_url": "http://DCReport.org",
+							"display_url": "DCReport.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 164769,
+			"friends_count": 440,
+			"listed_count": 2222,
+			"created_at": "Tue Jul 19 20:46:16 +0000 2011",
+			"favourites_count": 30491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957624014276571137/dAduYaV9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957624014276571137/dAduYaV9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/338608917/1517150284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/eMpQDi6vTQ"
+	},
+	{
 		"created_at": "Sun Oct 04 02:43:02 +0000 2020",
 		"id": 1312583982807232500,
 		"id_str": "1312583982807232512",

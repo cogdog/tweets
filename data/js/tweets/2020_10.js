@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 21:55:55 +0000 2020",
+		"id": 1313236500490981400,
+		"id_str": "1313236500490981377",
+		"full_text": "Imagine if GOP Senators put this effort into something, oh, that mattered-- like the economic stimulus? Climate change? Clean water? Not dismantling healthcare? The integrity of fair elections? Excessive Police force?\n\nNope, moon suits are only to shove a judge onto the court. https://t.co/oppbyDzLt0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oppbyDzLt0",
+					"expanded_url": "https://twitter.com/TheoKeith/status/1313175373472038918",
+					"display_url": "twitter.com/TheoKeith/stat…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313175373472039000,
+		"quoted_status_id_str": "1313175373472038918",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oppbyDzLt0",
+			"expanded": "https://twitter.com/TheoKeith/status/1313175373472038918",
+			"display": "twitter.com/TheoKeith/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 17:53:01 +0000 2020",
+			"id": 1313175373472039000,
+			"id_str": "1313175373472038918",
+			"full_text": "NEW: Wisconsin U.S. Sen. Ron Johnson says he'll vote to confirm SCOTUS nominee Amy Coney Barrett even if he's still testing positive.\n\n\"If we have to go in and vote, I've already told leadership I’ll go in a moon suit,\" Johnson says on talk radio.\n\nhttps://t.co/ObHiW5eLkb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ObHiW5eLkb",
+						"expanded_url": "https://khow.iheart.com/content/2020-10-05-sen-ron-johnson-r-wi-discusses-his-positive-covid19-diagnosis/",
+						"display_url": "khow.iheart.com/content/2020-1…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 100323796,
+				"id_str": "100323796",
+				"name": "Theo Keith",
+				"screen_name": "TheoKeith",
+				"location": "Minneapolis, MN",
+				"description": "Political reporter, KMSP-TV/FOX 9 Minneapolis-St. Paul. Proud Michigander. Missouri grad. I believe in the profession of journalism. Theo.Keith@foxtv.com",
+				"url": "https://t.co/xy7tuxNEFy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xy7tuxNEFy",
+								"expanded_url": "http://www.theokeith.com",
+								"display_url": "theokeith.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9351,
+				"friends_count": 1173,
+				"listed_count": 328,
+				"created_at": "Tue Dec 29 21:24:04 +0000 2009",
+				"favourites_count": 1386,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23451,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C509E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1086457302524325890/uEWMKopw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086457302524325890/uEWMKopw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/100323796/1439178759",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 641,
+			"favorite_count": 963,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Imagine if GOP Senators put this effort into something, oh, that mattered-- like the economic stimulus? Climate change? Clean water? Not dismantling healthcare? The integrity of fair elections? Excessive Police force?\n\nNope, moon suits are only to shove a judge onto the court. https://t.co/oppbyDzLt0"
+	},
+	{
 		"created_at": "Mon Oct 05 17:51:02 +0000 2020",
 		"id": 1313174875008364500,
 		"id_str": "1313174875008364544",

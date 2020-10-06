@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 20:10:42 +0000 2020",
+		"id": 1313572411078516700,
+		"id_str": "1313572411078516737",
+		"full_text": "@PauloMoekotte @versnellingspl @OpenRobert55 @UBC Dank je! This H5P/OER project actually is supported by @BCcampus You are welcome to join our next webinar https://t.co/NjZtLg0LfV",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PauloMoekotte",
+					"name": "Paulo Moekotte",
+					"id": 229430720,
+					"id_str": "229430720",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "versnellingspl",
+					"name": "Versnellingsplan Onderwijsinnovatie met ICT",
+					"id": 1050725155142545400,
+					"id_str": "1050725155142545408",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "OpenRobert55",
+					"name": "Robert Schuwer",
+					"id": 769897,
+					"id_str": "769897",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "UBC",
+					"name": "University of British Columbia",
+					"id": 28453440,
+					"id_str": "28453440",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"screen_name": "BCcampus",
+					"name": "BCcampus",
+					"id": 93710949,
+					"id_str": "93710949",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NjZtLg0LfV",
+					"expanded_url": "https://kitchen.opened.ca/2020/09/29/october-webinar/",
+					"display_url": "kitchen.opened.ca/2020/09/29/oct…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1313565415331762200,
+		"in_reply_to_status_id_str": "1313565415331762176",
+		"in_reply_to_user_id": 229430720,
+		"in_reply_to_user_id_str": "229430720",
+		"in_reply_to_screen_name": "PauloMoekotte",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10523,
+			"friends_count": 1537,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@PauloMoekotte @versnellingspl @OpenRobert55 @UBC Dank je! This H5P/OER project actually is supported by @BCcampus You are welcome to join our next webinar https://t.co/NjZtLg0LfV"
+	},
+	{
 		"created_at": "Tue Oct 06 14:01:54 +0000 2020",
 		"id": 1313479601511960600,
 		"id_str": "1313479601511960577",

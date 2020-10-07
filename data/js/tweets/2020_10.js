@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 21:38:51 +0000 2020",
+		"id": 1313956983700164600,
+		"id_str": "1313956983700164614",
+		"full_text": "Cocreate is very slick, a no-account needed collaborative virtual whiteboard.\n\nReminds me a bit of @realdlnorman TIdraw https://t.co/9G4q3iREnQ https://t.co/PD2FLl4G6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						99,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9G4q3iREnQ",
+					"expanded_url": "https://tidraw.net/",
+					"display_url": "tidraw.net",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/PD2FLl4G6T",
+					"expanded_url": "https://twitter.com/duetosymmetry/status/1312895999359188992",
+					"display_url": "twitter.com/duetosymmetry/…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10524,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312895999359189000,
+		"quoted_status_id_str": "1312895999359188992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PD2FLl4G6T",
+			"expanded": "https://twitter.com/duetosymmetry/status/1312895999359188992",
+			"display": "twitter.com/duetosymmetry/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 04 23:22:53 +0000 2020",
+			"id": 1312895999359189000,
+			"id_str": "1312895999359188992",
+			"full_text": "One of my mathematician colleagues just clued me in to Cocreate, an open source multi-user virtual whiteboard, infinite scroll, no accounts needed, works in any browser/tablet, touch support. \nCould rival Jamboard!\nhttps://t.co/uKF5fH2ay3, repo: https://t.co/17TWKsdFSS\n1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uKF5fH2ay3",
+						"expanded_url": "https://cocreate.csail.mit.edu/",
+						"display_url": "cocreate.csail.mit.edu",
+						"indices": [
+							215,
+							238
+						]
+					},
+					{
+						"url": "https://t.co/17TWKsdFSS",
+						"expanded_url": "https://github.com/edemaine/cocreate",
+						"display_url": "github.com/edemaine/cocre…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22148802,
+				"id_str": "22148802",
+				"name": "🧟‍♂️ Leo C. 'Franken'Stein 🦁",
+				"screen_name": "duetosymmetry",
+				"location": "Oxford, MS",
+				"description": "Physics Prof @ U of MS. Black holes, gravitational waves, general relativity & beyond. Formerly @Caltech @MIT @Cornell. Need thin pizza + fruity coffee. He/him",
+				"url": "https://t.co/yhjlHQcX5s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yhjlHQcX5s",
+								"expanded_url": "http://duetosymmetry.com/",
+								"display_url": "duetosymmetry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6274,
+				"friends_count": 1233,
+				"listed_count": 148,
+				"created_at": "Fri Feb 27 15:13:39 +0000 2009",
+				"favourites_count": 65700,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026960416134426629/bkrvoRli_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026960416134426629/bkrvoRli_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22148802/1455080499",
+				"profile_link_color": "3EC277",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cocreate is very slick, a no-account needed collaborative virtual whiteboard.\n\nReminds me a bit of @realdlnorman TIdraw https://t.co/9G4q3iREnQ https://t.co/PD2FLl4G6T"
+	},
+	{
 		"created_at": "Wed Oct 07 07:17:49 +0000 2020",
 		"id": 1313740296342122500,
 		"id_str": "1313740296342122496",

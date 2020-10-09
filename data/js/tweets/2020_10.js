@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 20:47:08 +0000 2020",
+		"id": 1314668745076301800,
+		"id_str": "1314668745076301824",
+		"full_text": "Yes, this are fun AND useful. Will definitely use in future video work https://t.co/zdaaAlUcuQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zdaaAlUcuQ",
+					"expanded_url": "https://twitter.com/cgreen/status/1314654507851153409",
+					"display_url": "twitter.com/cgreen/status/…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314654507851153400,
+		"quoted_status_id_str": "1314654507851153409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zdaaAlUcuQ",
+			"expanded": "https://twitter.com/cgreen/status/1314654507851153409",
+			"display": "twitter.com/cgreen/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 09 19:50:34 +0000 2020",
+			"id": 1314654507851153400,
+			"id_str": "1314654507851153409",
+			"full_text": "Anyone need a @creativecommons video bumper? https://t.co/Uw73vhldH9 https://t.co/OXknz9Tbtv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							14,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Uw73vhldH9",
+						"expanded_url": "https://vimeo.com/showcase/5791214",
+						"display_url": "vimeo.com/showcase/57912…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1314654480151928800,
+						"id_str": "1314654480151928832",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej6XSMvU4AAIhqz.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ej6XSMvU4AAIhqz.png",
+						"url": "https://t.co/OXknz9Tbtv",
+						"display_url": "pic.twitter.com/OXknz9Tbtv",
+						"expanded_url": "https://twitter.com/cgreen/status/1314654507851153409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 337,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 337,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 337,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314654480151928800,
+						"id_str": "1314654480151928832",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej6XSMvU4AAIhqz.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ej6XSMvU4AAIhqz.png",
+						"url": "https://t.co/OXknz9Tbtv",
+						"display_url": "pic.twitter.com/OXknz9Tbtv",
+						"expanded_url": "https://twitter.com/cgreen/status/1314654507851153409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 337,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 337,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 337,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 821877,
+				"id_str": "821877",
+				"name": "Cable Green, PhD",
+				"screen_name": "cgreen",
+				"location": "Olympia, WA",
+				"description": "Director of Open Education @creativecommons",
+				"url": "https://t.co/dHzqGQ0Ba8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dHzqGQ0Ba8",
+								"expanded_url": "https://creativecommons.org/author/cablecreativecommons-org/",
+								"display_url": "creativecommons.org/author/cablecr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7916,
+				"friends_count": 1259,
+				"listed_count": 390,
+				"created_at": "Thu Mar 08 14:43:22 +0000 2007",
+				"favourites_count": 11730,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8491,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBDBDB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677633997900521473/ziPnVm8L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821877/1510172075",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, this are fun AND useful. Will definitely use in future video work https://t.co/zdaaAlUcuQ"
+	},
+	{
 		"created_at": "Fri Oct 09 17:35:32 +0000 2020",
 		"id": 1314620525000360000,
 		"id_str": "1314620525000359937",

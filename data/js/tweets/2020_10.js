@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 18:43:04 +0000 2020",
+		"id": 1315679532389748700,
+		"id_str": "1315724684210573312",
+		"full_text": "On a day when the Senate is closed due to COVID, a committee with infected members is meeting to appoint someone committed to taking away healthcare.\n\nThis is the Republican Party in a nutshell.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 784575415457308700,
+			"id_str": "784575415457308672",
+			"name": "The Hoarse Whisperer",
+			"screen_name": "TheRealHoarse",
+			"location": "",
+			"description": "“A Twitter rando” - Rolling Stone mag. Purveyor of opinions, commentary and sarcasm. Beer money happily accepted here: https://t.co/zHuibZHnhB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zHuibZHnhB",
+							"expanded_url": "https://ko-fi.com/therealhoarse",
+							"display_url": "ko-fi.com/therealhoarse",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 324635,
+			"friends_count": 1051,
+			"listed_count": 1841,
+			"created_at": "Sat Oct 08 02:05:30 +0000 2016",
+			"favourites_count": 72062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/789108971546218497/Srg4JSMB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/789108971546218497/Srg4JSMB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/784575415457308672/1513562346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5500,
+		"favorite_count": 16275,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "On a day when the Senate is closed due to COVID, a committee with infected members is meeting to appoint someone committed to taking away healthcare.\n\nThis is the Republican Party in a nutshell."
+	},
+	{
 		"created_at": "Mon Oct 12 17:07:55 +0000 2020",
 		"id": 1315700738517921800,
 		"id_str": "1315700738517921792",

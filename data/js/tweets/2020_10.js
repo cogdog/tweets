@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 03:26:13 +0000 2020",
+		"id": 1316943501603541000,
+		"id_str": "1316943501603540993",
+		"full_text": "You mean the WORKING MAN AND WOMAN who actually pay taxes? https://t.co/IXSIl7umYl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IXSIl7umYl",
+					"expanded_url": "https://twitter.com/kayleighmcenany/status/1316880197799579648",
+					"display_url": "twitter.com/kayleighmcenan…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10522,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316880197799579600,
+		"quoted_status_id_str": "1316880197799579648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IXSIl7umYl",
+			"expanded": "https://twitter.com/kayleighmcenany/status/1316880197799579648",
+			"display": "twitter.com/kayleighmcenan…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 15 23:14:40 +0000 2020",
+			"id": 1316880197799579600,
+			"id_str": "1316880197799579648",
+			"full_text": "TWITTER is against us.\n\nTHE MEDIA is against us.\n\nBIG TECH is against us.\n\nTHE SWAMP is against us.\n\nTHE DEEP STATE is against us.\n\nTHE HOLLYWOOD ELITE is against us.\n\nCHINA is against us.\n\nBut President Trump has the WORKING MAN AND WOMAN and NOTHING can beat that‼️",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259001548,
+				"id_str": "259001548",
+				"name": "Kayleigh McEnany",
+				"screen_name": "kayleighmcenany",
+				"location": "",
+				"description": "Personal Page. Fmr Press Sec for @realDonaldTrump 2020 Campaign. Fmr @GOP Spox. Harvard Law JD. Georgetown. Oxford. Previvor. Wife of @GilmartinSean. Phil. 4:6",
+				"url": "https://t.co/NCyK14RKVJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NCyK14RKVJ",
+								"expanded_url": "https://www.amazon.com/New-American-Revolution-Populist-Movement/dp/1501179683/ref=sr_1_1?ie=UTF8&qi",
+								"display_url": "amazon.com/New-American-R…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1123977,
+				"friends_count": 2277,
+				"listed_count": 3555,
+				"created_at": "Mon Feb 28 23:33:33 +0000 2011",
+				"favourites_count": 14543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21175,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/259001548/1578692228",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31156,
+			"favorite_count": 84316,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You mean the WORKING MAN AND WOMAN who actually pay taxes? https://t.co/IXSIl7umYl"
+	},
+	{
 		"created_at": "Fri Oct 16 01:04:06 +0000 2020",
 		"id": 1316907737197019100,
 		"id_str": "1316907737197019141",

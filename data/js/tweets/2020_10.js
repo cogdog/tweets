@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 15:49:46 +0000 2020",
+		"id": 1319304949763747800,
+		"id_str": "1319304949763747840",
+		"full_text": "I was moving just reading the tweet. But listen to this breakdown of how Stevie Wonder elevates ordinary drum beats to a \"higher ground\" https://t.co/OWo5cT4uvG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWo5cT4uvG",
+					"expanded_url": "https://twitter.com/CBCMusic/status/1319291446772416514",
+					"display_url": "twitter.com/CBCMusic/statu…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10523,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319291446772416500,
+		"quoted_status_id_str": "1319291446772416514",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OWo5cT4uvG",
+			"expanded": "https://twitter.com/CBCMusic/status/1319291446772416514",
+			"display": "twitter.com/CBCMusic/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 14:56:06 +0000 2020",
+			"id": 1319291446772416500,
+			"id_str": "1319291446772416514",
+			"full_text": "A study by neuroscientist Petr Janata found the song with the most groove (i.e. how much the music makes you move). | @cbcideas \n\nHere's why it's \"Superstition\" by Stevie Wonder:\n\nhttps://t.co/IgTsMUfaY0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cbcideas",
+						"name": "CBC Radio's Ideas",
+						"id": 599535866,
+						"id_str": "599535866",
+						"indices": [
+							118,
+							127
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1318966734968283100,
+						"id_str": "1318966734968283136",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek3r-MhXIAUX2Ha.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek3r-MhXIAUX2Ha.jpg",
+						"url": "https://t.co/IgTsMUfaY0",
+						"display_url": "pic.twitter.com/IgTsMUfaY0",
+						"expanded_url": "https://twitter.com/cbcideas/status/1318967944790114304/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1318967944790114300,
+						"source_status_id_str": "1318967944790114304",
+						"source_user_id": 599535866,
+						"source_user_id_str": "599535866"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1318966734968283100,
+						"id_str": "1318966734968283136",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek3r-MhXIAUX2Ha.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek3r-MhXIAUX2Ha.jpg",
+						"url": "https://t.co/IgTsMUfaY0",
+						"display_url": "pic.twitter.com/IgTsMUfaY0",
+						"expanded_url": "https://twitter.com/cbcideas/status/1318967944790114304/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1318967944790114300,
+						"source_status_id_str": "1318967944790114304",
+						"source_user_id": 599535866,
+						"source_user_id_str": "599535866",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 109834,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1318966734968283136/vid/640x360/JP_9VwM3swTb2VTw.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1318966734968283136/vid/480x270/S8IiLivRnQqx1atI.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1318966734968283136/vid/1280x720/em-8ZymaX3__LoBp.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1318966734968283136/pl/BGIbLqyDvtIbpy9f.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 599535866,
+								"id_str": "599535866",
+								"name": "CBC Radio's Ideas",
+								"screen_name": "cbcideas",
+								"location": "Toronto",
+								"description": "In the age of clickbait and superficial headlines, IDEAS is an oasis for people who like to think.",
+								"url": "http://t.co/a4AwDdKvfD",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/a4AwDdKvfD",
+												"expanded_url": "http://cbc.ca/ideas",
+												"display_url": "cbc.ca/ideas",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 10826,
+								"friends_count": 316,
+								"listed_count": 262,
+								"created_at": "Mon Jun 04 20:26:37 +0000 2012",
+								"favourites_count": 7977,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 4753,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1161312172267515904/Px5AV5kg_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161312172267515904/Px5AV5kg_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/599535866/1567098727",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 456354916,
+				"id_str": "456354916",
+				"name": "CBC Music",
+				"screen_name": "CBCMusic",
+				"location": "Canada",
+				"description": "The home of Canadian music.",
+				"url": "https://t.co/bMtWquan0H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bMtWquan0H",
+								"expanded_url": "http://cbcmusic.ca",
+								"display_url": "cbcmusic.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90301,
+				"friends_count": 1780,
+				"listed_count": 982,
+				"created_at": "Fri Jan 06 04:46:03 +0000 2012",
+				"favourites_count": 46265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76275,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "01A7E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230955150367481862/MY79F_f9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230955150367481862/MY79F_f9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/456354916/1584030253",
+				"profile_link_color": "008AB8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was moving just reading the tweet. But listen to this breakdown of how Stevie Wonder elevates ordinary drum beats to a \"higher ground\" https://t.co/OWo5cT4uvG"
+	},
+	{
 		"created_at": "Thu Oct 22 14:47:55 +0000 2020",
 		"id": 1319289384198271000,
 		"id_str": "1319289384198270976",

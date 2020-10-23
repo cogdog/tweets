@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 14:14:55 +0000 2020",
+		"id": 1319643468277321700,
+		"id_str": "1319643468277321728",
+		"full_text": "\"national leader\" stats:\n\n0 empathy. No national address, no mention of deaths, no calls to families of 210k+ victims\n\n0 responsibility. Blame China (c.f. \"China plague\"), Democrats, blue states\n\n42 golf outings https://t.co/3Rvkch951b\n\nVote. Make it a soul crushing landslide https://t.co/ajel3Oaeuk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Rvkch951b",
+					"expanded_url": "https://trumpgolfcount.com/displayoutings",
+					"display_url": "trumpgolfcount.com/displayoutings",
+					"indices": [
+						212,
+						235
+					]
+				},
+				{
+					"url": "https://t.co/ajel3Oaeuk",
+					"expanded_url": "https://twitter.com/Craig_A_Spencer/status/1319481652050055169",
+					"display_url": "twitter.com/Craig_A_Spence…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319481652050055200,
+		"quoted_status_id_str": "1319481652050055169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ajel3Oaeuk",
+			"expanded": "https://twitter.com/Craig_A_Spencer/status/1319481652050055169",
+			"display": "twitter.com/Craig_A_Spence…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 23 03:31:55 +0000 2020",
+			"id": 1319481652050055200,
+			"id_str": "1319481652050055169",
+			"full_text": "If you were focused on the debate, you may have missed today’s #COVID19 update.\n\n73k new cases today. Highest since July. And the third highest EVER.\n\n41k hospitalized. That’s an 11k increase in just a few weeks.\n\nSadly &gt; 1,000 Americans died today.\n\nAnd it’ll only get worse. https://t.co/AFPgjmWzm0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							63,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AFPgjmWzm0",
+						"expanded_url": "https://twitter.com/covid19tracking/status/1319416828943343619",
+						"display_url": "twitter.com/covid19trackin…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 831279407088148500,
+				"id_str": "831279407088148480",
+				"name": "Craig Spencer MD MPH",
+				"screen_name": "Craig_A_Spencer",
+				"location": "🗽 New York City 🗽",
+				"description": "NYC ER doctor | Ebola Survivor | Director of Global Health in Emergency Medicine @ColumbiaMed/@NYPhospital | Teach Public Health @ColumbiaMSPH | Opinions My Own",
+				"url": "https://t.co/8ffm4COgB2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8ffm4COgB2",
+								"expanded_url": "https://www.mailman.columbia.edu/people/our-faculty/cs2941",
+								"display_url": "mailman.columbia.edu/people/our-fac…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 167556,
+				"friends_count": 798,
+				"listed_count": 1989,
+				"created_at": "Mon Feb 13 23:10:29 +0000 2017",
+				"favourites_count": 5726,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2850,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1293916489762971649/fKP9_z1Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293916489762971649/fKP9_z1Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/831279407088148480/1591729707",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1319416828943343600,
+			"quoted_status_id_str": "1319416828943343619",
+			"quoted_status_permalink": {
+				"url": "https://t.co/AFPgjmWzm0",
+				"expanded": "https://twitter.com/covid19tracking/status/1319416828943343619",
+				"display": "twitter.com/covid19trackin…"
+			},
+			"retweet_count": 914,
+			"favorite_count": 1581,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"national leader\" stats:\n\n0 empathy. No national address, no mention of deaths, no calls to families of 210k+ victims\n\n0 responsibility. Blame China (c.f. \"China plague\"), Democrats, blue states\n\n42 golf outings https://t.co/3Rvkch951b\n\nVote. Make it a soul crushing landslide https://t.co/ajel3Oaeuk"
+	},
+	{
 		"created_at": "Fri Oct 23 02:31:42 +0000 2020",
 		"id": 1319466500663644200,
 		"id_str": "1319466500663644162",

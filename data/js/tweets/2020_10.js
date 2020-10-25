@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 25 15:34:10 +0000 2020",
+		"id": 1320388190029504500,
+		"id_str": "1320388190029504512",
+		"full_text": "@edtechfactotum @LiuJh_Christie @lherzoliz @vivalibraries @NSF @LumenLearning @opencontent I wonder though, as I noticed in the majority of use of H5P question types, why authors do not take more advantage of more feedback beyond default “correct” / “incorrect”?",
+		"truncated": false,
+		"display_text_range": [
+			91,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde (he/him)",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "LiuJh_Christie",
+					"name": "Dr. Juhong Christie Liu",
+					"id": 321423678,
+					"id_str": "321423678",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "lherzoliz",
+					"name": "Liz Johnson",
+					"id": 353094892,
+					"id_str": "353094892",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "vivalibraries",
+					"name": "VIVA",
+					"id": 728572811195912200,
+					"id_str": "728572811195912193",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"screen_name": "NSF",
+					"name": "National Science Foundation",
+					"id": 16245822,
+					"id_str": "16245822",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"screen_name": "LumenLearning",
+					"name": "Lumen Learning",
+					"id": 893541522,
+					"id_str": "893541522",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "opencontent",
+					"name": "David Wiley",
+					"id": 4514361,
+					"id_str": "4514361",
+					"indices": [
+						78,
+						90
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1320387622724796400,
+		"in_reply_to_status_id_str": "1320387622724796416",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10519,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@edtechfactotum @LiuJh_Christie @lherzoliz @vivalibraries @NSF @LumenLearning @opencontent I wonder though, as I noticed in the majority of use of H5P question types, why authors do not take more advantage of more feedback beyond default “correct” / “incorrect”?"
+	},
+	{
 		"created_at": "Sun Oct 25 06:49:21 +0000 2020",
 		"id": 1320256113736970200,
 		"id_str": "1320256113736970240",

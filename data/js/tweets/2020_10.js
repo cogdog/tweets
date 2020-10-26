@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 18:59:21 +0000 2020",
+		"id": 1320802210951823400,
+		"id_str": "1320802210951823360",
+		"full_text": "“Vote for guy who respects women” https://t.co/z1Cq4TdanK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z1Cq4TdanK",
+					"expanded_url": "https://twitter.com/sethabramson/status/1320525581180612608",
+					"display_url": "twitter.com/sethabramson/s…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10518,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320525581180612600,
+		"quoted_status_id_str": "1320525581180612608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z1Cq4TdanK",
+			"expanded": "https://twitter.com/sethabramson/status/1320525581180612608",
+			"display": "twitter.com/sethabramson/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 26 00:40:07 +0000 2020",
+			"id": 1320525581180612600,
+			"id_str": "1320525581180612608",
+			"full_text": "🥲 https://t.co/mo3NO5DKle",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1320358014881353700,
+						"id_str": "1320358014881353731",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320358014881353731/pu/img/s6KshRZvtA6nClb6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320358014881353731/pu/img/s6KshRZvtA6nClb6.jpg",
+						"url": "https://t.co/mo3NO5DKle",
+						"display_url": "pic.twitter.com/mo3NO5DKle",
+						"expanded_url": "https://twitter.com/i/status/1320358080144658433/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1320358080144658400,
+						"source_status_id_str": "1320358080144658433",
+						"source_user_id": 15879633,
+						"source_user_id_str": "15879633"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1320358014881353700,
+						"id_str": "1320358014881353731",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320358014881353731/pu/img/s6KshRZvtA6nClb6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320358014881353731/pu/img/s6KshRZvtA6nClb6.jpg",
+						"url": "https://t.co/mo3NO5DKle",
+						"display_url": "pic.twitter.com/mo3NO5DKle",
+						"expanded_url": "https://twitter.com/i/status/1320358080144658433/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1320358080144658400,
+						"source_status_id_str": "1320358080144658433",
+						"source_user_id": 15879633,
+						"source_user_id_str": "15879633",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 56586,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1320358014881353731/pu/vid/360x640/1A2dUt_N9nTfHXef.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1320358014881353731/pu/pl/7T8gT-CECHHUSD9e.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1320358014881353731/pu/vid/320x568/y_9C0ajzisjclhoJ.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1320358014881353731/pu/vid/576x1024/_mwbIhNg9GSqeEhn.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 15879633,
+								"id_str": "15879633",
+								"name": "Jay Arnold 🎬",
+								"screen_name": "jadedcreative",
+								"location": "Philadelphia",
+								"description": "writer • director he/him @imdb - https://t.co/o1mgOIWWgs \"What Happens Next\" is available on amazon - author @thecucumberdiet @ohmydailyedit",
+								"url": "https://t.co/Iea3tIH5Uv",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/Iea3tIH5Uv",
+												"expanded_url": "http://jayarnold.com",
+												"display_url": "jayarnold.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/o1mgOIWWgs",
+												"expanded_url": "http://imdb.me/jadedcreative",
+												"display_url": "imdb.me/jadedcreative",
+												"indices": [
+													33,
+													56
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 40049,
+								"friends_count": 632,
+								"listed_count": 202,
+								"created_at": "Sun Aug 17 04:39:55 +0000 2008",
+								"favourites_count": 390991,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 188469,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1304901506026659840/F6xHEX8L_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304901506026659840/F6xHEX8L_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/15879633/1595276126",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "BACCD4",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3223426134,
+				"id_str": "3223426134",
+				"name": "Seth Abramson",
+				"screen_name": "SethAbramson",
+				"location": "All views are my own.",
+				"description": "Attorney. Professor. Metajournalist. NYT bestselling author. @Newsweek columnist seen @CNN @BBC &c. Metamodernist. Podcaster. Latest books: https://t.co/uN7qAhgxIz.",
+				"url": "https://t.co/sNbAS6TVkU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sNbAS6TVkU",
+								"expanded_url": "http://www.sethabramson.net",
+								"display_url": "sethabramson.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uN7qAhgxIz",
+								"expanded_url": "http://bit.ly/ProofSeries",
+								"display_url": "bit.ly/ProofSeries",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 859934,
+				"friends_count": 12,
+				"listed_count": 7323,
+				"created_at": "Fri May 22 16:19:26 +0000 2015",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 93458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1317205278572634112/Mq7-cDWO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317205278572634112/Mq7-cDWO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3223426134/1602863291",
+				"profile_link_color": "F01405",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2287,
+			"favorite_count": 10272,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Vote for guy who respects women” https://t.co/z1Cq4TdanK"
+	},
+	{
+		"created_at": "Mon Oct 26 18:50:45 +0000 2020",
+		"id": 1320800047022264300,
+		"id_str": "1320800047022264320",
+		"full_text": "@BoingBoing wins with the tag. But how can there only be one result? https://t.co/Y3aobuBew3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoingBoing",
+					"name": "Boing Boing",
+					"id": 5971922,
+					"id_str": "5971922",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y3aobuBew3",
+					"expanded_url": "https://boingboing.net/tag/silver-spoons",
+					"display_url": "boingboing.net/tag/silver-spo…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 5971922,
+		"in_reply_to_user_id_str": "5971922",
+		"in_reply_to_screen_name": "BoingBoing",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10518,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BoingBoing wins with the tag. But how can there only be one result? https://t.co/Y3aobuBew3"
+	},
+	{
 		"created_at": "Mon Oct 26 17:15:31 +0000 2020",
 		"id": 1320776081385795600,
 		"id_str": "1320776081385795584",

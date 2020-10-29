@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 18:31:21 +0000 2020",
+		"id": 1321882329678180400,
+		"id_str": "1321882329678180352",
+		"full_text": "It’s bad enough to put an inept apprentice in charge, worse to do it for 4 years. #vote as lived depends on it #YOUREFIRED https://t.co/nwdPACvG3q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vote",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "YOUREFIRED",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nwdPACvG3q",
+					"expanded_url": "https://twitter.com/winamrcabackpac/status/1321578476659339264",
+					"display_url": "twitter.com/winamrcabackpa…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1538,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321578476659339300,
+		"quoted_status_id_str": "1321578476659339264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nwdPACvG3q",
+			"expanded": "https://twitter.com/winamrcabackpac/status/1321578476659339264",
+			"display": "twitter.com/winamrcabackpa…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 28 22:23:57 +0000 2020",
+			"id": 1321578476659339300,
+			"id_str": "1321578476659339264",
+			"full_text": "Remember, the election is a job interview.\n\n#WouldYouHireTrump #Vote https://t.co/hfU4R8vDMp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WouldYouHireTrump",
+						"indices": [
+							44,
+							62
+						]
+					},
+					{
+						"text": "Vote",
+						"indices": [
+							63,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1321574187719274500,
+						"id_str": "1321574187719274496",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcvVsXVkAEKElx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElcvVsXVkAEKElx.jpg",
+						"url": "https://t.co/hfU4R8vDMp",
+						"display_url": "pic.twitter.com/hfU4R8vDMp",
+						"expanded_url": "https://twitter.com/WinAmrcaBackPAC/status/1321578476659339264/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321574187719274500,
+						"id_str": "1321574187719274496",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcvVsXVkAEKElx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElcvVsXVkAEKElx.jpg",
+						"url": "https://t.co/hfU4R8vDMp",
+						"display_url": "pic.twitter.com/hfU4R8vDMp",
+						"expanded_url": "https://twitter.com/WinAmrcaBackPAC/status/1321578476659339264/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								683,
+								360
+							],
+							"duration_millis": 88672,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1321574187719274496/vid/682x360/kkshZQio7UN_mwQU.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1321574187719274496/pl/ode4fmNXmF44yx3u.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1321574187719274496/vid/1366x720/MjqXWMzR7Xe0o6Gp.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1321574187719274496/vid/512x270/Zfcjj7Kf0OWZycqy.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "\"Interview 2020\"",
+							"description": "Would you hire Trump?",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://secure.actblue.com/donate/wabp"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1296268537074344000,
+				"id_str": "1296268537074343937",
+				"name": "Win America Back...PAC",
+				"screen_name": "WinAmrcaBackPAC",
+				"location": "America",
+				"description": "Dedicated to creating cinematic ads that cut through Trump's fog of disinformation and restore the clarity of reality\n\nJoin Us: https://t.co/YrnpKH66aP",
+				"url": "https://t.co/vvSMgVayEn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vvSMgVayEn",
+								"expanded_url": "http://www.winamericabackpac.org",
+								"display_url": "winamericabackpac.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YrnpKH66aP",
+								"expanded_url": "http://secure.actblue.com/donate/wabp",
+								"display_url": "secure.actblue.com/donate/wabp",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2451,
+				"friends_count": 332,
+				"listed_count": 23,
+				"created_at": "Thu Aug 20 02:11:23 +0000 2020",
+				"favourites_count": 1766,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 479,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1315913038025814016/f4dyd7yS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315913038025814016/f4dyd7yS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1296268537074343937/1602480392",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21742,
+			"favorite_count": 53482,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s bad enough to put an inept apprentice in charge, worse to do it for 4 years. #vote as lived depends on it #YOUREFIRED https://t.co/nwdPACvG3q"
+	},
+	{
+		"created_at": "Thu Oct 29 18:25:17 +0000 2020",
+		"id": 1321880804083998700,
+		"id_str": "1321880804083998720",
+		"full_text": "@PauloMoekotte @BCcampus @H5PTechnology @H5PCom Thanks for tuning in Paulo. It was quite brilliant to that the H5P hub discovery and sharing capabilities will be built into the tool itself",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PauloMoekotte",
+					"name": "Paulo Moekotte",
+					"id": 229430720,
+					"id_str": "229430720",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BCcampus",
+					"name": "BCcampus",
+					"id": 93710949,
+					"id_str": "93710949",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "H5PTechnology",
+					"name": "H5P",
+					"id": 2216405440,
+					"id_str": "2216405440",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "H5PCom",
+					"name": "H5P.com",
+					"id": 989060995409641500,
+					"id_str": "989060995409641472",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321857988907409400,
+		"in_reply_to_status_id_str": "1321857988907409408",
+		"in_reply_to_user_id": 229430720,
+		"in_reply_to_user_id_str": "229430720",
+		"in_reply_to_screen_name": "PauloMoekotte",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1538,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PauloMoekotte @BCcampus @H5PTechnology @H5PCom Thanks for tuning in Paulo. It was quite brilliant to that the H5P hub discovery and sharing capabilities will be built into the tool itself"
+	},
+	{
 		"created_at": "Thu Oct 29 10:01:32 +0000 2020",
 		"id": 1321754028292800500,
 		"id_str": "1321754028292800512",

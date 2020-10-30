@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 20:08:09 +0000 2020",
+		"id": 1322269079885869000,
+		"id_str": "1322269079885869057",
+		"full_text": "Carrying on the traditions of the Grand Old Party of Voter Suppression https://t.co/DxTPmzqT1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DxTPmzqT1U",
+					"expanded_url": "https://twitter.com/kionnemcghee/status/1322214250413215744",
+					"display_url": "twitter.com/kionnemcghee/s…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10519,
+			"friends_count": 1538,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322214250413215700,
+		"quoted_status_id_str": "1322214250413215744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DxTPmzqT1U",
+			"expanded": "https://twitter.com/kionnemcghee/status/1322214250413215744",
+			"display": "twitter.com/kionnemcghee/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 30 16:30:17 +0000 2020",
+			"id": 1322214250413215700,
+			"id_str": "1322214250413215744",
+			"full_text": "Raw footage of mailroom in post office here in Miami Dade. Source revealed “mail in ballots are within these piled up in bins on the floor. Mail has been sitting for over week!.” @AmandiOnAir @PeterSchorschFL @MarcACaputo @GlennaWPLG @CNNPolitics @NewsbySmiley @realDonaldTrump https://t.co/DO8jx1VUnz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AmandiOnAir",
+						"name": "Fernand R. Amandi",
+						"id": 4900058284,
+						"id_str": "4900058284",
+						"indices": [
+							179,
+							191
+						]
+					},
+					{
+						"screen_name": "PeterSchorschFL",
+						"name": "Peter Schorsch",
+						"id": 19828037,
+						"id_str": "19828037",
+						"indices": [
+							192,
+							208
+						]
+					},
+					{
+						"screen_name": "MarcACaputo",
+						"name": "Marc Caputo",
+						"id": 227373977,
+						"id_str": "227373977",
+						"indices": [
+							209,
+							221
+						]
+					},
+					{
+						"screen_name": "GlennaWPLG",
+						"name": "Glenna Milberg",
+						"id": 114840227,
+						"id_str": "114840227",
+						"indices": [
+							222,
+							233
+						]
+					},
+					{
+						"screen_name": "CNNPolitics",
+						"name": "CNN Politics",
+						"id": 13850422,
+						"id_str": "13850422",
+						"indices": [
+							234,
+							246
+						]
+					},
+					{
+						"screen_name": "NewsbySmiley",
+						"name": "David Smiley",
+						"id": 250690720,
+						"id_str": "250690720",
+						"indices": [
+							247,
+							260
+						]
+					},
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							261,
+							277
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1322213332120703000,
+						"id_str": "1322213332120702977",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322213332120702977/pu/img/oaldxvyqz16UhZPg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322213332120702977/pu/img/oaldxvyqz16UhZPg.jpg",
+						"url": "https://t.co/DO8jx1VUnz",
+						"display_url": "pic.twitter.com/DO8jx1VUnz",
+						"expanded_url": "https://twitter.com/kionnemcghee/status/1322214250413215744/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 352,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 352,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1322213332120703000,
+						"id_str": "1322213332120702977",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322213332120702977/pu/img/oaldxvyqz16UhZPg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322213332120702977/pu/img/oaldxvyqz16UhZPg.jpg",
+						"url": "https://t.co/DO8jx1VUnz",
+						"display_url": "pic.twitter.com/DO8jx1VUnz",
+						"expanded_url": "https://twitter.com/kionnemcghee/status/1322214250413215744/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 352,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 352,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								11,
+								15
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322213332120702977/pu/vid/320x436/QXye26U7pHZWwrce.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322213332120702977/pu/vid/352x480/MEaGaH2wcsZmuFik.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1322213332120702977/pu/pl/puzbTf1Znx6gwDwY.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32820923,
+				"id_str": "32820923",
+				"name": "Dem House Leader",
+				"screen_name": "kionnemcghee",
+				"location": "Miami-Dade County",
+				"description": "Husband-Father-Son| Leader of House Democrats| Member of ΩΨΦ| Attorney | Best-Selling Author| Howard Bison| Read over 300 books|",
+				"url": "https://t.co/xMqcQDFI58",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xMqcQDFI58",
+								"expanded_url": "http://www.kionnemcghee.com",
+								"display_url": "kionnemcghee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10449,
+				"friends_count": 6257,
+				"listed_count": 156,
+				"created_at": "Sat Apr 18 07:09:05 +0000 2009",
+				"favourites_count": 3239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3264,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955868582877061121/RMu-ZWnQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955868582877061121/RMu-ZWnQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32820923/1500830743",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "9b46dccb3cfb880c",
+				"url": "https://api.twitter.com/1.1/geo/id/9b46dccb3cfb880c.json",
+				"place_type": "city",
+				"name": "Kendall",
+				"full_name": "Kendall, FL",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.3893437,
+								25.628844
+							],
+							[
+								-80.304896,
+								25.628844
+							],
+							[
+								-80.304896,
+								25.7151276
+							],
+							[
+								-80.3893437,
+								25.7151276
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9653,
+			"favorite_count": 10030,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Carrying on the traditions of the Grand Old Party of Voter Suppression https://t.co/DxTPmzqT1U"
+	},
+	{
 		"created_at": "Fri Oct 30 02:19:26 +0000 2020",
 		"id": 1322000125632213000,
 		"id_str": "1322000125632212993",

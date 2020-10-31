@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 05:54:04 +0000 2020",
+		"id": 1322416531070873600,
+		"id_str": "1322416531070873600",
+		"full_text": "Egregiously ignoring 230,000 people who died under his gross ineptitude and golf excursions https://t.co/GDg78vOGDD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GDg78vOGDD",
+					"expanded_url": "https://twitter.com/briankarem/status/1322394132896165888",
+					"display_url": "twitter.com/briankarem/sta…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10521,
+			"friends_count": 1538,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322394132896166000,
+		"quoted_status_id_str": "1322394132896165888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GDg78vOGDD",
+			"expanded": "https://twitter.com/briankarem/status/1322394132896165888",
+			"display": "twitter.com/briankarem/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 31 04:25:04 +0000 2020",
+			"id": 1322394132896166000,
+			"id_str": "1322394132896165888",
+			"full_text": "NOW: from the WH- proclamation of xenophobia ⁦@realDonaldTrump⁩ https://t.co/arowHUDZyU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							46,
+							62
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1322394128932606000,
+						"id_str": "1322394128932605952",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EloWdDQXEAAFbB_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EloWdDQXEAAFbB_.jpg",
+						"url": "https://t.co/arowHUDZyU",
+						"display_url": "pic.twitter.com/arowHUDZyU",
+						"expanded_url": "https://twitter.com/BrianKarem/status/1322394132896165888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 713,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1322394128932606000,
+						"id_str": "1322394128932605952",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EloWdDQXEAAFbB_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EloWdDQXEAAFbB_.jpg",
+						"url": "https://t.co/arowHUDZyU",
+						"display_url": "pic.twitter.com/arowHUDZyU",
+						"expanded_url": "https://twitter.com/BrianKarem/status/1322394132896165888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 713,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21001599,
+				"id_str": "21001599",
+				"name": "Brian J. Karem",
+				"screen_name": "BrianKarem",
+				"location": "Washington D.C.",
+				"description": "Husband. Father. \"That Playboy Reporter\"\n\"Loud Mouth\" Sr. WH reporter @Playboy. Singer. podcast host. TV. Author\n\"Just gimme some truth,\"-John Lennon.",
+				"url": "https://t.co/t32TlLlmja",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t32TlLlmja",
+								"expanded_url": "http://www.Justaskthequestion.com",
+								"display_url": "Justaskthequestion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 323384,
+				"friends_count": 1634,
+				"listed_count": 2012,
+				"created_at": "Mon Feb 16 16:51:12 +0000 2009",
+				"favourites_count": 109661,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19345,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1321657595984289793/lE4BBbf0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321657595984289793/lE4BBbf0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21001599/1582402435",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 548,
+			"favorite_count": 1676,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Egregiously ignoring 230,000 people who died under his gross ineptitude and golf excursions https://t.co/GDg78vOGDD"
+	},
+	{
 		"created_at": "Fri Oct 30 22:23:48 +0000 2020",
 		"id": 1322303214146908200,
 		"id_str": "1322303214146908160",

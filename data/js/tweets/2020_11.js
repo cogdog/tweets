@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 18:38:30 +0000 2020",
+		"id": 1328769500783681500,
+		"id_str": "1328769500783681536",
+		"full_text": "Thanks for joining along with @phb256 @francesbell hope i can edit quickly #OEGlobal20 https://t.co/MkbF3xQVJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEGlobal20",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "phb256",
+					"name": "paul bond",
+					"id": 52256628,
+					"id_str": "52256628",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MkbF3xQVJI",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1328741162769920001",
+					"display_url": "twitter.com/MarenDeepwell/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10533,
+			"friends_count": 1538,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328741162769920000,
+		"quoted_status_id_str": "1328741162769920001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MkbF3xQVJI",
+			"expanded": "https://twitter.com/MarenDeepwell/status/1328741162769920001",
+			"display": "twitter.com/MarenDeepwell/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 17 16:45:54 +0000 2020",
+			"id": 1328741162769920000,
+			"id_str": "1328741162769920001",
+			"full_text": "Wonderful moment #OEGlobal20 chatting with @cogdog and @greeneterry live on air 👋 https://t.co/drpTp8ug63",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEGlobal20",
+						"indices": [
+							17,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							43,
+							50
+						]
+					},
+					{
+						"screen_name": "greeneterry",
+						"name": "Zerry Greene (He/Him)",
+						"id": 212019344,
+						"id_str": "212019344",
+						"indices": [
+							55,
+							67
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1328741121065951200,
+						"id_str": "1328741121065951232",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EnCjAneXIAAOWyE.png",
+						"media_url_https": "https://pbs.twimg.com/media/EnCjAneXIAAOWyE.png",
+						"url": "https://t.co/drpTp8ug63",
+						"display_url": "pic.twitter.com/drpTp8ug63",
+						"expanded_url": "https://twitter.com/MarenDeepwell/status/1328741162769920001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 631,
+								"h": 467,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 631,
+								"h": 467,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 631,
+								"h": 467,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1328741121065951200,
+						"id_str": "1328741121065951232",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EnCjAneXIAAOWyE.png",
+						"media_url_https": "https://pbs.twimg.com/media/EnCjAneXIAAOWyE.png",
+						"url": "https://t.co/drpTp8ug63",
+						"display_url": "pic.twitter.com/drpTp8ug63",
+						"expanded_url": "https://twitter.com/MarenDeepwell/status/1328741162769920001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 631,
+								"h": 467,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 631,
+								"h": 467,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 631,
+								"h": 467,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 323173367,
+				"id_str": "323173367",
+				"name": "Dr Maren Deepwell",
+				"screen_name": "MarenDeepwell",
+				"location": "Cardiff, Wales",
+				"description": "Charity CEO @A_L_T in EdTech. Ethical, open leadership. Leading virtual teams. Feminist. She/her",
+				"url": "https://t.co/kMXdMTr9bt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kMXdMTr9bt",
+								"expanded_url": "http://marendeepwell.com",
+								"display_url": "marendeepwell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4511,
+				"friends_count": 1933,
+				"listed_count": 197,
+				"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+				"favourites_count": 24584,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12677,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1324058643424333826/zG73fBjw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324058643424333826/zG73fBjw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1597500245",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for joining along with @phb256 @francesbell hope i can edit quickly #OEGlobal20 https://t.co/MkbF3xQVJI"
+	},
+	{
 		"created_at": "Tue Nov 17 15:00:23 +0000 2020",
 		"id": 1328714608958312400,
 		"id_str": "1328714608958312454",

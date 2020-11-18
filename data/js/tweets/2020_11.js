@@ -1,6 +1,509 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 01:48:29 +0000 2020",
+		"id": 1328877706390372400,
+		"id_str": "1328877706390372354",
+		"full_text": "@samfraulino @Adobe Mine seems to be behaving now. It feels like 2021",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samfraulino",
+					"name": "Sam Fraulino",
+					"id": 14761715,
+					"id_str": "14761715",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Adobe",
+					"name": "Adobe",
+					"id": 63786611,
+					"id_str": "63786611",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1328849511465173000,
+		"in_reply_to_status_id_str": "1328849511465172992",
+		"in_reply_to_user_id": 14761715,
+		"in_reply_to_user_id_str": "14761715",
+		"in_reply_to_screen_name": "samfraulino",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10533,
+			"friends_count": 1538,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@samfraulino @Adobe Mine seems to be behaving now. It feels like 2021"
+	},
+	{
+		"created_at": "Wed Nov 18 01:43:52 +0000 2020",
+		"id": 1328876547252469800,
+		"id_str": "1328876547252469761",
+		"full_text": "I was in already. Now more in. Do we get pupdates?\n\nSign up for this! https://t.co/oEs6uHKOFa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oEs6uHKOFa",
+					"expanded_url": "https://twitter.com/brennacgray/status/1328874494711136258",
+					"display_url": "twitter.com/brennacgray/st…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10533,
+			"friends_count": 1538,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328874494711136300,
+		"quoted_status_id_str": "1328874494711136258",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oEs6uHKOFa",
+			"expanded": "https://twitter.com/brennacgray/status/1328874494711136258",
+			"display": "twitter.com/brennacgray/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 18 01:35:43 +0000 2020",
+			"id": 1328874494711136300,
+			"id_str": "1328874494711136258",
+			"full_text": "Phenomenal news if you already have your tickets to this event: @hypervisible has joined the lineup with @Bali_Maha @doctorow @savasavasava @Jessifer and @audreywatters! Join us to raise money for @Linkletter's defence and have a critical conversation: https://t.co/9U1ZAhDcHV https://t.co/6p2xqpImcV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypervisible",
+						"name": "the only good Ring is a burning Ring",
+						"id": 175292337,
+						"id_str": "175292337",
+						"indices": [
+							64,
+							77
+						]
+					},
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							105,
+							115
+						]
+					},
+					{
+						"screen_name": "doctorow",
+						"name": "Cory Doctorow #BLM",
+						"id": 2729061,
+						"id_str": "2729061",
+						"indices": [
+							116,
+							125
+						]
+					},
+					{
+						"screen_name": "savasavasava",
+						"name": "cobra chai",
+						"id": 16699990,
+						"id_str": "16699990",
+						"indices": [
+							126,
+							139
+						]
+					},
+					{
+						"screen_name": "Jessifer",
+						"name": "Jesse Stommel",
+						"id": 11702102,
+						"id_str": "11702102",
+						"indices": [
+							140,
+							149
+						]
+					},
+					{
+						"screen_name": "audreywatters",
+						"name": "Audrey Watters",
+						"id": 25388528,
+						"id_str": "25388528",
+						"indices": [
+							154,
+							168
+						]
+					},
+					{
+						"screen_name": "Linkletter",
+						"name": "Ian Linkletter",
+						"id": 804325,
+						"id_str": "804325",
+						"indices": [
+							197,
+							208
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9U1ZAhDcHV",
+						"expanded_url": "http://tiny.cc/againstsurveillance",
+						"display_url": "tiny.cc/againstsurveil…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1328873598598086700,
+						"id_str": "1328873598598086657",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EnEbf0vVgAEfmJo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnEbf0vVgAEfmJo.jpg",
+						"url": "https://t.co/6p2xqpImcV",
+						"display_url": "pic.twitter.com/6p2xqpImcV",
+						"expanded_url": "https://twitter.com/brennacgray/status/1328874494711136258/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1328873598598086700,
+						"id_str": "1328873598598086657",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EnEbf0vVgAEfmJo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnEbf0vVgAEfmJo.jpg",
+						"url": "https://t.co/6p2xqpImcV",
+						"display_url": "pic.twitter.com/6p2xqpImcV",
+						"expanded_url": "https://twitter.com/brennacgray/status/1328874494711136258/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14109848,
+				"id_str": "14109848",
+				"name": "Brenna Clarke Gray",
+				"screen_name": "brennacgray",
+				"location": "Tk’emlups te Secwepemc",
+				"description": "Manic pixie dream academic; doozer with a PhD. I put the care back in “but I don’t care about EdTech.” Feminist, settler, antiracist. Co-host #HKHSPod. She/her.",
+				"url": "https://t.co/mumGuRnXTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mumGuRnXTk",
+								"expanded_url": "http://blog.communityofpraxis.ca/",
+								"display_url": "blog.communityofpraxis.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3825,
+				"friends_count": 1529,
+				"listed_count": 135,
+				"created_at": "Sun Mar 09 22:29:19 +0000 2008",
+				"favourites_count": 15340,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62164,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097321857110294528/xiPS2QUn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097321857110294528/xiPS2QUn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14109848/1605662307",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "61464F",
+				"profile_text_color": "3C8059",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was in already. Now more in. Do we get pupdates?\n\nSign up for this! https://t.co/oEs6uHKOFa"
+	},
+	{
 		"created_at": "Wed Nov 18 00:10:37 +0000 2020",
 		"id": 1328853077781143600,
 		"id_str": "1328853077781143552",

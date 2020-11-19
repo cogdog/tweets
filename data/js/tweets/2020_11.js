@@ -1,6 +1,550 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 19 15:03:42 +0000 2020",
+		"id": 1329440217766432800,
+		"id_str": "1329440217766432774",
+		"full_text": "@davidtedu @amyburvall @WickedDecent @clonghb @ericcurts @coachk @mrlavrovsclass @cogswell_ben @edcampOSjr I thought of too the Open Streetmap Haiku generator (though the maps seem to be broken now) that generates random haiku from map data based on location https://t.co/2jGwb4kHAH  Oh found some examples from a #ds106 dailycreate https://t.co/vdQJh7fo0Y https://t.co/RitWXosMR2",
+		"truncated": false,
+		"display_text_range": [
+			107,
+			356
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						314,
+						320
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidtedu",
+					"name": "David Theriault",
+					"id": 617781615,
+					"id_str": "617781615",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "WickedDecent",
+					"name": "Dan Ryder",
+					"id": 15194262,
+					"id_str": "15194262",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "clonghb",
+					"name": "Chris Long",
+					"id": 196769475,
+					"id_str": "196769475",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"screen_name": "ericcurts",
+					"name": "Eric Curts",
+					"id": 17999593,
+					"id_str": "17999593",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "coachk",
+					"name": "Kelly Kermode",
+					"id": 3539791,
+					"id_str": "3539791",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"screen_name": "mrlavrovsclass",
+					"name": "Eddie Lavrov",
+					"id": 739115506385457200,
+					"id_str": "739115506385457153",
+					"indices": [
+						65,
+						80
+					]
+				},
+				{
+					"screen_name": "cogswell_ben",
+					"name": "Coach Ben 😎👍",
+					"id": 1072416566,
+					"id_str": "1072416566",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "edcampOSjr",
+					"name": "Ed Campos Jr",
+					"id": 26194435,
+					"id_str": "26194435",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2jGwb4kHAH",
+					"expanded_url": "https://satellitestud.io/blog/post/openstreetmap-haiku/",
+					"display_url": "satellitestud.io/blog/post/open…",
+					"indices": [
+						259,
+						282
+					]
+				},
+				{
+					"url": "https://t.co/vdQJh7fo0Y",
+					"expanded_url": "https://daily.ds106.us/tdc2932/",
+					"display_url": "daily.ds106.us/tdc2932/",
+					"indices": [
+						333,
+						356
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1329439453396471800,
+					"id_str": "1329439453396471810",
+					"indices": [
+						357,
+						380
+					],
+					"media_url": "http://pbs.twimg.com/media/EnMeI6IWEAIjFOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnMeI6IWEAIjFOi.jpg",
+					"url": "https://t.co/RitWXosMR2",
+					"display_url": "pic.twitter.com/RitWXosMR2",
+					"expanded_url": "https://twitter.com/cogdog/status/1329440217766432774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329439453396471800,
+					"id_str": "1329439453396471810",
+					"indices": [
+						357,
+						380
+					],
+					"media_url": "http://pbs.twimg.com/media/EnMeI6IWEAIjFOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnMeI6IWEAIjFOi.jpg",
+					"url": "https://t.co/RitWXosMR2",
+					"display_url": "pic.twitter.com/RitWXosMR2",
+					"expanded_url": "https://twitter.com/cogdog/status/1329440217766432774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1329428883490259000,
+		"in_reply_to_status_id_str": "1329428883490258944",
+		"in_reply_to_user_id": 617781615,
+		"in_reply_to_user_id_str": "617781615",
+		"in_reply_to_screen_name": "davidtedu",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10533,
+			"friends_count": 1539,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davidtedu @amyburvall @WickedDecent @clonghb @ericcurts @coachk @mrlavrovsclass @cogswell_ben @edcampOSjr I thought of too the Open Streetmap Haiku generator (though the maps seem to be broken now) that generates random haiku from map data based on location https://t.co/2jGwb4kHAH  Oh found some examples from a #ds106 dailycreate https://t.co/vdQJh7fo0Y https://t.co/RitWXosMR2"
+	},
+	{
+		"created_at": "Thu Nov 19 14:56:38 +0000 2020",
+		"id": 1329438439461236700,
+		"id_str": "1329438439461236739",
+		"full_text": "@nerik @satellitestdio any chance you could fix Open Streetmap Haiku? https://t.co/DU3cQYBk5s  I love recommending it for creative writing prompts It looks like from console errors there are https over http issues.\n\nThanks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nerik",
+					"name": "Erik Escoffier",
+					"id": 951050697436524500,
+					"id_str": "951050697436524544",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "satellitestdio",
+					"name": "satellitestud.io 🛰",
+					"id": 6543642,
+					"id_str": "6543642",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DU3cQYBk5s",
+					"expanded_url": "https://satellitestud.io/osm-haiku/",
+					"display_url": "satellitestud.io/osm-haiku/",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 951050697436524500,
+		"in_reply_to_user_id_str": "951050697436524544",
+		"in_reply_to_screen_name": "nerik",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10533,
+			"friends_count": 1539,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@nerik @satellitestdio any chance you could fix Open Streetmap Haiku? https://t.co/DU3cQYBk5s  I love recommending it for creative writing prompts It looks like from console errors there are https over http issues.\n\nThanks"
+	},
+	{
+		"created_at": "Thu Nov 19 14:17:10 +0000 2020",
+		"id": 1329428509777772500,
+		"id_str": "1329428509777772544",
+		"full_text": "You know the old saying? \"In with covfefe, out like a 70 day twitter tantrum.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10533,
+			"friends_count": 1539,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "You know the old saying? \"In with covfefe, out like a 70 day twitter tantrum.\""
+	},
+	{
 		"created_at": "Thu Nov 19 14:11:33 +0000 2020",
 		"id": 1329427092275007500,
 		"id_str": "1329427092275007489",

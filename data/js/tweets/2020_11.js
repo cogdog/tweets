@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 05:23:14 +0000 2020",
+		"id": 1329656370241675300,
+		"id_str": "1329656527938936832",
+		"full_text": "In really complex situations, comprehension and problem solutions do not stand waiting at the end of a straightforward path; instead, possibilities open up and plans shift as comprehension grows. #augmentintellect",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "augmentintellect",
+					"indices": [
+						196,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://framework.thoughtvectors.net/\" rel=\"nofollow\">Doug Engelbot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1052271004037320700,
+			"id_str": "1052271004037320704",
+			"name": "DougEngelbot",
+			"screen_name": "DEngelbot",
+			"location": "",
+			"description": "The most famous manifesto you've never heard of.",
+			"url": "https://t.co/ASxCTZvHox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ASxCTZvHox",
+							"expanded_url": "http://framework.thoughtvectors.net",
+							"display_url": "framework.thoughtvectors.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 100,
+			"listed_count": 9,
+			"created_at": "Tue Oct 16 18:52:12 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052545406658199552/FldudYEe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052545406658199552/FldudYEe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1052271004037320704/1539783338",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In really complex situations, comprehension and problem solutions do not stand waiting at the end of a straightforward path; instead, possibilities open up and plans shift as comprehension grows. #augmentintellect"
+	},
+	{
 		"created_at": "Fri Nov 20 05:13:17 +0000 2020",
 		"id": 1329654022211559400,
 		"id_str": "1329654022211559424",

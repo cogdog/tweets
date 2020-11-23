@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 14:56:26 +0000 2020",
+		"id": 1330651147623833600,
+		"id_str": "1330887940671557632",
+		"full_text": ".@jkenney it's time to take some action. https://t.co/W08GBqMG86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jkenney",
+					"name": "Jason Kenney",
+					"id": 21525682,
+					"id_str": "21525682",
+					"indices": [
+						1,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1330651000168874000,
+					"id_str": "1330651000168873986",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EndsCNkVgAIqmX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EndsCNkVgAIqmX0.jpg",
+					"url": "https://t.co/W08GBqMG86",
+					"display_url": "pic.twitter.com/W08GBqMG86",
+					"expanded_url": "https://twitter.com/realdlnorman/status/1330651147623833602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1458,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330651000168874000,
+					"id_str": "1330651000168873986",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EndsCNkVgAIqmX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EndsCNkVgAIqmX0.jpg",
+					"url": "https://t.co/W08GBqMG86",
+					"display_url": "pic.twitter.com/W08GBqMG86",
+					"expanded_url": "https://twitter.com/realdlnorman/status/1330651147623833602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1458,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817493053527113700,
+			"id_str": "817493053527113729",
+			"name": "D'Arcy Says Relax",
+			"screen_name": "realdlnorman",
+			"location": "Calgary, Alberta",
+			"description": "manager, learning technologies; phd candidate, computational media design;",
+			"url": "https://t.co/YfF3SjsidZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YfF3SjsidZ",
+							"expanded_url": "https://darcynorman.net",
+							"display_url": "darcynorman.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 536,
+			"friends_count": 384,
+			"listed_count": 12,
+			"created_at": "Fri Jan 06 22:08:27 +0000 2017",
+			"favourites_count": 6152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329909427168677888/eV6zHO4A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329909427168677888/eV6zHO4A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817493053527113729/1563929703",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@jkenney it's time to take some action. https://t.co/W08GBqMG86"
+	},
+	{
 		"created_at": "Mon Nov 23 12:30:45 +0000 2020",
 		"id": 1330851280596529200,
 		"id_str": "1330851280596529154",

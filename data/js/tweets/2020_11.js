@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 23:57:32 +0000 2020",
+		"id": 1333560827891261400,
+		"id_str": "1333560827891261441",
+		"full_text": "@Bali_Maha @savasavasava @hypervisible @doxtdatorb @Jessifer @audreywatters @doctorow @Linkletter @bonstewart @eliast05 @Autumm @timbocop @karenraycosta @actualham @thatpsychprof @grandeped @drgong @MiaZamoraPhD Great responses for being #AgainstSurveillance — but check out all the folks speaking proudly of being #ForSurveillance or being a #SurveillanceFan https://t.co/o0DPhl0q3G",
+		"truncated": false,
+		"display_text_range": [
+			212,
+			359
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AgainstSurveillance",
+					"indices": [
+						238,
+						258
+					]
+				},
+				{
+					"text": "ForSurveillance",
+					"indices": [
+						315,
+						331
+					]
+				},
+				{
+					"text": "SurveillanceFan",
+					"indices": [
+						343,
+						359
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "savasavasava",
+					"name": "sava",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "hypervisible",
+					"name": "the only good Ring is a burning Ring",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "doxtdatorb",
+					"name": "Benjamin Doxtdator",
+					"id": 2343972634,
+					"id_str": "2343972634",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "doctorow",
+					"name": "Cory Doctorow #BLM",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"screen_name": "Linkletter",
+					"name": "Ian Linkletter",
+					"id": 804325,
+					"id_str": "804325",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"screen_name": "bonstewart",
+					"name": "Bonnie Stewart",
+					"id": 6532522,
+					"id_str": "6532522",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "eliast05",
+					"name": "Tanya",
+					"id": 206925887,
+					"id_str": "206925887",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a liminal space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"screen_name": "karenraycosta",
+					"name": "Karen Costa",
+					"id": 25416326,
+					"id_str": "25416326",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"screen_name": "thatpsychprof",
+					"name": "Dr. Rajiv Jhangiani",
+					"id": 39835900,
+					"id_str": "39835900",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"screen_name": "grandeped",
+					"name": "Matt (squeaky cog in the Ed-Tech™ machine)",
+					"id": 4040641,
+					"id_str": "4040641",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"screen_name": "drgong",
+					"name": "Regina Gong",
+					"id": 19430162,
+					"id_str": "19430162",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						198,
+						211
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333560814544978000,
+					"id_str": "1333560814544977921",
+					"indices": [
+						360,
+						383
+					],
+					"media_url": "http://pbs.twimg.com/media/EoHCfs1VgAElDRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoHCfs1VgAElDRb.jpg",
+					"url": "https://t.co/o0DPhl0q3G",
+					"display_url": "pic.twitter.com/o0DPhl0q3G",
+					"expanded_url": "https://twitter.com/cogdog/status/1333560827891261441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333560814544978000,
+					"id_str": "1333560814544977921",
+					"indices": [
+						360,
+						383
+					],
+					"media_url": "http://pbs.twimg.com/media/EoHCfs1VgAElDRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoHCfs1VgAElDRb.jpg",
+					"url": "https://t.co/o0DPhl0q3G",
+					"display_url": "pic.twitter.com/o0DPhl0q3G",
+					"expanded_url": "https://twitter.com/cogdog/status/1333560827891261441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333560814553366500,
+					"id_str": "1333560814553366530",
+					"indices": [
+						360,
+						383
+					],
+					"media_url": "http://pbs.twimg.com/media/EoHCfs3VgAIPnjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoHCfs3VgAIPnjM.jpg",
+					"url": "https://t.co/o0DPhl0q3G",
+					"display_url": "pic.twitter.com/o0DPhl0q3G",
+					"expanded_url": "https://twitter.com/cogdog/status/1333560827891261441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1332136558804267000,
+		"in_reply_to_status_id_str": "1332136558804267009",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10545,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bali_Maha @savasavasava @hypervisible @doxtdatorb @Jessifer @audreywatters @doctorow @Linkletter @bonstewart @eliast05 @Autumm @timbocop @karenraycosta @actualham @thatpsychprof @grandeped @drgong @MiaZamoraPhD Great responses for being #AgainstSurveillance — but check out all the folks speaking proudly of being #ForSurveillance or being a #SurveillanceFan https://t.co/o0DPhl0q3G"
+	},
+	{
 		"created_at": "Mon Nov 30 22:11:21 +0000 2020",
 		"id": 1333534104378175500,
 		"id_str": "1333534104378175489",

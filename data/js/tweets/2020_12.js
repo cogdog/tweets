@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 03:24:08 +0000 2020",
+		"id": 1333975208806387700,
+		"id_str": "1333975208806387719",
+		"full_text": "That same fiery spirit I heard in his EDUCAUSE session on learning objects burns stronger and tru-er today.  I could not jam more pride into a tweet to say congrats for this well-earned recognition. https://t.co/j2N2jfSE74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j2N2jfSE74",
+					"expanded_url": "https://twitter.com/BCcampus/status/1333910014084395014",
+					"display_url": "twitter.com/BCcampus/statu…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1333910014084395000,
+		"quoted_status_id_str": "1333910014084395014",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j2N2jfSE74",
+			"expanded": "https://twitter.com/BCcampus/status/1333910014084395014",
+			"display": "twitter.com/BCcampus/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 01 23:05:04 +0000 2020",
+			"id": 1333910014084395000,
+			"id_str": "1333910014084395014",
+			"full_text": "Please join us in congratulating #OER champion, Brian Lamb (@brlamb) for being the newest recipient of the BCcampus Award for Excellence in Open Education! Read more: https://t.co/AN2lTMEXo0 https://t.co/vuQDAu3EoO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER",
+						"indices": [
+							33,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brlamb",
+						"name": "Brian Lamb",
+						"id": 745903,
+						"id_str": "745903",
+						"indices": [
+							60,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AN2lTMEXo0",
+						"expanded_url": "http://ow.ly/e8z650CzY6R",
+						"display_url": "ow.ly/e8z650CzY6R",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1333910011593023500,
+						"id_str": "1333910011593023488",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/EoMAFpNW4AAijrt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoMAFpNW4AAijrt.jpg",
+						"url": "https://t.co/vuQDAu3EoO",
+						"display_url": "pic.twitter.com/vuQDAu3EoO",
+						"expanded_url": "https://twitter.com/BCcampus/status/1333910014084395014/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1333910011593023500,
+						"id_str": "1333910011593023488",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/EoMAFpNW4AAijrt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoMAFpNW4AAijrt.jpg",
+						"url": "https://t.co/vuQDAu3EoO",
+						"display_url": "pic.twitter.com/vuQDAu3EoO",
+						"expanded_url": "https://twitter.com/BCcampus/status/1333910014084395014/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93710949,
+				"id_str": "93710949",
+				"name": "BCcampus",
+				"screen_name": "BCcampus",
+				"location": "British Columbia, Canada",
+				"description": "BCcampus supports the work of the B.C. post-secondary system in the areas of teaching, learning, educational technology and open education. #BCcampus",
+				"url": "https://t.co/I9Q463azyE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I9Q463azyE",
+								"expanded_url": "http://www.bccampus.ca",
+								"display_url": "bccampus.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3787,
+				"friends_count": 1272,
+				"listed_count": 218,
+				"created_at": "Mon Nov 30 20:52:46 +0000 2009",
+				"favourites_count": 6842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14561,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93710949/1589395541",
+				"profile_link_color": "00A4E4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That same fiery spirit I heard in his EDUCAUSE session on learning objects burns stronger and tru-er today.  I could not jam more pride into a tweet to say congrats for this well-earned recognition. https://t.co/j2N2jfSE74"
+	},
+	{
 		"created_at": "Tue Dec 01 21:54:43 +0000 2020",
 		"id": 1333892309562257400,
 		"id_str": "1333892309562257409",

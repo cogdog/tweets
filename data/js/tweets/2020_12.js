@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 01:07:08 +0000 2020",
+		"id": 1334287898997260300,
+		"id_str": "1334303118289371137",
+		"full_text": "\"What self-respecting edtech company pursues a copyright claim on their own help materials to dissuade critical analysis of their tool?\"\n\nNot the one I work for, I'm happy to say.\n\nhttps://t.co/Fkt1WRW0mk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fkt1WRW0mk",
+					"expanded_url": "https://web.hypothes.is/blog/in-defense-of-ian-linkletter/",
+					"display_url": "web.hypothes.is/blog/in-defens…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937071,
+			"id_str": "2937071",
+			"name": "Jon Udell",
+			"screen_name": "judell",
+			"location": "Santa Rosa, CA",
+			"description": "Patron saint of trailing-edge technologies, grateful resident of the nation-state of California.",
+			"url": "https://t.co/F2IZbpKqNs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F2IZbpKqNs",
+							"expanded_url": "https://jonudell.info",
+							"display_url": "jonudell.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5712,
+			"friends_count": 2654,
+			"listed_count": 473,
+			"created_at": "Fri Mar 30 04:52:58 +0000 2007",
+			"favourites_count": 1754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"What self-respecting edtech company pursues a copyright claim on their own help materials to dissuade critical analysis of their tool?\"\n\nNot the one I work for, I'm happy to say.\n\nhttps://t.co/Fkt1WRW0mk"
+	},
+	{
 		"created_at": "Wed Dec 02 21:01:32 +0000 2020",
 		"id": 1334241312736862200,
 		"id_str": "1334241312736862208",

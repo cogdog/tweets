@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 23:35:28 +0000 2020",
+		"id": 1335004828443967500,
+		"id_str": "1335004828443967488",
+		"full_text": "Joy for content from 1925 walking into the public domain. One is the pre-pre-pre-pre Jurassic Park of \"The Lost World\" https://t.co/k0ioEHObfq \n\nhttps://t.co/REUbmde12b https://t.co/mkYrPtnwfE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k0ioEHObfq",
+					"expanded_url": "https://en.wikipedia.org/wiki/The_Lost_World_(1925_film)",
+					"display_url": "en.wikipedia.org/wiki/The_Lost_…",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/REUbmde12b",
+					"expanded_url": "https://www.youtube.com/watch?v=QJaXxY3citM",
+					"display_url": "youtube.com/watch?v=QJaXxY…",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/mkYrPtnwfE",
+					"expanded_url": "https://twitter.com/internetarchive/status/1334626841232089089",
+					"display_url": "twitter.com/internetarchiv…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10542,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334626841232089000,
+		"quoted_status_id_str": "1334626841232089089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mkYrPtnwfE",
+			"expanded": "https://twitter.com/internetarchive/status/1334626841232089089",
+			"display": "twitter.com/internetarchiv…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 03 22:33:29 +0000 2020",
+			"id": 1334626841232089000,
+			"id_str": "1334626841232089089",
+			"full_text": "What do Felix the Cat, The Great Gatsby &amp; Rudolph Valentino in “The Eagle” all have in common? They were first released in 1925 &amp; will enter the public domain in 2021. We're throwing a virtual party on Dec 17 to celebrate these works &amp; more! \n\nJoin us: https://t.co/BnFKwK0bhe https://t.co/CoBxcFQBoj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BnFKwK0bhe",
+						"expanded_url": "https://www.eventbrite.com/e/public-domain-day-looking-ahead-to-2021-tickets-131267742351",
+						"display_url": "eventbrite.com/e/public-domai…",
+						"indices": [
+							265,
+							288
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1334625364560187400,
+						"id_str": "1334625364560187393",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/EoWKsqrWEAE6gYi.png",
+						"media_url_https": "https://pbs.twimg.com/media/EoWKsqrWEAE6gYi.png",
+						"url": "https://t.co/CoBxcFQBoj",
+						"display_url": "pic.twitter.com/CoBxcFQBoj",
+						"expanded_url": "https://twitter.com/internetarchive/status/1334626841232089089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1334625364560187400,
+						"id_str": "1334625364560187393",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/EoWKsqrWEAE6gYi.png",
+						"media_url_https": "https://pbs.twimg.com/media/EoWKsqrWEAE6gYi.png",
+						"url": "https://t.co/CoBxcFQBoj",
+						"display_url": "pic.twitter.com/CoBxcFQBoj",
+						"expanded_url": "https://twitter.com/internetarchive/status/1334626841232089089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18957805,
+				"id_str": "18957805",
+				"name": "Internet Archive",
+				"screen_name": "internetarchive",
+				"location": "San Francisco, CA",
+				"description": "Internet Archive is a non-profit digital library offering millions of free books, movies, & audio files, plus billions of saved web pages in the Wayback Machine",
+				"url": "https://t.co/gFtuG5SqUT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gFtuG5SqUT",
+								"expanded_url": "https://archive.org",
+								"display_url": "archive.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 149325,
+				"friends_count": 659,
+				"listed_count": 4052,
+				"created_at": "Tue Jan 13 23:06:00 +0000 2009",
+				"favourites_count": 4437,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6784,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717127559134056448/BYGRuZmj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717127559134056448/BYGRuZmj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18957805/1459811234",
+				"profile_link_color": "706870",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0BECA",
+				"profile_text_color": "01010A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79,
+			"favorite_count": 191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Joy for content from 1925 walking into the public domain. One is the pre-pre-pre-pre Jurassic Park of \"The Lost World\" https://t.co/k0ioEHObfq \n\nhttps://t.co/REUbmde12b https://t.co/mkYrPtnwfE"
+	},
+	{
 		"created_at": "Fri Dec 04 22:32:11 +0000 2020",
 		"id": 1334988901706911700,
 		"id_str": "1334988901706911744",

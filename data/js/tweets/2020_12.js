@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 14:14:03 +0000 2020",
+		"id": 1336675481949593600,
+		"id_str": "1336675481949593604",
+		"full_text": "And people disbelieve that Santa Claus exists. Why his workshop has gold drapes! He’s been so busy working his 9 iron that he’s not been able to acknowledge nearly 300,000 dead, lo nary a compassionate call to a million+ family left behind. Ho ho ho. https://t.co/Cn4F4VLsle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cn4F4VLsle",
+					"expanded_url": "https://twitter.com/tomjawetz/status/1336528345434103808",
+					"display_url": "twitter.com/tomjawetz/stat…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336528345434103800,
+		"quoted_status_id_str": "1336528345434103808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Cn4F4VLsle",
+			"expanded": "https://twitter.com/tomjawetz/status/1336528345434103808",
+			"display": "twitter.com/tomjawetz/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 09 04:29:23 +0000 2020",
+			"id": 1336528345434103800,
+			"id_str": "1336528345434103808",
+			"full_text": "A one-time $600 direct cash payment in lieu of UI is some serious coal in the stocking.\n\nLet’s see if they will once again prevent US citizens and other SSN-filers in mixed status households from receiving even a dime of support. https://t.co/3PAuj11nVB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3PAuj11nVB",
+						"expanded_url": "https://www.axios.com/kevin-mccarthy-gop-leader-600-payments-coronavirus-stimulus-18861410-1ec0-4d93-a0d5-c1bb97ac69da.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiossneakpeek&stream=top",
+						"display_url": "axios.com/kevin-mccarthy…",
+						"indices": [
+							230,
+							253
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852096720,
+				"id_str": "852096720",
+				"name": "Tom Jawetz",
+				"screen_name": "TomJawetz",
+				"location": "Washington, DC",
+				"description": "Vice President, Immigration Policy, Center for American Progress @amprog/@capaction. Formerly @HouseJudDems @aclu @AmeriCorpsNCCC All views my own. He/Him/His",
+				"url": "https://t.co/ZgPqBs4dEM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZgPqBs4dEM",
+								"expanded_url": "https://www.americanprogress.org/about/staff/jawetz-tom/bio/",
+								"display_url": "americanprogress.org/about/staff/ja…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5320,
+				"friends_count": 1773,
+				"listed_count": 145,
+				"created_at": "Sat Sep 29 02:33:14 +0000 2012",
+				"favourites_count": 14671,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21035,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822933310347169793/5wqBjox1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822933310347169793/5wqBjox1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852096720/1554726438",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And people disbelieve that Santa Claus exists. Why his workshop has gold drapes! He’s been so busy working his 9 iron that he’s not been able to acknowledge nearly 300,000 dead, lo nary a compassionate call to a million+ family left behind. Ho ho ho. https://t.co/Cn4F4VLsle"
+	},
+	{
+		"created_at": "Wed Dec 09 14:05:38 +0000 2020",
+		"id": 1336673363826098200,
+		"id_str": "1336673363826098181",
+		"full_text": "@fceblog @gsiemens Silly me, I forgot my citation.\n\nPark, N., Box S., and Crossingham, M. (Directors). (1989). A Grand Day Out [Film]. Aardman Animations.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fceblog",
+					"name": "Claudia Ceraso",
+					"id": 754832,
+					"id_str": "754832",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1336635375083810800,
+		"in_reply_to_status_id_str": "1336635375083810817",
+		"in_reply_to_user_id": 754832,
+		"in_reply_to_user_id_str": "754832",
+		"in_reply_to_screen_name": "fceblog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fceblog @gsiemens Silly me, I forgot my citation.\n\nPark, N., Box S., and Crossingham, M. (Directors). (1989). A Grand Day Out [Film]. Aardman Animations."
+	},
+	{
+		"created_at": "Wed Dec 09 13:31:34 +0000 2020",
+		"id": 1336664787602690000,
+		"id_str": "1336664787602690048",
+		"full_text": "\"Flush Flash\" and \"Thanks for All The Flash\" -- an Adobe Swansong Production. https://t.co/un25eURQE3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336664509537083400,
+					"id_str": "1336664509537083398",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EozJShrUYAYb_lx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EozJShrUYAYb_lx.jpg",
+					"url": "https://t.co/un25eURQE3",
+					"display_url": "pic.twitter.com/un25eURQE3",
+					"expanded_url": "https://twitter.com/cogdog/status/1336664787602690048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1324,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336664509537083400,
+					"id_str": "1336664509537083398",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EozJShrUYAYb_lx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EozJShrUYAYb_lx.jpg",
+					"url": "https://t.co/un25eURQE3",
+					"display_url": "pic.twitter.com/un25eURQE3",
+					"expanded_url": "https://twitter.com/cogdog/status/1336664787602690048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1324,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336664509553856500,
+					"id_str": "1336664509553856512",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EozJShvUUAAeaSy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EozJShvUUAAeaSy.jpg",
+					"url": "https://t.co/un25eURQE3",
+					"display_url": "pic.twitter.com/un25eURQE3",
+					"expanded_url": "https://twitter.com/cogdog/status/1336664787602690048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Flush Flash\" and \"Thanks for All The Flash\" -- an Adobe Swansong Production. https://t.co/un25eURQE3"
+	},
+	{
 		"created_at": "Tue Dec 08 21:18:50 +0000 2020",
 		"id": 1336419993265705000,
 		"id_str": "1336419993265704960",

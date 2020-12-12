@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 20:05:29 +0000 2020",
+		"id": 1337851087034847200,
+		"id_str": "1337851087034847232",
+		"full_text": "@OnlineCrsLady @ChecktheOL1 @bonstewart @whitneykilgore @MiaZamoraPhD @greeneterry @ammienoot @Afilreis @LisaMLane @Jonathan_Worth I'll double chime in a recommendation to include @Jonathan_Worth whose ideas and ethos of teaching photograph remain inspirational.\n\nA small highlight was his idea to connect #phonar and #ds106 on a remix challenge using Jonathan's photos of @doctorow https://t.co/5jObXsZUia",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			406
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "phonar",
+					"indices": [
+						306,
+						313
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						318,
+						324
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ChecktheOL1",
+					"name": "Check the O.L.",
+					"id": 1334152040822476800,
+					"id_str": "1334152040822476802",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "bonstewart",
+					"name": "Bonnie Stewart",
+					"id": 6532522,
+					"id_str": "6532522",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "whitneykilgore",
+					"name": "Whitney Kilgore",
+					"id": 12915742,
+					"id_str": "12915742",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						56,
+						69
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene (He/Him)",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "Afilreis",
+					"name": "Al Filreis",
+					"id": 18182237,
+					"id_str": "18182237",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"screen_name": "LisaMLane",
+					"name": "📖 𝐋𝐢𝐬𝐚 𝐌 𝐋𝐚𝐧𝐞 🕰️",
+					"id": 7636002,
+					"id_str": "7636002",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"screen_name": "Jonathan_Worth",
+					"name": "Jonathan Worth",
+					"id": 17687064,
+					"id_str": "17687064",
+					"indices": [
+						115,
+						130
+					]
+				},
+				{
+					"screen_name": "Jonathan_Worth",
+					"name": "Jonathan Worth",
+					"id": 17687064,
+					"id_str": "17687064",
+					"indices": [
+						180,
+						195
+					]
+				},
+				{
+					"screen_name": "doctorow",
+					"name": "Cory Doctorow #BLM",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						373,
+						382
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5jObXsZUia",
+					"expanded_url": "https://fortheremix.wordpress.com/",
+					"display_url": "fortheremix.wordpress.com",
+					"indices": [
+						383,
+						406
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1337802294189023200,
+		"in_reply_to_status_id_str": "1337802294189023233",
+		"in_reply_to_user_id": 7044082,
+		"in_reply_to_user_id_str": "7044082",
+		"in_reply_to_screen_name": "OnlineCrsLady",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10530,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OnlineCrsLady @ChecktheOL1 @bonstewart @whitneykilgore @MiaZamoraPhD @greeneterry @ammienoot @Afilreis @LisaMLane @Jonathan_Worth I'll double chime in a recommendation to include @Jonathan_Worth whose ideas and ethos of teaching photograph remain inspirational.\n\nA small highlight was his idea to connect #phonar and #ds106 on a remix challenge using Jonathan's photos of @doctorow https://t.co/5jObXsZUia"
+	},
+	{
 		"created_at": "Sat Dec 12 14:54:46 +0000 2020",
 		"id": 1337772892805730300,
 		"id_str": "1337772892805730310",

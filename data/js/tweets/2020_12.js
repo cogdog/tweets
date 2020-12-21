@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 16:35:31 +0000 2020",
+		"id": 1341059737886978000,
+		"id_str": "1341059737886978049",
+		"full_text": "2020 in one single photo... https://t.co/LNWca0WVXc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LNWca0WVXc",
+					"expanded_url": "https://twitter.com/AbdullaGhost/status/1341012193144434697",
+					"display_url": "twitter.com/AbdullaGhost/s…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10518,
+			"friends_count": 1541,
+			"listed_count": 794,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341012193144434700,
+		"quoted_status_id_str": "1341012193144434697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LNWca0WVXc",
+			"expanded": "https://twitter.com/AbdullaGhost/status/1341012193144434697",
+			"display": "twitter.com/AbdullaGhost/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 13:26:36 +0000 2020",
+			"id": 1341012193144434700,
+			"id_str": "1341012193144434697",
+			"full_text": "An Iraqi woman, dressed as Santa claus, rides her bicycle, amid the spread of the coronavirus disease (COVID-19), in the old city of Mosul, Iraq, December 18, 2020. Picture taken December 18, 2020. REUTERS/Abdullah Rashid TPX IMAGES OF THE DAY. @reuterspictures @Reuters https://t.co/9HlXku3i8N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "reuterspictures",
+						"name": "Reuters Pictures",
+						"id": 14584903,
+						"id_str": "14584903",
+						"indices": [
+							245,
+							261
+						]
+					},
+					{
+						"screen_name": "Reuters",
+						"name": "Reuters",
+						"id": 1652541,
+						"id_str": "1652541",
+						"indices": [
+							262,
+							270
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1341012187217801200,
+						"id_str": "1341012187217801216",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/Epw7erKWMAACjTf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epw7erKWMAACjTf.jpg",
+						"url": "https://t.co/9HlXku3i8N",
+						"display_url": "pic.twitter.com/9HlXku3i8N",
+						"expanded_url": "https://twitter.com/AbdullaGhost/status/1341012193144434697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 684,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 684,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1341012187217801200,
+						"id_str": "1341012187217801216",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/Epw7erKWMAACjTf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epw7erKWMAACjTf.jpg",
+						"url": "https://t.co/9HlXku3i8N",
+						"display_url": "pic.twitter.com/9HlXku3i8N",
+						"expanded_url": "https://twitter.com/AbdullaGhost/status/1341012193144434697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 684,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 684,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 352609852,
+				"id_str": "352609852",
+				"name": "Abdullah Alahmad",
+				"screen_name": "AbdullaGhost",
+				"location": "Iraq",
+				"description": "Abdullah Rashid Alahmad Iraq / Mosul 25 years . Photographer , singer .",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 366,
+				"friends_count": 246,
+				"listed_count": 4,
+				"created_at": "Wed Aug 10 21:22:12 +0000 2011",
+				"favourites_count": 1608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232750177745850368/ZDuBF7PF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232750177745850368/ZDuBF7PF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/352609852/1582745685",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 205,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2020 in one single photo... https://t.co/LNWca0WVXc"
+	},
+	{
 		"created_at": "Mon Dec 21 15:59:29 +0000 2020",
 		"id": 1341050667217997800,
 		"id_str": "1341050667217997824",

@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 02 23:21:24 +0000 2021",
+		"id": 1345510533240291300,
+		"id_str": "1345510533240291328",
+		"full_text": "@thomcochrane @jamesclay @sverjans @cdeneen212 @kateycoleman @vnarayan @ATZ119 @NeilCowie3 @lisaransom @caguayoNZ @ToddStretton @david_sinfield Happy 2021 Thom, looks like you have all the luxuries and the best views.",
+		"truncated": false,
+		"display_text_range": [
+			144,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomcochrane",
+					"name": "thomcochrane",
+					"id": 17764797,
+					"id_str": "17764797",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jamesclay",
+					"name": "James Clay",
+					"id": 2272841,
+					"id_str": "2272841",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "sverjans",
+					"name": "Steven Verjans",
+					"id": 2204721,
+					"id_str": "2204721",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "cdeneen212",
+					"name": "Christopher C. Deneen",
+					"id": 937943711069061100,
+					"id_str": "937943711069061120",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "kateycoleman",
+					"name": "Dr Katey Coleman",
+					"id": 23180051,
+					"id_str": "23180051",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"screen_name": "vnarayan",
+					"name": "Vickel Narayan",
+					"id": 16752442,
+					"id_str": "16752442",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "ATZ119",
+					"name": "ATZ119",
+					"id": 97410311,
+					"id_str": "97410311",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"screen_name": "NeilCowie3",
+					"name": "Neil Cowie ",
+					"id": 3318507667,
+					"id_str": "3318507667",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "lisaransom",
+					"name": "Lisa Ransom",
+					"id": 32165120,
+					"id_str": "32165120",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "caguayoNZ",
+					"name": "Claudio Aguayo",
+					"id": 222491616,
+					"id_str": "222491616",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"screen_name": "ToddStretton",
+					"name": "Todd Stretton",
+					"id": 1936484713,
+					"id_str": "1936484713",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"screen_name": "david_sinfield",
+					"name": "David Sinfield",
+					"id": 702728052271243300,
+					"id_str": "702728052271243264",
+					"indices": [
+						128,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1345273838314000400,
+		"in_reply_to_status_id_str": "1345273838314000385",
+		"in_reply_to_user_id": 17764797,
+		"in_reply_to_user_id_str": "17764797",
+		"in_reply_to_screen_name": "thomcochrane",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10519,
+			"friends_count": 1537,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thomcochrane @jamesclay @sverjans @cdeneen212 @kateycoleman @vnarayan @ATZ119 @NeilCowie3 @lisaransom @caguayoNZ @ToddStretton @david_sinfield Happy 2021 Thom, looks like you have all the luxuries and the best views."
+	},
+	{
 		"created_at": "Sat Jan 02 16:43:11 +0000 2021",
 		"id": 1345410318269251600,
 		"id_str": "1345410318269251585",

@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 05:48:37 +0000 2021",
+		"id": 1346332758394617900,
+		"id_str": "1346332758394617856",
+		"full_text": "Broke out the hammers and chisels, the web gophers got #etmooc site afloat again https://t.co/FavVCsViyC Was anyone running a Twitter TAGS archive? Just set one up but it's only got back last 30 tweets so visualizer is small now https://t.co/f4zkpZHHSA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "etmooc",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FavVCsViyC",
+					"expanded_url": "http://etmooc.org/",
+					"display_url": "etmooc.org",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/f4zkpZHHSA",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1G_T64UUC9l6ssxeN3aOYw40VK36v9LiNwvI6oFye5Lw&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10517,
+			"friends_count": 1535,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Broke out the hammers and chisels, the web gophers got #etmooc site afloat again https://t.co/FavVCsViyC Was anyone running a Twitter TAGS archive? Just set one up but it's only got back last 30 tweets so visualizer is small now https://t.co/f4zkpZHHSA"
+	},
+	{
 		"created_at": "Tue Jan 05 02:12:05 +0000 2021",
 		"id": 1346278265514676200,
 		"id_str": "1346278265514676225",
@@ -16,7 +149,7 @@ Grailbird.data.tweets_2021_01 =
 			"user_mentions": [
 				{
 					"screen_name": "cherylcolan",
-					"name": "C:\\ 👏👩🏾👨🏻‍🦳🏛👋🥾🤡",
+					"name": "C:\\ 👏👩🏾👨🏻🦳🏛👋🥾🤡",
 					"id": 1836791,
 					"id_str": "1836791",
 					"indices": [

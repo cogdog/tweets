@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 16:04:41 +0000 2021",
+		"id": 1347212571779113000,
+		"id_str": "1347212571779112963",
+		"full_text": "Here is what to do. Apply Section 4, 25th Amendment ASAP. https://t.co/NMvzW672tL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMvzW672tL",
+					"expanded_url": "https://twitter.com/MSNBC/status/1347128871880036353",
+					"display_url": "twitter.com/MSNBC/status/1…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10513,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347128871880036400,
+		"quoted_status_id_str": "1347128871880036353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NMvzW672tL",
+			"expanded": "https://twitter.com/MSNBC/status/1347128871880036353",
+			"display": "twitter.com/MSNBC/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 10:32:06 +0000 2021",
+			"id": 1347128871880036400,
+			"id_str": "1347128871880036353",
+			"full_text": "\"The president is in a very fragile mental state right now and he's not taking well to what's happening,\" Philip Rucker says. \"He feels betrayed by his VP ... and a lot of admin. officials are very uncertain about what he might do tomorrow.\" https://t.co/1md9BRWdyc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1md9BRWdyc",
+						"expanded_url": "https://on.msnbc.com/3bfpK7I",
+						"display_url": "on.msnbc.com/3bfpK7I",
+						"indices": [
+							242,
+							265
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2836421,
+				"id_str": "2836421",
+				"name": "MSNBC",
+				"screen_name": "MSNBC",
+				"location": "",
+				"description": "The place for in-depth analysis, political commentary and diverse perspectives. Home of @MSNBCDaily.",
+				"url": "https://t.co/YBwtJIhwY3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YBwtJIhwY3",
+								"expanded_url": "http://msnbc.com/live",
+								"display_url": "msnbc.com/live",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3972855,
+				"friends_count": 763,
+				"listed_count": 27260,
+				"created_at": "Thu Mar 29 13:15:41 +0000 2007",
+				"favourites_count": 821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 232940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1321089811290202119/6QEBEjWk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321089811290202119/6QEBEjWk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1585585008",
+				"profile_link_color": "0CB1C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1653,
+			"favorite_count": 3765,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is what to do. Apply Section 4, 25th Amendment ASAP. https://t.co/NMvzW672tL"
+	},
+	{
 		"created_at": "Thu Jan 07 15:12:16 +0000 2021",
 		"id": 1347199380785307600,
 		"id_str": "1347199380785307648",

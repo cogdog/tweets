@@ -1,6 +1,702 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 22:00:49 +0000 2021",
+		"id": 1347302194610020400,
+		"id_str": "1347302194610020353",
+		"full_text": "What a \"leader\". He even lies to his followers.\n\nSection 4, 25th Amendment. Do it now. https://t.co/5vrFz7bc5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5vrFz7bc5S",
+					"expanded_url": "https://twitter.com/DavidBegnaud/status/1347275749061890048",
+					"display_url": "twitter.com/DavidBegnaud/s…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10512,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347275749061890000,
+		"quoted_status_id_str": "1347275749061890048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5vrFz7bc5S",
+			"expanded": "https://twitter.com/DavidBegnaud/status/1347275749061890048",
+			"display": "twitter.com/DavidBegnaud/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 20:15:44 +0000 2021",
+			"id": 1347275749061890000,
+			"id_str": "1347275749061890048",
+			"full_text": "WATCH: Yesterday, President Trump encouraged his supporters to walk down to Capitol &amp; said he would walk with them. He lied. He didn’t go. His followers went, just as he encouraged them to, and then, they attacked the United States Capitol. \n https://t.co/Z7jRpiJ3hS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1346967379620880400,
+						"id_str": "1346967379620880384",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346967379620880384/pu/img/r2He1ep3JDgy3kr1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346967379620880384/pu/img/r2He1ep3JDgy3kr1.jpg",
+						"url": "https://t.co/Z7jRpiJ3hS",
+						"display_url": "pic.twitter.com/Z7jRpiJ3hS",
+						"expanded_url": "https://twitter.com/ReardonReports/status/1346967419181436929/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 886,
+								"h": 490,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 886,
+								"h": 490,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1346967419181437000,
+						"source_status_id_str": "1346967419181436929",
+						"source_user_id": 3409402936,
+						"source_user_id_str": "3409402936"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1346967379620880400,
+						"id_str": "1346967379620880384",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346967379620880384/pu/img/r2He1ep3JDgy3kr1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346967379620880384/pu/img/r2He1ep3JDgy3kr1.jpg",
+						"url": "https://t.co/Z7jRpiJ3hS",
+						"display_url": "pic.twitter.com/Z7jRpiJ3hS",
+						"expanded_url": "https://twitter.com/ReardonReports/status/1346967419181436929/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 886,
+								"h": 490,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 886,
+								"h": 490,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1346967419181437000,
+						"source_status_id_str": "1346967419181436929",
+						"source_user_id": 3409402936,
+						"source_user_id_str": "3409402936",
+						"video_info": {
+							"aspect_ratio": [
+								443,
+								245
+							],
+							"duration_millis": 21292,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346967379620880384/pu/vid/650x360/RDOH-0Swvwv6LgdR.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346967379620880384/pu/vid/488x270/9tNwhzcifqCe3SEF.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1346967379620880384/pu/pl/_2rFPaXlNeIG49Lq.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346967379620880384/pu/vid/886x490/hd8BiUCtn-QYnyiK.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3409402936,
+								"id_str": "3409402936",
+								"name": "Doug Reardon",
+								"screen_name": "ReardonReports",
+								"location": "Grand Rapids, MI",
+								"description": "Reporter | Terp | Bostonian | Have a story? Email Doug at douglas.reardon@fox17online.com",
+								"url": "https://t.co/YTdZgJnCjc",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/YTdZgJnCjc",
+												"expanded_url": "http://fox17online.com/author/doug-reardon/",
+												"display_url": "fox17online.com/author/doug-re…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1049,
+								"friends_count": 364,
+								"listed_count": 18,
+								"created_at": "Sat Aug 08 23:05:07 +0000 2015",
+								"favourites_count": 418,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 1206,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1242114190254448645/XGGNTABv_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242114190254448645/XGGNTABv_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3409402936/1487793464",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42971403,
+				"id_str": "42971403",
+				"name": "David Begnaud",
+				"screen_name": "DavidBegnaud",
+				"location": "New York City",
+				"description": "Lead National Correspondent 4 @CBSThisMorning, @CBSNews. Anchor, @CBSNewsRadio’s ’Reporter’s Notebook’. Boo 2 a Boo. Uncle. Brother. Cajun. Paddington’s dad. 🐶",
+				"url": "https://t.co/54R2aTtvPg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/54R2aTtvPg",
+								"expanded_url": "https://www.cbsnews.com/team/david-begnaud/",
+								"display_url": "cbsnews.com/team/david-beg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 248978,
+				"friends_count": 2785,
+				"listed_count": 1719,
+				"created_at": "Wed May 27 21:25:45 +0000 2009",
+				"favourites_count": 9679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36595,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1344332324008300544/TZuSTBHo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344332324008300544/TZuSTBHo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42971403/1608937758",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 170,
+			"favorite_count": 478,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a \"leader\". He even lies to his followers.\n\nSection 4, 25th Amendment. Do it now. https://t.co/5vrFz7bc5S"
+	},
+	{
+		"created_at": "Thu Jan 07 21:35:12 +0000 2021",
+		"id": 1347295747486535700,
+		"id_str": "1347295747486535680",
+		"full_text": "@xpconcept I'm sure, thanks.\n\nTo be clear, I have no challenges finding open licensed images. I was more making light of the subject.\n\nBut now people are offering to take some original ones, now this is something.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xpconcept",
+					"name": "Steve Flowers",
+					"id": 50280918,
+					"id_str": "50280918",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1347293665673277400,
+		"in_reply_to_status_id_str": "1347293665673277441",
+		"in_reply_to_user_id": 50280918,
+		"in_reply_to_user_id_str": "50280918",
+		"in_reply_to_screen_name": "xpconcept",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10512,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@xpconcept I'm sure, thanks.\n\nTo be clear, I have no challenges finding open licensed images. I was more making light of the subject.\n\nBut now people are offering to take some original ones, now this is something."
+	},
+	{
+		"created_at": "Thu Jan 07 21:33:49 +0000 2021",
+		"id": 1347295400378593300,
+		"id_str": "1347295400378593280",
+		"full_text": "Home Alone https://t.co/WsdtFZKt9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347295153040490500,
+					"id_str": "1347295153040490496",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ErKNzayVgAAQdl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErKNzayVgAAQdl9.jpg",
+					"url": "https://t.co/WsdtFZKt9u",
+					"display_url": "pic.twitter.com/WsdtFZKt9u",
+					"expanded_url": "https://twitter.com/cogdog/status/1347295400378593280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1468,
+							"h": 820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347295153040490500,
+					"id_str": "1347295153040490496",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ErKNzayVgAAQdl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErKNzayVgAAQdl9.jpg",
+					"url": "https://t.co/WsdtFZKt9u",
+					"display_url": "pic.twitter.com/WsdtFZKt9u",
+					"expanded_url": "https://twitter.com/cogdog/status/1347295400378593280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1468,
+							"h": 820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10512,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Home Alone https://t.co/WsdtFZKt9u"
+	},
+	{
 		"created_at": "Thu Jan 07 21:14:46 +0000 2021",
 		"id": 1347290604489724000,
 		"id_str": "1347290604489723905",

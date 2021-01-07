@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 17:13:03 +0000 2021",
+		"id": 1347229774087737300,
+		"id_str": "1347229774087737344",
+		"full_text": "Section 4, 25th Amendment.  \n\nThis one is on your plate @Mike_Pence like the lady says at the end \"Now's the time to do the right thing\" https://t.co/by7eMMmLYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mike_Pence",
+					"name": "Mike Pence",
+					"id": 22203756,
+					"id_str": "22203756",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/by7eMMmLYp",
+					"expanded_url": "https://twitter.com/jadedcreative/status/1347208294818074624",
+					"display_url": "twitter.com/jadedcreative/…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10513,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347208294818074600,
+		"quoted_status_id_str": "1347208294818074624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/by7eMMmLYp",
+			"expanded": "https://twitter.com/jadedcreative/status/1347208294818074624",
+			"display": "twitter.com/jadedcreative/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 15:47:42 +0000 2021",
+			"id": 1347208294818074600,
+			"id_str": "1347208294818074624",
+			"full_text": "HERE IS THE PRESIDENT WATCHING AND CHEERING THE DESTRUCTION OF OUR HOUSE. \n\n https://t.co/AdIqzSMIAV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347175353421353000,
+						"id_str": "1347175353421352960",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"url": "https://t.co/AdIqzSMIAV",
+						"display_url": "pic.twitter.com/AdIqzSMIAV",
+						"expanded_url": "https://twitter.com/edi_samira/status/1347176030495272960/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1347176030495273000,
+						"source_status_id_str": "1347176030495272960",
+						"source_user_id": 1324731807976378400,
+						"source_user_id_str": "1324731807976378370"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347175353421353000,
+						"id_str": "1347175353421352960",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"url": "https://t.co/AdIqzSMIAV",
+						"display_url": "pic.twitter.com/AdIqzSMIAV",
+						"expanded_url": "https://twitter.com/edi_samira/status/1347176030495272960/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1347176030495273000,
+						"source_status_id_str": "1347176030495272960",
+						"source_user_id": 1324731807976378400,
+						"source_user_id_str": "1324731807976378370",
+						"video_info": {
+							"aspect_ratio": [
+								11,
+								20
+							],
+							"duration_millis": 140030,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1347175353421352960/pu/vid/352x640/jcCHU9s60WoG04f2.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1347175353421352960/pu/vid/320x580/NL-2EDxqUpai0516.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1347175353421352960/pu/pl/JJULN6M_dmuxxoHc.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1324731807976378400,
+								"id_str": "1324731807976378370",
+								"name": "Samira Edi🌹ImpeachTrumpAgain",
+								"screen_name": "edi_samira",
+								"location": "New York, USA, London UK",
+								"description": "Banker|Chronicler| Polemicist & A godless succubus 🇨🇲🇳🇬🇬🇧🇺🇸🇨🇦🇫🇷",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 100,
+								"friends_count": 218,
+								"listed_count": 0,
+								"created_at": "Fri Nov 06 15:14:46 +0000 2020",
+								"favourites_count": 3799,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1356,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1324747572402098178/POTkcoPF_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324747572402098178/POTkcoPF_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1324731807976378370/1604770017",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15879633,
+				"id_str": "15879633",
+				"name": "Jay Arnold 🎬",
+				"screen_name": "jadedcreative",
+				"location": "Philadelphia",
+				"description": "writer • director he/him @imdb - https://t.co/o1mgOIWWgs \"What Happens Next\" is available on amazon - author @thecucumberdiet @ohmydailyedit",
+				"url": "https://t.co/Iea3tIH5Uv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Iea3tIH5Uv",
+								"expanded_url": "http://jayarnold.com",
+								"display_url": "jayarnold.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/o1mgOIWWgs",
+								"expanded_url": "http://imdb.me/jadedcreative",
+								"display_url": "imdb.me/jadedcreative",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 42631,
+				"friends_count": 631,
+				"listed_count": 202,
+				"created_at": "Sun Aug 17 04:39:55 +0000 2008",
+				"favourites_count": 409878,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193920,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1304901506026659840/F6xHEX8L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304901506026659840/F6xHEX8L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15879633/1595276126",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "BACCD4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1554,
+			"favorite_count": 1447,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Section 4, 25th Amendment.  \n\nThis one is on your plate @Mike_Pence like the lady says at the end \"Now's the time to do the right thing\" https://t.co/by7eMMmLYp"
+	},
+	{
 		"created_at": "Thu Jan 07 16:04:41 +0000 2021",
 		"id": 1347212571779113000,
 		"id_str": "1347212571779112963",

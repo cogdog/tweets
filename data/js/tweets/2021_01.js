@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 23:31:58 +0000 2021",
+		"id": 1347325132532977700,
+		"id_str": "1347325132532977664",
+		"full_text": "Let's all play Three Lies and ... Three Lies https://t.co/4ESb7uJUrF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ESb7uJUrF",
+					"expanded_url": "https://twitter.com/skolanach/status/1347316860539203585",
+					"display_url": "twitter.com/skolanach/stat…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10512,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347316860539203600,
+		"quoted_status_id_str": "1347316860539203585",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4ESb7uJUrF",
+			"expanded": "https://twitter.com/skolanach/status/1347316860539203585",
+			"display": "twitter.com/skolanach/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 22:59:06 +0000 2021",
+			"id": 1347316860539203600,
+			"id_str": "1347316860539203585",
+			"full_text": "@politico Nah https://t.co/RIhKlx1y7M",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				13
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "politico",
+						"name": "POLITICO",
+						"id": 9300262,
+						"id_str": "9300262",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347316825101459500,
+						"id_str": "1347316825101459456",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347316825101459456/pu/img/16U2v03mibkoDI8y.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347316825101459456/pu/img/16U2v03mibkoDI8y.jpg",
+						"url": "https://t.co/RIhKlx1y7M",
+						"display_url": "pic.twitter.com/RIhKlx1y7M",
+						"expanded_url": "https://twitter.com/skolanach/status/1347316860539203585/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347316825101459500,
+						"id_str": "1347316825101459456",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347316825101459456/pu/img/16U2v03mibkoDI8y.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347316825101459456/pu/img/16U2v03mibkoDI8y.jpg",
+						"url": "https://t.co/RIhKlx1y7M",
+						"display_url": "pic.twitter.com/RIhKlx1y7M",
+						"expanded_url": "https://twitter.com/skolanach/status/1347316860539203585/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"duration_millis": 24333,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1347316825101459456/pu/pl/Yd3q4zUCgz8mRLrv.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1347316825101459456/pu/vid/540x270/TnjtZ1c93OtUadpG.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1347316825101459456/pu/vid/640x320/VebjK9o5vaeX_c0D.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1347316705266118700,
+			"in_reply_to_status_id_str": "1347316705266118656",
+			"in_reply_to_user_id": 9300262,
+			"in_reply_to_user_id_str": "9300262",
+			"in_reply_to_screen_name": "politico",
+			"user": {
+				"id": 16931008,
+				"id_str": "16931008",
+				"name": "ElElegante101",
+				"screen_name": "skolanach",
+				"location": "los angeles",
+				"description": "I make things on my phone #PERSIST",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14107,
+				"friends_count": 399,
+				"listed_count": 80,
+				"created_at": "Thu Oct 23 17:27:08 +0000 2008",
+				"favourites_count": 36780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9292,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869954271604752388/N3QQ_SIr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869954271604752388/N3QQ_SIr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16931008/1475114537",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1735,
+			"favorite_count": 3458,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let's all play Three Lies and ... Three Lies https://t.co/4ESb7uJUrF"
+	},
+	{
 		"created_at": "Thu Jan 07 23:07:44 +0000 2021",
 		"id": 1347319033670946800,
 		"id_str": "1347319033670946816",

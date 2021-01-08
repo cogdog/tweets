@@ -1,6 +1,599 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 14:50:36 +0000 2021",
+		"id": 1347556314965102600,
+		"id_str": "1347556314965102592",
+		"full_text": "I have 387 accounts with compromised passwords on various web sites most I have not used in years. Each one requires a maze of clicks to just find a means to delete an account. \n\nIf your web site offers a means to create an account, provide a single button to delete it. https://t.co/YwtKymPZPv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347556232802959400,
+					"id_str": "1347556232802959363",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ErN7QQsVgAMdgZx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErN7QQsVgAMdgZx.jpg",
+					"url": "https://t.co/YwtKymPZPv",
+					"display_url": "pic.twitter.com/YwtKymPZPv",
+					"expanded_url": "https://twitter.com/cogdog/status/1347556314965102592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 211,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1288,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347556232802959400,
+					"id_str": "1347556232802959363",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ErN7QQsVgAMdgZx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErN7QQsVgAMdgZx.jpg",
+					"url": "https://t.co/YwtKymPZPv",
+					"display_url": "pic.twitter.com/YwtKymPZPv",
+					"expanded_url": "https://twitter.com/cogdog/status/1347556314965102592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 211,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1288,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have 387 accounts with compromised passwords on various web sites most I have not used in years. Each one requires a maze of clicks to just find a means to delete an account. \n\nIf your web site offers a means to create an account, provide a single button to delete it. https://t.co/YwtKymPZPv"
+	},
+	{
+		"created_at": "Fri Jan 08 14:46:11 +0000 2021",
+		"id": 1347555201322946600,
+		"id_str": "1347555201322946560",
+		"full_text": "@CloudflareHelp I have an account not used for years with a compromised password. Why is there no delete account button? It took 20 minutes of searching to discover I have to submit a ticket through a system that requires a login.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CloudflareHelp",
+					"name": "Cloudflare Help",
+					"id": 885954674523684900,
+					"id_str": "885954674523684864",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 885954674523684900,
+		"in_reply_to_user_id_str": "885954674523684864",
+		"in_reply_to_screen_name": "CloudflareHelp",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CloudflareHelp I have an account not used for years with a compromised password. Why is there no delete account button? It took 20 minutes of searching to discover I have to submit a ticket through a system that requires a login."
+	},
+	{
+		"created_at": "Fri Jan 08 14:24:01 +0000 2021",
+		"id": 1347549623498334200,
+		"id_str": "1347549623498334210",
+		"full_text": "Under attack by a mob House Majority leader calls Governor of state he represents requesting National Guard assistance, but is told he \"lacks authorization\". As looters post selfies trashing the Halls note who is *no*t authorizing.\n\nClearly treasonous. https://t.co/of5rKGHqPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/of5rKGHqPD",
+					"expanded_url": "https://twitter.com/McCormackJohn/status/1347304394128322577",
+					"display_url": "twitter.com/McCormackJohn/…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10510,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347304394128322600,
+		"quoted_status_id_str": "1347304394128322577",
+		"quoted_status_permalink": {
+			"url": "https://t.co/of5rKGHqPD",
+			"expanded": "https://twitter.com/McCormackJohn/status/1347304394128322577",
+			"display": "twitter.com/McCormackJohn/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 22:09:33 +0000 2021",
+			"id": 1347304394128322600,
+			"id_str": "1347304394128322577",
+			"full_text": "Gov. Larry Hogan says requests to send in the Maryland National Guard were rejected for 90 minutes on Wednesday. \n\nRead this. https://t.co/lrCB4gn4ni https://t.co/dvpCtAc7k9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lrCB4gn4ni",
+						"expanded_url": "https://www.washingtonpost.com/dc-md-va/2021/01/07/capitol-protests-dc-live-updates/#link-EF65NBEEYNEDZHPSTUC5H7VD34",
+						"display_url": "washingtonpost.com/dc-md-va/2021/…",
+						"indices": [
+							126,
+							149
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1347304224279978000,
+						"id_str": "1347304224279977984",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/ErKWDbyXYAAiAHS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErKWDbyXYAAiAHS.jpg",
+						"url": "https://t.co/dvpCtAc7k9",
+						"display_url": "pic.twitter.com/dvpCtAc7k9",
+						"expanded_url": "https://twitter.com/McCormackJohn/status/1347304394128322577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 968,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 548,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1580,
+								"h": 1274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347304224279978000,
+						"id_str": "1347304224279977984",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/ErKWDbyXYAAiAHS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErKWDbyXYAAiAHS.jpg",
+						"url": "https://t.co/dvpCtAc7k9",
+						"display_url": "pic.twitter.com/dvpCtAc7k9",
+						"expanded_url": "https://twitter.com/McCormackJohn/status/1347304394128322577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 968,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 548,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1580,
+								"h": 1274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27689907,
+				"id_str": "27689907",
+				"name": "John McCormack",
+				"screen_name": "McCormackJohn",
+				"location": "",
+				"description": "Washington correspondent at National Review and fellow at National Review Institute.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33950,
+				"friends_count": 1935,
+				"listed_count": 1024,
+				"created_at": "Mon Mar 30 17:47:36 +0000 2009",
+				"favourites_count": 2510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 61118,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1085556947825373187/OpbR-3si_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085556947825373187/OpbR-3si_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27689907/1542658078",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6808,
+			"favorite_count": 11959,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Under attack by a mob House Majority leader calls Governor of state he represents requesting National Guard assistance, but is told he \"lacks authorization\". As looters post selfies trashing the Halls note who is *no*t authorizing.\n\nClearly treasonous. https://t.co/of5rKGHqPD"
+	},
+	{
 		"created_at": "Fri Jan 08 14:13:38 +0000 2021",
 		"id": 1347547011550040000,
 		"id_str": "1347547011550040064",

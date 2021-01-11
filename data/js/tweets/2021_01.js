@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 19:15:52 +0000 2021",
+		"id": 1348710235448377300,
+		"id_str": "1348710235448377345",
+		"full_text": "Doing the good work bringing love and life into this world, congrats! https://t.co/EU54kJWbxr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EU54kJWbxr",
+					"expanded_url": "https://twitter.com/Strawberry_AZ/status/1348709816663900160",
+					"display_url": "twitter.com/Strawberry_AZ/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10497,
+			"friends_count": 1536,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348709816663900200,
+		"quoted_status_id_str": "1348709816663900160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EU54kJWbxr",
+			"expanded": "https://twitter.com/Strawberry_AZ/status/1348709816663900160",
+			"display": "twitter.com/Strawberry_AZ/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 11 19:14:12 +0000 2021",
+			"id": 1348709816663900200,
+			"id_str": "1348709816663900160",
+			"full_text": "Say hello to Strawberry’s newest and youngest citizen! Our plan to populate the village with smart and powerful young ladies is almost complete! \n💪👶👍🍓 https://t.co/uRCTJgj01r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1348709812737962000,
+						"id_str": "1348709812737961984",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EreUbc1UcAA5aM6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EreUbc1UcAA5aM6.jpg",
+						"url": "https://t.co/uRCTJgj01r",
+						"display_url": "pic.twitter.com/uRCTJgj01r",
+						"expanded_url": "https://twitter.com/Strawberry_AZ/status/1348709816663900160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1348709812737962000,
+						"id_str": "1348709812737961984",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EreUbc1UcAA5aM6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EreUbc1UcAA5aM6.jpg",
+						"url": "https://t.co/uRCTJgj01r",
+						"display_url": "pic.twitter.com/uRCTJgj01r",
+						"expanded_url": "https://twitter.com/Strawberry_AZ/status/1348709816663900160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1348709813081972700,
+						"id_str": "1348709813081972736",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EreUbeHVoAA-4SS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EreUbeHVoAA-4SS.jpg",
+						"url": "https://t.co/uRCTJgj01r",
+						"display_url": "pic.twitter.com/uRCTJgj01r",
+						"expanded_url": "https://twitter.com/Strawberry_AZ/status/1348709816663900160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1898,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1112,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1348709813501325300,
+						"id_str": "1348709813501325312",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EreUbfrUcAAqos3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EreUbfrUcAAqos3.jpg",
+						"url": "https://t.co/uRCTJgj01r",
+						"display_url": "pic.twitter.com/uRCTJgj01r",
+						"expanded_url": "https://twitter.com/Strawberry_AZ/status/1348709816663900160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 737483795608178700,
+				"id_str": "737483795608178688",
+				"name": "Strawberry, AZ 🍓",
+				"screen_name": "Strawberry_AZ",
+				"location": "Strawberry, Arizona USA",
+				"description": "Strawberry, Arizona USA🍓2 hrs N of Phoenix by Pine AZ Gila County Mogollon Rim, Est 1878, Alt 5850' Pop 500+ Acct by f/t resident #Hiking #AzWx #Garden #Az🌲🏜",
+				"url": "https://t.co/BJXZbrNYFI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BJXZbrNYFI",
+								"expanded_url": "https://www.google.com/amp/www.onlyinyourstate.com/arizona/az-tiny-town-activities/amp/",
+								"display_url": "google.com/amp/www.onlyin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1275,
+				"friends_count": 1253,
+				"listed_count": 19,
+				"created_at": "Tue May 31 03:20:13 +0000 2016",
+				"favourites_count": 8267,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2123,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737769234747383808/rlAk792q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737769234747383808/rlAk792q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/737483795608178688/1609296098",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Doing the good work bringing love and life into this world, congrats! https://t.co/EU54kJWbxr"
+	},
+	{
 		"created_at": "Mon Jan 11 19:14:41 +0000 2021",
 		"id": 1348709736846340000,
 		"id_str": "1348709936432181250",

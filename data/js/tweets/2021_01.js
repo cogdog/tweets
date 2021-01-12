@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 14:11:31 +0000 2021",
+		"id": 1348996030361075700,
+		"id_str": "1348996030361075714",
+		"full_text": "@ds106dc #tdc3288 #ds106 Still mesmerized by unexpected beauty with Silk tool. Writing \"1 0 6\" with no symmetry and varying symmetries https://t.co/5nTdc10QxR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3288",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348995567234400300,
+					"id_str": "1348995567234400256",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EriYUjSVQAACEz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EriYUjSVQAACEz8.jpg",
+					"url": "https://t.co/5nTdc10QxR",
+					"display_url": "pic.twitter.com/5nTdc10QxR",
+					"expanded_url": "https://twitter.com/cogdog/status/1348996030361075714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348995567234400300,
+					"id_str": "1348995567234400256",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EriYUjSVQAACEz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EriYUjSVQAACEz8.jpg",
+					"url": "https://t.co/5nTdc10QxR",
+					"display_url": "pic.twitter.com/5nTdc10QxR",
+					"expanded_url": "https://twitter.com/cogdog/status/1348996030361075714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348995568593326000,
+					"id_str": "1348995568593326090",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EriYUoWU0AokZfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EriYUoWU0AokZfO.jpg",
+					"url": "https://t.co/5nTdc10QxR",
+					"display_url": "pic.twitter.com/5nTdc10QxR",
+					"expanded_url": "https://twitter.com/cogdog/status/1348996030361075714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10492,
+			"friends_count": 1537,
+			"listed_count": 792,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc3288 #ds106 Still mesmerized by unexpected beauty with Silk tool. Writing \"1 0 6\" with no symmetry and varying symmetries https://t.co/5nTdc10QxR"
+	},
+	{
 		"created_at": "Tue Jan 12 05:29:03 +0000 2021",
 		"id": 1348864546224574500,
 		"id_str": "1348864546224574465",

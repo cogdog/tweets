@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 16:58:59 +0000 2021",
+		"id": 1350125339356221400,
+		"id_str": "1350125339356221445",
+		"full_text": "Flagging, waving, etc for @MiaZamoraPhD #netnarr -- TRU's digital detox in 2021 with  focus on what the university experience will look like in future. It's as if there is alchemy in the air https://t.co/I3igrkCmuu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I3igrkCmuu",
+					"expanded_url": "https://twitter.com/brennacgray/status/1350111730102280192",
+					"display_url": "twitter.com/brennacgray/st…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10482,
+			"friends_count": 1534,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350111730102280200,
+		"quoted_status_id_str": "1350111730102280192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I3igrkCmuu",
+			"expanded": "https://twitter.com/brennacgray/status/1350111730102280192",
+			"display": "twitter.com/brennacgray/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 16:04:54 +0000 2021",
+			"id": 1350111730102280200,
+			"id_str": "1350111730102280192",
+			"full_text": "And we’re off to the races, #myTRU fam (and everyone else, too!) — the first post of the 2021 #digitaldetox imagining the post-pandemic university is up and ready for you! In your inboxes if you subscribed, or right here: https://t.co/WEVBw2pS2F https://t.co/wopHK5N1FO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "myTRU",
+						"indices": [
+							28,
+							34
+						]
+					},
+					{
+						"text": "digitaldetox",
+						"indices": [
+							94,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WEVBw2pS2F",
+						"expanded_url": "https://digitaldetox.trubox.ca/digital-detox-1-welcome-to-the-show/",
+						"display_url": "digitaldetox.trubox.ca/digital-detox-…",
+						"indices": [
+							222,
+							245
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1350111724108619800,
+						"id_str": "1350111724108619778",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/EryPdbqVoAIa0-l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EryPdbqVoAIa0-l.jpg",
+						"url": "https://t.co/wopHK5N1FO",
+						"display_url": "pic.twitter.com/wopHK5N1FO",
+						"expanded_url": "https://twitter.com/brennacgray/status/1350111730102280192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 898,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1350111724108619800,
+						"id_str": "1350111724108619778",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/EryPdbqVoAIa0-l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EryPdbqVoAIa0-l.jpg",
+						"url": "https://t.co/wopHK5N1FO",
+						"display_url": "pic.twitter.com/wopHK5N1FO",
+						"expanded_url": "https://twitter.com/brennacgray/status/1350111730102280192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 898,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14109848,
+				"id_str": "14109848",
+				"name": "Brenna Clarke Gray",
+				"screen_name": "brennacgray",
+				"location": "Tk’emlups te Secwepemc",
+				"description": "Manic pixie dream academic; doozer with a PhD. I put the care back in “but I don’t care about EdTech.” Feminist, settler, antiracist. Co-host #HKHSPod. She/her.",
+				"url": "https://t.co/mumGuRnXTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mumGuRnXTk",
+								"expanded_url": "http://blog.communityofpraxis.ca/",
+								"display_url": "blog.communityofpraxis.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3974,
+				"friends_count": 1621,
+				"listed_count": 137,
+				"created_at": "Sun Mar 09 22:29:19 +0000 2008",
+				"favourites_count": 16117,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62882,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097321857110294528/xiPS2QUn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097321857110294528/xiPS2QUn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14109848/1606427385",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "61464F",
+				"profile_text_color": "3C8059",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flagging, waving, etc for @MiaZamoraPhD #netnarr -- TRU's digital detox in 2021 with  focus on what the university experience will look like in future. It's as if there is alchemy in the air https://t.co/I3igrkCmuu"
+	},
+	{
 		"created_at": "Fri Jan 15 14:22:46 +0000 2021",
 		"id": 1350086026568470500,
 		"id_str": "1350086026568470529",

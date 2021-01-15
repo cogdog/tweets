@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 01:25:38 +0000 2021",
+		"id": 1349887913396375600,
+		"id_str": "1349890452854431745",
+		"full_text": "@PremierScottMoe today I learned of the second #COVID19 outbreak at my father’s long-term care home. He has been in a 10x10 foot room since March 16. Lock #Saskatchewan down. Take care of our people. Allow us two weeks for hope. For the love of all that is decent.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "Saskatchewan",
+					"indices": [
+						155,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PremierScottMoe",
+					"name": "Scott Moe",
+					"id": 204646101,
+					"id_str": "204646101",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 204646101,
+		"in_reply_to_user_id_str": "204646101",
+		"in_reply_to_screen_name": "PremierScottMoe",
+		"user": {
+			"id": 69189398,
+			"id_str": "69189398",
+			"name": "Cori Saas",
+			"screen_name": "corisaas",
+			"location": "Mortlach, SK, Canada",
+			"description": "adventurer, mom, partner, friend, student, educator, storier, loves @jessyleesaas & @cogdog",
+			"url": "https://t.co/RJZdoQfeEM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJZdoQfeEM",
+							"expanded_url": "http://coyotechalk.com",
+							"display_url": "coyotechalk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1130,
+			"friends_count": 1229,
+			"listed_count": 57,
+			"created_at": "Thu Aug 27 03:33:12 +0000 2009",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/655980191232069632/ub2MC4Xd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/655980191232069632/ub2MC4Xd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69189398/1370191103",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@PremierScottMoe today I learned of the second #COVID19 outbreak at my father’s long-term care home. He has been in a 10x10 foot room since March 16. Lock #Saskatchewan down. Take care of our people. Allow us two weeks for hope. For the love of all that is decent."
+	},
+	{
 		"created_at": "Thu Jan 14 22:00:48 +0000 2021",
 		"id": 1349838904203960300,
 		"id_str": "1349838904203960321",

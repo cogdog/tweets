@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 17:48:36 +0000 2021",
+		"id": 1352141571378933800,
+		"id_str": "1352312151407411201",
+		"full_text": "Now that 45 is in the rear view mirror, let’s take a moment to appreciate @ReutersBarria. I’ve said it elsewhere but his photos are as biting as the best political cartooning of any era, and his eye is as savage as Ralph Steadman’s. https://t.co/HskFDklxU0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReutersBarria",
+					"name": "Carlos Barria",
+					"id": 1415032909,
+					"id_str": "1415032909",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352141541381292000,
+					"id_str": "1352141541381292035",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EsPFkWQUwAMJa7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsPFkWQUwAMJa7I.jpg",
+					"url": "https://t.co/HskFDklxU0",
+					"display_url": "pic.twitter.com/HskFDklxU0",
+					"expanded_url": "https://twitter.com/steve_lieber/status/1352141571378933761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352141541381292000,
+					"id_str": "1352141541381292035",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EsPFkWQUwAMJa7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsPFkWQUwAMJa7I.jpg",
+					"url": "https://t.co/HskFDklxU0",
+					"display_url": "pic.twitter.com/HskFDklxU0",
+					"expanded_url": "https://twitter.com/steve_lieber/status/1352141571378933761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352141541402308600,
+					"id_str": "1352141541402308609",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EsPFkWVVcAE84Xm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsPFkWVVcAE84Xm.jpg",
+					"url": "https://t.co/HskFDklxU0",
+					"display_url": "pic.twitter.com/HskFDklxU0",
+					"expanded_url": "https://twitter.com/steve_lieber/status/1352141571378933761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352141541423292400,
+					"id_str": "1352141541423292418",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EsPFkWaVoAIUkm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsPFkWaVoAIUkm7.jpg",
+					"url": "https://t.co/HskFDklxU0",
+					"display_url": "pic.twitter.com/HskFDklxU0",
+					"expanded_url": "https://twitter.com/steve_lieber/status/1352141571378933761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352141541440016400,
+					"id_str": "1352141541440016389",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EsPFkWeU0AU22eA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsPFkWeU0AU22eA.jpg",
+					"url": "https://t.co/HskFDklxU0",
+					"display_url": "pic.twitter.com/HskFDklxU0",
+					"expanded_url": "https://twitter.com/steve_lieber/status/1352141571378933761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1357,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16105122,
+			"id_str": "16105122",
+			"name": "Steve Lieber",
+			"screen_name": "steve_lieber",
+			"location": "Portland, OR",
+			"description": "Comic book artist at DC, Marvel, Image & more. Joined a giant blocklist; can't unjoin. Wire fanart: https://t.co/Jv40o0bEwC…",
+			"url": "https://t.co/JC8MHXNpfm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JC8MHXNpfm",
+							"expanded_url": "https://www.etsy.com/shop/SteveLieberArt",
+							"display_url": "etsy.com/shop/SteveLieb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Jv40o0bEwC",
+							"expanded_url": "https://twitter.com/i/events/12560",
+							"display_url": "twitter.com/i/events/12560",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17291,
+			"friends_count": 1416,
+			"listed_count": 545,
+			"created_at": "Tue Sep 02 23:52:48 +0000 2008",
+			"favourites_count": 86270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311087386147926026/ZWDWi1uK_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311087386147926026/ZWDWi1uK_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16105122/1603230039",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1658,
+		"favorite_count": 6584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now that 45 is in the rear view mirror, let’s take a moment to appreciate @ReutersBarria. I’ve said it elsewhere but his photos are as biting as the best political cartooning of any era, and his eye is as savage as Ralph Steadman’s. https://t.co/HskFDklxU0"
+	},
+	{
 		"created_at": "Thu Jan 21 14:36:42 +0000 2021",
 		"id": 1352263858488967200,
 		"id_str": "1352263858488967170",

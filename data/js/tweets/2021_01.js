@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 25 22:32:21 +0000 2021",
+		"id": 1353833110832521200,
+		"id_str": "1353833110832521222",
+		"full_text": "Ha, I saw a link in an email to Google+ is it even there? \n\nWell yes, but no.\n\nhttps://t.co/cEM9px0u7Z\n\nRemember. The Google Giveth for Free, Siponth Your Data, and Taketh Away. https://t.co/KJGHXOwWV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cEM9px0u7Z",
+					"expanded_url": "https://plus.google.com/",
+					"display_url": "plus.google.com",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353832920394256400,
+					"id_str": "1353832920394256386",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EsnH3kFUUAI0ikD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsnH3kFUUAI0ikD.jpg",
+					"url": "https://t.co/KJGHXOwWV3",
+					"display_url": "pic.twitter.com/KJGHXOwWV3",
+					"expanded_url": "https://twitter.com/cogdog/status/1353833110832521222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 858,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353832920394256400,
+					"id_str": "1353832920394256386",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EsnH3kFUUAI0ikD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsnH3kFUUAI0ikD.jpg",
+					"url": "https://t.co/KJGHXOwWV3",
+					"display_url": "pic.twitter.com/KJGHXOwWV3",
+					"expanded_url": "https://twitter.com/cogdog/status/1353833110832521222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 858,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 1532,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ha, I saw a link in an email to Google+ is it even there? \n\nWell yes, but no.\n\nhttps://t.co/cEM9px0u7Z\n\nRemember. The Google Giveth for Free, Siponth Your Data, and Taketh Away. https://t.co/KJGHXOwWV3"
+	},
+	{
 		"created_at": "Mon Jan 25 21:21:22 +0000 2021",
 		"id": 1353815248373915600,
 		"id_str": "1353815248373915649",

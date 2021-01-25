@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 25 02:27:13 +0000 2021",
+		"id": 1353529830113906700,
+		"id_str": "1353529830113906689",
+		"full_text": "@EdintheClouds @eylanezekiel @dajbelshaw @nickdennis @josiefraser @dawnhallybone @JamiePortman @zoe_ross_ I loved Animoto, glad to see/hear it still works!",
+		"truncated": false,
+		"display_text_range": [
+			106,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdintheClouds",
+					"name": "Mark Allen",
+					"id": 8538822,
+					"id_str": "8538822",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "eylanezekiel",
+					"name": "Eylan Ezekiel FCCT ✊🏽🌳🖖🏽",
+					"id": 16361307,
+					"id_str": "16361307",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 💥☠️✊",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "nickdennis",
+					"name": "Nick Dennis",
+					"id": 13326692,
+					"id_str": "13326692",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "josiefraser",
+					"name": "Josie Fraser",
+					"id": 746923,
+					"id_str": "746923",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "dawnhallybone",
+					"name": "dawnhallybone 🙋🏼‍♀️",
+					"id": 14833210,
+					"id_str": "14833210",
+					"indices": [
+						66,
+						80
+					]
+				},
+				{
+					"screen_name": "JamiePortman",
+					"name": "Jamie Portman",
+					"id": 37425420,
+					"id_str": "37425420",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "zoe_ross_",
+					"name": "Zoe Ross",
+					"id": 39820287,
+					"id_str": "39820287",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1353168563318775800,
+		"in_reply_to_status_id_str": "1353168563318775809",
+		"in_reply_to_user_id": 8538822,
+		"in_reply_to_user_id_str": "8538822",
+		"in_reply_to_screen_name": "EdintheClouds",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10475,
+			"friends_count": 1531,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdintheClouds @eylanezekiel @dajbelshaw @nickdennis @josiefraser @dawnhallybone @JamiePortman @zoe_ross_ I loved Animoto, glad to see/hear it still works!"
+	},
+	{
 		"created_at": "Mon Jan 25 00:52:06 +0000 2021",
 		"id": 1353505892960878600,
 		"id_str": "1353505892960878592",

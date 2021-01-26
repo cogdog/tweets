@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 04:28:37 +0000 2021",
+		"id": 1353922770292203500,
+		"id_str": "1353922770292203520",
+		"full_text": "Good bye. https://t.co/1tGUvQp3ST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1tGUvQp3ST",
+					"expanded_url": "https://twitter.com/jimmykimmel/status/1352042645686689793",
+					"display_url": "twitter.com/jimmykimmel/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 1532,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352042645686689800,
+		"quoted_status_id_str": "1352042645686689793",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1tGUvQp3ST",
+			"expanded": "https://twitter.com/jimmykimmel/status/1352042645686689793",
+			"display": "twitter.com/jimmykimmel/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 23:57:41 +0000 2021",
+			"id": 1352042645686689800,
+			"id_str": "1352042645686689793",
+			"full_text": "And that’s that. https://t.co/PKwLPv1Sxf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1352011541894238200,
+						"id_str": "1352011541894238208",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1352011541894238208/img/66SfqlMAOBQQeewu.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1352011541894238208/img/66SfqlMAOBQQeewu.jpg",
+						"url": "https://t.co/PKwLPv1Sxf",
+						"display_url": "pic.twitter.com/PKwLPv1Sxf",
+						"expanded_url": "https://twitter.com/jimmykimmel/status/1352042645686689793/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1352011541894238200,
+						"id_str": "1352011541894238208",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1352011541894238208/img/66SfqlMAOBQQeewu.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1352011541894238208/img/66SfqlMAOBQQeewu.jpg",
+						"url": "https://t.co/PKwLPv1Sxf",
+						"display_url": "pic.twitter.com/PKwLPv1Sxf",
+						"expanded_url": "https://twitter.com/jimmykimmel/status/1352042645686689793/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 98898,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1352011541894238208/vid/480x270/mFzEmZKz_ttas-At.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1352011541894238208/pl/l7yIS1SM7oEK3ssT.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1352011541894238208/vid/640x360/6O-MA3na0OO7N_KU.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1352011541894238208/vid/1280x720/f8TNweofuCEobfhw.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26053643,
+				"id_str": "26053643",
+				"name": "Jimmy Kimmel",
+				"screen_name": "jimmykimmel",
+				"location": "Los Angeles",
+				"description": "1997 Bowling Digest Co-Bowler of the Year https://t.co/MV5fWNNOlI",
+				"url": "https://t.co/1dM6hk26GN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1dM6hk26GN",
+								"expanded_url": "http://rhcbooks.com/books/592304/the-serious-goose",
+								"display_url": "rhcbooks.com/books/592304/t…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MV5fWNNOlI",
+								"expanded_url": "http://youtube.com/jimmykimmellive",
+								"display_url": "youtube.com/jimmykimmellive",
+								"indices": [
+									42,
+									65
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11995588,
+				"friends_count": 772,
+				"listed_count": 23445,
+				"created_at": "Mon Mar 23 18:05:56 +0000 2009",
+				"favourites_count": 8025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7593,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1324110804434653185/wXwSq0wd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324110804434653185/wXwSq0wd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26053643/1600924486",
+				"profile_link_color": "2416E3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61591,
+			"favorite_count": 220488,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good bye. https://t.co/1tGUvQp3ST"
+	},
+	{
 		"created_at": "Tue Jan 26 01:06:52 +0000 2021",
 		"id": 1353871998737236000,
 		"id_str": "1353871998737235969",

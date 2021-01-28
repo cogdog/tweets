@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 20:02:14 +0000 2021",
+		"id": 1354882498094719000,
+		"id_str": "1354882498094718979",
+		"full_text": "@kourakos_kevin I now understand it! all about people with hedges... shrubberies and stuff! #netnarr \n\nhttps://t.co/S9pepi04uS",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kourakos_kevin",
+					"name": "Kevin Kourakos",
+					"id": 1172958810291486700,
+					"id_str": "1172958810291486720",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S9pepi04uS",
+					"expanded_url": "https://twitter.com/avalonpenrose/status/1354496683938201600",
+					"display_url": "twitter.com/avalonpenrose/…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354824726418485200,
+		"in_reply_to_status_id_str": "1354824726418485250",
+		"in_reply_to_user_id": 1172958810291486700,
+		"in_reply_to_user_id_str": "1172958810291486720",
+		"in_reply_to_screen_name": "kourakos_kevin",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10469,
+			"friends_count": 1531,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354496683938201600,
+		"quoted_status_id_str": "1354496683938201600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S9pepi04uS",
+			"expanded": "https://twitter.com/avalonpenrose/status/1354496683938201600",
+			"display": "twitter.com/avalonpenrose/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 27 18:29:09 +0000 2021",
+			"id": 1354496683938201600,
+			"id_str": "1354496683938201600",
+			"full_text": "a normal person explains what’s happening on the stock market: https://t.co/zKKvULCirX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1354496485878972400,
+						"id_str": "1354496485878972416",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354496485878972416/pu/img/Q36NubJuAfxbIWzn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354496485878972416/pu/img/Q36NubJuAfxbIWzn.jpg",
+						"url": "https://t.co/zKKvULCirX",
+						"display_url": "pic.twitter.com/zKKvULCirX",
+						"expanded_url": "https://twitter.com/avalonpenrose/status/1354496683938201600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1354496485878972400,
+						"id_str": "1354496485878972416",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354496485878972416/pu/img/Q36NubJuAfxbIWzn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354496485878972416/pu/img/Q36NubJuAfxbIWzn.jpg",
+						"url": "https://t.co/zKKvULCirX",
+						"display_url": "pic.twitter.com/zKKvULCirX",
+						"expanded_url": "https://twitter.com/avalonpenrose/status/1354496683938201600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 135505,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1354496485878972416/pu/vid/640x360/RUWVOcrlHtsoeLGm.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1354496485878972416/pu/vid/1280x720/RIS3I0XryqTu7Xeo.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1354496485878972416/pu/pl/RT3KZM7RbXD-b_8U.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1354496485878972416/pu/vid/480x270/R_l89Fw74UwAhCOs.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1290056485230133200,
+				"id_str": "1290056485230133248",
+				"name": "Avalon Penrose",
+				"screen_name": "avalonpenrose",
+				"location": "",
+				"description": "megaera in #HadesGame 💥she/her actor•writer•divemaster•other•shit",
+				"url": "https://t.co/44JJUjSH7a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/44JJUjSH7a",
+								"expanded_url": "https://www.instagram.com/avalonpenrose/",
+								"display_url": "instagram.com/avalonpenrose/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42150,
+				"friends_count": 76,
+				"listed_count": 167,
+				"created_at": "Sun Aug 02 22:46:59 +0000 2020",
+				"favourites_count": 2769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 793,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1318742027014524928/lm038jol_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318742027014524928/lm038jol_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1290056485230133248/1606757809",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58357,
+			"favorite_count": 382703,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@kourakos_kevin I now understand it! all about people with hedges... shrubberies and stuff! #netnarr \n\nhttps://t.co/S9pepi04uS"
+	},
+	{
 		"created_at": "Thu Jan 28 18:49:27 +0000 2021",
 		"id": 1354864180503822300,
 		"id_str": "1354864180503822337",

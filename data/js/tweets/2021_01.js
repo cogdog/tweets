@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 30 00:04:11 +0000 2021",
+		"id": 1355305773513859000,
+		"id_str": "1355305773513859073",
+		"full_text": "@OnlineCrsLady @Caecilius @mkonnikova @robinrendle @MiaZamoraPhD @btopro This is some lovely and spot on web-writing. I've never done email newsletters, do not write for money. I write because it bothers me to not write.\n\nLike @doctorow I am a blogger. https://t.co/aEYswa4eG9\n\nEven if blogging is \"dead\" I am not . Yet.",
+		"truncated": false,
+		"display_text_range": [
+			73,
+			320
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Dr. Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Caecilius",
+					"name": "Bill Jennings",
+					"id": 9782862,
+					"id_str": "9782862",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "mkonnikova",
+					"name": "Maria Konnikova",
+					"id": 358566293,
+					"id_str": "358566293",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "robinrendle",
+					"name": "Robin Rendle",
+					"id": 19793281,
+					"id_str": "19793281",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "btopro",
+					"name": "const dev=\"btopro\";return html`${dev} innovating`;",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"screen_name": "doctorow",
+					"name": "Cory Doctorow #BLM",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						227,
+						236
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aEYswa4eG9",
+					"expanded_url": "https://pluralistic.net/2021/01/13/two-decades/#hfbd",
+					"display_url": "pluralistic.net/2021/01/13/two…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1355241808893255700,
+		"in_reply_to_status_id_str": "1355241808893255682",
+		"in_reply_to_user_id": 7044082,
+		"in_reply_to_user_id_str": "7044082",
+		"in_reply_to_screen_name": "OnlineCrsLady",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10471,
+			"friends_count": 1531,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OnlineCrsLady @Caecilius @mkonnikova @robinrendle @MiaZamoraPhD @btopro This is some lovely and spot on web-writing. I've never done email newsletters, do not write for money. I write because it bothers me to not write.\n\nLike @doctorow I am a blogger. https://t.co/aEYswa4eG9\n\nEven if blogging is \"dead\" I am not . Yet."
+	},
+	{
 		"created_at": "Fri Jan 29 16:53:47 +0000 2021",
 		"id": 1355197460021350400,
 		"id_str": "1355197460021350400",

@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 31 20:00:07 +0000 2021",
+		"id": 1355908844615061500,
+		"id_str": "1355969128482263043",
+		"full_text": "When Jackie Robinson faced down slurs, spiked cleats, and pitches aimed at his head—and stole home anyway—he didn't only change baseball. He changed the world and paved the way for others, including me. On his birthday, we’re called not only to honor that legacy but build on it. https://t.co/d2KDDZNWEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1355908841418981400,
+					"id_str": "1355908841418981380",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EtEn6EiXAAQDert.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtEn6EiXAAQDert.jpg",
+					"url": "https://t.co/d2KDDZNWEN",
+					"display_url": "pic.twitter.com/d2KDDZNWEN",
+					"expanded_url": "https://twitter.com/BarackObama/status/1355908844615061508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 934,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1355908841418981400,
+					"id_str": "1355908841418981380",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EtEn6EiXAAQDert.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtEn6EiXAAQDert.jpg",
+					"url": "https://t.co/d2KDDZNWEN",
+					"display_url": "pic.twitter.com/d2KDDZNWEN",
+					"expanded_url": "https://twitter.com/BarackObama/status/1355908844615061508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 934,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813286,
+			"id_str": "813286",
+			"name": "Barack Obama",
+			"screen_name": "BarackObama",
+			"location": "Washington, DC",
+			"description": "Dad, husband, President, citizen.",
+			"url": "https://t.co/FPuJ0CENpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FPuJ0CENpo",
+							"expanded_url": "http://obamabook.com",
+							"display_url": "obamabook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128779750,
+			"friends_count": 595035,
+			"listed_count": 223035,
+			"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "77B0DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+			"profile_link_color": "2574AD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C2E0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13245,
+		"favorite_count": 117809,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When Jackie Robinson faced down slurs, spiked cleats, and pitches aimed at his head—and stole home anyway—he didn't only change baseball. He changed the world and paved the way for others, including me. On his birthday, we’re called not only to honor that legacy but build on it. https://t.co/d2KDDZNWEN"
+	},
+	{
 		"created_at": "Sun Jan 31 18:27:09 +0000 2021",
 		"id": 1355945733715714000,
 		"id_str": "1355945733715714049",

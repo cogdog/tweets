@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 19:58:16 +0000 2021",
+		"id": 1358505375901708300,
+		"id_str": "1358505375901708293",
+		"full_text": "@ds106dc #tdc3313 #ds106 Like Kamloops, BC, Edinburgh stakes a [questionable] claim as being part of the far reaches of the Sonoran Desert. \n\nCC-BY photos by moi https://t.co/9kVDq6oZ8S and https://t.co/BBiD6iz6T8 https://t.co/236V97mC0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3313",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9kVDq6oZ8S",
+					"expanded_url": "https://flickr.com/photos/cogdog/10679954103",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						162,
+						185
+					]
+				},
+				{
+					"url": "https://t.co/BBiD6iz6T8",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/9390293234",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358504650832420900,
+					"id_str": "1358504650832420864",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EtpgyEKVIAAyOCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtpgyEKVIAAyOCO.jpg",
+					"url": "https://t.co/236V97mC0L",
+					"display_url": "pic.twitter.com/236V97mC0L",
+					"expanded_url": "https://twitter.com/cogdog/status/1358505375901708293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358504650832420900,
+					"id_str": "1358504650832420864",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EtpgyEKVIAAyOCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtpgyEKVIAAyOCO.jpg",
+					"url": "https://t.co/236V97mC0L",
+					"display_url": "pic.twitter.com/236V97mC0L",
+					"expanded_url": "https://twitter.com/cogdog/status/1358505375901708293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10477,
+			"friends_count": 1531,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc3313 #ds106 Like Kamloops, BC, Edinburgh stakes a [questionable] claim as being part of the far reaches of the Sonoran Desert. \n\nCC-BY photos by moi https://t.co/9kVDq6oZ8S and https://t.co/BBiD6iz6T8 https://t.co/236V97mC0L"
+	},
+	{
+		"created_at": "Sun Feb 07 19:43:23 +0000 2021",
+		"id": 1358501633244602400,
+		"id_str": "1358501633244602368",
+		"full_text": "@floatingtim @ltaub The #bergbuilds #DoOO conversation about syndication hubs started by Cate was in mind when I saw another post in realm of Rumours of \"RSS Death are Greatly Exaggerated\" https://t.co/G9Ep6pmdkF\n\nI did not know about YouTube channel feeds...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bergbuilds",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"text": "DoOO",
+					"indices": [
+						36,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "floatingtim",
+					"name": "Tim C wears a mask",
+					"id": 18892030,
+					"id_str": "18892030",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ltaub",
+					"name": "Dr. Lora Taub",
+					"id": 17844743,
+					"id_str": "17844743",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G9Ep6pmdkF",
+					"expanded_url": "https://atthis.link/blog/2021/rss.html",
+					"display_url": "atthis.link/blog/2021/rss.…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 18892030,
+		"in_reply_to_user_id_str": "18892030",
+		"in_reply_to_screen_name": "floatingtim",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10477,
+			"friends_count": 1531,
+			"listed_count": 791,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@floatingtim @ltaub The #bergbuilds #DoOO conversation about syndication hubs started by Cate was in mind when I saw another post in realm of Rumours of \"RSS Death are Greatly Exaggerated\" https://t.co/G9Ep6pmdkF\n\nI did not know about YouTube channel feeds..."
+	},
+	{
 		"created_at": "Sat Feb 06 05:12:40 +0000 2021",
 		"id": 1357920122313318400,
 		"id_str": "1357920122313318403",

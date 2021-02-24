@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 24 14:12:01 +0000 2021",
+		"id": 1364578835174318000,
+		"id_str": "1364578835174318084",
+		"full_text": "It should take less than 3 un-proctored eye blinks for the courts to dismiss this SLAPP. Kudos to Ian for standing up to this nonsense. https://t.co/TlavoP7aes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TlavoP7aes",
+					"expanded_url": "https://twitter.com/linkletter/status/1364383187514744833",
+					"display_url": "twitter.com/linkletter/sta…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1536,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364383187514744800,
+		"quoted_status_id_str": "1364383187514744833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TlavoP7aes",
+			"expanded": "https://twitter.com/linkletter/status/1364383187514744833",
+			"display": "twitter.com/linkletter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 24 01:14:35 +0000 2021",
+			"id": 1364383187514744800,
+			"id_str": "1364383187514744833",
+			"full_text": "It was a pleasure to talk to @EFF about Proctorio's SLAPP against me. I am fortunate to live in British Columbia where we have the Protection of Public Participation Act to protect us. Hundreds of you have contributed to my chance to put it to the test. ⚖️ https://t.co/dW3SKMKJIK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EFF",
+						"name": "EFF",
+						"id": 4816,
+						"id_str": "4816",
+						"indices": [
+							29,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dW3SKMKJIK",
+						"expanded_url": "https://www.eff.org/deeplinks/2021/02/student-surveillance-vendor-proctorio-files-slapp-lawsuit-silence-critic",
+						"display_url": "eff.org/deeplinks/2021…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804325,
+				"id_str": "804325",
+				"name": "Ian Linkletter",
+				"screen_name": "Linkletter",
+				"location": "Vancouver, BC",
+				"description": "Let's go exploring!\n\nHe/Him",
+				"url": "https://t.co/m0bEN9HQoQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m0bEN9HQoQ",
+								"expanded_url": "https://defense.linkletter.org",
+								"display_url": "defense.linkletter.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2098,
+				"friends_count": 1102,
+				"listed_count": 68,
+				"created_at": "Thu Mar 01 20:34:51 +0000 2007",
+				"favourites_count": 14262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7563,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1271987098573090816/vNiE37jI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271987098573090816/vNiE37jI_normal.jpg",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It should take less than 3 un-proctored eye blinks for the courts to dismiss this SLAPP. Kudos to Ian for standing up to this nonsense. https://t.co/TlavoP7aes"
+	},
+	{
 		"created_at": "Wed Feb 24 06:22:40 +0000 2021",
 		"id": 1364460718355964000,
 		"id_str": "1364460718355963910",

@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 14:52:23 +0000 2021",
+		"id": 1365313770365415400,
+		"id_str": "1365313770365415425",
+		"full_text": "Retweet and share to help @DrSianProctor achieve her lifelong dream to go up in space, teach us the science, and to share the experience in art and poetry. https://t.co/BlaYCnN8WX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrSianProctor",
+					"name": "Doctor Proctor",
+					"id": 14062485,
+					"id_str": "14062485",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BlaYCnN8WX",
+					"expanded_url": "https://twitter.com/DrSianProctor/status/1365148498509791234",
+					"display_url": "twitter.com/DrSianProctor/…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10486,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365148498509791200,
+		"quoted_status_id_str": "1365148498509791234",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BlaYCnN8WX",
+			"expanded": "https://twitter.com/DrSianProctor/status/1365148498509791234",
+			"display": "twitter.com/DrSianProctor/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 26 03:55:39 +0000 2021",
+			"id": 1365148498509791200,
+			"id_str": "1365148498509791234",
+			"full_text": "Hello everyone, thank you for supporting my #SpaceArt &amp; #Poetry journey. I hope you’ll check out my @Shift4Shop: https://t.co/pUOcwAwmE1 &amp; help share my #inspiration4contest message &amp; #poem. Let’s unleash our #Space2inspire &amp; create a J.E.D.I. future for all of humanity. ❤️🌍👩🏾‍🚀🚀 https://t.co/JzRf6ayGcL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				296
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpaceArt",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"text": "Poetry",
+						"indices": [
+							60,
+							67
+						]
+					},
+					{
+						"text": "inspiration4contest",
+						"indices": [
+							161,
+							181
+						]
+					},
+					{
+						"text": "poem",
+						"indices": [
+							196,
+							201
+						]
+					},
+					{
+						"text": "Space2inspire",
+						"indices": [
+							221,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Shift4Shop",
+						"name": "Shift4Shop",
+						"id": 19654406,
+						"id_str": "19654406",
+						"indices": [
+							104,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pUOcwAwmE1",
+						"expanded_url": "https://myspace2inspire.com/",
+						"display_url": "myspace2inspire.com",
+						"indices": [
+							117,
+							140
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1365148417052209200,
+						"id_str": "1365148417052209154",
+						"indices": [
+							297,
+							320
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365148417052209154/pu/img/AGikzUwUjcuW2h4r.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365148417052209154/pu/img/AGikzUwUjcuW2h4r.jpg",
+						"url": "https://t.co/JzRf6ayGcL",
+						"display_url": "pic.twitter.com/JzRf6ayGcL",
+						"expanded_url": "https://twitter.com/DrSianProctor/status/1365148498509791234/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365148417052209200,
+						"id_str": "1365148417052209154",
+						"indices": [
+							297,
+							320
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365148417052209154/pu/img/AGikzUwUjcuW2h4r.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365148417052209154/pu/img/AGikzUwUjcuW2h4r.jpg",
+						"url": "https://t.co/JzRf6ayGcL",
+						"display_url": "pic.twitter.com/JzRf6ayGcL",
+						"expanded_url": "https://twitter.com/DrSianProctor/status/1365148498509791234/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 134567,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1365148417052209154/pu/vid/1280x720/vsqEK7LxtOJcKTaw.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1365148417052209154/pu/pl/0-zeRg2z9K6X18RK.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1365148417052209154/pu/vid/480x270/4tJuTfM2XldkIk-q.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1365148417052209154/pu/vid/640x360/2NQrim2G8A1BAn9-.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14062485,
+				"id_str": "14062485",
+				"name": "Doctor Proctor",
+				"screen_name": "DrSianProctor",
+				"location": "Phoenix, AZ",
+				"description": "🚀#Space2inspire 👩🏽‍🚀#AnalogAstronaut👩🏽‍🍳#SpaceChef 🌍 #GeoExplorer 🪐#SpaceFashionFriday 🧑🏽‍🎨#AfronautSpace Art 📺 #SciComm @pastpreservers #JEDIspace",
+				"url": "https://t.co/r2G2JsVQl2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r2G2JsVQl2",
+								"expanded_url": "https://www.patreon.com/drsianproctor",
+								"display_url": "patreon.com/drsianproctor",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6894,
+				"friends_count": 3421,
+				"listed_count": 220,
+				"created_at": "Fri Feb 29 22:52:53 +0000 2008",
+				"favourites_count": 21962,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12683,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1328196732589535232/s3IVb3-B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328196732589535232/s3IVb3-B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14062485/1596045176",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 287,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweet and share to help @DrSianProctor achieve her lifelong dream to go up in space, teach us the science, and to share the experience in art and poetry. https://t.co/BlaYCnN8WX"
+	},
+	{
+		"created_at": "Fri Feb 26 14:47:10 +0000 2021",
+		"id": 1365312454297669600,
+		"id_str": "1365312454297669639",
+		"full_text": "@ShorterPearson Darn, the one I lost is a 5.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShorterPearson",
+					"name": "Chuck Pearson",
+					"id": 285102399,
+					"id_str": "285102399",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1365304487150301200,
+		"in_reply_to_status_id_str": "1365304487150301184",
+		"in_reply_to_user_id": 285102399,
+		"in_reply_to_user_id_str": "285102399",
+		"in_reply_to_screen_name": "ShorterPearson",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10486,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ShorterPearson Darn, the one I lost is a 5."
+	},
+	{
 		"created_at": "Fri Feb 26 14:10:03 +0000 2021",
 		"id": 1365303117122732000,
 		"id_str": "1365303117122732032",

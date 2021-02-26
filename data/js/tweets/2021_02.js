@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 23:14:00 +0000 2021",
+		"id": 1365440003287916500,
+		"id_str": "1365440003287916549",
+		"full_text": "Just off of remote workshop for Arizona OER Conference - gave them the H5P/PB Kitchen treatment \"Cooking and Spicing Up OERs with H5P\" https://t.co/GxnowfjDiY\n\nAll materials are left out on the counter for you.\n\nComing soon to a blog post somewhere.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GxnowfjDiY",
+					"expanded_url": "https://kitchen.opened.ca/oerizona21/",
+					"display_url": "kitchen.opened.ca/oerizona21/",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10488,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just off of remote workshop for Arizona OER Conference - gave them the H5P/PB Kitchen treatment \"Cooking and Spicing Up OERs with H5P\" https://t.co/GxnowfjDiY\n\nAll materials are left out on the counter for you.\n\nComing soon to a blog post somewhere."
+	},
+	{
+		"created_at": "Fri Feb 26 22:44:21 +0000 2021",
+		"id": 1365432541335851000,
+		"id_str": "1365432541335851011",
+		"full_text": "This too relates to our #netnarr session yesterday with @autumm on some ways to put Zoom backgrounds to use (?) See down thread for other variants. https://t.co/7b146Y0XPm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a liminal space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7b146Y0XPm",
+					"expanded_url": "https://twitter.com/nirak/status/1365381231597268993",
+					"display_url": "twitter.com/nirak/status/1…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10488,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365381231597269000,
+		"quoted_status_id_str": "1365381231597268993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7b146Y0XPm",
+			"expanded": "https://twitter.com/nirak/status/1365381231597268993",
+			"display": "twitter.com/nirak/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 26 19:20:27 +0000 2021",
+			"id": 1365381231597269000,
+			"id_str": "1365381231597268993",
+			"full_text": "TIL that if I turn on the green screen option in zoom I can \"project\" video onto my chalkboard https://t.co/RJVcr3WXD3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1365381112567128000,
+						"id_str": "1365381112567128064",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EvLO40WXYAAsN8G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvLO40WXYAAsN8G.jpg",
+						"url": "https://t.co/RJVcr3WXD3",
+						"display_url": "pic.twitter.com/RJVcr3WXD3",
+						"expanded_url": "https://twitter.com/nirak/status/1365381231597268993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1791,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365381112567128000,
+						"id_str": "1365381112567128064",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EvLO40WXYAAsN8G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvLO40WXYAAsN8G.jpg",
+						"url": "https://t.co/RJVcr3WXD3",
+						"display_url": "pic.twitter.com/RJVcr3WXD3",
+						"expanded_url": "https://twitter.com/nirak/status/1365381231597268993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1791,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6723132,
+				"id_str": "6723132",
+				"name": "nirak",
+				"screen_name": "nirak",
+				"location": "Smack dab in the middle",
+				"description": "nirak is karin backwards. I work in a library makin' websites. vote VOTE vote (and register to vote) (and check to make sure you are registered) she/her/they",
+				"url": "https://t.co/b795rENGpC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b795rENGpC",
+								"expanded_url": "http://nirak.net",
+								"display_url": "nirak.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1698,
+				"friends_count": 849,
+				"listed_count": 139,
+				"created_at": "Sun Jun 10 22:12:47 +0000 2007",
+				"favourites_count": 62993,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48363,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771910040605175808/ESqJXh2c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771910040605175808/ESqJXh2c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6723132/1472874842",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This too relates to our #netnarr session yesterday with @autumm on some ways to put Zoom backgrounds to use (?) See down thread for other variants. https://t.co/7b146Y0XPm"
+	},
+	{
 		"created_at": "Fri Feb 26 19:22:38 +0000 2021",
 		"id": 1365381781256507400,
 		"id_str": "1365381781256507392",

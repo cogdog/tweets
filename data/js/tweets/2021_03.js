@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 02 16:06:15 +0000 2021",
+		"id": 1366781910790250500,
+		"id_str": "1366781910790250496",
+		"full_text": "Not the biggest fan of threads, but how can I resist a comprehensive review of classic cartoons connections to classical music?\n\nYet the care that went into writing this would have made for a valuable blog post and a permanent URL. Down the stream it goes, what's up doc? https://t.co/RzoLrB2kUt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RzoLrB2kUt",
+					"expanded_url": "https://twitter.com/NonsenseIsland/status/1366449816042102787",
+					"display_url": "twitter.com/NonsenseIsland…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10489,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366449816042102800,
+		"quoted_status_id_str": "1366449816042102787",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RzoLrB2kUt",
+			"expanded": "https://twitter.com/NonsenseIsland/status/1366449816042102787",
+			"display": "twitter.com/NonsenseIsland…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 01 18:06:38 +0000 2021",
+			"id": 1366449816042102800,
+			"id_str": "1366449816042102787",
+			"full_text": "THREAD: Lots of us learned classical music from watching old cartoons, so I’m going to identify the pieces that frequently popped up.\n\nOne of the most recognizable is Franz Liszt’s “Hungarian Rhapsody No. 2,” performed by those great piano virtuosos Bugs Bunny and Tom &amp; Jerry. https://t.co/SmyKbMpw3e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1366449458427400200,
+						"id_str": "1366449458427400196",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1366449458427400196/pu/img/IP9ScHm_9_rj4mVy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1366449458427400196/pu/img/IP9ScHm_9_rj4mVy.jpg",
+						"url": "https://t.co/SmyKbMpw3e",
+						"display_url": "pic.twitter.com/SmyKbMpw3e",
+						"expanded_url": "https://twitter.com/NonsenseIsland/status/1366449816042102787/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1366449458427400200,
+						"id_str": "1366449458427400196",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1366449458427400196/pu/img/IP9ScHm_9_rj4mVy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1366449458427400196/pu/img/IP9ScHm_9_rj4mVy.jpg",
+						"url": "https://t.co/SmyKbMpw3e",
+						"display_url": "pic.twitter.com/SmyKbMpw3e",
+						"expanded_url": "https://twitter.com/NonsenseIsland/status/1366449816042102787/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 134593,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1366449458427400196/pu/vid/960x540/nsBD5U-xuM2bbRAS.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1366449458427400196/pu/vid/640x360/wUeqfX_PBcEx1viz.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1366449458427400196/pu/vid/480x270/E02FcO3OwNyPZstN.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1366449458427400196/pu/pl/VmhFpTD0hynv-973.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29283389,
+				"id_str": "29283389",
+				"name": "Vincent Alexander",
+				"screen_name": "NonsenseIsland",
+				"location": "Columbus, OH",
+				"description": "Cartoonist/Animator. Creator of \"Musical Man and the Magic Kazoo.\"",
+				"url": "https://t.co/d6PVMCUjgt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d6PVMCUjgt",
+								"expanded_url": "https://vincentcartoons.wordpress.com",
+								"display_url": "vincentcartoons.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8026,
+				"friends_count": 449,
+				"listed_count": 191,
+				"created_at": "Mon Apr 06 20:19:50 +0000 2009",
+				"favourites_count": 21343,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3279,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1359271680238059529/VOYLXNvB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359271680238059529/VOYLXNvB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29283389/1559800438",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30090,
+			"favorite_count": 86722,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not the biggest fan of threads, but how can I resist a comprehensive review of classic cartoons connections to classical music?\n\nYet the care that went into writing this would have made for a valuable blog post and a permanent URL. Down the stream it goes, what's up doc? https://t.co/RzoLrB2kUt"
+	},
+	{
+		"created_at": "Tue Mar 02 15:21:23 +0000 2021",
+		"id": 1366770618322968600,
+		"id_str": "1366770618322968586",
+		"full_text": "@telliowkuwp @ds106dc @openetc I am honoured and drafting my acceptance speech....",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "telliowkuwp",
+					"name": "Terry Elliott",
+					"id": 326772515,
+					"id_str": "326772515",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "openetc",
+					"name": "openetc",
+					"id": 979007479043579900,
+					"id_str": "979007479043579904",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1366766855604625400,
+		"in_reply_to_status_id_str": "1366766855604625409",
+		"in_reply_to_user_id": 326772515,
+		"in_reply_to_user_id_str": "326772515",
+		"in_reply_to_screen_name": "telliowkuwp",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10489,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@telliowkuwp @ds106dc @openetc I am honoured and drafting my acceptance speech...."
+	},
+	{
 		"created_at": "Tue Mar 02 15:10:33 +0000 2021",
 		"id": 1366767891043946500,
 		"id_str": "1366767891043946499",

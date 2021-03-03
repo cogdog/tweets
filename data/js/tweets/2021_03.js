@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 03 19:18:14 +0000 2021",
+		"id": 1367192610217943000,
+		"id_str": "1367192610217943041",
+		"full_text": "Don't miss this #oeweek session \"Chegging With Dave\"! https://t.co/Pm9ObNrkYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oeweek",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pm9ObNrkYX",
+					"expanded_url": "https://twitter.com/davecormier/status/1366442041694117889",
+					"display_url": "twitter.com/davecormier/st…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10487,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366442041694118000,
+		"quoted_status_id_str": "1366442041694117889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pm9ObNrkYX",
+			"expanded": "https://twitter.com/davecormier/status/1366442041694117889",
+			"display": "twitter.com/davecormier/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 01 17:35:44 +0000 2021",
+			"id": 1366442041694118000,
+			"id_str": "1366442041694117889",
+			"full_text": "Confronting Chegg with Open Pedagogies - #OEweek CoOp students and I do real talk about the impact of 'homework help services' and how open pedagogy can help. 3pm EST Wed. March 3rd https://t.co/xgLcTe4CXw https://t.co/UaQvT1zbb1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEweek",
+						"indices": [
+							41,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xgLcTe4CXw",
+						"expanded_url": "https://us02web.zoom.us/webinar/register/WN__EResWERTCK-sG6ffqZaXA",
+						"display_url": "us02web.zoom.us/webinar/regist…",
+						"indices": [
+							182,
+							205
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1366441137305706500,
+						"id_str": "1366441137305706517",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EvaS-YOWYBUes5b.png",
+						"media_url_https": "https://pbs.twimg.com/media/EvaS-YOWYBUes5b.png",
+						"url": "https://t.co/UaQvT1zbb1",
+						"display_url": "pic.twitter.com/UaQvT1zbb1",
+						"expanded_url": "https://twitter.com/davecormier/status/1366442041694117889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 811,
+								"h": 811,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 811,
+								"h": 811,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1366441137305706500,
+						"id_str": "1366441137305706517",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EvaS-YOWYBUes5b.png",
+						"media_url_https": "https://pbs.twimg.com/media/EvaS-YOWYBUes5b.png",
+						"url": "https://t.co/UaQvT1zbb1",
+						"display_url": "pic.twitter.com/UaQvT1zbb1",
+						"expanded_url": "https://twitter.com/davecormier/status/1366442041694117889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 811,
+								"h": 811,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 811,
+								"h": 811,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 789991,
+				"id_str": "789991",
+				"name": "dave cormier",
+				"screen_name": "davecormier",
+				"location": "Windsor, Ontario",
+				"description": "Learner. Office of Open Learning, UWindsor \n\nhe/him",
+				"url": "http://t.co/NGRWqrB5y9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NGRWqrB5y9",
+								"expanded_url": "http://davecormier.com/edblog",
+								"display_url": "davecormier.com/edblog",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12207,
+				"friends_count": 1575,
+				"listed_count": 786,
+				"created_at": "Fri Feb 23 02:10:46 +0000 2007",
+				"favourites_count": 5996,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33901,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E2EAEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1286259492452216833/tHVDMI55_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286259492452216833/tHVDMI55_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/789991/1417802106",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't miss this #oeweek session \"Chegging With Dave\"! https://t.co/Pm9ObNrkYX"
+	},
+	{
 		"created_at": "Wed Mar 03 17:59:27 +0000 2021",
 		"id": 1367172783956893700,
 		"id_str": "1367172783956893699",

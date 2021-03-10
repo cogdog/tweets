@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 10 17:22:20 +0000 2021",
+		"id": 1369700161010557000,
+		"id_str": "1369700161010556930",
+		"full_text": "Worth noting that today's #ds106 daily create (March 2021) has a long arc back to the Fat Cats Make Art Better assignment created by a student in 2012 https://t.co/mwx1mpFI81\n\nAll yer MOOCs have crested and troughed, but DS106 keeps going like a sly cat. https://t.co/1WMhIsp1va",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mwx1mpFI81",
+					"expanded_url": "https://assignments.ds106.us/assignments/fat-cats-make-art-better/",
+					"display_url": "assignments.ds106.us/assignments/fa…",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/1WMhIsp1va",
+					"expanded_url": "https://twitter.com/ds106dc/status/1369632891794116612",
+					"display_url": "twitter.com/ds106dc/status…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10487,
+			"friends_count": 1534,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1369632891794116600,
+		"quoted_status_id_str": "1369632891794116612",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1WMhIsp1va",
+			"expanded": "https://twitter.com/ds106dc/status/1369632891794116612",
+			"display": "twitter.com/ds106dc/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 10 12:55:02 +0000 2021",
+			"id": 1369632891794116600,
+			"id_str": "1369632891794116612",
+			"full_text": "For today's TDC... #tdc3345 #ds106 Put a cat somewhere it shouldn’t be. Or a dog, if you prefer https://t.co/xS7wLYx0V1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tdc3345",
+						"indices": [
+							19,
+							27
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							28,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xS7wLYx0V1",
+						"expanded_url": "http://dlvr.it/RvLd00",
+						"display_url": "dlvr.it/RvLd00",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 995562187,
+				"id_str": "995562187",
+				"name": "ds106 Daily Create",
+				"screen_name": "ds106dc",
+				"location": "everywhere",
+				"description": "Each day we give you a new creative challenge, something to do in photography, drawing, audio, video, and writing. Follow us and create!",
+				"url": "https://t.co/VciGKYbj0S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VciGKYbj0S",
+								"expanded_url": "http://daily.ds106.us/",
+								"display_url": "daily.ds106.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2156,
+				"friends_count": 49,
+				"listed_count": 67,
+				"created_at": "Fri Dec 07 17:57:14 +0000 2012",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4034,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2944465117/f92e31c22dfcce90a1b544ffd125802e_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2944465117/f92e31c22dfcce90a1b544ffd125802e_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/995562187/1451540977",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Worth noting that today's #ds106 daily create (March 2021) has a long arc back to the Fat Cats Make Art Better assignment created by a student in 2012 https://t.co/mwx1mpFI81\n\nAll yer MOOCs have crested and troughed, but DS106 keeps going like a sly cat. https://t.co/1WMhIsp1va"
+	},
+	{
 		"created_at": "Wed Mar 10 14:36:45 +0000 2021",
 		"id": 1369658489497297000,
 		"id_str": "1369658489497296900",

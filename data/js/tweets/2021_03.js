@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 26 14:54:01 +0000 2021",
+		"id": 1375461039622422500,
+		"id_str": "1375461039622422535",
+		"full_text": "@tgrantt @kithie @MrBourassaED @rroberkirsch @James_Jones28 @JamesAlanOLOO @GartnerMel @MissCundall @PrincipalSmart @Stella_Pollard It can be true, Grant.",
+		"truncated": false,
+		"display_text_range": [
+			132,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tgrantt",
+					"name": "T. Grant Taylor",
+					"id": 14094880,
+					"id_str": "14094880",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "kithie",
+					"name": "Catherine Hiltz she/her/hers",
+					"id": 20412898,
+					"id_str": "20412898",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "MrBourassaED",
+					"name": "Curtis Bourassa",
+					"id": 299787575,
+					"id_str": "299787575",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "rroberkirsch",
+					"name": "Raquel Oberkirsch",
+					"id": 2290129388,
+					"id_str": "2290129388",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "James_Jones28",
+					"name": "James Jones",
+					"id": 1013618244127789000,
+					"id_str": "1013618244127789058",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "JamesAlanOLOO",
+					"name": "James Oloo",
+					"id": 1463549647,
+					"id_str": "1463549647",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"screen_name": "GartnerMel",
+					"name": "Mel Gartner",
+					"id": 191173947,
+					"id_str": "191173947",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"screen_name": "MissCundall",
+					"name": "Michelle Cundall",
+					"id": 3166913735,
+					"id_str": "3166913735",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "PrincipalSmart",
+					"name": "Michelle Smart",
+					"id": 114758196,
+					"id_str": "114758196",
+					"indices": [
+						100,
+						115
+					]
+				},
+				{
+					"screen_name": "Stella_Pollard",
+					"name": "Stella Pollard",
+					"id": 39922637,
+					"id_str": "39922637",
+					"indices": [
+						116,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1375266747608039400,
+		"in_reply_to_status_id_str": "1375266747608039425",
+		"in_reply_to_user_id": 14094880,
+		"in_reply_to_user_id_str": "14094880",
+		"in_reply_to_screen_name": "tgrantt",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10489,
+			"friends_count": 1534,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tgrantt @kithie @MrBourassaED @rroberkirsch @James_Jones28 @JamesAlanOLOO @GartnerMel @MissCundall @PrincipalSmart @Stella_Pollard It can be true, Grant."
+	},
+	{
 		"created_at": "Fri Mar 26 00:16:07 +0000 2021",
 		"id": 1375240111315513300,
 		"id_str": "1375240111315513345",

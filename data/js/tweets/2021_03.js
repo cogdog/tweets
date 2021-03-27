@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 27 16:33:17 +0000 2021",
+		"id": 1375848407906979800,
+		"id_str": "1375848407906979842",
+		"full_text": "I urge #netnarr to read not only the tweets (to the tune of Gil Scott Heron) but the full paper for an example of speculative fiction. It’s 2050 for the Post Post Pabdemic University. https://t.co/IkxootKuUY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkxootKuUY",
+					"expanded_url": "https://twitter.com/eam0/status/1278967377066110977",
+					"display_url": "twitter.com/eam0/status/12…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10491,
+			"friends_count": 1534,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1278967377066111000,
+		"quoted_status_id_str": "1278967377066110977",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IkxootKuUY",
+			"expanded": "https://twitter.com/eam0/status/1278967377066110977",
+			"display": "twitter.com/eam0/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 03 08:22:39 +0000 2020",
+			"id": 1278967377066111000,
+			"id_str": "1278967377066110977",
+			"full_text": "1/9\nWe published something from a strange time:\n\n\"The Pandemic will not be on Zoom: A retrospective from the year 2050” https://t.co/SVk3q8PxTX \n\n@mbrownz @donenda @BlueLilyMist1 https://t.co/nshFO7jUdk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mbrownz",
+						"name": "Mark Brown",
+						"id": 21356874,
+						"id_str": "21356874",
+						"indices": [
+							146,
+							154
+						]
+					},
+					{
+						"screen_name": "donenda",
+						"name": "Enda",
+						"id": 40836065,
+						"id_str": "40836065",
+						"indices": [
+							155,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SVk3q8PxTX",
+						"expanded_url": "https://doi.org/10.1007/s42438-020-00150-3",
+						"display_url": "doi.org/10.1007/s42438…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1278965390442446800,
+						"id_str": "1278965390442446848",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/Eb_MPxFXQAAirpT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eb_MPxFXQAAirpT.jpg",
+						"url": "https://t.co/nshFO7jUdk",
+						"display_url": "pic.twitter.com/nshFO7jUdk",
+						"expanded_url": "https://twitter.com/eam0/status/1278967377066110977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1278965390442446800,
+						"id_str": "1278965390442446848",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/Eb_MPxFXQAAirpT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eb_MPxFXQAAirpT.jpg",
+						"url": "https://t.co/nshFO7jUdk",
+						"display_url": "pic.twitter.com/nshFO7jUdk",
+						"expanded_url": "https://twitter.com/eam0/status/1278967377066110977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1210901,
+				"id_str": "1210901",
+				"name": "Eamon Costello",
+				"screen_name": "eam0",
+				"location": "Dublin City, Ireland",
+				"description": "Open Education & Postdigital Learning @DCU",
+				"url": "https://t.co/V7oUCkHjTD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V7oUCkHjTD",
+								"expanded_url": "https://www.researchgate.net/profile/Eamon_Costello",
+								"display_url": "researchgate.net/profile/Eamon_…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2220,
+				"friends_count": 2772,
+				"listed_count": 107,
+				"created_at": "Thu Mar 15 09:16:09 +0000 2007",
+				"favourites_count": 9155,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5300,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1314232798467821570/KZ87ENVx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314232798467821570/KZ87ENVx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210901/1595114729",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I urge #netnarr to read not only the tweets (to the tune of Gil Scott Heron) but the full paper for an example of speculative fiction. It’s 2050 for the Post Post Pabdemic University. https://t.co/IkxootKuUY"
+	},
+	{
 		"created_at": "Sat Mar 27 02:16:39 +0000 2021",
 		"id": 1375632828914757600,
 		"id_str": "1375632828914757633",

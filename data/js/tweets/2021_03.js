@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 31 18:35:32 +0000 2021",
+		"id": 1377328727822987300,
+		"id_str": "1377328727822987267",
+		"full_text": "@TaraGilboa @taykendesign @THiNGkeriNG @MasterClass @beondeck @jgreiving @SenorG @BryanAlexander @nearfuturelab @nicolasnova @fosta @shumonbasar What one calls an issue could also be an opportunity.",
+		"truncated": false,
+		"display_text_range": [
+			145,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaraGilboa",
+					"name": "Tara Gilboa",
+					"id": 18793475,
+					"id_str": "18793475",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "taykendesign",
+					"name": "Tayken",
+					"id": 716093571900649500,
+					"id_str": "716093571900649473",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "THiNGkeriNG",
+					"name": "THiNGkeriNG",
+					"id": 809534973510381600,
+					"id_str": "809534973510381568",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "MasterClass",
+					"name": "MasterClass",
+					"id": 3108033410,
+					"id_str": "3108033410",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "beondeck",
+					"name": "On Deck",
+					"id": 785654626255110100,
+					"id_str": "785654626255110145",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"screen_name": "jgreiving",
+					"name": "Jenn Greiving",
+					"id": 14284517,
+					"id_str": "14284517",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "SenorG",
+					"name": "Noah Geisel",
+					"id": 21132309,
+					"id_str": "21132309",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						81,
+						96
+					]
+				},
+				{
+					"screen_name": "nearfuturelab",
+					"name": "Near Future Laboratory",
+					"id": 11062822,
+					"id_str": "11062822",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "nicolasnova",
+					"name": "nicolasnova",
+					"id": 2801571,
+					"id_str": "2801571",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"screen_name": "fosta",
+					"name": "fosta",
+					"id": 12781822,
+					"id_str": "12781822",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"screen_name": "shumonbasar",
+					"name": "Shumon Basar",
+					"id": 20447037,
+					"id_str": "20447037",
+					"indices": [
+						132,
+						144
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1377324732291416000,
+		"in_reply_to_status_id_str": "1377324732291416076",
+		"in_reply_to_user_id": 18793475,
+		"in_reply_to_user_id_str": "18793475",
+		"in_reply_to_screen_name": "TaraGilboa",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10492,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TaraGilboa @taykendesign @THiNGkeriNG @MasterClass @beondeck @jgreiving @SenorG @BryanAlexander @nearfuturelab @nicolasnova @fosta @shumonbasar What one calls an issue could also be an opportunity."
+	},
+	{
 		"created_at": "Wed Mar 31 15:25:46 +0000 2021",
 		"id": 1377280969858637800,
 		"id_str": "1377280969858637829",

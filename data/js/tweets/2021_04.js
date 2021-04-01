@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 01 19:46:27 +0000 2021",
+		"id": 1377708959629385700,
+		"id_str": "1377708959629385729",
+		"full_text": "Hey #netnarr Researcher are training AI to understand FAIL moments in videos. What might come of this? Did you ever think your shared funny video would go to train an algorithm? https://t.co/xYS8Po2gmR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xYS8Po2gmR",
+					"expanded_url": "https://twitter.com/adamhrv/status/1377530179850006528",
+					"display_url": "twitter.com/adamhrv/status…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1377530179850006500,
+		"quoted_status_id_str": "1377530179850006528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xYS8Po2gmR",
+			"expanded": "https://twitter.com/adamhrv/status/1377530179850006528",
+			"display": "twitter.com/adamhrv/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 01 07:56:02 +0000 2021",
+			"id": 1377530179850006500,
+			"id_str": "1377530179850006528",
+			"full_text": "A new DARPA funded dataset called \"Ooops!\" is using 20,723 YouTube videos of failures and embarrassing moments to help machines learn unintentional actions: https://t.co/gFA06s531V (45GB)\n\nY/N: There seems to be an urgent need for better image licensing relating to ML uses? https://t.co/kMVbYoFbzQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gFA06s531V",
+						"expanded_url": "https://oops.cs.columbia.edu",
+						"display_url": "oops.cs.columbia.edu",
+						"indices": [
+							157,
+							180
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1377527891303469000,
+						"id_str": "1377527891303469057",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ex32UZVWEAEU9f-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ex32UZVWEAEU9f-.jpg",
+						"url": "https://t.co/kMVbYoFbzQ",
+						"display_url": "pic.twitter.com/kMVbYoFbzQ",
+						"expanded_url": "https://twitter.com/adamhrv/status/1377530179850006528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1300,
+								"h": 692,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1377527891303469000,
+						"id_str": "1377527891303469057",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ex32UZVWEAEU9f-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ex32UZVWEAEU9f-.jpg",
+						"url": "https://t.co/kMVbYoFbzQ",
+						"display_url": "pic.twitter.com/kMVbYoFbzQ",
+						"expanded_url": "https://twitter.com/adamhrv/status/1377530179850006528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1300,
+								"h": 692,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19002346,
+				"id_str": "19002346",
+				"name": "Adam Harvey",
+				"screen_name": "adamhrv",
+				"location": "mastodon.social/@adamhrv",
+				"description": "Creator of https://t.co/Hff3UAuXGM, https://t.co/Wj2AuEYEOf, and https://t.co/O6Xur9O8UZ. More at ahprojects dot com",
+				"url": "https://t.co/dX1KtM6hrM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dX1KtM6hrM",
+								"expanded_url": "http://ahprojects.com",
+								"display_url": "ahprojects.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Hff3UAuXGM",
+								"expanded_url": "http://exposing.ai",
+								"display_url": "exposing.ai",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/Wj2AuEYEOf",
+								"expanded_url": "http://vframe.io",
+								"display_url": "vframe.io",
+								"indices": [
+									36,
+									59
+								]
+							},
+							{
+								"url": "https://t.co/O6Xur9O8UZ",
+								"expanded_url": "http://cvdazzle.com",
+								"display_url": "cvdazzle.com",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6485,
+				"friends_count": 397,
+				"listed_count": 233,
+				"created_at": "Wed Jan 14 23:54:18 +0000 2009",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 988,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150514997644148737/2_EOFrMt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150514997644148737/2_EOFrMt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19002346/1615795036",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey #netnarr Researcher are training AI to understand FAIL moments in videos. What might come of this? Did you ever think your shared funny video would go to train an algorithm? https://t.co/xYS8Po2gmR"
+	},
+	{
 		"created_at": "Thu Apr 01 17:37:29 +0000 2021",
 		"id": 1377676504251818000,
 		"id_str": "1377676504251817987",

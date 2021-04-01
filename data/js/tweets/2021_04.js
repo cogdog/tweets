@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 01 13:52:54 +0000 2021",
+		"id": 1377619985091149800,
+		"id_str": "1377619985091149829",
+		"full_text": "Bot's up? There might be AI in the room? Sign up now to be part of what we now will be a dynamic #netnrr conversation with @hypervisible https://t.co/jC37xajQWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnrr",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypervisible",
+					"name": "what is proctoring if not surveillance persevering",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jC37xajQWh",
+					"expanded_url": "https://twitter.com/netnarr/status/1377580197051043845",
+					"display_url": "twitter.com/netnarr/status…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10491,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1377580197051043800,
+		"quoted_status_id_str": "1377580197051043845",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jC37xajQWh",
+			"expanded": "https://twitter.com/netnarr/status/1377580197051043845",
+			"display": "twitter.com/netnarr/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 01 11:14:47 +0000 2021",
+			"id": 1377580197051043800,
+			"id_str": "1377580197051043845",
+			"full_text": "R u concerned @ algorithmic bias, #edtechsurveillance #dataethics? \n\nJoin #netnarr's open forum today to discuss: https://t.co/6zMt5tVzR5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtechsurveillance",
+						"indices": [
+							34,
+							53
+						]
+					},
+					{
+						"text": "dataethics",
+						"indices": [
+							54,
+							65
+						]
+					},
+					{
+						"text": "netnarr",
+						"indices": [
+							74,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6zMt5tVzR5",
+						"expanded_url": "https://twitter.com/MiaZamoraPhD/status/1377579468819152898",
+						"display_url": "twitter.com/MiaZamoraPhD/s…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801306049663893500,
+				"id_str": "801306049663893504",
+				"name": "NetNarr / NetMirror",
+				"screen_name": "netnarr",
+				"location": "Everywhere and nowhere",
+				"description": "Participants and fan(s) of the Networked Narratives open course at Kean University, currently playing as the show \"Net Mirror\" https://t.co/jgPU6wr2Ty",
+				"url": "https://t.co/pGrBuKMF7S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pGrBuKMF7S",
+								"expanded_url": "http://netnarr.arganee.world",
+								"display_url": "netnarr.arganee.world",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jgPU6wr2Ty",
+								"expanded_url": "http://netmirror.arganee.world",
+								"display_url": "netmirror.arganee.world",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 431,
+				"friends_count": 189,
+				"listed_count": 13,
+				"created_at": "Wed Nov 23 06:07:04 +0000 2016",
+				"favourites_count": 951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240346950777450499/NPb8LwtC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240346950777450499/NPb8LwtC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801306049663893504/1584556733",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1377579468819153000,
+			"quoted_status_id_str": "1377579468819152898",
+			"quoted_status_permalink": {
+				"url": "https://t.co/6zMt5tVzR5",
+				"expanded": "https://twitter.com/MiaZamoraPhD/status/1377579468819152898",
+				"display": "twitter.com/MiaZamoraPhD/s…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bot's up? There might be AI in the room? Sign up now to be part of what we now will be a dynamic #netnrr conversation with @hypervisible https://t.co/jC37xajQWh"
+	},
+	{
 		"created_at": "Thu Apr 01 12:42:46 +0000 2021",
 		"id": 1377602336084791300,
 		"id_str": "1377602336084791301",

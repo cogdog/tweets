@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 21:11:39 +0000 2021",
+		"id": 1379454925143441400,
+		"id_str": "1379904730328047616",
+		"full_text": "3 years ago I almost slipped into a coma and died. I was diagnosed with type 1 diabetes.\n\nI paid $684 for my first 30-day supply of insulin. Some pay $1000+ a month. Many die without it.\n\nToday I introduced legislation to cap the price of insulin at $50 a month. #txlege https://t.co/NEVrozVJwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txlege",
+					"indices": [
+						263,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1379454913198100500,
+					"id_str": "1379454913198100480",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EyTO71TXEAAEvKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyTO71TXEAAEvKt.jpg",
+					"url": "https://t.co/NEVrozVJwf",
+					"display_url": "pic.twitter.com/NEVrozVJwf",
+					"expanded_url": "https://twitter.com/jamestalarico/status/1379454925143441408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379454913198100500,
+					"id_str": "1379454913198100480",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EyTO71TXEAAEvKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyTO71TXEAAEvKt.jpg",
+					"url": "https://t.co/NEVrozVJwf",
+					"display_url": "pic.twitter.com/NEVrozVJwf",
+					"expanded_url": "https://twitter.com/jamestalarico/status/1379454925143441408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1379454912099201000,
+					"id_str": "1379454912099201025",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EyTO7xNXMAEKtki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyTO7xNXMAEKtki.jpg",
+					"url": "https://t.co/NEVrozVJwf",
+					"display_url": "pic.twitter.com/NEVrozVJwf",
+					"expanded_url": "https://twitter.com/jamestalarico/status/1379454925143441408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77098233,
+			"id_str": "77098233",
+			"name": "James Talarico",
+			"screen_name": "jamestalarico",
+			"location": "Round Rock, TX",
+			"description": "Texas State Representative, youngest legislator, former middle school teacher, proud progressive, and eighth generation Texan.  1 John 4:8 #PeopleOverPolitics",
+			"url": "https://t.co/yvWvO9c5f9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvWvO9c5f9",
+							"expanded_url": "http://jamestalarico.com",
+							"display_url": "jamestalarico.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28710,
+			"friends_count": 4637,
+			"listed_count": 202,
+			"created_at": "Fri Sep 25 01:24:12 +0000 2009",
+			"favourites_count": 15458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7494A1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905516372796465152/nXbuydGG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905516372796465152/nXbuydGG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77098233/1613668617",
+			"profile_link_color": "056F87",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49618,
+		"favorite_count": 331935,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3 years ago I almost slipped into a coma and died. I was diagnosed with type 1 diabetes.\n\nI paid $684 for my first 30-day supply of insulin. Some pay $1000+ a month. Many die without it.\n\nToday I introduced legislation to cap the price of insulin at $50 a month. #txlege https://t.co/NEVrozVJwf"
+	},
+	{
 		"created_at": "Wed Apr 07 19:20:08 +0000 2021",
 		"id": 1379876663396196400,
 		"id_str": "1379876663396196354",

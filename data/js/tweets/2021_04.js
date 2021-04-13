@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 13 19:08:19 +0000 2021",
+		"id": 1382048018480861200,
+		"id_str": "1382048018480861185",
+		"full_text": "600+ creative tools to explore, quite the delightful toolbox https://t.co/Kf0jazztP8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kf0jazztP8",
+					"expanded_url": "https://twitter.com/everestpipkin/status/1382041649006706690",
+					"display_url": "twitter.com/everestpipkin/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10486,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382041649006706700,
+		"quoted_status_id_str": "1382041649006706690",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kf0jazztP8",
+			"expanded": "https://twitter.com/everestpipkin/status/1382041649006706690",
+			"display": "twitter.com/everestpipkin/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 13 18:43:00 +0000 2021",
+			"id": 1382041649006706700,
+			"id_str": "1382041649006706690",
+			"full_text": "✨✨ it's done!! i've spent the last several months tagging 600+ open source, experimental and tiny tools towards joyful digital creation - and built a website for sorting through them:\n\nhttps://t.co/YR9vKhOeOL https://t.co/ht0HcK0yAk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YR9vKhOeOL",
+						"expanded_url": "http://tinytools.directory",
+						"display_url": "tinytools.directory",
+						"indices": [
+							185,
+							208
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1382041587677601800,
+						"id_str": "1382041587677601806",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey3_gGpXIA47in-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey3_gGpXIA47in-.jpg",
+						"url": "https://t.co/ht0HcK0yAk",
+						"display_url": "pic.twitter.com/ht0HcK0yAk",
+						"expanded_url": "https://twitter.com/everestpipkin/status/1382041649006706690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 758,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1294,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382041587677601800,
+						"id_str": "1382041587677601806",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey3_gGpXIA47in-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey3_gGpXIA47in-.jpg",
+						"url": "https://t.co/ht0HcK0yAk",
+						"display_url": "pic.twitter.com/ht0HcK0yAk",
+						"expanded_url": "https://twitter.com/everestpipkin/status/1382041649006706690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 758,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1294,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28825574,
+				"id_str": "28825574",
+				"name": "everest",
+				"screen_name": "everestpipkin",
+				"location": "gulf coast",
+				"description": "a computer simulation of a field of violets -- i make games and occasional software -- icon by l lewis -- they/them",
+				"url": "https://t.co/UgqjmhNMtk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UgqjmhNMtk",
+								"expanded_url": "http://everest-pipkin.com",
+								"display_url": "everest-pipkin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19336,
+				"friends_count": 795,
+				"listed_count": 442,
+				"created_at": "Sat Apr 04 16:47:29 +0000 2009",
+				"favourites_count": 20143,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10210,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136338476826222592/KjpOXa7E_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136338476826222592/KjpOXa7E_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28825574/1558906544",
+				"profile_link_color": "1A1A1C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F0E2B2",
+				"profile_text_color": "4F4F4F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 137,
+			"favorite_count": 269,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "600+ creative tools to explore, quite the delightful toolbox https://t.co/Kf0jazztP8"
+	},
+	{
 		"created_at": "Tue Apr 13 15:50:26 +0000 2021",
 		"id": 1381998218477666300,
 		"id_str": "1381998218477666305",

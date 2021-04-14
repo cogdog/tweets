@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 14 17:50:35 +0000 2021",
+		"id": 1382380756966723600,
+		"id_str": "1382390843491840000",
+		"full_text": "Breaking news: Today, Educators with an Ontario Extend digital fluency micro-credential can stack that achievement as credit towards @ConestogaC @TLConestoga Certificate in Post-Secondary Teaching: https://t.co/U0DM4j6QWh https://t.co/Nsg3GybWoV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConestogaC",
+					"name": "Conestoga College",
+					"id": 289459240,
+					"id_str": "289459240",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"screen_name": "TLConestoga",
+					"name": "Teaching and Learning Conestoga",
+					"id": 951156227224096800,
+					"id_str": "951156227224096768",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U0DM4j6QWh",
+					"expanded_url": "https://bit.ly/32e18GT",
+					"display_url": "bit.ly/32e18GT",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1382380337465065500,
+					"id_str": "1382380337465065476",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8zl78XAAQsGb9.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8zl78XAAQsGb9.png",
+					"url": "https://t.co/Nsg3GybWoV",
+					"display_url": "pic.twitter.com/Nsg3GybWoV",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1382380756966723585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 401,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382380337465065500,
+					"id_str": "1382380337465065476",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8zl78XAAQsGb9.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8zl78XAAQsGb9.png",
+					"url": "https://t.co/Nsg3GybWoV",
+					"display_url": "pic.twitter.com/Nsg3GybWoV",
+					"expanded_url": "https://twitter.com/ontarioextend/status/1382380756966723585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 401,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885339669457776600,
+			"id_str": "885339669457776641",
+			"name": "OntarioExtend",
+			"screen_name": "ontarioextend",
+			"location": "Toronto, Ontario",
+			"description": "Join us as we extend our skills and knowledge by curating, creating, collaborating and experimenting to enrich technology-enabled learning experiences.",
+			"url": "https://t.co/VrJt2KX1mc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VrJt2KX1mc",
+							"expanded_url": "https://extend.ecampusontario.ca",
+							"display_url": "extend.ecampusontario.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1201,
+			"friends_count": 578,
+			"listed_count": 27,
+			"created_at": "Thu Jul 13 03:26:40 +0000 2017",
+			"favourites_count": 4085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179847729830416387/QG8ACgTy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179847729830416387/QG8ACgTy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885339669457776641/1501704100",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Breaking news: Today, Educators with an Ontario Extend digital fluency micro-credential can stack that achievement as credit towards @ConestogaC @TLConestoga Certificate in Post-Secondary Teaching: https://t.co/U0DM4j6QWh https://t.co/Nsg3GybWoV"
+	},
+	{
 		"created_at": "Wed Apr 14 16:34:07 +0000 2021",
 		"id": 1382371598900994000,
 		"id_str": "1382371598900994048",

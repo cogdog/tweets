@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 12:59:25 +0000 2021",
+		"id": 1383039555830448000,
+		"id_str": "1383042347282309120",
+		"full_text": "Did you miss yesterday's presentation @unbc from Dr. Nicole Johnson @_digitalnicole \"The Impact of the Pandemic on Canadian Higher Education: The Implications of a Shift Toward Digital Learning\" ? View the recording at https://t.co/sAP9no1zOE #bcpse #cdnpse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bcpse",
+					"indices": [
+						243,
+						249
+					]
+				},
+				{
+					"text": "cdnpse",
+					"indices": [
+						250,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNBC",
+					"name": "University of Northern British Columbia (UNBC)",
+					"id": 15868178,
+					"id_str": "15868178",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"screen_name": "_digitalnicole",
+					"name": "Dr. Nicole Johnson",
+					"id": 187256364,
+					"id_str": "187256364",
+					"indices": [
+						68,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sAP9no1zOE",
+					"expanded_url": "https://video.unbc.ca/media/The+Impact+of+the+Pandemic+on+Canadian+Higher+EducationA+The+Implications+of+a+Shift+Toward+Digital+Learning++-+Dr.+Nicole+Johnson+-+April+15+2021/0_vk3oyh23/21129",
+					"display_url": "video.unbc.ca/media/The+Impa…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240754798,
+			"id_str": "240754798",
+			"name": "CTLT@UNBC",
+			"screen_name": "unbc_ctlt",
+			"location": "Prince George, BC",
+			"description": "",
+			"url": "https://t.co/dReRCVSXgF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dReRCVSXgF",
+							"expanded_url": "http://unbc.ca/ctlt",
+							"display_url": "unbc.ca/ctlt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 48,
+			"listed_count": 32,
+			"created_at": "Thu Jan 20 17:27:34 +0000 2011",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903756576124690432/abJ-4IRP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903756576124690432/abJ-4IRP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240754798/1504307444",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you miss yesterday's presentation @unbc from Dr. Nicole Johnson @_digitalnicole \"The Impact of the Pandemic on Canadian Higher Education: The Implications of a Shift Toward Digital Learning\" ? View the recording at https://t.co/sAP9no1zOE #bcpse #cdnpse"
+	},
+	{
 		"created_at": "Thu Apr 15 18:07:52 +0000 2021",
 		"id": 1382333163184210000,
 		"id_str": "1382757581802807296",

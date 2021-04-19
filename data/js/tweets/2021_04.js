@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 01:54:40 +0000 2021",
+		"id": 1383962220065738800,
+		"id_str": "1383962220065738757",
+		"full_text": "It's far from over, Una Foto Cada Día Spring 2021 40 Photo Challenge has 12 days left https://t.co/AJs0IGIZ3F\n\nJust follow @AVBot2\n\nStill time to add 1 to 40, get yourself on the Leader Board https://t.co/FVNMxot9F6 catch up to @NoStoryNorm @Fabcorreabracet and @sofia_lorraine1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AVBot2",
+					"name": "inf115_create",
+					"id": 1284431028,
+					"id_str": "1284431028",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"screen_name": "NoStoryNorm",
+					"name": "Norman Wright",
+					"id": 470578726,
+					"id_str": "470578726",
+					"indices": [
+						228,
+						240
+					]
+				},
+				{
+					"screen_name": "Fabcorreabracet",
+					"name": "Fabiana",
+					"id": 1351934720259608600,
+					"id_str": "1351934720259608577",
+					"indices": [
+						241,
+						257
+					]
+				},
+				{
+					"screen_name": "sofia_lorraine1",
+					"name": "Sofia🦋",
+					"id": 1201690848154595300,
+					"id_str": "1201690848154595328",
+					"indices": [
+						262,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AJs0IGIZ3F",
+					"expanded_url": "http://daily.netedu.info/",
+					"display_url": "daily.netedu.info",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/FVNMxot9F6",
+					"expanded_url": "http://daily.netedu.info/leaders/",
+					"display_url": "daily.netedu.info/leaders/",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's far from over, Una Foto Cada Día Spring 2021 40 Photo Challenge has 12 days left https://t.co/AJs0IGIZ3F\n\nJust follow @AVBot2\n\nStill time to add 1 to 40, get yourself on the Leader Board https://t.co/FVNMxot9F6 catch up to @NoStoryNorm @Fabcorreabracet and @sofia_lorraine1"
+	},
+	{
+		"created_at": "Mon Apr 19 01:50:46 +0000 2021",
+		"id": 1383961239584313300,
+		"id_str": "1383961239584313350",
+		"full_text": "@AVBot2 #1fotocadadia Siluetras detrás de Lutz / Silhouettes behind light by @Bjgarcia30. The dead leave signs #fotodia404 (I am catching up to missed dailies!) https://t.co/eH9f3WLO9q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1fotocadadia",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "fotodia404",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AVBot2",
+					"name": "inf115_create",
+					"id": 1284431028,
+					"id_str": "1284431028",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "BJGarcia30",
+					"name": "Bernie Garcia",
+					"id": 2542607714,
+					"id_str": "2542607714",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1383961231740915700,
+					"id_str": "1383961231740915716",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EzTRaGDUUAQguqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzTRaGDUUAQguqm.jpg",
+					"url": "https://t.co/eH9f3WLO9q",
+					"display_url": "pic.twitter.com/eH9f3WLO9q",
+					"expanded_url": "https://twitter.com/cogdog/status/1383961239584313350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383961231740915700,
+					"id_str": "1383961231740915716",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EzTRaGDUUAQguqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzTRaGDUUAQguqm.jpg",
+					"url": "https://t.co/eH9f3WLO9q",
+					"display_url": "pic.twitter.com/eH9f3WLO9q",
+					"expanded_url": "https://twitter.com/cogdog/status/1383961239584313350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1284431028,
+		"in_reply_to_user_id_str": "1284431028",
+		"in_reply_to_screen_name": "AVBot2",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AVBot2 #1fotocadadia Siluetras detrás de Lutz / Silhouettes behind light by @Bjgarcia30. The dead leave signs #fotodia404 (I am catching up to missed dailies!) https://t.co/eH9f3WLO9q"
+	},
+	{
+		"created_at": "Mon Apr 19 01:46:41 +0000 2021",
+		"id": 1383960208653774800,
+		"id_str": "1383960208653774856",
+		"full_text": "@AVBot2 This works double as response for Una foto Cada día #fotodia405 Recurrdos / Memories by @Fabcorreabracet . Memories of the internet being strung together by undersea cables, circa 1996 https://t.co/Osu88Zij56",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fotodia405",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AVBot2",
+					"name": "inf115_create",
+					"id": 1284431028,
+					"id_str": "1284431028",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Fabcorreabracet",
+					"name": "Fabiana",
+					"id": 1351934720259608600,
+					"id_str": "1351934720259608577",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Osu88Zij56",
+					"expanded_url": "https://twitter.com/cogdog/status/1383910769205538826",
+					"display_url": "twitter.com/cogdog/status/…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1284431028,
+		"in_reply_to_user_id_str": "1284431028",
+		"in_reply_to_screen_name": "AVBot2",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383910769205538800,
+		"quoted_status_id_str": "1383910769205538826",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Osu88Zij56",
+			"expanded": "https://twitter.com/cogdog/status/1383910769205538826",
+			"display": "twitter.com/cogdog/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 18 22:30:13 +0000 2021",
+			"id": 1383910769205538800,
+			"id_str": "1383910769205538826",
+			"full_text": "Plucked off the shelf. I clung to this 1996 issue of Wired for Neil Stevenson’s epic book inside a magazine. It’s 50 print and photo rich pages, interspersed with quirky ads for old tech. https://t.co/D46B8cy2M7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1383910755523649500,
+						"id_str": "1383910755523649543",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/EzSjf_fUYAcADLG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzSjf_fUYAcADLG.jpg",
+						"url": "https://t.co/D46B8cy2M7",
+						"display_url": "pic.twitter.com/D46B8cy2M7",
+						"expanded_url": "https://twitter.com/cogdog/status/1383910769205538826/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 584,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1031,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1760,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1383910755523649500,
+						"id_str": "1383910755523649543",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/EzSjf_fUYAcADLG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzSjf_fUYAcADLG.jpg",
+						"url": "https://t.co/D46B8cy2M7",
+						"display_url": "pic.twitter.com/D46B8cy2M7",
+						"expanded_url": "https://twitter.com/cogdog/status/1383910769205538826/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 584,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1031,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1760,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740343,
+				"id_str": "740343",
+				"name": "Alan Levine",
+				"screen_name": "cogdog",
+				"location": "Mortlach, Saskatchewan",
+				"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+				"url": "https://t.co/wAzdfm9TIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wAzdfm9TIB",
+								"expanded_url": "http://cog.dog",
+								"display_url": "cog.dog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZxC70YWtmO",
+								"expanded_url": "http://cogdogblog.com",
+								"display_url": "cogdogblog.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10485,
+				"friends_count": 1536,
+				"listed_count": 789,
+				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+				"favourites_count": 881,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 93126,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AVBot2 This works double as response for Una foto Cada día #fotodia405 Recurrdos / Memories by @Fabcorreabracet . Memories of the internet being strung together by undersea cables, circa 1996 https://t.co/Osu88Zij56"
+	},
+	{
 		"created_at": "Sun Apr 18 22:30:13 +0000 2021",
 		"id": 1383910769205538800,
 		"id_str": "1383910769205538826",

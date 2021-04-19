@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 14:31:40 +0000 2021",
+		"id": 1384152723411521500,
+		"id_str": "1384152723411521538",
+		"full_text": "The Proctorio SLAPP of @linkletter smells like poop. \n\nTo them YouTube unlisted videos are \"confidential and proprietary videos which are accessible only to administrators and instructors via the Help Center\" -- patently false. Support Ian https://t.co/uFxYFJVo5A https://t.co/GaWq1Owm8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Linkletter",
+					"name": "Ian Linkletter",
+					"id": 804325,
+					"id_str": "804325",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uFxYFJVo5A",
+					"expanded_url": "https://www.gofundme.com/f/stand-against-proctorio",
+					"display_url": "gofundme.com/f/stand-agains…",
+					"indices": [
+						240,
+						263
+					]
+				},
+				{
+					"url": "https://t.co/GaWq1Owm8r",
+					"expanded_url": "https://twitter.com/Linkletter/status/1383892494140600326",
+					"display_url": "twitter.com/Linkletter/sta…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10484,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383892494140600300,
+		"quoted_status_id_str": "1383892494140600326",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GaWq1Owm8r",
+			"expanded": "https://twitter.com/Linkletter/status/1383892494140600326",
+			"display": "twitter.com/Linkletter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 18 21:17:36 +0000 2021",
+			"id": 1383892494140600300,
+			"id_str": "1383892494140600326",
+			"full_text": "Proctorio sued me for tweeting links to 7 of their YouTube videos as well as one screenshot.\n\nThey claim these tweets are not \"expression\" protected by the Protection of Public Participation Act. They claim the PPPA is unenforceable against copyright SLAPPs. They are incorrect ⚖️ https://t.co/hetZtHNZkx https://t.co/zLDjdyyTlu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				304
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hetZtHNZkx",
+						"expanded_url": "https://twitter.com/EFF/status/1383871956697616384",
+						"display_url": "twitter.com/EFF/status/138…",
+						"indices": [
+							281,
+							304
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1383891621079523300,
+						"id_str": "1383891621079523347",
+						"indices": [
+							305,
+							328
+						],
+						"media_url": "http://pbs.twimg.com/media/EzSSGOIVoBMh05T.png",
+						"media_url_https": "https://pbs.twimg.com/media/EzSSGOIVoBMh05T.png",
+						"url": "https://t.co/zLDjdyyTlu",
+						"display_url": "pic.twitter.com/zLDjdyyTlu",
+						"expanded_url": "https://twitter.com/Linkletter/status/1383892494140600326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 833,
+								"h": 715,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 833,
+								"h": 715,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 584,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1383891621079523300,
+						"id_str": "1383891621079523347",
+						"indices": [
+							305,
+							328
+						],
+						"media_url": "http://pbs.twimg.com/media/EzSSGOIVoBMh05T.png",
+						"media_url_https": "https://pbs.twimg.com/media/EzSSGOIVoBMh05T.png",
+						"url": "https://t.co/zLDjdyyTlu",
+						"display_url": "pic.twitter.com/zLDjdyyTlu",
+						"expanded_url": "https://twitter.com/Linkletter/status/1383892494140600326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 833,
+								"h": 715,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 833,
+								"h": 715,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 584,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804325,
+				"id_str": "804325",
+				"name": "Ian Linkletter",
+				"screen_name": "Linkletter",
+				"location": "Vancouver, BC",
+				"description": "Let's go exploring!\n\nHe/Him",
+				"url": "https://t.co/m0bEN9HQoQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m0bEN9HQoQ",
+								"expanded_url": "https://defense.linkletter.org",
+								"display_url": "defense.linkletter.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2196,
+				"friends_count": 1139,
+				"listed_count": 70,
+				"created_at": "Thu Mar 01 20:34:51 +0000 2007",
+				"favourites_count": 14131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7596,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1271987098573090816/vNiE37jI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271987098573090816/vNiE37jI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804325/1614205453",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1383871956697616400,
+			"quoted_status_id_str": "1383871956697616384",
+			"quoted_status_permalink": {
+				"url": "https://t.co/hetZtHNZkx",
+				"expanded": "https://twitter.com/EFF/status/1383871956697616384",
+				"display": "twitter.com/EFF/status/138…"
+			},
+			"retweet_count": 72,
+			"favorite_count": 134,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Proctorio SLAPP of @linkletter smells like poop. \n\nTo them YouTube unlisted videos are \"confidential and proprietary videos which are accessible only to administrators and instructors via the Help Center\" -- patently false. Support Ian https://t.co/uFxYFJVo5A https://t.co/GaWq1Owm8r"
+	},
+	{
 		"created_at": "Mon Apr 19 01:54:40 +0000 2021",
 		"id": 1383962220065738800,
 		"id_str": "1383962220065738757",

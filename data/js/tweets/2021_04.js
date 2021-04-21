@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 21 12:45:28 +0000 2021",
+		"id": 1384850772622336000,
+		"id_str": "1384850772622336012",
+		"full_text": "The remixer that remixes itself, more fun than googling recursion #oer21xdomains https://t.co/IR210FC1Sy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer21xdomains",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IR210FC1Sy",
+					"expanded_url": "https://twitter.com/bryanmmathers/status/1384800873855995907",
+					"display_url": "twitter.com/bryanmmathers/…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1536,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384800873855996000,
+		"quoted_status_id_str": "1384800873855995907",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IR210FC1Sy",
+			"expanded": "https://twitter.com/bryanmmathers/status/1384800873855995907",
+			"display": "twitter.com/bryanmmathers/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 21 09:27:11 +0000 2021",
+			"id": 1384800873855996000,
+			"id_str": "1384800873855995907",
+			"full_text": "Even the Remixer Machine needs it's own #OERxDomains21 Media Pass. :) https://t.co/HVEOpzoPhc #RemixerMachine  via @visualthinkery",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OERxDomains21",
+						"indices": [
+							40,
+							54
+						]
+					},
+					{
+						"text": "RemixerMachine",
+						"indices": [
+							94,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "visualthinkery",
+						"name": "Visual Thinkery",
+						"id": 4872005950,
+						"id_str": "4872005950",
+						"indices": [
+							115,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HVEOpzoPhc",
+						"expanded_url": "https://remixer.visualthinkery.com/r/9NQ10TtDavBn1viBnGAs/wyPRxKS4stqh7UJrAzm0",
+						"display_url": "remixer.visualthinkery.com/r/9NQ10TtDavBn…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37933636,
+				"id_str": "37933636",
+				"name": "Bryan Mathers",
+				"screen_name": "BryanMMathers",
+				"location": "London, Glasgow, Ireland...",
+				"description": "First I listen, then I draw my listen.\nFounder @visualthinkery. Founding member @weareopenCoop.",
+				"url": "https://t.co/7sQRZ5Eafa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7sQRZ5Eafa",
+								"expanded_url": "http://VisualThinkery.com",
+								"display_url": "VisualThinkery.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3717,
+				"friends_count": 967,
+				"listed_count": 226,
+				"created_at": "Tue May 05 14:27:29 +0000 2009",
+				"favourites_count": 8044,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5965,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1068196939618025473/1K9_NOaF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068196939618025473/1K9_NOaF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37933636/1507734948",
+				"profile_link_color": "2F495A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The remixer that remixes itself, more fun than googling recursion #oer21xdomains https://t.co/IR210FC1Sy"
+	},
+	{
 		"created_at": "Tue Apr 20 19:59:41 +0000 2021",
 		"id": 1384597661806776300,
 		"id_str": "1384597661806776320",

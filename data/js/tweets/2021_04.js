@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 21 15:03:35 +0000 2021",
+		"id": 1384885530748506000,
+		"id_str": "1384885530748506113",
+		"full_text": "@edtechfactotum @hj_dewaard @greeneterry @stoosepp @ammienoot @poritzj @creativecommons @Autumm Reveal is fantastic for web presos if you are okay organizing in html or markdown (looks as people flee away). Like ability to branch down as well as next next next.",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde (he/him)",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene (He/Him)",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "stoosepp",
+					"name": "Stoo Sepp",
+					"id": 26379377,
+					"id_str": "26379377",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "poritzj",
+					"name": "Jonathan Poritz",
+					"id": 4922508481,
+					"id_str": "4922508481",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a liminal space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1384864826183229400,
+		"in_reply_to_status_id_str": "1384864826183229441",
+		"in_reply_to_user_id": 822204322796609500,
+		"in_reply_to_user_id_str": "822204322796609536",
+		"in_reply_to_screen_name": "edtechfactotum",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1536,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@edtechfactotum @hj_dewaard @greeneterry @stoosepp @ammienoot @poritzj @creativecommons @Autumm Reveal is fantastic for web presos if you are okay organizing in html or markdown (looks as people flee away). Like ability to branch down as well as next next next."
+	},
+	{
 		"created_at": "Wed Apr 21 12:45:28 +0000 2021",
 		"id": 1384850772622336000,
 		"id_str": "1384850772622336012",

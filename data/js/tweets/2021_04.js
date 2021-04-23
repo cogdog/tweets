@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 23 14:25:15 +0000 2021",
+		"id": 1385600661576831000,
+		"id_str": "1385600661576830980",
+		"full_text": "@greeneterry @ammienoot @twoodwar @GardnerCampbell This will be a blast! Wiping the dust from my memory spokes. Found a gif on a prototype that did not make it to the main show. https://t.co/C2u9151jcr",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene (He/Him)",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385600549081415700,
+					"id_str": "1385600549081415682",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EzqkW7CVgAIGG7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzqkW7CVgAIGG7E.jpg",
+					"url": "https://t.co/C2u9151jcr",
+					"display_url": "pic.twitter.com/C2u9151jcr",
+					"expanded_url": "https://twitter.com/cogdog/status/1385600661576830980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385600549081415700,
+					"id_str": "1385600549081415682",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EzqkW7CVgAIGG7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzqkW7CVgAIGG7E.jpg",
+					"url": "https://t.co/C2u9151jcr",
+					"display_url": "pic.twitter.com/C2u9151jcr",
+					"expanded_url": "https://twitter.com/cogdog/status/1385600661576830980/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EzqkW7CVgAIGG7E.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1385582550698053600,
+		"in_reply_to_status_id_str": "1385582550698053634",
+		"in_reply_to_user_id": 212019344,
+		"in_reply_to_user_id_str": "212019344",
+		"in_reply_to_screen_name": "greeneterry",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10482,
+			"friends_count": 1537,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@greeneterry @ammienoot @twoodwar @GardnerCampbell This will be a blast! Wiping the dust from my memory spokes. Found a gif on a prototype that did not make it to the main show. https://t.co/C2u9151jcr"
+	},
+	{
 		"created_at": "Fri Apr 23 04:54:10 +0000 2021",
 		"id": 1385456943930613800,
 		"id_str": "1385456943930613769",

@@ -1,6 +1,172 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 19:40:07 +0000 2021",
+		"id": 1386404674614435800,
+		"id_str": "1386404674614435841",
+		"full_text": "@wentale @SunKScribbles @MiaZamoraPhD @eam0 Thanks Wendy! The session on University V was broadcast live at 3am local, but will be watching on reruns https://t.co/OclFJD3QHO Absolutely on target for #netnarr even if our time machine is on the fritz.",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						199,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wentale",
+					"name": "Wҽɳԃყ Tαʅҽσ",
+					"id": 1072328905,
+					"id_str": "1072328905",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SunKScribbles",
+					"name": "☀️ Sun K. - Doing My Best 👍",
+					"id": 1299072689932562400,
+					"id_str": "1299072689932562434",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "eam0",
+					"name": "Eamon Costello",
+					"id": 1210901,
+					"id_str": "1210901",
+					"indices": [
+						38,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OclFJD3QHO",
+					"expanded_url": "https://www.youtube.com/watch?v=ywfx9F_2YtU",
+					"display_url": "youtube.com/watch?v=ywfx9F…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1386118848428970000,
+		"in_reply_to_status_id_str": "1386118848428969986",
+		"in_reply_to_user_id": 1072328905,
+		"in_reply_to_user_id_str": "1072328905",
+		"in_reply_to_screen_name": "wentale",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10484,
+			"friends_count": 1537,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@wentale @SunKScribbles @MiaZamoraPhD @eam0 Thanks Wendy! The session on University V was broadcast live at 3am local, but will be watching on reruns https://t.co/OclFJD3QHO Absolutely on target for #netnarr even if our time machine is on the fritz."
+	},
+	{
 		"created_at": "Sat Apr 24 18:16:45 +0000 2021",
 		"id": 1386021307167379500,
 		"id_str": "1386021307167379458",

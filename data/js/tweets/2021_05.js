@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 19:34:02 +0000 2021",
+		"id": 1392187402110730200,
+		"id_str": "1392201352265179140",
+		"full_text": "@JRDingwall @cogdog @kylemackie Did someone say \"registration link\"?\n\nHere it is: https://t.co/EOEtFlsJQu",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "kylemackie",
+					"name": "kyle mackie (he/him)",
+					"id": 18153298,
+					"id_str": "18153298",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EOEtFlsJQu",
+					"expanded_url": "https://bccampus.ca/event/cooking-with-h5p-and-kyle-mackie/",
+					"display_url": "bccampus.ca/event/cooking-…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1391769619388530700,
+		"in_reply_to_status_id_str": "1391769619388530692",
+		"in_reply_to_user_id": 141806761,
+		"in_reply_to_user_id_str": "141806761",
+		"in_reply_to_screen_name": "JRDingwall",
+		"user": {
+			"id": 93710949,
+			"id_str": "93710949",
+			"name": "BCcampus",
+			"screen_name": "BCcampus",
+			"location": "British Columbia, Canada",
+			"description": "BCcampus supports the work of the B.C. post-secondary system in the areas of teaching, learning, educational technology, and open education. #OER #HigherEd",
+			"url": "https://t.co/I9Q463azyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9Q463azyE",
+							"expanded_url": "http://www.bccampus.ca",
+							"display_url": "bccampus.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3977,
+			"friends_count": 1369,
+			"listed_count": 222,
+			"created_at": "Mon Nov 30 20:52:46 +0000 2009",
+			"favourites_count": 6509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93710949/1589395541",
+			"profile_link_color": "00A4E4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JRDingwall @cogdog @kylemackie Did someone say \"registration link\"?\n\nHere it is: https://t.co/EOEtFlsJQu"
+	},
+	{
 		"created_at": "Tue May 11 16:33:12 +0000 2021",
 		"id": 1392155840971300900,
 		"id_str": "1392155840971300864",

@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 14:44:23 +0000 2021",
+		"id": 1393215619806359600,
+		"id_str": "1393215619806359555",
+		"full_text": "@DS106TDC #tdc3410 Fork in the Code: #ds106 Daily Create Email Notification Plugins\n\nBecause Feedburner is a dead end, we switched to Subscribe2. Who knows if it works? Someone tomorrow https://t.co/4xkYHcEW2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3410",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DS106TDC",
+					"name": "The Daily Create",
+					"id": 456914514,
+					"id_str": "456914514",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393215515129049000,
+					"id_str": "1393215515129049094",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E1WyISLUcAYs8Vr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1WyISLUcAYs8Vr.jpg",
+					"url": "https://t.co/4xkYHcEW2M",
+					"display_url": "pic.twitter.com/4xkYHcEW2M",
+					"expanded_url": "https://twitter.com/cogdog/status/1393215619806359555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393215515129049000,
+					"id_str": "1393215515129049094",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E1WyISLUcAYs8Vr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1WyISLUcAYs8Vr.jpg",
+					"url": "https://t.co/4xkYHcEW2M",
+					"display_url": "pic.twitter.com/4xkYHcEW2M",
+					"expanded_url": "https://twitter.com/cogdog/status/1393215619806359555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 456914514,
+		"in_reply_to_user_id_str": "456914514",
+		"in_reply_to_screen_name": "DS106TDC",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10503,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DS106TDC #tdc3410 Fork in the Code: #ds106 Daily Create Email Notification Plugins\n\nBecause Feedburner is a dead end, we switched to Subscribe2. Who knows if it works? Someone tomorrow https://t.co/4xkYHcEW2M"
+	},
+	{
 		"created_at": "Fri May 14 03:01:28 +0000 2021",
 		"id": 1393038727623037000,
 		"id_str": "1393038727623036931",

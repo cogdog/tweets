@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 16:23:13 +0000 2021",
+		"id": 1393240343227863000,
+		"id_str": "1393240494579191811",
+		"full_text": "We refer to a way of life in an integrated domain where hunches, cut-and-try, intangibles, and the human \"feel for a situation\" usefully co-exist with powerful concepts, streamlined terminology and notation... #augmentintellect",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "augmentintellect",
+					"indices": [
+						210,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://framework.thoughtvectors.net/\" rel=\"nofollow\">Doug Engelbot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1052271004037320700,
+			"id_str": "1052271004037320704",
+			"name": "DougEngelbot",
+			"screen_name": "DEngelbot",
+			"location": "",
+			"description": "The most famous manifesto you've never heard of.",
+			"url": "https://t.co/ASxCTZvHox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ASxCTZvHox",
+							"expanded_url": "http://framework.thoughtvectors.net",
+							"display_url": "framework.thoughtvectors.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 100,
+			"listed_count": 9,
+			"created_at": "Tue Oct 16 18:52:12 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052545406658199552/FldudYEe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052545406658199552/FldudYEe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1052271004037320704/1539783338",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We refer to a way of life in an integrated domain where hunches, cut-and-try, intangibles, and the human \"feel for a situation\" usefully co-exist with powerful concepts, streamlined terminology and notation... #augmentintellect"
+	},
+	{
 		"created_at": "Fri May 14 14:44:23 +0000 2021",
 		"id": 1393215619806359600,
 		"id_str": "1393215619806359555",

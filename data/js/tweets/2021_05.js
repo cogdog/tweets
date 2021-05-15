@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 14:51:28 +0000 2021",
+		"id": 1393579791366844400,
+		"id_str": "1393579791366844419",
+		"full_text": "A great resource with use of H5P practice activities. Go Maricopa, Go! https://t.co/RQHOT6bAy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RQHOT6bAy7",
+					"expanded_url": "https://twitter.com/cherylcolan/status/1393235852013178883",
+					"display_url": "twitter.com/cherylcolan/st…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10500,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393235852013179000,
+		"quoted_status_id_str": "1393235852013178883",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RQHOT6bAy7",
+			"expanded": "https://twitter.com/cherylcolan/status/1393235852013178883",
+			"display": "twitter.com/cherylcolan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 14 16:04:46 +0000 2021",
+			"id": 1393235852013179000,
+			"id_str": "1393235852013178883",
+			"full_text": "Oooooh, newly-released OER resource in the Maricopa Open Digital Press: \"MLA in Minutes\" (8th Edition) by Sami Lange, Vicki Brandenburg, and Leila Palis of Paradise Valley Community College. Check it out here: https://t.co/Lxoa0sa05b https://t.co/llIY85VIFx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Lxoa0sa05b",
+						"expanded_url": "https://open.maricopa.edu/mlainminutes/",
+						"display_url": "open.maricopa.edu/mlainminutes/",
+						"indices": [
+							210,
+							233
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1393227474549444600,
+						"id_str": "1393227474549444616",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/E1W9AafVkAg-SwW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1W9AafVkAg-SwW.jpg",
+						"url": "https://t.co/llIY85VIFx",
+						"display_url": "pic.twitter.com/llIY85VIFx",
+						"expanded_url": "https://twitter.com/cherylcolan/status/1393235852013178883/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1393227474549444600,
+						"id_str": "1393227474549444616",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/E1W9AafVkAg-SwW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1W9AafVkAg-SwW.jpg",
+						"url": "https://t.co/llIY85VIFx",
+						"display_url": "pic.twitter.com/llIY85VIFx",
+						"expanded_url": "https://twitter.com/cherylcolan/status/1393235852013178883/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1836791,
+				"id_str": "1836791",
+				"name": "Cheryl Colan (she, her)",
+				"screen_name": "cherylcolan",
+				"location": "Phoenix, AZ",
+				"description": "one squall voice (& opinions are my own, dagnabit)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 624,
+				"friends_count": 492,
+				"listed_count": 52,
+				"created_at": "Thu Mar 22 04:58:01 +0000 2007",
+				"favourites_count": 3465,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25625,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1B2433",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751586500383350784/n4x5E4BG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751586500383350784/n4x5E4BG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1836791/1394483327",
+				"profile_link_color": "7197A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A great resource with use of H5P practice activities. Go Maricopa, Go! https://t.co/RQHOT6bAy7"
+	},
+	{
 		"created_at": "Fri May 14 16:23:13 +0000 2021",
 		"id": 1393240343227863000,
 		"id_str": "1393240494579191811",

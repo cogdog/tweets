@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 04:36:06 +0000 2021",
+		"id": 1394149704456228900,
+		"id_str": "1394149704456228864",
+		"full_text": "The deadline for @OpenEdGlobal 2021 is just about here, I hope you got your proposal in. Multilingual, multimodal, and a focus on implementation of the UNESCO OER Recommendation. https://t.co/b4S4OC5riC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b4S4OC5riC",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1393510419877203973",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10492,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393510419877204000,
+		"quoted_status_id_str": "1393510419877203973",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b4S4OC5riC",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1393510419877203973",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 15 10:15:48 +0000 2021",
+			"id": 1393510419877204000,
+			"id_str": "1393510419877203973",
+			"full_text": "LAST CHANCE! For 2021 #OpenEducation Global Online Conference focuses on #UNESCO #OER Recommendation action areas: #CapacityBuilding, #Policy, #Access, #Sustainability, and #InternationalCooperation. Submission deadline: *16th May* https://t.co/wwS0YTEuQP\n#open #education #OER https://t.co/sgLfFwQNtU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenEducation",
+						"indices": [
+							22,
+							36
+						]
+					},
+					{
+						"text": "UNESCO",
+						"indices": [
+							73,
+							80
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							81,
+							85
+						]
+					},
+					{
+						"text": "CapacityBuilding",
+						"indices": [
+							115,
+							132
+						]
+					},
+					{
+						"text": "Policy",
+						"indices": [
+							134,
+							141
+						]
+					},
+					{
+						"text": "Access",
+						"indices": [
+							143,
+							150
+						]
+					},
+					{
+						"text": "Sustainability",
+						"indices": [
+							152,
+							167
+						]
+					},
+					{
+						"text": "InternationalCooperation",
+						"indices": [
+							173,
+							198
+						]
+					},
+					{
+						"text": "open",
+						"indices": [
+							256,
+							261
+						]
+					},
+					{
+						"text": "education",
+						"indices": [
+							262,
+							272
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							273,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wwS0YTEuQP",
+						"expanded_url": "http://bit.ly/oeglobal21",
+						"display_url": "bit.ly/oeglobal21",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1393510351552094200,
+						"id_str": "1393510351552094210",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1393510351552094210/pu/img/dJU2A2NDl4NR5i6S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1393510351552094210/pu/img/dJU2A2NDl4NR5i6S.jpg",
+						"url": "https://t.co/sgLfFwQNtU",
+						"display_url": "pic.twitter.com/sgLfFwQNtU",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1393510419877203973/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1393510351552094200,
+						"id_str": "1393510351552094210",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1393510351552094210/pu/img/dJU2A2NDl4NR5i6S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1393510351552094210/pu/img/dJU2A2NDl4NR5i6S.jpg",
+						"url": "https://t.co/sgLfFwQNtU",
+						"display_url": "pic.twitter.com/sgLfFwQNtU",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1393510419877203973/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 8000,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1393510351552094210/pu/vid/320x320/OQ_eQ3oPvHtgOL_p.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1393510351552094210/pu/pl/aOeLZ8wVufYv95hz.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1393510351552094210/pu/vid/720x720/UIMK8RurHMBPCvKg.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1393510351552094210/pu/vid/540x540/J4Jqa-15uY0VWt6X.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "The Open Education Global is a worldwide community of hundreds of universities and associated organizations committed to advancing Open Education globally.",
+				"url": "https://t.co/0Ax8ss2IzW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Ax8ss2IzW",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10887,
+				"friends_count": 467,
+				"listed_count": 554,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2498,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10436,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1610678087",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The deadline for @OpenEdGlobal 2021 is just about here, I hope you got your proposal in. Multilingual, multimodal, and a focus on implementation of the UNESCO OER Recommendation. https://t.co/b4S4OC5riC"
+	},
+	{
 		"created_at": "Sun May 16 00:51:36 +0000 2021",
 		"id": 1393730818372034600,
 		"id_str": "1393730818372034560",

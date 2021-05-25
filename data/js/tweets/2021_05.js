@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 16:53:58 +0000 2021",
+		"id": 1397234499272986600,
+		"id_str": "1397234499272986630",
+		"full_text": "Sign up soon at https://t.co/DTdKxYHhjA for Thursday's 9am PT live session Cooking With H5P featuring guest chef @kylemackie https://t.co/8Z324Mp8Pv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kylemackie",
+					"name": "kyle mackie (he/him)",
+					"id": 18153298,
+					"id_str": "18153298",
+					"indices": [
+						113,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DTdKxYHhjA",
+					"expanded_url": "https://events.eply.com/2021H5PWebinarMay27",
+					"display_url": "events.eply.com/2021H5PWebinar…",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/8Z324Mp8Pv",
+					"expanded_url": "https://twitter.com/edtechfactotum/status/1397218656954822665",
+					"display_url": "twitter.com/edtechfactotum…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10464,
+			"friends_count": 1533,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1397218656954822700,
+		"quoted_status_id_str": "1397218656954822665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8Z324Mp8Pv",
+			"expanded": "https://twitter.com/edtechfactotum/status/1397218656954822665",
+			"display": "twitter.com/edtechfactotum…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 25 15:51:01 +0000 2021",
+			"id": 1397218656954822700,
+			"id_str": "1397218656954822665",
+			"full_text": "Our guest chef in the Pressbooks H5P Kitchen this week is @kylemackie talking about his work with the H5P Documentation, Course Presentation &amp; Interactive Book tools. The webinar is free &amp; open to everyone. Thursday May 27 at 9am Pacific. Register &amp; deets https://t.co/nNUPGWDz6b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				291
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kylemackie",
+						"name": "kyle mackie (he/him)",
+						"id": 18153298,
+						"id_str": "18153298",
+						"indices": [
+							58,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nNUPGWDz6b",
+						"expanded_url": "https://kitchen.opened.ca/2021/05/10/may-webinar/",
+						"display_url": "kitchen.opened.ca/2021/05/10/may…",
+						"indices": [
+							268,
+							291
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822204322796609500,
+				"id_str": "822204322796609536",
+				"name": "Clint Lalonde (he/him)",
+				"screen_name": "edtechfactotum",
+				"location": "W̱SÁNEĆ/Victoria BC",
+				"description": "@bccampus OpenEd EdTech | Online Sessional @RRUEduStudies @UVicEducation | co-founder @openetc | Producer @YearsEd | online & open edu | ally | terible speler",
+				"url": "https://t.co/JJKxJG6lpO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JJKxJG6lpO",
+								"expanded_url": "https://edtechfactotum.com/",
+								"display_url": "edtechfactotum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2222,
+				"friends_count": 1890,
+				"listed_count": 70,
+				"created_at": "Thu Jan 19 22:09:21 +0000 2017",
+				"favourites_count": 8293,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1717,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1163935552648822789/c4J8VqUA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163935552648822789/c4J8VqUA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822204322796609536/1489862719",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sign up soon at https://t.co/DTdKxYHhjA for Thursday's 9am PT live session Cooking With H5P featuring guest chef @kylemackie https://t.co/8Z324Mp8Pv"
+	},
+	{
 		"created_at": "Tue May 25 01:33:24 +0000 2021",
 		"id": 1397002828405674000,
 		"id_str": "1397002828405673988",

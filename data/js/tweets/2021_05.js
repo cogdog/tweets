@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 18:48:29 +0000 2021",
+		"id": 1397988092649345000,
+		"id_str": "1397988092649345030",
+		"full_text": "@eyeonaxs @hj_dewaard @InclusiveLN @kylemackie @edtechfactotum @BCcampus @CAST_UDL @min_d_j @Ms_KatieNieves @KendraFGrant @susiegronseth It can be an onion, the more you peel... See this report on issues https://t.co/LKtQtcrLlQ",
+		"truncated": false,
+		"display_text_range": [
+			137,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eyeonaxs",
+					"name": "Luis Perez, Ph. D.",
+					"id": 1457391,
+					"id_str": "1457391",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "InclusiveLN",
+					"name": "ISTE Inclusive LN",
+					"id": 83607734,
+					"id_str": "83607734",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "kylemackie",
+					"name": "kyle mackie (he/him)",
+					"id": 18153298,
+					"id_str": "18153298",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde (he/him)",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"screen_name": "BCcampus",
+					"name": "BCcampus",
+					"id": 93710949,
+					"id_str": "93710949",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"screen_name": "CAST_UDL",
+					"name": "CAST",
+					"id": 86280205,
+					"id_str": "86280205",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"screen_name": "min_d_j",
+					"name": "Mindy Johnson",
+					"id": 11171422,
+					"id_str": "11171422",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"screen_name": "Ms_KatieNieves",
+					"name": "Katie Nieves Licwinko",
+					"id": 3407675722,
+					"id_str": "3407675722",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "KendraFGrant",
+					"name": "Kendra Grant",
+					"id": 204999126,
+					"id_str": "204999126",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "susiegronseth",
+					"name": "Susie Gronseth",
+					"id": 14481157,
+					"id_str": "14481157",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LKtQtcrLlQ",
+					"expanded_url": "https://asccc-oeri.org/wp-content/uploads/2020/11/H5P-Content-Authoring-Accessibility-Guide-112020.pdf",
+					"display_url": "asccc-oeri.org/wp-content/upl…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1397987431400587300,
+		"in_reply_to_status_id_str": "1397987431400587264",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10449,
+			"friends_count": 1533,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eyeonaxs @hj_dewaard @InclusiveLN @kylemackie @edtechfactotum @BCcampus @CAST_UDL @min_d_j @Ms_KatieNieves @KendraFGrant @susiegronseth It can be an onion, the more you peel... See this report on issues https://t.co/LKtQtcrLlQ"
+	},
+	{
 		"created_at": "Wed May 26 23:09:42 +0000 2021",
 		"id": 1397691442743713800,
 		"id_str": "1397691442743713792",

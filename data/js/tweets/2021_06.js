@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 18:42:12 +0000 2021",
+		"id": 1400160837457879000,
+		"id_str": "1400160837457879040",
+		"full_text": "For more interest we always have at #netnarr for the Screening Surveillance films https://t.co/raZbejM8sx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/raZbejM8sx",
+					"expanded_url": "https://twitter.com/savasavasava/status/1400156012963827715",
+					"display_url": "twitter.com/savasavasava/s…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10435,
+			"friends_count": 1531,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400156012963827700,
+		"quoted_status_id_str": "1400156012963827715",
+		"quoted_status_permalink": {
+			"url": "https://t.co/raZbejM8sx",
+			"expanded": "https://twitter.com/savasavasava/status/1400156012963827715",
+			"display": "twitter.com/savasavasava/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 02 18:23:01 +0000 2021",
+			"id": 1400156012963827700,
+			"id_str": "1400156012963827715",
+			"full_text": "@sscqueens @murakamiwood @eQuality_ca",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sscqueens",
+						"name": "Surveillance Studies Centre",
+						"id": 222126993,
+						"id_str": "222126993",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "murakamiwood",
+						"name": "keep your electric eye on me",
+						"id": 1611641905,
+						"id_str": "1611641905",
+						"indices": [
+							11,
+							24
+						]
+					},
+					{
+						"screen_name": "eQuality_ca",
+						"name": "The eQuality Project",
+						"id": 4166755647,
+						"id_str": "4166755647",
+						"indices": [
+							25,
+							37
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1400155833384816600,
+			"in_reply_to_status_id_str": "1400155833384816653",
+			"in_reply_to_user_id": 16699990,
+			"in_reply_to_user_id_str": "16699990",
+			"in_reply_to_screen_name": "savasavasava",
+			"user": {
+				"id": 16699990,
+				"id_str": "16699990",
+				"name": "sava",
+				"screen_name": "savasavasava",
+				"location": "inside @timmaughan's heart eating my way out",
+				"description": "amuse muse use us u ~~ phd @nyusteinhardt | perpetual postdoc @sscqueens @uottawa | unexpected film producer @screensurveil | reluctant academic | she/auntiefa",
+				"url": "https://t.co/7xSTliOAJ7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7xSTliOAJ7",
+								"expanded_url": "https://www.screeningsurveillance.com",
+								"display_url": "screeningsurveillance.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4747,
+				"friends_count": 2561,
+				"listed_count": 214,
+				"created_at": "Sat Oct 11 20:58:59 +0000 2008",
+				"favourites_count": 56002,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14316,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245476922362077185/bS_WxJrd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245476922362077185/bS_WxJrd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16699990/1594666216",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For more interest we always have at #netnarr for the Screening Surveillance films https://t.co/raZbejM8sx"
+	},
+	{
 		"created_at": "Wed Jun 02 14:26:15 +0000 2021",
 		"id": 1400096429142577200,
 		"id_str": "1400096429142577154",

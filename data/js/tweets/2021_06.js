@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 14:24:18 +0000 2021",
+		"id": 1400123061345587200,
+		"id_str": "1400820714370895873",
+		"full_text": "Over the last few weeks, @BCcBookClub has been unpacking @FlowerDarby's  practcal and timely book, \"Small Teaching Online: Applying Learning Science in Online Classes.\" \n\nWe're excited to dive deeper with Flower on June 8 for a Q&amp;A. Join us: https://t.co/9WNp0BWQL5\n\n#HigherEd https://t.co/zNBunfvRUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HigherEd",
+					"indices": [
+						271,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BCcBookClub",
+					"name": "Book Club",
+					"id": 1009496600484253700,
+					"id_str": "1009496600484253696",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "Flowerdarby",
+					"name": "Flower Darby (she/her)",
+					"id": 25023137,
+					"id_str": "25023137",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9WNp0BWQL5",
+					"expanded_url": "https://bit.ly/2QZTzSg",
+					"display_url": "bit.ly/2QZTzSg",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400123056572534800,
+					"id_str": "1400123056572534785",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E248gHTXEAESvo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E248gHTXEAESvo6.jpg",
+					"url": "https://t.co/zNBunfvRUC",
+					"display_url": "pic.twitter.com/zNBunfvRUC",
+					"expanded_url": "https://twitter.com/BCcampus/status/1400123061345587204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400123056572534800,
+					"id_str": "1400123056572534785",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E248gHTXEAESvo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E248gHTXEAESvo6.jpg",
+					"url": "https://t.co/zNBunfvRUC",
+					"display_url": "pic.twitter.com/zNBunfvRUC",
+					"expanded_url": "https://twitter.com/BCcampus/status/1400123061345587204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93710949,
+			"id_str": "93710949",
+			"name": "BCcampus",
+			"screen_name": "BCcampus",
+			"location": "British Columbia, Canada",
+			"description": "BCcampus supports the work of the B.C. post-secondary system in the areas of teaching, learning, educational technology, and open education. #OER #HigherEd",
+			"url": "https://t.co/I9Q463azyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9Q463azyE",
+							"expanded_url": "http://www.bccampus.ca",
+							"display_url": "bccampus.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3997,
+			"friends_count": 1373,
+			"listed_count": 223,
+			"created_at": "Mon Nov 30 20:52:46 +0000 2009",
+			"favourites_count": 6515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93710949/1589395541",
+			"profile_link_color": "00A4E4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Over the last few weeks, @BCcBookClub has been unpacking @FlowerDarby's  practcal and timely book, \"Small Teaching Online: Applying Learning Science in Online Classes.\" \n\nWe're excited to dive deeper with Flower on June 8 for a Q&amp;A. Join us: https://t.co/9WNp0BWQL5\n\n#HigherEd https://t.co/zNBunfvRUC"
+	},
+	{
 		"created_at": "Thu Jun 03 19:09:30 +0000 2021",
 		"id": 1400530099347333000,
 		"id_str": "1400530099347333122",

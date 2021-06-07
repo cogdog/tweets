@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 20:18:05 +0000 2021",
+		"id": 1401996909196218400,
+		"id_str": "1401996909196218374",
+		"full_text": "Nante or not there will be an exciting week of @OpenEdGlobal online activities, both synchronous and asynchronous. I'll be there behind the scenes, how about you? https://t.co/VnYnmfo2Vr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						47,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VnYnmfo2Vr",
+					"expanded_url": "https://twitter.com/OEWeek/status/1401992615848026120",
+					"display_url": "twitter.com/OEWeek/status/…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10434,
+			"friends_count": 1531,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1401992615848026000,
+		"quoted_status_id_str": "1401992615848026120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VnYnmfo2Vr",
+			"expanded": "https://twitter.com/OEWeek/status/1401992615848026120",
+			"display": "twitter.com/OEWeek/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 07 20:01:02 +0000 2021",
+			"id": 1401992615848026000,
+			"id_str": "1401992615848026120",
+			"full_text": "Registration for the Open Education Global 2021 *Online* Conference is now Open! This registration is for the online portion of the annual conference that will take place between 27th Sep and 1st Oct 2021. #OpenEdu  #online #conference\n\nhttps://t.co/6YwGGrueae https://t.co/lALY4HFqAH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenEdu",
+						"indices": [
+							206,
+							214
+						]
+					},
+					{
+						"text": "online",
+						"indices": [
+							216,
+							223
+						]
+					},
+					{
+						"text": "conference",
+						"indices": [
+							224,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6YwGGrueae",
+						"expanded_url": "http://ow.ly/u15o50F4lTt",
+						"display_url": "ow.ly/u15o50F4lTt",
+						"indices": [
+							237,
+							260
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1401992613755076600,
+						"id_str": "1401992613755076610",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/E3Tg2qiXwAIm5Xd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3Tg2qiXwAIm5Xd.jpg",
+						"url": "https://t.co/lALY4HFqAH",
+						"display_url": "pic.twitter.com/lALY4HFqAH",
+						"expanded_url": "https://twitter.com/OEWeek/status/1401992615848026120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 810,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1601,
+								"h": 1081,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1401992613755076600,
+						"id_str": "1401992613755076610",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/E3Tg2qiXwAIm5Xd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3Tg2qiXwAIm5Xd.jpg",
+						"url": "https://t.co/lALY4HFqAH",
+						"display_url": "pic.twitter.com/lALY4HFqAH",
+						"expanded_url": "https://twitter.com/OEWeek/status/1401992615848026120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 810,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1601,
+								"h": 1081,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 396632857,
+				"id_str": "396632857",
+				"name": "Open Education Week",
+				"screen_name": "OEWeek",
+				"location": "Worldwide",
+				"description": "Open Education Week is a global, community event that seeks to raise awareness of the benefits of Open Educational Resources and open educational practices",
+				"url": "http://t.co/YbEEAYc4Fy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YbEEAYc4Fy",
+								"expanded_url": "http://www.openeducationweek.org",
+								"display_url": "openeducationweek.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6173,
+				"friends_count": 46,
+				"listed_count": 283,
+				"created_at": "Sun Oct 23 15:13:33 +0000 2011",
+				"favourites_count": 117,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3948,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5FB2A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346998552011145216/652-EFws_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346998552011145216/652-EFws_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/396632857/1578164553",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nante or not there will be an exciting week of @OpenEdGlobal online activities, both synchronous and asynchronous. I'll be there behind the scenes, how about you? https://t.co/VnYnmfo2Vr"
+	},
+	{
 		"created_at": "Mon Jun 07 18:31:09 +0000 2021",
 		"id": 1401969999556845600,
 		"id_str": "1401969999556845578",

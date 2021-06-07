@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 15:08:31 +0000 2021",
+		"id": 1401919003942133800,
+		"id_str": "1401919003942133762",
+		"full_text": "For those interested in our upcoming H5P Kitchen webinar and using the branching scenario tool, this series on general design of them is extremely useful. https://t.co/nZ7c34AenU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nZ7c34AenU",
+					"expanded_url": "https://twitter.com/ChristyATucker/status/1401917003317747718",
+					"display_url": "twitter.com/ChristyATucker…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10434,
+			"friends_count": 1531,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1401917003317747700,
+		"quoted_status_id_str": "1401917003317747718",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nZ7c34AenU",
+			"expanded": "https://twitter.com/ChristyATucker/status/1401917003317747718",
+			"display": "twitter.com/ChristyATucker…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 07 15:00:34 +0000 2021",
+			"id": 1401917003317747700,
+			"id_str": "1401917003317747718",
+			"full_text": "When I build branching scenarios, I prefer to build a single path first. Then, I can go back and fill in the rest of the decisions later. From my archive. https://t.co/nyGzYzYUjX https://t.co/qwF7zzuKGq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nyGzYzYUjX",
+						"expanded_url": "http://dlvr.it/S1FCrP",
+						"display_url": "dlvr.it/S1FCrP",
+						"indices": [
+							155,
+							178
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1401917001447088000,
+						"id_str": "1401917001447088129",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/E3ScFcvVoAEDX5B.png",
+						"media_url_https": "https://pbs.twimg.com/media/E3ScFcvVoAEDX5B.png",
+						"url": "https://t.co/qwF7zzuKGq",
+						"display_url": "pic.twitter.com/qwF7zzuKGq",
+						"expanded_url": "https://twitter.com/ChristyATucker/status/1401917003317747718/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1475,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1401917001447088000,
+						"id_str": "1401917001447088129",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/E3ScFcvVoAEDX5B.png",
+						"media_url_https": "https://pbs.twimg.com/media/E3ScFcvVoAEDX5B.png",
+						"url": "https://t.co/qwF7zzuKGq",
+						"display_url": "pic.twitter.com/qwF7zzuKGq",
+						"expanded_url": "https://twitter.com/ChristyATucker/status/1401917003317747718/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1475,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42710349,
+				"id_str": "42710349",
+				"name": "Christy Tucker",
+				"screen_name": "ChristyATucker",
+				"location": "North Carolina",
+				"description": "I use storytelling and technology create learning experiences that engage learners. she/her",
+				"url": "https://t.co/h9aLa0lXec",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h9aLa0lXec",
+								"expanded_url": "https://www.christytuckerlearning.com/",
+								"display_url": "christytuckerlearning.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3272,
+				"friends_count": 1759,
+				"listed_count": 174,
+				"created_at": "Tue May 26 20:23:07 +0000 2009",
+				"favourites_count": 3910,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3172,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1472490523/profile_square_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472490523/profile_square_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42710349/1527688840",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "2C2C16",
+				"profile_sidebar_fill_color": "2C4A41",
+				"profile_text_color": "66906E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For those interested in our upcoming H5P Kitchen webinar and using the branching scenario tool, this series on general design of them is extremely useful. https://t.co/nZ7c34AenU"
+	},
+	{
 		"created_at": "Mon Jun 07 04:09:41 +0000 2021",
 		"id": 1401753203629244400,
 		"id_str": "1401753203629244416",

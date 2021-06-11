@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 15:37:13 +0000 2021",
+		"id": 1403375776456712200,
+		"id_str": "1403375776456712202",
+		"full_text": "Trying a different format, asynchronous mostly, of professional development in Open Pedagogy for @cccoer and @OpenEdGlobal Curious? Participation is open to any interested. https://t.co/eDw1UVqf59",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cccoer",
+					"name": "CCCOER",
+					"id": 3576910273,
+					"id_str": "3576910273",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eDw1UVqf59",
+					"expanded_url": "https://twitter.com/cccoer/status/1399761193645051916",
+					"display_url": "twitter.com/cccoer/status/…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1533,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1399761193645052000,
+		"quoted_status_id_str": "1399761193645051916",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eDw1UVqf59",
+			"expanded": "https://twitter.com/cccoer/status/1399761193645051916",
+			"display": "twitter.com/cccoer/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 01 16:14:09 +0000 2021",
+			"id": 1399761193645052000,
+			"id_str": "1399761193645051916",
+			"full_text": "Join us this summer for an Open Pedagogy Adventure! \n\nWe’ve got a series of professional development activities planned for improving #OpenPedagogy practices #H5P #OER\n\nKick off meeting is today at 3pm EDT.\n\nhttps://t.co/jBvVEjlZGy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenPedagogy",
+						"indices": [
+							134,
+							147
+						]
+					},
+					{
+						"text": "H5P",
+						"indices": [
+							158,
+							162
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							163,
+							167
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jBvVEjlZGy",
+						"expanded_url": "http://ow.ly/RvFG50F0jaG",
+						"display_url": "ow.ly/RvFG50F0jaG",
+						"indices": [
+							208,
+							231
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3576910273,
+				"id_str": "3576910273",
+				"name": "CCCOER",
+				"screen_name": "cccoer",
+				"location": "United States",
+				"description": "Community College Consortium for Open Educational Resources",
+				"url": "https://t.co/ZXdVYR7M6a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZXdVYR7M6a",
+								"expanded_url": "http://cccoer.org",
+								"display_url": "cccoer.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2015,
+				"friends_count": 248,
+				"listed_count": 53,
+				"created_at": "Wed Sep 16 00:11:44 +0000 2015",
+				"favourites_count": 627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2865,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1243845592666664960/CB-8vQyf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243845592666664960/CB-8vQyf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3576910273/1584347839",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trying a different format, asynchronous mostly, of professional development in Open Pedagogy for @cccoer and @OpenEdGlobal Curious? Participation is open to any interested. https://t.co/eDw1UVqf59"
+	},
+	{
 		"created_at": "Fri Jun 11 14:14:25 +0000 2021",
 		"id": 1403354938781151200,
 		"id_str": "1403354938781151234",

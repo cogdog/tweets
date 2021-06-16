@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 16 17:01:41 +0000 2021",
+		"id": 1405208974669095000,
+		"id_str": "1405208974669094914",
+		"full_text": "I curse you, Like button, evil spawn of Facebook. \n\nIt is no replacement for the value of a human comment, reply, constructive response.\n\nWhen you click a Like button alone as a response you are operating as the Machine's algorithm.\n\nI dare you to not Like this.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1534,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I curse you, Like button, evil spawn of Facebook. \n\nIt is no replacement for the value of a human comment, reply, constructive response.\n\nWhen you click a Like button alone as a response you are operating as the Machine's algorithm.\n\nI dare you to not Like this."
+	},
+	{
+		"created_at": "Wed Jun 16 16:58:41 +0000 2021",
+		"id": 1405208219207733200,
+		"id_str": "1405208219207733251",
+		"full_text": "Learn more about branching learning from one of the best game masters I know. https://t.co/zpm6sQIrNy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zpm6sQIrNy",
+					"expanded_url": "https://twitter.com/JohnStewartPhD/status/1405185964637569025",
+					"display_url": "twitter.com/JohnStewartPhD…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1534,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405185964637569000,
+		"quoted_status_id_str": "1405185964637569025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zpm6sQIrNy",
+			"expanded": "https://twitter.com/JohnStewartPhD/status/1405185964637569025",
+			"display": "twitter.com/JohnStewartPhD…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 16 15:30:15 +0000 2021",
+			"id": 1405185964637569000,
+			"id_str": "1405185964637569025",
+			"full_text": "I co-authored a paper with the great @k8shep about how we built a history course as a \"choose your own adventure\" for the students. Each student got to pick the time periods and lessons that most interested them.\n\nhttps://t.co/nt786fYSEb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "k8shep",
+						"name": "Dr. Kate Sheppard",
+						"id": 193669227,
+						"id_str": "193669227",
+						"indices": [
+							37,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nt786fYSEb",
+						"expanded_url": "https://scholarworks.iu.edu/journals/index.php/ijdl/article/view/28949",
+						"display_url": "scholarworks.iu.edu/journals/index…",
+						"indices": [
+							214,
+							237
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73977188,
+				"id_str": "73977188",
+				"name": "John Stewart",
+				"screen_name": "JohnStewartPhD",
+				"location": "Norman, OK",
+				"description": "Father, husband, historian of chemistry, Assistant Director of @OU_DigLearn. Interested in #edtech, #gamification, #OER, & #GBL! #goblinFLC. he/him/his",
+				"url": "https://t.co/iCl6AADeKf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iCl6AADeKf",
+								"expanded_url": "http://johnastewart.org",
+								"display_url": "johnastewart.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1409,
+				"friends_count": 1463,
+				"listed_count": 119,
+				"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+				"favourites_count": 7965,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12673,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn more about branching learning from one of the best game masters I know. https://t.co/zpm6sQIrNy"
+	},
+	{
+		"created_at": "Wed Jun 16 16:52:32 +0000 2021",
+		"id": 1405206669425090600,
+		"id_str": "1405206669425090563",
+		"full_text": "@BCcampus @Arley_McNeney [no] Really? No worries, the session will be archived. Maybe share with someone else who might be interested.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BCcampus",
+					"name": "BCcampus",
+					"id": 93710949,
+					"id_str": "93710949",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Arley_McNeney",
+					"name": "Arley McNeney (Cruthers)",
+					"id": 391836441,
+					"id_str": "391836441",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1405206175088529400,
+		"in_reply_to_status_id_str": "1405206175088529412",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1534,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BCcampus @Arley_McNeney [no] Really? No worries, the session will be archived. Maybe share with someone else who might be interested."
+	},
+	{
+		"created_at": "Wed Jun 16 16:51:43 +0000 2021",
+		"id": 1405206466622017500,
+		"id_str": "1405206466622017536",
+		"full_text": "@BCcampus @Arley_McNeney [yes] Your adventure begins by registering for this webinar and providing us some questions or things you want to take away\n\nhttps://t.co/kmzsyNciI8",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BCcampus",
+					"name": "BCcampus",
+					"id": 93710949,
+					"id_str": "93710949",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Arley_McNeney",
+					"name": "Arley McNeney (Cruthers)",
+					"id": 391836441,
+					"id_str": "391836441",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kmzsyNciI8",
+					"expanded_url": "https://events.eply.com/2021H5PWebinarJune24",
+					"display_url": "events.eply.com/2021H5PWebinar…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1405206175088529400,
+		"in_reply_to_status_id_str": "1405206175088529412",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1534,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BCcampus @Arley_McNeney [yes] Your adventure begins by registering for this webinar and providing us some questions or things you want to take away\n\nhttps://t.co/kmzsyNciI8"
+	},
+	{
 		"created_at": "Wed Jun 16 14:57:30 +0000 2021",
 		"id": 1405177723035783200,
 		"id_str": "1405177723035783172",

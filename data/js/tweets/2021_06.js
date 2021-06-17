@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 18:20:22 +0000 2021",
+		"id": 1405591164401692700,
+		"id_str": "1405591164401692686",
+		"full_text": "This is brilliant on all levels, for showing that critical learning can happen in online spaces, that NIck has shared all materials and resources for every part of his Making Comics course. \n\nA treasure trove plus is here. Prepare to lose time exploring (I' going back in...) https://t.co/ywwjExR1On",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ywwjExR1On",
+					"expanded_url": "https://twitter.com/Nsousanis/status/1405588307111677954",
+					"display_url": "twitter.com/Nsousanis/stat…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1532,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405588307111678000,
+		"quoted_status_id_str": "1405588307111677954",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ywwjExR1On",
+			"expanded": "https://twitter.com/Nsousanis/status/1405588307111677954",
+			"display": "twitter.com/Nsousanis/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 17 18:09:01 +0000 2021",
+			"id": 1405588307111678000,
+			"id_str": "1405588307111677954",
+			"full_text": "I put together EVERYTHING we did in my Making Comics course this spring: syllabus, breakdown of each day, EVERY activity &amp; project, and 300+ examples of student work detailing each assignment! Try in your own classes or for your own making + share!! 1/2 \nhttps://t.co/9H96zhK3sm https://t.co/quml6pUi12",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9H96zhK3sm",
+						"expanded_url": "https://spinweaveandcut.com/making-comics-s2021/",
+						"display_url": "spinweaveandcut.com/making-comics-…",
+						"indices": [
+							259,
+							282
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1405585801468027000,
+						"id_str": "1405585801468026880",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/E4Gk1t3VoAAwCfX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4Gk1t3VoAAwCfX.jpg",
+						"url": "https://t.co/quml6pUi12",
+						"display_url": "pic.twitter.com/quml6pUi12",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1405588307111677954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1134,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405585801468027000,
+						"id_str": "1405585801468026880",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/E4Gk1t3VoAAwCfX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4Gk1t3VoAAwCfX.jpg",
+						"url": "https://t.co/quml6pUi12",
+						"display_url": "pic.twitter.com/quml6pUi12",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1405588307111677954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1134,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1405586255023251500,
+						"id_str": "1405586255023251456",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/E4GlQHfVIAAgzUK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4GlQHfVIAAgzUK.jpg",
+						"url": "https://t.co/quml6pUi12",
+						"display_url": "pic.twitter.com/quml6pUi12",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1405588307111677954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 527,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 931,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1588,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1405586388372713500,
+						"id_str": "1405586388372713472",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/E4GlX4QUcAAyL1w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4GlX4QUcAAyL1w.jpg",
+						"url": "https://t.co/quml6pUi12",
+						"display_url": "pic.twitter.com/quml6pUi12",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1405588307111677954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1405586651007443000,
+						"id_str": "1405586651007442951",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/E4GlnKpUYAcRwPC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4GlnKpUYAcRwPC.jpg",
+						"url": "https://t.co/quml6pUi12",
+						"display_url": "pic.twitter.com/quml6pUi12",
+						"expanded_url": "https://twitter.com/Nsousanis/status/1405588307111677954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1159,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 427354566,
+				"id_str": "427354566",
+				"name": "Nick Sousanis",
+				"screen_name": "Nsousanis",
+				"location": "San Francisco, CA",
+				"description": "Comics as thinking. Eisner winner. Unflattening from HarvardUP (https://t.co/i62Er7LeZu). Former Detroiter/NYer/YYC/now assoc prof SFSU-Comics Studies!",
+				"url": "http://www.spinweaveandcut.com",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.spinweaveandcut.com",
+								"expanded_url": null,
+								"indices": [
+									0,
+									30
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i62Er7LeZu",
+								"expanded_url": "http://bit.ly/1vENIO7",
+								"display_url": "bit.ly/1vENIO7",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8072,
+				"friends_count": 2564,
+				"listed_count": 314,
+				"created_at": "Sat Dec 03 12:31:25 +0000 2011",
+				"favourites_count": 135463,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31543,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033967294395731968/AWN_tBbU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033967294395731968/AWN_tBbU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/427354566/1411356904",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is brilliant on all levels, for showing that critical learning can happen in online spaces, that NIck has shared all materials and resources for every part of his Making Comics course. \n\nA treasure trove plus is here. Prepare to lose time exploring (I' going back in...) https://t.co/ywwjExR1On"
+	},
+	{
 		"created_at": "Thu Jun 17 17:33:59 +0000 2021",
 		"id": 1405579489443299300,
 		"id_str": "1405579489443299329",

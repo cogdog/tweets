@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 17:22:42 +0000 2021",
+		"id": 1407026200418074600,
+		"id_str": "1407026200418074633",
+		"full_text": "I'm all for more annotation. More. #IAnno21 https://t.co/SMkeJOTLCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IAnno21",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SMkeJOTLCj",
+					"expanded_url": "https://twitter.com/cvkleffman/status/1407024137344675840",
+					"display_url": "twitter.com/cvkleffman/sta…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1531,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407024137344675800,
+		"quoted_status_id_str": "1407024137344675840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SMkeJOTLCj",
+			"expanded": "https://twitter.com/cvkleffman/status/1407024137344675840",
+			"display": "twitter.com/cvkleffman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 21 17:14:30 +0000 2021",
+			"id": 1407024137344675800,
+			"id_str": "1407024137344675840",
+			"full_text": "I'm one (inspiring) session in &amp; am already blow away by the layered &amp; interactive nature of #IAnno21. We can chat during the session, interact via social annotation of shared texts using @hypothes_is &amp; is set up w a lounge to allow for small group discussion. https://t.co/mgz4301p0q https://t.co/i1U1eYh9Pr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				296
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IAnno21",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothesis",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							196,
+							208
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mgz4301p0q",
+						"expanded_url": "https://twitter.com/i_annotate/status/1403336335495208961",
+						"display_url": "twitter.com/i_annotate/sta…",
+						"indices": [
+							273,
+							296
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1407020594395160600,
+						"id_str": "1407020594395160588",
+						"indices": [
+							297,
+							320
+						],
+						"media_url": "http://pbs.twimg.com/media/E4a9xqCVIAw6FQ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4a9xqCVIAw6FQ4.jpg",
+						"url": "https://t.co/i1U1eYh9Pr",
+						"display_url": "pic.twitter.com/i1U1eYh9Pr",
+						"expanded_url": "https://twitter.com/cvkleffman/status/1407024137344675840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1398,
+								"h": 805,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 691,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1407020594395160600,
+						"id_str": "1407020594395160588",
+						"indices": [
+							297,
+							320
+						],
+						"media_url": "http://pbs.twimg.com/media/E4a9xqCVIAw6FQ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4a9xqCVIAw6FQ4.jpg",
+						"url": "https://t.co/i1U1eYh9Pr",
+						"display_url": "pic.twitter.com/i1U1eYh9Pr",
+						"expanded_url": "https://twitter.com/cvkleffman/status/1407024137344675840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1398,
+								"h": 805,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 691,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1407022945537458200,
+						"id_str": "1407022945537458178",
+						"indices": [
+							297,
+							320
+						],
+						"media_url": "http://pbs.twimg.com/media/E4a_6guVgAI3CiI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4a_6guVgAI3CiI.jpg",
+						"url": "https://t.co/i1U1eYh9Pr",
+						"display_url": "pic.twitter.com/i1U1eYh9Pr",
+						"expanded_url": "https://twitter.com/cvkleffman/status/1407024137344675840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 574,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 797,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 945,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 754163181581283300,
+				"id_str": "754163181581283328",
+				"name": "Courtney Kleffman",
+				"screen_name": "cvkleffman",
+				"location": "San Diego, CA",
+				"description": "english teacher 📚 | suhsd induction mentor | ucsd lit. + eds 👩🏻‍🎓 | @SanDiegoAreaWP fellow & secondary presenter ✍🏼 | she/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 301,
+				"friends_count": 545,
+				"listed_count": 6,
+				"created_at": "Sat Jul 16 03:58:09 +0000 2016",
+				"favourites_count": 5690,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1201,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1389390481184882689/UR9pZXVi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389390481184882689/UR9pZXVi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/754163181581283328/1610140804",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1403336335495209000,
+			"quoted_status_id_str": "1403336335495208961",
+			"quoted_status_permalink": {
+				"url": "https://t.co/mgz4301p0q",
+				"expanded": "https://twitter.com/i_annotate/status/1403336335495208961",
+				"display": "twitter.com/i_annotate/sta…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm all for more annotation. More. #IAnno21 https://t.co/SMkeJOTLCj"
+	},
+	{
 		"created_at": "Mon Jun 21 04:42:34 +0000 2021",
 		"id": 1406834908966834200,
 		"id_str": "1406834908966834176",

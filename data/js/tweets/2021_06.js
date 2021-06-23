@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 19:59:19 +0000 2021",
+		"id": 1407790392142176300,
+		"id_str": "1407790392142176260",
+		"full_text": "@Todd_Conaway @ozmafan I see your skeuomorph but may not raise you 20.\n\nThere's a number of ways to add page flip animation, maybe https://t.co/IXgxwe1Iko",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ozmafan",
+					"name": "Chelsea Nesvig",
+					"id": 65197107,
+					"id_str": "65197107",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IXgxwe1Iko",
+					"expanded_url": "https://3dflipbook.net/",
+					"display_url": "3dflipbook.net",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1407788395753971700,
+		"in_reply_to_status_id_str": "1407788395753971714",
+		"in_reply_to_user_id": 7664302,
+		"in_reply_to_user_id_str": "7664302",
+		"in_reply_to_screen_name": "Todd_Conaway",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1532,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Todd_Conaway @ozmafan I see your skeuomorph but may not raise you 20.\n\nThere's a number of ways to add page flip animation, maybe https://t.co/IXgxwe1Iko"
+	},
+	{
+		"created_at": "Wed Jun 23 19:53:07 +0000 2021",
+		"id": 1407788831387095000,
+		"id_str": "1407788831387095050",
+		"full_text": "And I made the rookie mistake of getting the WRONG Ken, apologies!\n\nYes, it is @ken_bauer I was looking for.\n\nNow going back to Twitter Rookie level 1. https://t.co/PafOraOYNk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PafOraOYNk",
+					"expanded_url": "https://twitter.com/KenBauer/status/1407786803843710985",
+					"display_url": "twitter.com/KenBauer/statu…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1532,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407786803843711000,
+		"quoted_status_id_str": "1407786803843710985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PafOraOYNk",
+			"expanded": "https://twitter.com/KenBauer/status/1407786803843710985",
+			"display": "twitter.com/KenBauer/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 23 19:45:04 +0000 2021",
+			"id": 1407786803843711000,
+			"id_str": "1407786803843710985",
+			"full_text": "@cogdog .@ken_bauer is the #EduCoffiest 😁 https://t.co/5rS8KlIp3M",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				41
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EduCoffiest",
+						"indices": [
+							27,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "ken_bauer",
+						"name": "Ken Bauer Favel",
+						"id": 16033586,
+						"id_str": "16033586",
+						"indices": [
+							9,
+							19
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1407786801755037700,
+						"id_str": "1407786801755037703",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/E4l2oy4XoAcp_pm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4l2oy4XoAcp_pm.jpg",
+						"url": "https://t.co/5rS8KlIp3M",
+						"display_url": "pic.twitter.com/5rS8KlIp3M",
+						"expanded_url": "https://twitter.com/KenBauer/status/1407786803843710985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 212,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 212,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 212,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1407786801755037700,
+						"id_str": "1407786801755037703",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/E4l2oy4XoAcp_pm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4l2oy4XoAcp_pm.jpg",
+						"url": "https://t.co/5rS8KlIp3M",
+						"display_url": "pic.twitter.com/5rS8KlIp3M",
+						"expanded_url": "https://twitter.com/KenBauer/status/1407786803843710985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 212,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 212,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 212,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1407781821543223300,
+			"in_reply_to_status_id_str": "1407781821543223305",
+			"in_reply_to_user_id": 740343,
+			"in_reply_to_user_id_str": "740343",
+			"in_reply_to_screen_name": "cogdog",
+			"user": {
+				"id": 15650411,
+				"id_str": "15650411",
+				"name": "The KraKEN",
+				"screen_name": "KenBauer",
+				"location": "The frozen north.",
+				"description": "Dungeon Master, dad & Network Administrator in northern Manitoba.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83,
+				"friends_count": 338,
+				"listed_count": 2,
+				"created_at": "Tue Jul 29 19:49:36 +0000 2008",
+				"favourites_count": 245,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2439,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1214413519333908481/yegel8Yx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214413519333908481/yegel8Yx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15650411/1578373727",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "060A00",
+				"profile_text_color": "618238",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And I made the rookie mistake of getting the WRONG Ken, apologies!\n\nYes, it is @ken_bauer I was looking for.\n\nNow going back to Twitter Rookie level 1. https://t.co/PafOraOYNk"
+	},
+	{
 		"created_at": "Wed Jun 23 19:13:02 +0000 2021",
 		"id": 1407778746040557600,
 		"id_str": "1407778746040557573",

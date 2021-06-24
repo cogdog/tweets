@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 20:56:42 +0000 2021",
+		"id": 1408167222246269000,
+		"id_str": "1408167222246268931",
+		"full_text": "Even with this latest news, the story is hardly new. https://t.co/TOXDxe6pSl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TOXDxe6pSl",
+					"expanded_url": "https://twitter.com/edtechfactotum/status/1408164669093683200",
+					"display_url": "twitter.com/edtechfactotum…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1532,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1408164669093683200,
+		"quoted_status_id_str": "1408164669093683200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TOXDxe6pSl",
+			"expanded": "https://twitter.com/edtechfactotum/status/1408164669093683200",
+			"display": "twitter.com/edtechfactotum…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 24 20:46:34 +0000 2021",
+			"id": 1408164669093683200,
+			"id_str": "1408164669093683200",
+			"full_text": "Spending some time this afternoon learning more about the history of the Marieval (Cowessess) Indian Residential School via this University of Regina site (contains survivor stories) https://t.co/n8VTeQWmSH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n8VTeQWmSH",
+						"expanded_url": "https://www2.uregina.ca/education/saskindianresidentialschools/marieval-cowesses-indian-residential/",
+						"display_url": "www2.uregina.ca/education/sask…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822204322796609500,
+				"id_str": "822204322796609536",
+				"name": "Clint Lalonde (he/him)",
+				"screen_name": "edtechfactotum",
+				"location": "W̱SÁNEĆ/Victoria BC",
+				"description": "@bccampus OpenEd EdTech | Online Sessional @RRUEduStudies @UVicEducation | co-founder @openetc | Producer @YearsEd | online & open edu | ally | terible speler",
+				"url": "https://t.co/JJKxJG6lpO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JJKxJG6lpO",
+								"expanded_url": "https://edtechfactotum.com/",
+								"display_url": "edtechfactotum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2224,
+				"friends_count": 1900,
+				"listed_count": 71,
+				"created_at": "Thu Jan 19 22:09:21 +0000 2017",
+				"favourites_count": 8322,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1542,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399816624517963776/iN7yoeia_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399816624517963776/iN7yoeia_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822204322796609536/1489862719",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even with this latest news, the story is hardly new. https://t.co/TOXDxe6pSl"
+	},
+	{
 		"created_at": "Thu Jun 24 20:08:53 +0000 2021",
 		"id": 1408155073436434400,
 		"id_str": "1408155188888621056",

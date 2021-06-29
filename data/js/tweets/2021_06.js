@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 21:51:20 +0000 2021",
+		"id": 1409992907021488000,
+		"id_str": "1409992907021488134",
+		"full_text": "The smell 0f edu-Odorono ... KACHING! #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody https://t.co/7qCwVDLgyU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "parody",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "parody",
+					"indices": [
+						173,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409992553265574000,
+					"id_str": "1409992553265573890",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E5FMwblXMAIQuOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5FMwblXMAIQuOP.jpg",
+					"url": "https://t.co/7qCwVDLgyU",
+					"display_url": "pic.twitter.com/7qCwVDLgyU",
+					"expanded_url": "https://twitter.com/cogdog/status/1409992907021488134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2027,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409992553265574000,
+					"id_str": "1409992553265573890",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E5FMwblXMAIQuOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5FMwblXMAIQuOP.jpg",
+					"url": "https://t.co/7qCwVDLgyU",
+					"display_url": "pic.twitter.com/7qCwVDLgyU",
+					"expanded_url": "https://twitter.com/cogdog/status/1409992907021488134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2027,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1532,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "The smell 0f edu-Odorono ... KACHING! #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody  #parody https://t.co/7qCwVDLgyU"
+	},
+	{
 		"created_at": "Tue Jun 29 00:09:18 +0000 2021",
 		"id": 1409665241470828500,
 		"id_str": "1409665241470828545",

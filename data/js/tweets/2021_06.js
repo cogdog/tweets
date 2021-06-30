@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 15:08:03 +0000 2021",
+		"id": 1410253807628566500,
+		"id_str": "1410253807628566533",
+		"full_text": "This is me trying to jump up and down to get people involved in asynchronous activity.\n\nBut maybe I should announce a webinar... https://t.co/YN60HD8vO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YN60HD8vO4",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1410252664647131141",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1533,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410252664647131100,
+		"quoted_status_id_str": "1410252664647131141",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YN60HD8vO4",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1410252664647131141",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 30 15:03:31 +0000 2021",
+			"id": 1410252664647131100,
+			"id_str": "1410252664647131141",
+			"full_text": "@OpenEdGlobal Discussion Day 2 on Offline and the Reusability Paradox with @wernio \n\nNew paradox tossed by @opencontent to ponder. Plus issues of instructional design in OER, benefits of Kolibri studio, South American complex.  \n\nJoin in https://t.co/udGTK8RMcw https://t.co/BZd9huXCKp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OpenEdGlobal",
+						"name": "Open Education Global",
+						"id": 16548567,
+						"id_str": "16548567",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "wernio",
+						"name": "Daniele Ferniani",
+						"id": 252597174,
+						"id_str": "252597174",
+						"indices": [
+							75,
+							82
+						]
+					},
+					{
+						"screen_name": "opencontent",
+						"name": "David Wiley",
+						"id": 4514361,
+						"id_str": "4514361",
+						"indices": [
+							107,
+							119
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/udGTK8RMcw",
+						"expanded_url": "https://connect.oeglobal.org/c/oeg-plaza/three-days/52",
+						"display_url": "connect.oeglobal.org/c/oeg-plaza/th…",
+						"indices": [
+							238,
+							261
+						]
+					},
+					{
+						"url": "https://t.co/BZd9huXCKp",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1409904499993444354",
+						"display_url": "twitter.com/OpenEdGlobal/s…",
+						"indices": [
+							262,
+							285
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 16548567,
+			"in_reply_to_user_id_str": "16548567",
+			"in_reply_to_screen_name": "OpenEdGlobal",
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "The Open Education Global is a worldwide community of hundreds of universities and associated organizations committed to advancing Open Education globally.",
+				"url": "https://t.co/0Ax8ss2IzW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Ax8ss2IzW",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10873,
+				"friends_count": 469,
+				"listed_count": 554,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2504,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1610678087",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1409904499993444400,
+			"quoted_status_id_str": "1409904499993444354",
+			"quoted_status_permalink": {
+				"url": "https://t.co/BZd9huXCKp",
+				"expanded": "https://twitter.com/OpenEdGlobal/status/1409904499993444354",
+				"display": "twitter.com/OpenEdGlobal/s…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is me trying to jump up and down to get people involved in asynchronous activity.\n\nBut maybe I should announce a webinar... https://t.co/YN60HD8vO4"
+	},
+	{
 		"created_at": "Wed Jun 30 14:12:15 +0000 2021",
 		"id": 1410239765459374000,
 		"id_str": "1410239765459374083",

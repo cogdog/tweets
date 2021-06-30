@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 16:54:13 +0000 2021",
+		"id": 1410280525688938500,
+		"id_str": "1410280525688938500",
+		"full_text": "If you chose the branch in your schedule scenario where you missed our last #H5PKitchen Cooking With H5P with @Arley_McNeney -- we have an archived recording plus links and notes from the chat. \n\nhttps://t.co/utaczDZpFM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "H5PKitchen",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Arley_McNeney",
+					"name": "Arley McNeney (Cruthers)",
+					"id": 391836441,
+					"id_str": "391836441",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/utaczDZpFM",
+					"expanded_url": "https://kitchen.opened.ca/2021/06/03/june-webinar/",
+					"display_url": "kitchen.opened.ca/2021/06/03/jun…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1533,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you chose the branch in your schedule scenario where you missed our last #H5PKitchen Cooking With H5P with @Arley_McNeney -- we have an archived recording plus links and notes from the chat. \n\nhttps://t.co/utaczDZpFM"
+	},
+	{
+		"created_at": "Wed Jun 30 16:17:48 +0000 2021",
+		"id": 1410271360031539200,
+		"id_str": "1410271360031539206",
+		"full_text": "@steelwagstaff @twoodwar @passionsplay Yes, I got that email. It looks much more elegant than the command line fumbling I have been doing to use Varying Varying Vagrants. \n\nHaving a desktop space to code WP has been game changer for my development.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steelwagstaff",
+					"name": "Steel Wagstaff",
+					"id": 76695243,
+					"id_str": "76695243",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "passionsplay",
+					"name": "Benjamin Turner",
+					"id": 406623020,
+					"id_str": "406623020",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1410261364682072000,
+		"in_reply_to_status_id_str": "1410261364682072068",
+		"in_reply_to_user_id": 76695243,
+		"in_reply_to_user_id_str": "76695243",
+		"in_reply_to_screen_name": "steelwagstaff",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1533,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@steelwagstaff @twoodwar @passionsplay Yes, I got that email. It looks much more elegant than the command line fumbling I have been doing to use Varying Varying Vagrants. \n\nHaving a desktop space to code WP has been game changer for my development."
+	},
+	{
 		"created_at": "Wed Jun 30 15:08:03 +0000 2021",
 		"id": 1410253807628566500,
 		"id_str": "1410253807628566533",

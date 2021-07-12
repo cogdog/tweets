@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 22:37:12 +0000 2021",
+		"id": 1414715493068513300,
+		"id_str": "1414715493068513283",
+		"full_text": "See also https://t.co/GyrcdRkDXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GyrcdRkDXm",
+					"expanded_url": "https://twitter.com/RebusCommunity/status/1414630635642269703",
+					"display_url": "twitter.com/RebusCommunity…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1414624615238938600,
+		"in_reply_to_status_id_str": "1414624615238938628",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414630635642269700,
+		"quoted_status_id_str": "1414630635642269703",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GyrcdRkDXm",
+			"expanded": "https://twitter.com/RebusCommunity/status/1414630635642269703",
+			"display": "twitter.com/RebusCommunity…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 12 17:00:00 +0000 2021",
+			"id": 1414630635642269700,
+			"id_str": "1414630635642269703",
+			"full_text": "Tune into #OEROfficeHours this month to learn about \"Evaluating OER for Accessibility.\" We'll be discussing what to look for when searching and how to test different formats for accessibility. Co-hosted with @OpenEd_Network \n\nWhen: 22 July, 2pm ET\nRSVP: https://t.co/iB9ZUh6cgN https://t.co/r3yFXVuy4w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEROfficeHours",
+						"indices": [
+							10,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OpenEd_Network",
+						"name": "Open Education Network",
+						"id": 53241545,
+						"id_str": "53241545",
+						"indices": [
+							208,
+							223
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iB9ZUh6cgN",
+						"expanded_url": "https://www.rebus.community/t/office-hours-evaluating-oer-for-accessibility/5581",
+						"display_url": "rebus.community/t/office-hours…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1414616841654202400,
+						"id_str": "1414616841654202372",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E6G6hcQVcAQg3lR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6G6hcQVcAQg3lR.jpg",
+						"url": "https://t.co/r3yFXVuy4w",
+						"display_url": "pic.twitter.com/r3yFXVuy4w",
+						"expanded_url": "https://twitter.com/RebusCommunity/status/1414630635642269703/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1414616841654202400,
+						"id_str": "1414616841654202372",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E6G6hcQVcAQg3lR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6G6hcQVcAQg3lR.jpg",
+						"url": "https://t.co/r3yFXVuy4w",
+						"display_url": "pic.twitter.com/r3yFXVuy4w",
+						"expanded_url": "https://twitter.com/RebusCommunity/status/1414630635642269703/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 789537520396726300,
+				"id_str": "789537520396726272",
+				"name": "Rebus Community",
+				"screen_name": "RebusCommunity",
+				"location": "Montréal, Québec",
+				"description": "Canadian charity supporting open publishing and community building. #OpenTextbooks #OER\n\n@RebusFdn | @RebusInk\nSupported by @Hewlett_Found\n\nÇa va bien aller",
+				"url": "https://t.co/6ox45gZKej",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6ox45gZKej",
+								"expanded_url": "https://www.rebus.community/",
+								"display_url": "rebus.community",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1523,
+				"friends_count": 1154,
+				"listed_count": 47,
+				"created_at": "Fri Oct 21 18:43:08 +0000 2016",
+				"favourites_count": 2563,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2565,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110632639529132032/pggAEGYJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110632639529132032/pggAEGYJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/789537520396726272/1539798045",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See also https://t.co/GyrcdRkDXm"
+	},
+	{
 		"created_at": "Mon Jul 12 22:09:47 +0000 2021",
 		"id": 1414708592876400600,
 		"id_str": "1414708592876400641",

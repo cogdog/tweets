@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 16:36:05 +0000 2021",
+		"id": 1414624615238938600,
+		"id_str": "1414624615238938628",
+		"full_text": "Just retweeting is not enough- looks like a more than worthy session on accessibility and UDL for OERs. https://t.co/4x7HCFmk24",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4x7HCFmk24",
+					"expanded_url": "https://twitter.com/edtechfactotum/status/1414618905486663681",
+					"display_url": "twitter.com/edtechfactotum…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414618905486663700,
+		"quoted_status_id_str": "1414618905486663681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4x7HCFmk24",
+			"expanded": "https://twitter.com/edtechfactotum/status/1414618905486663681",
+			"display": "twitter.com/edtechfactotum…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 12 16:13:24 +0000 2021",
+			"id": 1414618905486663700,
+			"id_str": "1414618905486663681",
+			"full_text": "A free and open @BCcampus event you may be interested in. Accessibility and Universal Design in Open Educational Resources August 18th at 10am (Pacific). Registration is now open https://t.co/qEnIjTYchW https://t.co/mGKwwpA9gY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BCcampus",
+						"name": "BCcampus",
+						"id": 93710949,
+						"id_str": "93710949",
+						"indices": [
+							16,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qEnIjTYchW",
+						"expanded_url": "https://bccampus.ca/event/accessibility-and-universal-design-in-open-educational-resources/?instance_id=3300",
+						"display_url": "bccampus.ca/event/accessib…",
+						"indices": [
+							179,
+							202
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1414618895516803000,
+						"id_str": "1414618895516803075",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/E6G8Y_fVoAM5KfT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6G8Y_fVoAM5KfT.jpg",
+						"url": "https://t.co/mGKwwpA9gY",
+						"display_url": "pic.twitter.com/mGKwwpA9gY",
+						"expanded_url": "https://twitter.com/edtechfactotum/status/1414618905486663681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1153,
+								"h": 418,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 247,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 418,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1414618895516803000,
+						"id_str": "1414618895516803075",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/E6G8Y_fVoAM5KfT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6G8Y_fVoAM5KfT.jpg",
+						"url": "https://t.co/mGKwwpA9gY",
+						"display_url": "pic.twitter.com/mGKwwpA9gY",
+						"expanded_url": "https://twitter.com/edtechfactotum/status/1414618905486663681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1153,
+								"h": 418,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 247,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 418,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822204322796609500,
+				"id_str": "822204322796609536",
+				"name": "Clint Lalonde (he/him)",
+				"screen_name": "edtechfactotum",
+				"location": "W̱SÁNEĆ/Victoria BC",
+				"description": "@bccampus OpenEd EdTech | Online Sessional @RRUEduStudies @UVicEducation | co-founder @openetc | Producer @YearsEd | online & open edu | ally | terible speler",
+				"url": "https://t.co/JJKxJG6lpO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JJKxJG6lpO",
+								"expanded_url": "https://edtechfactotum.com/",
+								"display_url": "edtechfactotum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2225,
+				"friends_count": 1906,
+				"listed_count": 71,
+				"created_at": "Thu Jan 19 22:09:21 +0000 2017",
+				"favourites_count": 8354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1524,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399816624517963776/iN7yoeia_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399816624517963776/iN7yoeia_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822204322796609536/1489862719",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just retweeting is not enough- looks like a more than worthy session on accessibility and UDL for OERs. https://t.co/4x7HCFmk24"
+	},
+	{
 		"created_at": "Fri Jul 09 19:00:46 +0000 2021",
 		"id": 1413573861661151200,
 		"id_str": "1413573861661151236",

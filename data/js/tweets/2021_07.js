@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 16:05:58 +0000 2021",
+		"id": 1416065413817962500,
+		"id_str": "1416066587187195910",
+		"full_text": "Baltimore Sun: This Baltimore blogger is preserving Maryland’s culinary history through maps - https://t.co/2zk0Trk5TO #mapping #Maryland #food #recipes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mapping",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "Maryland",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "food",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "recipes",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2zk0Trk5TO",
+					"expanded_url": "https://www.baltimoresun.com/features/retro-baltimore/bs-fe-retro-charting-marylands-culinary-history-20210715-7c4bdk6cfrc4lox7qjwmzvh2ve-story.html",
+					"display_url": "baltimoresun.com/features/retro…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6979102,
+			"id_str": "6979102",
+			"name": "Tara Calishain",
+			"screen_name": "ResearchBuzz",
+			"location": "North Cack baby, not a boss ",
+			"description": "Obsessed with search engines, info collections, & databases since forever. News and resources covering same since 1998. Wrote a stack of books. She/her. Say hi.",
+			"url": "http://t.co/N8gqhQKHJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/N8gqhQKHJ5",
+							"expanded_url": "http://www.researchbuzz.com",
+							"display_url": "researchbuzz.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5598,
+			"friends_count": 3563,
+			"listed_count": 572,
+			"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+			"favourites_count": 14094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_link_color": "243A8F",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Baltimore Sun: This Baltimore blogger is preserving Maryland’s culinary history through maps - https://t.co/2zk0Trk5TO #mapping #Maryland #food #recipes"
+	},
+	{
 		"created_at": "Thu Jul 15 18:01:40 +0000 2021",
 		"id": 1415733315080966100,
 		"id_str": "1415733315080966145",

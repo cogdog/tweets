@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 21:34:09 +0000 2021",
+		"id": 1416149177881477000,
+		"id_str": "1416149177881477122",
+		"full_text": "@EduQuinn @wfryer @QuadBlogging @hickstro @KristinZiemke @dogtrax @coolcatteacher @ShellTerrell @Jessifer @davecormier @jimgroom @wiobyrne @slamteacher @actualham Also looks like the Quadblogging person has moved on to \"Clusterblogging\"",
+		"truncated": false,
+		"display_text_range": [
+			163,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EduQuinn",
+					"name": "Dave Quinn",
+					"id": 1596753367,
+					"id_str": "1596753367",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "QuadBlogging",
+					"name": "QuadBlogging®",
+					"id": 292810239,
+					"id_str": "292810239",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "hickstro",
+					"name": "Troy Hicks",
+					"id": 6430472,
+					"id_str": "6430472",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"screen_name": "KristinZiemke",
+					"name": "Kristin Ziemke #ReadTheWorldNow 📚📱🌏❤️",
+					"id": 419927374,
+					"id_str": "419927374",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"screen_name": "coolcatteacher",
+					"name": "Vicki Davis",
+					"id": 2902901,
+					"id_str": "2902901",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "ShellTerrell",
+					"name": "𝙎𝙝𝙚𝙡𝙡𝙮 𝙎𝙖𝙣𝙘𝙝𝙚𝙯 💡",
+					"id": 29655018,
+					"id_str": "29655018",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"screen_name": "slamteacher",
+					"name": "Sean Michael Morris",
+					"id": 565218468,
+					"id_str": "565218468",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1416111022478332000,
+		"in_reply_to_status_id_str": "1416111022478331904",
+		"in_reply_to_user_id": 1596753367,
+		"in_reply_to_user_id_str": "1596753367",
+		"in_reply_to_screen_name": "EduQuinn",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EduQuinn @wfryer @QuadBlogging @hickstro @KristinZiemke @dogtrax @coolcatteacher @ShellTerrell @Jessifer @davecormier @jimgroom @wiobyrne @slamteacher @actualham Also looks like the Quadblogging person has moved on to \"Clusterblogging\""
+	},
+	{
+		"created_at": "Fri Jul 16 21:33:43 +0000 2021",
+		"id": 1416149070192709600,
+		"id_str": "1416149070192709635",
+		"full_text": "@EduQuinn @wfryer @QuadBlogging @hickstro @KristinZiemke @dogtrax @coolcatteacher @ShellTerrell @Jessifer @davecormier @jimgroom @wiobyrne @slamteacher @actualham I've only seen like 0.5% of the internet so... Nothing specific but it's a process I am sure has been used in some variant in higher ed, e.g https://t.co/34pNKR35rG",
+		"truncated": false,
+		"display_text_range": [
+			163,
+			327
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EduQuinn",
+					"name": "Dave Quinn",
+					"id": 1596753367,
+					"id_str": "1596753367",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "QuadBlogging",
+					"name": "QuadBlogging®",
+					"id": 292810239,
+					"id_str": "292810239",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "hickstro",
+					"name": "Troy Hicks",
+					"id": 6430472,
+					"id_str": "6430472",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"screen_name": "KristinZiemke",
+					"name": "Kristin Ziemke #ReadTheWorldNow 📚📱🌏❤️",
+					"id": 419927374,
+					"id_str": "419927374",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"screen_name": "coolcatteacher",
+					"name": "Vicki Davis",
+					"id": 2902901,
+					"id_str": "2902901",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "ShellTerrell",
+					"name": "𝙎𝙝𝙚𝙡𝙡𝙮 𝙎𝙖𝙣𝙘𝙝𝙚𝙯 💡",
+					"id": 29655018,
+					"id_str": "29655018",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"screen_name": "slamteacher",
+					"name": "Sean Michael Morris",
+					"id": 565218468,
+					"id_str": "565218468",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/34pNKR35rG",
+					"expanded_url": "http://unboundeq.creativitycourse.org/",
+					"display_url": "unboundeq.creativitycourse.org",
+					"indices": [
+						304,
+						327
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1416111022478332000,
+		"in_reply_to_status_id_str": "1416111022478331904",
+		"in_reply_to_user_id": 1596753367,
+		"in_reply_to_user_id_str": "1596753367",
+		"in_reply_to_screen_name": "EduQuinn",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EduQuinn @wfryer @QuadBlogging @hickstro @KristinZiemke @dogtrax @coolcatteacher @ShellTerrell @Jessifer @davecormier @jimgroom @wiobyrne @slamteacher @actualham I've only seen like 0.5% of the internet so... Nothing specific but it's a process I am sure has been used in some variant in higher ed, e.g https://t.co/34pNKR35rG"
+	},
+	{
 		"created_at": "Fri Jul 16 20:28:25 +0000 2021",
 		"id": 1416132636574208000,
 		"id_str": "1416132636574208007",

@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 15:51:56 +0000 2021",
+		"id": 1417512608366841900,
+		"id_str": "1417512608366841857",
+		"full_text": "@hj_dewaard @Wikimedia @twitthaus @IrwinDev @GOGN_OER @Wikipedia @wikidata @Wikimania @leohavemann @verenanz @jennihayman @philosopher1978 @mweller @jmenglund03 @MichaelDab A wonderful wondering! My blog comment vanished cause I can’t remember WP login on phone, but there is so much to this process that works well- mentoring, co-creation, fun, room to gently fail. Thanks for blogging it!",
+		"truncated": false,
+		"display_text_range": [
+			173,
+			390
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Wikimedia",
+					"name": "Wikimedia Foundation",
+					"id": 86390762,
+					"id_str": "86390762",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "twitthaus",
+					"name": "Gabi Witthaus",
+					"id": 12140572,
+					"id_str": "12140572",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "IrwinDev",
+					"name": "Irwin DeVries",
+					"id": 120194872,
+					"id_str": "120194872",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "GOGN_OER",
+					"name": "GO-GN",
+					"id": 2574966348,
+					"id_str": "2574966348",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"screen_name": "Wikipedia",
+					"name": "Wikipedia",
+					"id": 86390214,
+					"id_str": "86390214",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "wikidata",
+					"name": "Wikidata",
+					"id": 57320656,
+					"id_str": "57320656",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "Wikimania",
+					"name": "Wikimania",
+					"id": 1633358124,
+					"id_str": "1633358124",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "jennihayman",
+					"name": "Dr. Jenni Hayman using whatever talent I have",
+					"id": 403948550,
+					"id_str": "403948550",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "philosopher1978",
+					"name": "Rob Farrow",
+					"id": 64362109,
+					"id_str": "64362109",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"screen_name": "jmenglund03",
+					"name": "jennιғer englυnd",
+					"id": 64769037,
+					"id_str": "64769037",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"screen_name": "MichaelDab",
+					"name": "Michael Dabrowski 🇨🇦",
+					"id": 384151829,
+					"id_str": "384151829",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1417400132493009000,
+		"in_reply_to_status_id_str": "1417400132493008928",
+		"in_reply_to_user_id": 2894844952,
+		"in_reply_to_user_id_str": "2894844952",
+		"in_reply_to_screen_name": "hj_dewaard",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hj_dewaard @Wikimedia @twitthaus @IrwinDev @GOGN_OER @Wikipedia @wikidata @Wikimania @leohavemann @verenanz @jennihayman @philosopher1978 @mweller @jmenglund03 @MichaelDab A wonderful wondering! My blog comment vanished cause I can’t remember WP login on phone, but there is so much to this process that works well- mentoring, co-creation, fun, room to gently fail. Thanks for blogging it!"
+	},
+	{
 		"created_at": "Tue Jul 20 02:19:24 +0000 2021",
 		"id": 1417308125267480600,
 		"id_str": "1417308125267480579",

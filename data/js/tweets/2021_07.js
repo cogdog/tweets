@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 28 20:42:33 +0000 2021",
+		"id": 1420484844929364000,
+		"id_str": "1420484844929363979",
+		"full_text": "@funnymonkey @remixmanifesto @hypervisible I wonder if some of the investigative reporters for @CBCNews might look into their own house.\n\nHere is their statement on ad-targeting https://t.co/LPt528vOS7 \n\nI have shown that my data is not anonymized. I'd like to hear back from them. https://t.co/RLipwSDBm3",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "funnymonkey",
+					"name": "Bill Fitzgerald",
+					"id": 12127972,
+					"id_str": "12127972",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "remixmanifesto",
+					"name": "Brett Gaylor",
+					"id": 17851599,
+					"id_str": "17851599",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "hypervisible",
+					"name": "hypervisible dot pdf",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "CBCNews",
+					"name": "CBC News",
+					"id": 6433472,
+					"id_str": "6433472",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LPt528vOS7",
+					"expanded_url": "https://www.cbc.ca/mycbc/cbc-and-your-data-1.5514726#howDoWeUseThisData",
+					"display_url": "cbc.ca/mycbc/cbc-and-…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1420484571389366300,
+					"id_str": "1420484571389366284",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/E7aTMQ6WEAwD2N0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7aTMQ6WEAwD2N0.jpg",
+					"url": "https://t.co/RLipwSDBm3",
+					"display_url": "pic.twitter.com/RLipwSDBm3",
+					"expanded_url": "https://twitter.com/cogdog/status/1420484844929363979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 294,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1524,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1420484571389366300,
+					"id_str": "1420484571389366284",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/E7aTMQ6WEAwD2N0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7aTMQ6WEAwD2N0.jpg",
+					"url": "https://t.co/RLipwSDBm3",
+					"display_url": "pic.twitter.com/RLipwSDBm3",
+					"expanded_url": "https://twitter.com/cogdog/status/1420484844929363979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 294,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1524,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1420482608392249300,
+		"in_reply_to_status_id_str": "1420482608392249344",
+		"in_reply_to_user_id": 12127972,
+		"in_reply_to_user_id_str": "12127972",
+		"in_reply_to_screen_name": "funnymonkey",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@funnymonkey @remixmanifesto @hypervisible I wonder if some of the investigative reporters for @CBCNews might look into their own house.\n\nHere is their statement on ad-targeting https://t.co/LPt528vOS7 \n\nI have shown that my data is not anonymized. I'd like to hear back from them. https://t.co/RLipwSDBm3"
+	},
+	{
+		"created_at": "Wed Jul 28 20:33:59 +0000 2021",
+		"id": 1420482693008068600,
+		"id_str": "1420482693008068615",
+		"full_text": "@VivienRolfe There's stories in those expressions, and your mom's smile is much like yours.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VivienRolfe",
+					"name": "Dr Viv Rolfe 🍵🎵🌿🎷💚Head of Herbal Research",
+					"id": 214901910,
+					"id_str": "214901910",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1420480652546281500,
+		"in_reply_to_status_id_str": "1420480652546281478",
+		"in_reply_to_user_id": 214901910,
+		"in_reply_to_user_id_str": "214901910",
+		"in_reply_to_screen_name": "VivienRolfe",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1536,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@VivienRolfe There's stories in those expressions, and your mom's smile is much like yours."
+	},
+	{
 		"created_at": "Wed Jul 28 18:33:18 +0000 2021",
 		"id": 1420452318127009800,
 		"id_str": "1420452318127009801",

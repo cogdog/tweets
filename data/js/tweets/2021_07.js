@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 30 16:02:03 +0000 2021",
+		"id": 1421139031123968000,
+		"id_str": "1421139031123968008",
+		"full_text": "Learn why Kean is the “Write” place to be! https://t.co/w2QuUdqnZ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2QuUdqnZ4",
+					"expanded_url": "https://twitter.com/kuwsp/status/1421134538365886469",
+					"display_url": "twitter.com/kuwsp/status/1…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1536,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1421134538365886500,
+		"quoted_status_id_str": "1421134538365886469",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w2QuUdqnZ4",
+			"expanded": "https://twitter.com/kuwsp/status/1421134538365886469",
+			"display": "twitter.com/kuwsp/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 30 15:44:12 +0000 2021",
+			"id": 1421134538365886500,
+			"id_str": "1421134538365886469",
+			"full_text": "Check out some cool facts about how our M.A. in English and Writing Studies program operates, and while you're here, maybe take advantage of our rolling admissions deadline and apply to join us for the fall 😊 #netnarr #unboundeq https://t.co/DS42EuhMZ5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "netnarr",
+						"indices": [
+							209,
+							217
+						]
+					},
+					{
+						"text": "unboundeq",
+						"indices": [
+							218,
+							228
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1421133857336828000,
+						"id_str": "1421133857336827906",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/E7jhtrjXoAIS5DP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7jhtrjXoAIS5DP.jpg",
+						"url": "https://t.co/DS42EuhMZ5",
+						"display_url": "pic.twitter.com/DS42EuhMZ5",
+						"expanded_url": "https://twitter.com/KUWSP/status/1421134538365886469/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 272,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1421133857336828000,
+						"id_str": "1421133857336827906",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/E7jhtrjXoAIS5DP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7jhtrjXoAIS5DP.jpg",
+						"url": "https://t.co/DS42EuhMZ5",
+						"display_url": "pic.twitter.com/DS42EuhMZ5",
+						"expanded_url": "https://twitter.com/KUWSP/status/1421134538365886469/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 272,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3003321917,
+				"id_str": "3003321917",
+				"name": "Kean Writing Studies",
+				"screen_name": "KUWSP",
+				"location": "Union, NJ",
+				"description": "The official Twitter of the Kean University M.A. English Writing Studies Program.",
+				"url": "https://t.co/OxrQ5bfPHR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OxrQ5bfPHR",
+								"expanded_url": "http://keanwritingstudies.org",
+								"display_url": "keanwritingstudies.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 472,
+				"friends_count": 1143,
+				"listed_count": 65,
+				"created_at": "Wed Jan 28 15:06:42 +0000 2015",
+				"favourites_count": 1347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766346830816903168/uMDpurP3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766346830816903168/uMDpurP3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3003321917/1471546523",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn why Kean is the “Write” place to be! https://t.co/w2QuUdqnZ4"
+	},
+	{
 		"created_at": "Fri Jul 30 00:00:49 +0000 2021",
 		"id": 1420897128776409000,
 		"id_str": "1420897128776409093",

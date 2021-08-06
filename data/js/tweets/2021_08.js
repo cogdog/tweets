@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 17:34:05 +0000 2021",
+		"id": 1423686619073323000,
+		"id_str": "1423698909474533381",
+		"full_text": "On August 25, we'll be hosting an introduction to all things @Pressbooks. Learn how to create #OER that can be easily shared, maintained, and accessed across multiple devices, downloaded, or printed. \n\nSee the power of Pressbooks for yourself. Join us: https://t.co/wSV8XLs4HH https://t.co/cKzuVc4x5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pressbooks",
+					"name": "Pressbooks",
+					"id": 197561927,
+					"id_str": "197561927",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wSV8XLs4HH",
+					"expanded_url": "https://bit.ly/3jZNRLZ",
+					"display_url": "bit.ly/3jZNRLZ",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423686614975385600,
+					"id_str": "1423686614975385604",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Hzbu0WEAQCrXk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Hzbu0WEAQCrXk.jpg",
+					"url": "https://t.co/cKzuVc4x5F",
+					"display_url": "pic.twitter.com/cKzuVc4x5F",
+					"expanded_url": "https://twitter.com/BCcampus/status/1423686619073323010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423686614975385600,
+					"id_str": "1423686614975385604",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Hzbu0WEAQCrXk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Hzbu0WEAQCrXk.jpg",
+					"url": "https://t.co/cKzuVc4x5F",
+					"display_url": "pic.twitter.com/cKzuVc4x5F",
+					"expanded_url": "https://twitter.com/BCcampus/status/1423686619073323010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93710949,
+			"id_str": "93710949",
+			"name": "BCcampus",
+			"screen_name": "BCcampus",
+			"location": "British Columbia, Canada",
+			"description": "BCcampus supports the work of the B.C. post-secondary system in the areas of teaching, learning, educational technology, and open education. #OER #HigherEd",
+			"url": "https://t.co/I9Q463azyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9Q463azyE",
+							"expanded_url": "http://www.bccampus.ca",
+							"display_url": "bccampus.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4046,
+			"friends_count": 1389,
+			"listed_count": 220,
+			"created_at": "Mon Nov 30 20:52:46 +0000 2009",
+			"favourites_count": 6524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118983765953404928/oA1woE0v_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93710949/1589395541",
+			"profile_link_color": "00A4E4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On August 25, we'll be hosting an introduction to all things @Pressbooks. Learn how to create #OER that can be easily shared, maintained, and accessed across multiple devices, downloaded, or printed. \n\nSee the power of Pressbooks for yourself. Join us: https://t.co/wSV8XLs4HH https://t.co/cKzuVc4x5F"
+	},
+	{
 		"created_at": "Fri Aug 06 15:27:02 +0000 2021",
 		"id": 1423666936651595800,
 		"id_str": "1423666936651595777",

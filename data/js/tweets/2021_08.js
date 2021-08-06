@@ -1,6 +1,769 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 23:13:43 +0000 2021",
+		"id": 1423784132514041900,
+		"id_str": "1423784381798395911",
+		"full_text": "Proctorio is academic surveillance software.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804325,
+			"id_str": "804325",
+			"name": "Ian Linkletter",
+			"screen_name": "Linkletter",
+			"location": "Vancouver, BC",
+			"description": "Let's go exploring!\n\nHe/Him",
+			"url": "https://t.co/fhe4t8QcqL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fhe4t8QcqL",
+							"expanded_url": "https://defense.linkletter.org",
+							"display_url": "defense.linkletter.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2557,
+			"friends_count": 1224,
+			"listed_count": 72,
+			"created_at": "Thu Mar 01 20:34:51 +0000 2007",
+			"favourites_count": 14667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271987098573090816/vNiE37jI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271987098573090816/vNiE37jI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804325/1614205453",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ro",
+		"text": "Proctorio is academic surveillance software."
+	},
+	{
+		"created_at": "Fri Aug 06 22:58:42 +0000 2021",
+		"id": 1423780602734694400,
+		"id_str": "1423780602734694402",
+		"full_text": "So please @CBCNews 'splain to me how my anonymized data from your site displays an ad for a shirt with my last name on it? \n\nMy last name is NOT part of the data sent to your site to display a news story. \n\nMy data is not anonymized, and I want to know why. Please?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CBCNews",
+					"name": "CBC News",
+					"id": 6433472,
+					"id_str": "6433472",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1423779878537736200,
+		"in_reply_to_status_id_str": "1423779878537736195",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "So please @CBCNews 'splain to me how my anonymized data from your site displays an ad for a shirt with my last name on it? \n\nMy last name is NOT part of the data sent to your site to display a news story. \n\nMy data is not anonymized, and I want to know why. Please?"
+	},
+	{
+		"created_at": "Fri Aug 06 22:55:50 +0000 2021",
+		"id": 1423779878537736200,
+		"id_str": "1423779878537736195",
+		"full_text": "I can't get anyone to run with this data privacy story. CBC News claims that their Ad Targetting anonymizes personal data https://t.co/LPt528vOS7 I have an ad from their site proving they do not anonymize it https://t.co/lgBlyxVZdn Are there any eager journalists out there? https://t.co/kA3lSSfkIh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LPt528vOS7",
+					"expanded_url": "https://www.cbc.ca/mycbc/cbc-and-your-data-1.5514726#howDoWeUseThisData",
+					"display_url": "cbc.ca/mycbc/cbc-and-…",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/lgBlyxVZdn",
+					"expanded_url": "https://cogdogblog.com/2021/07/google-crossed-the-line/",
+					"display_url": "cogdogblog.com/2021/07/google…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423779478984085500,
+					"id_str": "1423779478984085504",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E8JH5INWUAA-Hmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8JH5INWUAA-Hmn.jpg",
+					"url": "https://t.co/kA3lSSfkIh",
+					"display_url": "pic.twitter.com/kA3lSSfkIh",
+					"expanded_url": "https://twitter.com/cogdog/status/1423779878537736195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423779478984085500,
+					"id_str": "1423779478984085504",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E8JH5INWUAA-Hmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8JH5INWUAA-Hmn.jpg",
+					"url": "https://t.co/kA3lSSfkIh",
+					"display_url": "pic.twitter.com/kA3lSSfkIh",
+					"expanded_url": "https://twitter.com/cogdog/status/1423779878537736195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423779649922945000,
+					"id_str": "1423779649922945036",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E8JIDFAWUAwvCkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8JIDFAWUAwvCkb.jpg",
+					"url": "https://t.co/kA3lSSfkIh",
+					"display_url": "pic.twitter.com/kA3lSSfkIh",
+					"expanded_url": "https://twitter.com/cogdog/status/1423779878537736195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can't get anyone to run with this data privacy story. CBC News claims that their Ad Targetting anonymizes personal data https://t.co/LPt528vOS7 I have an ad from their site proving they do not anonymize it https://t.co/lgBlyxVZdn Are there any eager journalists out there? https://t.co/kA3lSSfkIh"
+	},
+	{
+		"created_at": "Fri Aug 06 22:45:24 +0000 2021",
+		"id": 1423777252655911000,
+		"id_str": "1423777252655910921",
+		"full_text": "@OnlineCrsLady Awesome is an understatement for your gift of this work, Laura. And I moved to see that photo of your Dad holding your book. He must have been proud. Best to you!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1423765858770473000,
+		"in_reply_to_status_id_str": "1423765858770472960",
+		"in_reply_to_user_id": 7044082,
+		"in_reply_to_user_id_str": "7044082",
+		"in_reply_to_screen_name": "OnlineCrsLady",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1535,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OnlineCrsLady Awesome is an understatement for your gift of this work, Laura. And I moved to see that photo of your Dad holding your book. He must have been proud. Best to you!"
+	},
+	{
+		"created_at": "Fri Aug 06 22:40:03 +0000 2021",
+		"id": 1423758280971669500,
+		"id_str": "1423775906712203271",
+		"full_text": "Just in time for fall, #LiquidMargins is back with 2 new shows: “Successfully Implementing Social Annotation at Your School” on Fri 13 Aug at 9am PT &amp; “Hybrid, Hyflex, F2F: Anchoring Class Community With Social Annotation” on Fri 27 Aug at 9am PT. RSVP https://t.co/HC3y4n97C4 https://t.co/Lxr11HAIMK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LiquidMargins",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HC3y4n97C4",
+					"expanded_url": "https://hubs.li/H0TTZ1H0",
+					"display_url": "hubs.li/H0TTZ1H0",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423758278819975200,
+					"id_str": "1423758278819975171",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E8I0nHcWEAMyn0H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8I0nHcWEAMyn0H.jpg",
+					"url": "https://t.co/Lxr11HAIMK",
+					"display_url": "pic.twitter.com/Lxr11HAIMK",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1423758280971669508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423758278819975200,
+					"id_str": "1423758278819975171",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E8I0nHcWEAMyn0H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8I0nHcWEAMyn0H.jpg",
+					"url": "https://t.co/Lxr11HAIMK",
+					"display_url": "pic.twitter.com/Lxr11HAIMK",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1423758280971669508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325100970,
+			"id_str": "325100970",
+			"name": "Hypothesis",
+			"screen_name": "hypothes_is",
+			"location": "Online",
+			"description": "All knowledge, annotated.",
+			"url": "https://t.co/pBrdejBpUZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pBrdejBpUZ",
+							"expanded_url": "http://web.hypothes.is",
+							"display_url": "web.hypothes.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10911,
+			"friends_count": 6528,
+			"listed_count": 476,
+			"created_at": "Mon Jun 27 18:52:36 +0000 2011",
+			"favourites_count": 9072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323386642451767296/uXqz23lB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323386642451767296/uXqz23lB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/325100970/1604354938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in time for fall, #LiquidMargins is back with 2 new shows: “Successfully Implementing Social Annotation at Your School” on Fri 13 Aug at 9am PT &amp; “Hybrid, Hyflex, F2F: Anchoring Class Community With Social Annotation” on Fri 27 Aug at 9am PT. RSVP https://t.co/HC3y4n97C4 https://t.co/Lxr11HAIMK"
+	},
+	{
 		"created_at": "Fri Aug 06 17:34:05 +0000 2021",
 		"id": 1423686619073323000,
 		"id_str": "1423698909474533381",

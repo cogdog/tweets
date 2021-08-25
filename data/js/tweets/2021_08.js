@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 18:48:50 +0000 2021",
+		"id": 1430599996425097200,
+		"id_str": "1430603088281354250",
+		"full_text": "This event is tomorrow at noon ET! Register here https://t.co/vADvcMHaQu #AnnotateLoC @librarycongress https://t.co/vV8q8SB7nB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AnnotateLoC",
+					"indices": [
+						73,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "librarycongress",
+					"name": "Library of Congress",
+					"id": 7152572,
+					"id_str": "7152572",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vADvcMHaQu",
+					"expanded_url": "https://loc.zoomgov.com/webinar/register/WN_r_1PSqiVSKum00sgj0IUFw",
+					"display_url": "loc.zoomgov.com/webinar/regist…",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/vV8q8SB7nB",
+					"expanded_url": "https://twitter.com/LC_Labs/status/1427666781955510275",
+					"display_url": "twitter.com/LC_Labs/status…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 903345674472878100,
+			"id_str": "903345674472878081",
+			"name": "LC Labs",
+			"screen_name": "LC_Labs",
+			"location": "Washington, DC",
+			"description": "Follow us for news about https://t.co/BBMSlcXfJP and @LibraryCongress Digital Strategy.",
+			"url": "https://t.co/H6RkwxTsQF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6RkwxTsQF",
+							"expanded_url": "https://labs.loc.gov/",
+							"display_url": "labs.loc.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BBMSlcXfJP",
+							"expanded_url": "http://labs.loc.gov",
+							"display_url": "labs.loc.gov",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10910,
+			"friends_count": 13,
+			"listed_count": 202,
+			"created_at": "Thu Aug 31 19:56:06 +0000 2017",
+			"favourites_count": 2961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031923297330647040/V2-reIFH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031923297330647040/V2-reIFH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/903345674472878081/1534873242",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1427666781955510300,
+		"quoted_status_id_str": "1427666781955510275",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vV8q8SB7nB",
+			"expanded": "https://twitter.com/LC_Labs/status/1427666781955510275",
+			"display": "twitter.com/LC_Labs/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 17 16:21:00 +0000 2021",
+			"id": 1427666781955510300,
+			"id_str": "1427666781955510275",
+			"full_text": "Register for our \"Annotation as Artistic Act\" panel discussion moderated by 2021 @librarycongress Innovator Courtney McClellan, w guests @anterobot @remikalir and @ICAVCU 's Amber Esseiva on 8/26 at 12 PM ET https://t.co/IugW8NtUUx #AnnotateLOC https://t.co/9KZrLJjtbL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AnnotateLOC",
+						"indices": [
+							232,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "librarycongress",
+						"name": "Library of Congress",
+						"id": 7152572,
+						"id_str": "7152572",
+						"indices": [
+							81,
+							97
+						]
+					},
+					{
+						"screen_name": "anterobot",
+						"name": "Antero \"is typing\" Garcia",
+						"id": 14112212,
+						"id_str": "14112212",
+						"indices": [
+							137,
+							147
+						]
+					},
+					{
+						"screen_name": "remikalir",
+						"name": "Remi Kalir",
+						"id": 2557762548,
+						"id_str": "2557762548",
+						"indices": [
+							148,
+							158
+						]
+					},
+					{
+						"screen_name": "ICAVCU",
+						"name": "ICA at VCU",
+						"id": 1482207642,
+						"id_str": "1482207642",
+						"indices": [
+							163,
+							170
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IugW8NtUUx",
+						"expanded_url": "https://labs.loc.gov/events/",
+						"display_url": "labs.loc.gov/events/",
+						"indices": [
+							208,
+							231
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1425855255745605600,
+						"id_str": "1425855255745605632",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/E8mnzPPXMAAeM4l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8mnzPPXMAAeM4l.jpg",
+						"url": "https://t.co/9KZrLJjtbL",
+						"display_url": "pic.twitter.com/9KZrLJjtbL",
+						"expanded_url": "https://twitter.com/LC_Labs/status/1427666781955510275/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 810,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1425855255745605600,
+						"id_str": "1425855255745605632",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/E8mnzPPXMAAeM4l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8mnzPPXMAAeM4l.jpg",
+						"url": "https://t.co/9KZrLJjtbL",
+						"display_url": "pic.twitter.com/9KZrLJjtbL",
+						"expanded_url": "https://twitter.com/LC_Labs/status/1427666781955510275/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 810,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 903345674472878100,
+				"id_str": "903345674472878081",
+				"name": "LC Labs",
+				"screen_name": "LC_Labs",
+				"location": "Washington, DC",
+				"description": "Follow us for news about https://t.co/BBMSlcXfJP and @LibraryCongress Digital Strategy.",
+				"url": "https://t.co/H6RkwxTsQF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H6RkwxTsQF",
+								"expanded_url": "https://labs.loc.gov/",
+								"display_url": "labs.loc.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BBMSlcXfJP",
+								"expanded_url": "http://labs.loc.gov",
+								"display_url": "labs.loc.gov",
+								"indices": [
+									25,
+									48
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10910,
+				"friends_count": 13,
+				"listed_count": 202,
+				"created_at": "Thu Aug 31 19:56:06 +0000 2017",
+				"favourites_count": 2961,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2168,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031923297330647040/V2-reIFH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031923297330647040/V2-reIFH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/903345674472878081/1534873242",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This event is tomorrow at noon ET! Register here https://t.co/vADvcMHaQu #AnnotateLoC @librarycongress https://t.co/vV8q8SB7nB"
+	},
+	{
 		"created_at": "Wed Aug 25 16:59:27 +0000 2021",
 		"id": 1430575563169800200,
 		"id_str": "1430575563169800194",

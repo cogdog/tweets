@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 03:33:48 +0000 2021",
+		"id": 1436171019937534000,
+		"id_str": "1436171019937533955",
+		"full_text": "@Stella_Pollard @tgrantt @kithie @MrBourassaED @rroberkirsch @MmeGarg @MmeSanders @PrincipalSmart @technolandy @ianhecht @GartnerMel @kkoskie @karataylorKT @kfladager @kfidelack @mrmakemathsense @nicolereeve @Durff @dlaufenberg @Rdene915 @garystager That’s a constant state for me. What’s the topic?",
+		"truncated": false,
+		"display_text_range": [
+			250,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stella_Pollard",
+					"name": "Stella Pollard",
+					"id": 39922637,
+					"id_str": "39922637",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "tgrantt",
+					"name": "T. Grant Taylor",
+					"id": 14094880,
+					"id_str": "14094880",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"screen_name": "kithie",
+					"name": "Catherine Hiltz she/her/hers",
+					"id": 20412898,
+					"id_str": "20412898",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "MrBourassaED",
+					"name": "Curtis Bourassa",
+					"id": 299787575,
+					"id_str": "299787575",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "rroberkirsch",
+					"name": "Raquel Oberkirsch",
+					"id": 2290129388,
+					"id_str": "2290129388",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"screen_name": "MmeGarg",
+					"name": "Aditi",
+					"id": 407220116,
+					"id_str": "407220116",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"screen_name": "MmeSanders",
+					"name": "Joanna Sanders",
+					"id": 14753628,
+					"id_str": "14753628",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "PrincipalSmart",
+					"name": "Michelle Smart",
+					"id": 114758196,
+					"id_str": "114758196",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"screen_name": "technolandy",
+					"name": "Ian Landy (he/him)",
+					"id": 250734775,
+					"id_str": "250734775",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"screen_name": "ianhecht",
+					"name": "Ian Hecht",
+					"id": 14151532,
+					"id_str": "14151532",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"screen_name": "GartnerMel",
+					"name": "Mel Gartner",
+					"id": 191173947,
+					"id_str": "191173947",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"screen_name": "kkoskie",
+					"name": "Katherine Koskie",
+					"id": 269033368,
+					"id_str": "269033368",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"screen_name": "karataylorKT",
+					"name": "Kara Taylor",
+					"id": 172061297,
+					"id_str": "172061297",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"screen_name": "kfladager",
+					"name": "Kira Fladager",
+					"id": 284705390,
+					"id_str": "284705390",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"screen_name": "kfidelack",
+					"name": "Kara Fidelack",
+					"id": 31043966,
+					"id_str": "31043966",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"screen_name": "mrmakemathsense",
+					"name": "J Hamilton",
+					"id": 4113418265,
+					"id_str": "4113418265",
+					"indices": [
+						178,
+						194
+					]
+				},
+				{
+					"screen_name": "nicolereeve",
+					"name": "Nicole Reeve",
+					"id": 104409610,
+					"id_str": "104409610",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"screen_name": "Durff",
+					"name": "Dr. Lisa Durff",
+					"id": 3642951,
+					"id_str": "3642951",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"screen_name": "dlaufenberg",
+					"name": "Diana Laufenberg",
+					"id": 7612982,
+					"id_str": "7612982",
+					"indices": [
+						215,
+						227
+					]
+				},
+				{
+					"screen_name": "Rdene915",
+					"name": "RACHELLE DENÉ POTH | @ThriveinEDU #ARVR #AI",
+					"id": 49860518,
+					"id_str": "49860518",
+					"indices": [
+						228,
+						237
+					]
+				},
+				{
+					"screen_name": "garystager",
+					"name": "Gary Stager - New Invent To Learn Book!",
+					"id": 8870632,
+					"id_str": "8870632",
+					"indices": [
+						238,
+						249
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1436153573205741600,
+		"in_reply_to_status_id_str": "1436153573205741570",
+		"in_reply_to_user_id": 39922637,
+		"in_reply_to_user_id_str": "39922637",
+		"in_reply_to_screen_name": "Stella_Pollard",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10406,
+			"friends_count": 1538,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Stella_Pollard @tgrantt @kithie @MrBourassaED @rroberkirsch @MmeGarg @MmeSanders @PrincipalSmart @technolandy @ianhecht @GartnerMel @kkoskie @karataylorKT @kfladager @kfidelack @mrmakemathsense @nicolereeve @Durff @dlaufenberg @Rdene915 @garystager That’s a constant state for me. What’s the topic?"
+	},
+	{
 		"created_at": "Fri Sep 10 00:31:18 +0000 2021",
 		"id": 1436125091079807000,
 		"id_str": "1436125091079806978",

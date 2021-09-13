@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 20:39:53 +0000 2021",
+		"id": 1437516404526289000,
+		"id_str": "1437516404526288897",
+		"full_text": "@colegleason Agreed. It was fun to play with, thanks for making it available.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colegleason",
+					"name": "Cole Gleason",
+					"id": 629863,
+					"id_str": "629863",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1437516070525411300,
+		"in_reply_to_status_id_str": "1437516070525411328",
+		"in_reply_to_user_id": 629863,
+		"in_reply_to_user_id_str": "629863",
+		"in_reply_to_screen_name": "colegleason",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10404,
+			"friends_count": 1540,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@colegleason Agreed. It was fun to play with, thanks for making it available."
+	},
+	{
+		"created_at": "Mon Sep 13 20:29:51 +0000 2021",
+		"id": 1437513878565441500,
+		"id_str": "1437513878565441536",
+		"full_text": "@colegleason My question- do these tags help a visually impaired person? I guess more than nothing, but I await more intelligence and less artificiality.\n\nThen again maybe the tags are good enough. Hmmm. https://t.co/XuGS6hQZtx",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colegleason",
+					"name": "Cole Gleason",
+					"id": 629863,
+					"id_str": "629863",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437513429980438500,
+					"id_str": "1437513429980438528",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E_MS2SnWYAAzxm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_MS2SnWYAAzxm0.jpg",
+					"url": "https://t.co/XuGS6hQZtx",
+					"display_url": "pic.twitter.com/XuGS6hQZtx",
+					"expanded_url": "https://twitter.com/cogdog/status/1437513878565441536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1852,
+							"h": 1238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437513429980438500,
+					"id_str": "1437513429980438528",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E_MS2SnWYAAzxm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_MS2SnWYAAzxm0.jpg",
+					"url": "https://t.co/XuGS6hQZtx",
+					"display_url": "pic.twitter.com/XuGS6hQZtx",
+					"expanded_url": "https://twitter.com/cogdog/status/1437513878565441536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1852,
+							"h": 1238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1437513045614473200,
+		"in_reply_to_status_id_str": "1437513045614473218",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10404,
+			"friends_count": 1540,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@colegleason My question- do these tags help a visually impaired person? I guess more than nothing, but I await more intelligence and less artificiality.\n\nThen again maybe the tags are good enough. Hmmm. https://t.co/XuGS6hQZtx"
+	},
+	{
+		"created_at": "Mon Sep 13 20:26:32 +0000 2021",
+		"id": 1437513045614473200,
+		"id_str": "1437513045614473218",
+		"full_text": "Interesting. The alt text \"bot\" reported back in Japanese a list of tags for image from PxHere https://t.co/baQSladeM0  They scraped it from my flickr original https://t.co/XqLAElyb1H @colegleason https://t.co/aUEESoxzEq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colegleason",
+					"name": "Cole Gleason",
+					"id": 629863,
+					"id_str": "629863",
+					"indices": [
+						184,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/baQSladeM0",
+					"expanded_url": "https://pxhere.com/en/photo/198253",
+					"display_url": "pxhere.com/en/photo/198253",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/XqLAElyb1H",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/23513467494/",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/aUEESoxzEq",
+					"expanded_url": "https://twitter.com/A11yImage/status/1437511491805134848",
+					"display_url": "twitter.com/A11yImage/stat…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10404,
+			"friends_count": 1540,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437511491805134800,
+		"quoted_status_id_str": "1437511491805134848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aUEESoxzEq",
+			"expanded": "https://twitter.com/A11yImage/status/1437511491805134848",
+			"display": "twitter.com/A11yImage/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 13 20:20:21 +0000 2021",
+			"id": 1437511491805134800,
+			"id_str": "1437511491805134848",
+			"full_text": "@cogdog I embedded a description: \"From other pages with same image: おもちゃ, アクションフィギュア, 2016366, グノーム, ゴジラ, 庭のノ​​ーム, 芝生の装飾, 無料画像 In PxHere\"\nFull text at https://t.co/PFgQdbvk3h\nWhat are image descriptions? https://t.co/KFjTgFgpMa https://t.co/Snvyzkudoq",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				228
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PFgQdbvk3h",
+						"expanded_url": "http://accessible.lol/tweet/1437510977528942600",
+						"display_url": "accessible.lol/tweet/14375109…",
+						"indices": [
+							152,
+							175
+						]
+					},
+					{
+						"url": "https://t.co/KFjTgFgpMa",
+						"expanded_url": "https://help.twitter.com/en/using-twitter/picture-descriptions",
+						"display_url": "help.twitter.com/en/using-twitt…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1437511489011716000,
+						"id_str": "1437511489011716106",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/E_MRFT8WEAoWXnk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_MRFT8WEAoWXnk.jpg",
+						"url": "https://t.co/Snvyzkudoq",
+						"display_url": "pic.twitter.com/Snvyzkudoq",
+						"expanded_url": "https://twitter.com/A11yImage/status/1437511491805134848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1437511489011716000,
+						"id_str": "1437511489011716106",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/E_MRFT8WEAoWXnk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_MRFT8WEAoWXnk.jpg",
+						"url": "https://t.co/Snvyzkudoq",
+						"display_url": "pic.twitter.com/Snvyzkudoq",
+						"expanded_url": "https://twitter.com/A11yImage/status/1437511491805134848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://colegleason.com\" rel=\"nofollow\">OCRify</a>",
+			"in_reply_to_status_id": 1437511437568577500,
+			"in_reply_to_status_id_str": "1437511437568577547",
+			"in_reply_to_user_id": 740343,
+			"in_reply_to_user_id_str": "740343",
+			"in_reply_to_screen_name": "cogdog",
+			"user": {
+				"id": 1239700654056181800,
+				"id_str": "1239700654056181765",
+				"name": "Image Description Bot",
+				"screen_name": "A11yImage",
+				"location": "",
+				"description": "I'm a bot to add image descriptions to tweets! Reply to an image tweet with #DescribeImage to try! Add alt text when you post (see link). Made by @colegleason.",
+				"url": "https://t.co/TK6GHyZsOh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TK6GHyZsOh",
+								"expanded_url": "https://help.twitter.com/en/using-twitter/picture-descriptions",
+								"display_url": "help.twitter.com/en/using-twitt…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 441,
+				"friends_count": 1,
+				"listed_count": 21,
+				"created_at": "Mon Mar 16 23:51:35 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3025,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1239702656995786754/Uw6J_c1W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239702656995786754/Uw6J_c1W_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting. The alt text \"bot\" reported back in Japanese a list of tags for image from PxHere https://t.co/baQSladeM0  They scraped it from my flickr original https://t.co/XqLAElyb1H @colegleason https://t.co/aUEESoxzEq"
+	},
+	{
+		"created_at": "Mon Sep 13 20:20:09 +0000 2021",
+		"id": 1437511437568577500,
+		"id_str": "1437511437568577547",
+		"full_text": "@A11yImage #DescribeImage (and good luck)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DescribeImage",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A11yImage",
+					"name": "Image Description Bot",
+					"id": 1239700654056181800,
+					"id_str": "1239700654056181765",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1437510977528942600,
+		"in_reply_to_status_id_str": "1437510977528942600",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10404,
+			"friends_count": 1540,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@A11yImage #DescribeImage (and good luck)"
+	},
+	{
 		"created_at": "Mon Sep 13 19:33:45 +0000 2021",
 		"id": 1437499763784568800,
 		"id_str": "1437499763784568841",

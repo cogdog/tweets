@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 20:44:55 +0000 2021",
+		"id": 1437873166320291800,
+		"id_str": "1437880058270691333",
+		"full_text": "Tomorrow @CCCOER hosts the first of their fall webinars: *Global Open Education Perspectives*\n\nPanelists include⏩John Okewole, Anuradha Gungadeen, Rosalyn Warren, Paul Blackman, and Prof. Mary Robinson. Moderated by @smithnd at @WeAreHCCS\nDon't miss it! https://t.co/ae4R2lx11S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cccoer",
+					"name": "CCCOER",
+					"id": 3576910273,
+					"id_str": "3576910273",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "smithnd",
+					"name": "Nathan Smith",
+					"id": 46666595,
+					"id_str": "46666595",
+					"indices": [
+						216,
+						224
+					]
+				},
+				{
+					"screen_name": "WeAreHCCS",
+					"name": "Houston Community College Official",
+					"id": 59769432,
+					"id_str": "59769432",
+					"indices": [
+						228,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ae4R2lx11S",
+					"expanded_url": "https://bit.ly/2Xf8lao",
+					"display_url": "bit.ly/2Xf8lao",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16548567,
+			"id_str": "16548567",
+			"name": "Open Education Global",
+			"screen_name": "OpenEdGlobal",
+			"location": "Global",
+			"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+			"url": "https://t.co/FolbQBguMQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FolbQBguMQ",
+							"expanded_url": "https://www.oeglobal.org/",
+							"display_url": "oeglobal.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10916,
+			"friends_count": 484,
+			"listed_count": 554,
+			"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+			"favourites_count": 2519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218899679561310208/TTweH6n8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow @CCCOER hosts the first of their fall webinars: *Global Open Education Perspectives*\n\nPanelists include⏩John Okewole, Anuradha Gungadeen, Rosalyn Warren, Paul Blackman, and Prof. Mary Robinson. Moderated by @smithnd at @WeAreHCCS\nDon't miss it! https://t.co/ae4R2lx11S"
+	},
+	{
 		"created_at": "Tue Sep 14 14:28:47 +0000 2021",
 		"id": 1437785404049068000,
 		"id_str": "1437785404049068049",

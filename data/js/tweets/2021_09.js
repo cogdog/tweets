@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 14:13:58 +0000 2021",
+		"id": 1437781673974935600,
+		"id_str": "1437781673974935564",
+		"full_text": "I'm so proud of @DrSianProctor I knew from Maricopa CC days, who stuck to her goal to go up in space and gets to do so tomorrow. Go Sian, Go! https://t.co/JuGgSSFX2b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrSianProctor",
+					"name": "Dr. Sian “Leo” Proctor",
+					"id": 14062485,
+					"id_str": "14062485",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JuGgSSFX2b",
+					"expanded_url": "https://twitter.com/netflix/status/1437493214882131970",
+					"display_url": "twitter.com/netflix/status…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10407,
+			"friends_count": 1540,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437493214882132000,
+		"quoted_status_id_str": "1437493214882131970",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JuGgSSFX2b",
+			"expanded": "https://twitter.com/netflix/status/1437493214882131970",
+			"display": "twitter.com/netflix/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 13 19:07:44 +0000 2021",
+			"id": 1437493214882132000,
+			"id_str": "1437493214882131970",
+			"full_text": "Ever since she was a little girl, Sian Proctor dreamt of going to space. \n\nHer dream will come true this Wednesday, making her the fourth Black American woman in history to have ever accomplished this. Follow @DrSianProctor's journey on Countdown: Inspiration4 Mission to Space https://t.co/aIUw2CTqgc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrSianProctor",
+						"name": "Dr. Sian “Leo” Proctor",
+						"id": 14062485,
+						"id_str": "14062485",
+						"indices": [
+							209,
+							223
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1437490555907285000,
+						"id_str": "1437490555907284997",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437490555907284997/img/LcT6KYAUaRQAxMdc.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437490555907284997/img/LcT6KYAUaRQAxMdc.jpg",
+						"url": "https://t.co/aIUw2CTqgc",
+						"display_url": "pic.twitter.com/aIUw2CTqgc",
+						"expanded_url": "https://twitter.com/netflix/status/1437493214882131970/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1437490555907285000,
+						"id_str": "1437490555907284997",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437490555907284997/img/LcT6KYAUaRQAxMdc.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437490555907284997/img/LcT6KYAUaRQAxMdc.jpg",
+						"url": "https://t.co/aIUw2CTqgc",
+						"display_url": "pic.twitter.com/aIUw2CTqgc",
+						"expanded_url": "https://twitter.com/netflix/status/1437493214882131970/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 84459,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1437490555907284997/pl/U_aq7rZvsU_L1KcE.m3u8?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437490555907284997/vid/1280x720/tSICu03lbqlSksNr.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437490555907284997/vid/480x270/ajDd81D5FncGaXLG.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437490555907284997/vid/640x360/7rxpiMCs_FRniQM3.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16573941,
+				"id_str": "16573941",
+				"name": "Netflix",
+				"screen_name": "netflix",
+				"location": "California, USA",
+				"description": "Proud Lucifan For Life",
+				"url": "https://t.co/31ik2fX1Ti",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/31ik2fX1Ti",
+								"expanded_url": "https://www.tudum.com",
+								"display_url": "tudum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13083817,
+				"friends_count": 1892,
+				"listed_count": 18358,
+				"created_at": "Fri Oct 03 04:16:17 +0000 2008",
+				"favourites_count": 14905,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40597,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16573941/1631279984",
+				"profile_link_color": "E50914",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 326,
+			"favorite_count": 2077,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm so proud of @DrSianProctor I knew from Maricopa CC days, who stuck to her goal to go up in space and gets to do so tomorrow. Go Sian, Go! https://t.co/JuGgSSFX2b"
+	},
+	{
 		"created_at": "Tue Sep 14 06:15:19 +0000 2021",
 		"id": 1437661218345476000,
 		"id_str": "1437661218345476104",

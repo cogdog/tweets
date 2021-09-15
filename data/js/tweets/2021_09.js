@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 16:27:53 +0000 2021",
+		"id": 1438177765107327000,
+		"id_str": "1438177765107326981",
+		"full_text": "@DS106TDC #tdc3534 #ds106 Arizona storyteller \"Buckshot Dot\"\n\nHad lunch with her at Beeline Cafe in Payson. she not only told me the story of their rhubarb pie, she pulled out guitar and sang it\n\nhttps://t.co/RPzw4TWqxL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3534",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DS106TDC",
+					"name": "The Daily Create",
+					"id": 456914514,
+					"id_str": "456914514",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RPzw4TWqxL",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/11316950995",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 456914514,
+		"in_reply_to_user_id_str": "456914514",
+		"in_reply_to_screen_name": "DS106TDC",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10405,
+			"friends_count": 1540,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DS106TDC #tdc3534 #ds106 Arizona storyteller \"Buckshot Dot\"\n\nHad lunch with her at Beeline Cafe in Payson. she not only told me the story of their rhubarb pie, she pulled out guitar and sang it\n\nhttps://t.co/RPzw4TWqxL"
+	},
+	{
+		"created_at": "Wed Sep 15 16:13:53 +0000 2021",
+		"id": 1438174242256920600,
+		"id_str": "1438174242256920577",
+		"full_text": "@Dave_Ferguson @aaronesilvers @britz @jclarey Great to know. I thought it was clever but do not recall where the idea came from.\n\nIt is impressive for people who on their own did translations into Spanish, Italian, Icelandic had many files to translate!\n\nAnd maybe I even interested people in volcanoes...",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			305
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dave_Ferguson",
+					"name": "Dave Ferguson",
+					"id": 14235323,
+					"id_str": "14235323",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "aaronesilvers",
+					"name": "The LOX - Learning Outcome Experience",
+					"id": 2226621,
+					"id_str": "2226621",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "britz",
+					"name": "ᴍᴀʀᴋ ʙʀɪᴛᴢ #SocialByDesign",
+					"id": 14719875,
+					"id_str": "14719875",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"screen_name": "jclarey",
+					"name": "Janet Clarey",
+					"id": 1005051,
+					"id_str": "1005051",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1438167864607842300,
+		"in_reply_to_status_id_str": "1438167864607842305",
+		"in_reply_to_user_id": 14235323,
+		"in_reply_to_user_id_str": "14235323",
+		"in_reply_to_screen_name": "Dave_Ferguson",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10405,
+			"friends_count": 1540,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dave_Ferguson @aaronesilvers @britz @jclarey Great to know. I thought it was clever but do not recall where the idea came from.\n\nIt is impressive for people who on their own did translations into Spanish, Italian, Icelandic had many files to translate!\n\nAnd maybe I even interested people in volcanoes..."
+	},
+	{
 		"created_at": "Wed Sep 15 04:27:14 +0000 2021",
 		"id": 1437996404492939300,
 		"id_str": "1437996404492939266",

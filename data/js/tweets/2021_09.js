@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 20:36:37 +0000 2021",
+		"id": 1438965133187985400,
+		"id_str": "1438965133187985412",
+		"full_text": "@hj_dewaard @stoosepp @yvonnedtechtalk @Linkletter @infology @SuritaJhangiani @shurlim @Simspire @NatashaBoskic @ltnpbs @UBC_ETS @OpenLibraryON @Cambrian_Jess @MGtheID @greeneterry @davecormier @chadhflinn @verenanz @MichaelDab Your timing is perfect! Thanks.",
+		"truncated": false,
+		"display_text_range": [
+			228,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "stoosepp",
+					"name": "Stoo Sepp",
+					"id": 26379377,
+					"id_str": "26379377",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "yvonnedtechtalk",
+					"name": "Yvonne Dawydiak",
+					"id": 1700665202,
+					"id_str": "1700665202",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "Linkletter",
+					"name": "Ian Linkletter",
+					"id": 804325,
+					"id_str": "804325",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "infology",
+					"name": "Wɪʟʟ Eɴɢʟᴇ",
+					"id": 93031146,
+					"id_str": "93031146",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "SuritaJhangiani",
+					"name": "Dr. Surita Jhangiani",
+					"id": 1517792641,
+					"id_str": "1517792641",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"screen_name": "shurlim",
+					"name": "Shur Lim",
+					"id": 236695419,
+					"id_str": "236695419",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"screen_name": "Simspire",
+					"name": "Dr. Simone Hausknecht",
+					"id": 303406721,
+					"id_str": "303406721",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "NatashaBoskic",
+					"name": "Natasha Boskic_UBC",
+					"id": 415773181,
+					"id_str": "415773181",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "ltnpbs",
+					"name": "Lynne Tomlinson",
+					"id": 218643164,
+					"id_str": "218643164",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"screen_name": "UBC_ETS",
+					"name": "UBC ETS",
+					"id": 1908515684,
+					"id_str": "1908515684",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"screen_name": "OpenLibraryON",
+					"name": "eCampusOntario Open Library",
+					"id": 1179813300068081700,
+					"id_str": "1179813300068081665",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"screen_name": "Cambrian_Jess",
+					"name": "Jess O'Reilly",
+					"id": 780577329814704100,
+					"id_str": "780577329814704128",
+					"indices": [
+						144,
+						158
+					]
+				},
+				{
+					"screen_name": "MGtheID",
+					"name": "Maureen Glynn",
+					"id": 962386504503865300,
+					"id_str": "962386504503865349",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Terry Greene (He/Him)",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"screen_name": "chadhflinn",
+					"name": "Chad Flinn",
+					"id": 247575439,
+					"id_str": "247575439",
+					"indices": [
+						194,
+						205
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"screen_name": "MichaelDab",
+					"name": "Michael Dabrowski 🇨🇦",
+					"id": 384151829,
+					"id_str": "384151829",
+					"indices": [
+						216,
+						227
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1438959646820249600,
+		"in_reply_to_status_id_str": "1438959646820249602",
+		"in_reply_to_user_id": 2894844952,
+		"in_reply_to_user_id_str": "2894844952",
+		"in_reply_to_screen_name": "hj_dewaard",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10405,
+			"friends_count": 1540,
+			"listed_count": 790,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hj_dewaard @stoosepp @yvonnedtechtalk @Linkletter @infology @SuritaJhangiani @shurlim @Simspire @NatashaBoskic @ltnpbs @UBC_ETS @OpenLibraryON @Cambrian_Jess @MGtheID @greeneterry @davecormier @chadhflinn @verenanz @MichaelDab Your timing is perfect! Thanks."
+	},
+	{
 		"created_at": "Fri Sep 17 19:17:12 +0000 2021",
 		"id": 1438945149636206600,
 		"id_str": "1438945149636206595",

@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 17:15:54 +0000 2021",
+		"id": 1440364015541125000,
+		"id_str": "1440364173792141323",
+		"full_text": "Elizabeth Allen, the thimble-selling sales lady in Twilight Zone’s “The After Hours,” poses with her mannequin double. That’s her on the right. No, the left. Wait ... 🤔\n\nThe right, of course! 😆 #S1E34 https://t.co/ZD57H1sY1A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "S1E34",
+					"indices": [
+						194,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440363561717436400,
+					"id_str": "1440363561717436420",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E_0zByuVkAQbp27.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_0zByuVkAQbp27.jpg",
+					"url": "https://t.co/ZD57H1sY1A",
+					"display_url": "pic.twitter.com/ZD57H1sY1A",
+					"expanded_url": "https://twitter.com/TheNightGallery/status/1440364015541125131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 719,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440363561717436400,
+					"id_str": "1440363561717436420",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E_0zByuVkAQbp27.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_0zByuVkAQbp27.jpg",
+					"url": "https://t.co/ZD57H1sY1A",
+					"display_url": "pic.twitter.com/ZD57H1sY1A",
+					"expanded_url": "https://twitter.com/TheNightGallery/status/1440364015541125131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 719,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190403384,
+			"id_str": "190403384",
+			"name": "The Twilight Zone",
+			"screen_name": "TheNightGallery",
+			"location": "The Fifth Dimension",
+			"description": "Fan of the Twilight Zone? No need to wait for a marathon. Join me (Paul) for daily quotes and facts from TZ, Night Gallery, and Rod Serling's many other works.",
+			"url": "https://t.co/eJdaA1wl4G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eJdaA1wl4G",
+							"expanded_url": "http://thenightgallery.wordpress.com/",
+							"display_url": "thenightgallery.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32922,
+			"friends_count": 2189,
+			"listed_count": 353,
+			"created_at": "Mon Sep 13 21:34:06 +0000 2010",
+			"favourites_count": 28640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/471378910114889728/ZoYJ17X-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/471378910114889728/ZoYJ17X-_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190403384/1466395060",
+			"profile_link_color": "DE0B0B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "47C1D1",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Elizabeth Allen, the thimble-selling sales lady in Twilight Zone’s “The After Hours,” poses with her mannequin double. That’s her on the right. No, the left. Wait ... 🤔\n\nThe right, of course! 😆 #S1E34 https://t.co/ZD57H1sY1A"
+	},
+	{
 		"created_at": "Tue Sep 21 01:11:40 +0000 2021",
 		"id": 1440121516629405700,
 		"id_str": "1440121516629405699",

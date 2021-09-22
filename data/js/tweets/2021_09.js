@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 20:07:31 +0000 2021",
+		"id": 1440769749621743600,
+		"id_str": "1440769749621743616",
+		"full_text": "\"If Facebook were a country\"... forget hyperbole about size, but envision that an international alliance would invade, free its captive citizens, implement democracy, and have its dictators face a judicial tribunal for war crimes.\n\nAt least that's what happens in movies... https://t.co/9sTh6QPuhs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9sTh6QPuhs",
+					"expanded_url": "https://twitter.com/doctorow/status/1440718917429723141",
+					"display_url": "twitter.com/doctorow/statu…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10405,
+			"friends_count": 1539,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440718917429723100,
+		"quoted_status_id_str": "1440718917429723141",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9sTh6QPuhs",
+			"expanded": "https://twitter.com/doctorow/status/1440718917429723141",
+			"display": "twitter.com/doctorow/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 22 16:45:31 +0000 2021",
+			"id": 1440718917429723100,
+			"id_str": "1440718917429723141",
+			"full_text": "#Facebook is a rotten company, rotten from the top down, its founder, board and top execs are sociopaths and monsters, committers of non-hyperbolic, no-fooling crimes against humanity. They lie, they cheat, they steal. They are some of history's greatest villains.\n \n1/ https://t.co/WSdvOD0HUS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Facebook",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1440684712326955000,
+						"id_str": "1440684712326955013",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/E_5XHN-VgAUxo4C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_5XHN-VgAUxo4C.jpg",
+						"url": "https://t.co/WSdvOD0HUS",
+						"display_url": "pic.twitter.com/WSdvOD0HUS",
+						"expanded_url": "https://twitter.com/doctorow/status/1440718917429723141/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1440684712326955000,
+						"id_str": "1440684712326955013",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/E_5XHN-VgAUxo4C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_5XHN-VgAUxo4C.jpg",
+						"url": "https://t.co/WSdvOD0HUS",
+						"display_url": "pic.twitter.com/WSdvOD0HUS",
+						"expanded_url": "https://twitter.com/doctorow/status/1440718917429723141/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2729061,
+				"id_str": "2729061",
+				"name": "Cory Doctorow",
+				"screen_name": "doctorow",
+				"location": "Beautiful Downtown Burbank",
+				"description": "Author, journalist, activist. My latest is ATTACK SURFACE https://t.co/Tqg2M6lqri Books: https://t.co/bRVgxZt5np Blog: https://t.co/MWQJRnPOIy.",
+				"url": "https://t.co/bRVgxZt5np",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bRVgxZt5np",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Tqg2M6lqri",
+								"expanded_url": "http://attacksurface.com",
+								"display_url": "attacksurface.com",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/bRVgxZt5np",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									89,
+									112
+								]
+							},
+							{
+								"url": "https://t.co/MWQJRnPOIy",
+								"expanded_url": "http://pluralistic.net",
+								"display_url": "pluralistic.net",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 468261,
+				"friends_count": 2225,
+				"listed_count": 12718,
+				"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+				"favourites_count": 167,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 359802,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1373743438290513920/CiUL5-wz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1373743438290513920/CiUL5-wz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1603464886",
+				"profile_link_color": "3F3FC4",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 363,
+			"favorite_count": 805,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"If Facebook were a country\"... forget hyperbole about size, but envision that an international alliance would invade, free its captive citizens, implement democracy, and have its dictators face a judicial tribunal for war crimes.\n\nAt least that's what happens in movies... https://t.co/9sTh6QPuhs"
+	},
+	{
 		"created_at": "Wed Sep 22 16:01:22 +0000 2021",
 		"id": 1440707804310823000,
 		"id_str": "1440707804310822918",

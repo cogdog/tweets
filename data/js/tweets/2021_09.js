@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 23:28:01 +0000 2021",
+		"id": 1440453896351088600,
+		"id_str": "1440457821212975121",
+		"full_text": "@OpenEdGlobal @OERcamp @cccoer @OpenSociety @creativecommons @ccglobalsummit @centrumcyfrowe @Wikipedia @WikimediaEdu @OpenFutureEU @Hewlett_Found Encouraging everyone in my network to step outside of your regional/national bubble and connect with the global opened community. We have so much to learn from one another. See you there!!",
+		"truncated": false,
+		"display_text_range": [
+			147,
+			335
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "OERcamp",
+					"name": "OERcamp (mehr zu Open Educational Resources – OER)",
+					"id": 4470536123,
+					"id_str": "4470536123",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "cccoer",
+					"name": "CCCOER",
+					"id": 3576910273,
+					"id_str": "3576910273",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "OpenSociety",
+					"name": "Open Society Foundations",
+					"id": 12609292,
+					"id_str": "12609292",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"screen_name": "ccglobalsummit",
+					"name": "CC Global Summit",
+					"id": 850100656841138200,
+					"id_str": "850100656841138176",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "centrumcyfrowe",
+					"name": "Centrum Cyfrowe",
+					"id": 216769093,
+					"id_str": "216769093",
+					"indices": [
+						77,
+						92
+					]
+				},
+				{
+					"screen_name": "Wikipedia",
+					"name": "Wikipedia",
+					"id": 86390214,
+					"id_str": "86390214",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "WikimediaEdu",
+					"name": "Wikimedia Education",
+					"id": 3873471269,
+					"id_str": "3873471269",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"screen_name": "OpenFutureEU",
+					"name": "OpenFuture",
+					"id": 1343549425675874300,
+					"id_str": "1343549425675874304",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"screen_name": "Hewlett_Found",
+					"name": "Hewlett Foundation",
+					"id": 38518844,
+					"id_str": "38518844",
+					"indices": [
+						132,
+						146
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1440360157024718800,
+		"in_reply_to_status_id_str": "1440360157024718856",
+		"in_reply_to_user_id": 16548567,
+		"in_reply_to_user_id_str": "16548567",
+		"in_reply_to_screen_name": "OpenEdGlobal",
+		"user": {
+			"id": 826268390318886900,
+			"id_str": "826268390318886912",
+			"name": "Lena Patterson",
+			"screen_name": "lpatter10",
+			"location": "Toronto, Ontario",
+			"description": "Vancouverite living and working in Toronto, microcred, higher ed, open ed, ed tech, systems thinking: opinions my own. Proud pres of @OpenEdGlobal BoD",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1385,
+			"friends_count": 642,
+			"listed_count": 34,
+			"created_at": "Tue Jan 31 03:18:30 +0000 2017",
+			"favourites_count": 2441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1404450056795721728/tEbk97H5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404450056795721728/tEbk97H5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/826268390318886912/1493569122",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OpenEdGlobal @OERcamp @cccoer @OpenSociety @creativecommons @ccglobalsummit @centrumcyfrowe @Wikipedia @WikimediaEdu @OpenFutureEU @Hewlett_Found Encouraging everyone in my network to step outside of your regional/national bubble and connect with the global opened community. We have so much to learn from one another. See you there!!"
+	},
+	{
 		"created_at": "Tue Sep 21 19:24:17 +0000 2021",
 		"id": 1440396483082162200,
 		"id_str": "1440396483082162181",

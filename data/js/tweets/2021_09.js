@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 24 18:57:45 +0000 2021",
+		"id": 1441476967883235300,
+		"id_str": "1441476967883235331",
+		"full_text": "Be there next week for #OEGlobal21 https://t.co/41oOrG1cG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEGlobal21",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41oOrG1cG7",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1441466358152278016",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10406,
+			"friends_count": 1538,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1441466358152278000,
+		"quoted_status_id_str": "1441466358152278016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/41oOrG1cG7",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1441466358152278016",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 24 18:15:35 +0000 2021",
+			"id": 1441466358152278000,
+			"id_str": "1441466358152278016",
+			"full_text": "#OEGlobal21 Registration closes at Midnight tonight!\n\n📌Register now: https://t.co/in0lIBkqsY\n\nFrom Monday – each #UNESCO #OER Action Area has a dedicated day where experts shape an #OpenEd future built on a solid foundation of on-the-ground experience.\n▶️ https://t.co/9F7ogZTAbw https://t.co/aQxKG0igGA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEGlobal21",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "UNESCO",
+						"indices": [
+							113,
+							120
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							121,
+							125
+						]
+					},
+					{
+						"text": "OpenEd",
+						"indices": [
+							181,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/in0lIBkqsY",
+						"expanded_url": "http://bit.ly/OEG2021_reg",
+						"display_url": "bit.ly/OEG2021_reg",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/9F7ogZTAbw",
+						"expanded_url": "http://bit.ly/OEG21_Sched",
+						"display_url": "bit.ly/OEG21_Sched",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1441466356667502600,
+						"id_str": "1441466356667502593",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAEeA6DX0AEfegO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAEeA6DX0AEfegO.jpg",
+						"url": "https://t.co/aQxKG0igGA",
+						"display_url": "pic.twitter.com/aQxKG0igGA",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1441466358152278016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 604,
+								"h": 230,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 604,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 604,
+								"h": 230,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1441466356667502600,
+						"id_str": "1441466356667502593",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAEeA6DX0AEfegO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAEeA6DX0AEfegO.jpg",
+						"url": "https://t.co/aQxKG0igGA",
+						"display_url": "pic.twitter.com/aQxKG0igGA",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1441466358152278016/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 604,
+								"h": 230,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 604,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 604,
+								"h": 230,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								302,
+								115
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FAEeA6DX0AEfegO.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10941,
+				"friends_count": 501,
+				"listed_count": 553,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2529,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10575,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1441467543953178625/8PcIevV__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441467543953178625/8PcIevV__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be there next week for #OEGlobal21 https://t.co/41oOrG1cG7"
+	},
+	{
 		"created_at": "Fri Sep 24 03:09:22 +0000 2021",
 		"id": 1441238300346314800,
 		"id_str": "1441238300346314758",

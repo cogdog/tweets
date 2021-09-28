@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 28 16:40:26 +0000 2021",
+		"id": 1442883655412617200,
+		"id_str": "1442891965633155083",
+		"full_text": "#OEGlobal21 Talent Show was so much fun. Great job, everyone! Remember there's the 2nd leg on Thursday... the #GOGNpb team have a surprise instore too... https://t.co/oFdnTsESZa\n\n#OpenEdInfluencers @MandelaUni https://t.co/uajCay2EGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEGlobal21",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "GOGNpb",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "OpenEdInfluencers",
+					"indices": [
+						179,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MandelaUni",
+					"name": "Mandela University",
+					"id": 215253081,
+					"id_str": "215253081",
+					"indices": [
+						198,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oFdnTsESZa",
+					"expanded_url": "https://connect.oeglobal.org/t/be-social-oeglobal-21-talent-show/2578",
+					"display_url": "connect.oeglobal.org/t/be-social-oe…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442882293744521200,
+					"id_str": "1442882293744521219",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FAYlzStX0AMbmsP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAYlzStX0AMbmsP.jpg",
+					"url": "https://t.co/uajCay2EGZ",
+					"display_url": "pic.twitter.com/uajCay2EGZ",
+					"expanded_url": "https://twitter.com/ginofransman/status/1442883655412617222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442882293744521200,
+					"id_str": "1442882293744521219",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FAYlzStX0AMbmsP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAYlzStX0AMbmsP.jpg",
+					"url": "https://t.co/uajCay2EGZ",
+					"display_url": "pic.twitter.com/uajCay2EGZ",
+					"expanded_url": "https://twitter.com/ginofransman/status/1442883655412617222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442882396936982500,
+					"id_str": "1442882396936982529",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FAYl5TIX0AEPHSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAYl5TIX0AEPHSV.jpg",
+					"url": "https://t.co/uajCay2EGZ",
+					"display_url": "pic.twitter.com/uajCay2EGZ",
+					"expanded_url": "https://twitter.com/ginofransman/status/1442883655412617222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442882444806529000,
+					"id_str": "1442882444806529031",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FAYl8FdXIAcZc1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAYl8FdXIAcZc1-.jpg",
+					"url": "https://t.co/uajCay2EGZ",
+					"display_url": "pic.twitter.com/uajCay2EGZ",
+					"expanded_url": "https://twitter.com/ginofransman/status/1442883655412617222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442882506211172400,
+					"id_str": "1442882506211172354",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FAYl_qNXoAIAMW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAYl_qNXoAIAMW2.jpg",
+					"url": "https://t.co/uajCay2EGZ",
+					"display_url": "pic.twitter.com/uajCay2EGZ",
+					"expanded_url": "https://twitter.com/ginofransman/status/1442883655412617222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595651045,
+			"id_str": "595651045",
+			"name": "Gino Fransman",
+			"screen_name": "ginofransman",
+			"location": "Port Elizabeth, South Africa",
+			"description": "Creative, Inquisitive, Challenging, Innovative, Fussy. Writer Educator, Musician/ Performer & COOK! @ginofmusic SoundCloud. #OpenEdInfluencers #OE4BW #GO_GN",
+			"url": "https://t.co/5K9IG9zYFZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5K9IG9zYFZ",
+							"expanded_url": "http://www.scoop.it/u/gino-fransman",
+							"display_url": "scoop.it/u/gino-fransman",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872,
+			"friends_count": 1472,
+			"listed_count": 53,
+			"created_at": "Thu May 31 17:04:37 +0000 2012",
+			"favourites_count": 2705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9E96E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846407018764271617/Qqq_1ClR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846407018764271617/Qqq_1ClR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595651045/1579593836",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "464E52",
+			"profile_sidebar_fill_color": "27B7DB",
+			"profile_text_color": "F10808",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OEGlobal21 Talent Show was so much fun. Great job, everyone! Remember there's the 2nd leg on Thursday... the #GOGNpb team have a surprise instore too... https://t.co/oFdnTsESZa\n\n#OpenEdInfluencers @MandelaUni https://t.co/uajCay2EGZ"
+	},
+	{
 		"created_at": "Mon Sep 27 20:15:14 +0000 2021",
 		"id": 1442583631424209000,
 		"id_str": "1442583631424208896",

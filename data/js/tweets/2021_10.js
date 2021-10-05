@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 19:25:19 +0000 2021",
+		"id": 1445469761370869800,
+		"id_str": "1445470172068802564",
+		"full_text": "We're pleased to share our new four-week open introductory podcasting masterclass, open to #myTRU and beyond. The purpose is to get you dabbling in the tech and honing your listening skills. Follow along or choose to register to access augmented supports: https://t.co/ASFmf2DmFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "myTRU",
+					"indices": [
+						91,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ASFmf2DmFY",
+					"expanded_url": "https://podcastmasterclass.trubox.ca/",
+					"display_url": "podcastmasterclass.trubox.ca",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14109848,
+			"id_str": "14109848",
+			"name": "Brenna Clarke Gray",
+			"screen_name": "brennacgray",
+			"location": "Tk’emlups te Secwepemc",
+			"description": "Manic pixie dream academic. Always already unlearning. Feminist, settler, antiracist. Dr. Doozer PhD. Little EdTech with a big mouth. Co-host @HKHSPod. She/her.",
+			"url": "https://t.co/mumGuRnXTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mumGuRnXTk",
+							"expanded_url": "http://blog.communityofpraxis.ca/",
+							"display_url": "blog.communityofpraxis.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4491,
+			"friends_count": 1823,
+			"listed_count": 145,
+			"created_at": "Sun Mar 09 22:29:19 +0000 2008",
+			"favourites_count": 18743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097321857110294528/xiPS2QUn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097321857110294528/xiPS2QUn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14109848/1606427385",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "61464F",
+			"profile_text_color": "3C8059",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're pleased to share our new four-week open introductory podcasting masterclass, open to #myTRU and beyond. The purpose is to get you dabbling in the tech and honing your listening skills. Follow along or choose to register to access augmented supports: https://t.co/ASFmf2DmFY"
+	},
+	{
 		"created_at": "Tue Oct 05 01:47:45 +0000 2021",
 		"id": 1445204029319962600,
 		"id_str": "1445204029319962628",

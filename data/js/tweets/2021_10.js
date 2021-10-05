@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 01:47:45 +0000 2021",
+		"id": 1445204029319962600,
+		"id_str": "1445204029319962628",
+		"full_text": "“It’s not much of a name, but I’m sort of attached to it… even if it says invalid” https://t.co/RhLSd1HAxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445204022739230700,
+					"id_str": "1445204022739230723",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5lZtNWYAM9AE_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5lZtNWYAM9AE_.jpg",
+					"url": "https://t.co/RhLSd1HAxX",
+					"display_url": "pic.twitter.com/RhLSd1HAxX",
+					"expanded_url": "https://twitter.com/cogdog/status/1445204029319962628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 734,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445204022739230700,
+					"id_str": "1445204022739230723",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5lZtNWYAM9AE_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5lZtNWYAM9AE_.jpg",
+					"url": "https://t.co/RhLSd1HAxX",
+					"display_url": "pic.twitter.com/RhLSd1HAxX",
+					"expanded_url": "https://twitter.com/cogdog/status/1445204029319962628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 734,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1540,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“It’s not much of a name, but I’m sort of attached to it… even if it says invalid” https://t.co/RhLSd1HAxX"
+	},
+	{
+		"created_at": "Tue Oct 05 01:41:38 +0000 2021",
+		"id": 1445202490362773500,
+		"id_str": "1445202490362773506",
+		"full_text": "Facebook has pretty much always been down for me. Rarely I peek in via the holes left from the login page, like cause that’s where my kennel posts pictures of @felixadog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "felixadog",
+					"name": "Felix",
+					"id": 725029637609381900,
+					"id_str": "725029637609381891",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1540,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Facebook has pretty much always been down for me. Rarely I peek in via the holes left from the login page, like cause that’s where my kennel posts pictures of @felixadog"
+	},
+	{
+		"created_at": "Tue Oct 05 01:37:42 +0000 2021",
+		"id": 1445201499475230700,
+		"id_str": "1445201499475230724",
+		"full_text": "@BryanAlexander Zero. “Relying on Facebook” ironic on any day much less this one. Anything that’s important I post in my own domain, everything else is disposable exhaust",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445150915233783800,
+		"in_reply_to_status_id_str": "1445150915233783809",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1540,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BryanAlexander Zero. “Relying on Facebook” ironic on any day much less this one. Anything that’s important I post in my own domain, everything else is disposable exhaust"
+	},
+	{
+		"created_at": "Tue Oct 05 01:23:01 +0000 2021",
+		"id": 1445197803630694400,
+		"id_str": "1445197803630694405",
+		"full_text": "@ethanhein @dkernohan @mburtis @phb256 @jimgroom This was also an ethos behind the DS106 Assignment Bank https://t.co/B7QJXqnWKj where I could ask them to do “10 stars” (a rating of difficulty) of Audio or Design ones. They choose what to do (and also were tasked with adding new ones)",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ethanhein",
+					"name": "Ethan Hein",
+					"id": 12559332,
+					"id_str": "12559332",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "dkernohan",
+					"name": "David Kernohan",
+					"id": 12219232,
+					"id_str": "12219232",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "mburtis",
+					"name": "martha",
+					"id": 744533,
+					"id_str": "744533",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"screen_name": "phb256",
+					"name": "paul bond",
+					"id": 52256628,
+					"id_str": "52256628",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B7QJXqnWKj",
+					"expanded_url": "http://assignments.ds106.us",
+					"display_url": "assignments.ds106.us",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445114383823220700,
+		"in_reply_to_status_id_str": "1445114383823220744",
+		"in_reply_to_user_id": 12559332,
+		"in_reply_to_user_id_str": "12559332",
+		"in_reply_to_screen_name": "ethanhein",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1540,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ethanhein @dkernohan @mburtis @phb256 @jimgroom This was also an ethos behind the DS106 Assignment Bank https://t.co/B7QJXqnWKj where I could ask them to do “10 stars” (a rating of difficulty) of Audio or Design ones. They choose what to do (and also were tasked with adding new ones)"
+	},
+	{
 		"created_at": "Tue Oct 05 00:45:07 +0000 2021",
 		"id": 1445188264831471600,
 		"id_str": "1445188264831471616",

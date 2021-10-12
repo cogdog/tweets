@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 20:15:58 +0000 2021",
+		"id": 1448019635912200200,
+		"id_str": "1448019635912200200",
+		"full_text": "This timeline approach with nugget sized ideas for community building and reference links is effective! Kudos to @Bali_Maha @MiaZamoraPhD @Autumm https://t.co/4Yf9JC0TWt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"screen_name": "MiaZamoraPhD",
+					"name": "Mia Zamora",
+					"id": 579873574,
+					"id_str": "579873574",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines doesn't need a fall themed name",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Yf9JC0TWt",
+					"expanded_url": "https://twitter.com/oneheglobal/status/1447913642528329733",
+					"display_url": "twitter.com/oneheglobal/st…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1540,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447913642528329700,
+		"quoted_status_id_str": "1447913642528329733",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4Yf9JC0TWt",
+			"expanded": "https://twitter.com/oneheglobal/status/1447913642528329733",
+			"display": "twitter.com/oneheglobal/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 12 13:14:47 +0000 2021",
+			"id": 1447913642528329700,
+			"id_str": "1447913642528329733",
+			"full_text": "FREE RESOURCE: “Community Building Online” with @UnboundEq. An overview of the free resources on OneHE to support learning communities founded on equity and care. 50+ free resources available now.\n\nhttps://t.co/IXOlUSjTXO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UnboundEq",
+						"name": "Equity Unbound",
+						"id": 1020191831861219300,
+						"id_str": "1020191831861219329",
+						"indices": [
+							48,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IXOlUSjTXO",
+						"expanded_url": "http://ow.ly/TO8k50Gq03g",
+						"display_url": "ow.ly/TO8k50Gq03g",
+						"indices": [
+							198,
+							221
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1042767738031296500,
+				"id_str": "1042767738031296513",
+				"name": "OneHEglobal",
+				"screen_name": "oneheglobal",
+				"location": "Global",
+				"description": "Develop your teaching your way.",
+				"url": "https://t.co/SBplozL3N8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SBplozL3N8",
+								"expanded_url": "https://onehe.org/",
+								"display_url": "onehe.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2377,
+				"friends_count": 5000,
+				"listed_count": 16,
+				"created_at": "Thu Sep 20 13:29:37 +0000 2018",
+				"favourites_count": 1805,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1312,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042769947246710787/Wi5arj0s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042769947246710787/Wi5arj0s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1042767738031296513/1613722195",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This timeline approach with nugget sized ideas for community building and reference links is effective! Kudos to @Bali_Maha @MiaZamoraPhD @Autumm https://t.co/4Yf9JC0TWt"
+	},
+	{
 		"created_at": "Tue Oct 12 20:12:08 +0000 2021",
 		"id": 1448018671662739500,
 		"id_str": "1448018671662739457",

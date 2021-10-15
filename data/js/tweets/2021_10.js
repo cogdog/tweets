@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 18:04:30 +0000 2021",
+		"id": 1449073714721656800,
+		"id_str": "1449073714721656843",
+		"full_text": "And I am excited to see recognition for @openetc @edtechfactotum @laurapasquini @YearsEd @wikiafrica @Mackiwg @lightweight @OpenRN @observatoryedu @OpenEdEdinburgh and more.\n\nShare your thoughts with #OpenAssets #OEAwards21  winners in OEG Connect https://t.co/4IiLZ3uw2P https://t.co/FHpMd2jWTZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenAssets",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "OEAwards21",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openetc",
+					"name": "openetc",
+					"id": 979007479043579900,
+					"id_str": "979007479043579904",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde (he/him)",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "laurapasquini",
+					"name": "Laura Pasquini, PhD",
+					"id": 16708242,
+					"id_str": "16708242",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "YearsEd",
+					"name": "25 Years Of Ed Tech: The Audio Version",
+					"id": 1312472054130602000,
+					"id_str": "1312472054130601984",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"screen_name": "wikiafrica",
+					"name": "WikiAfrica",
+					"id": 273356549,
+					"id_str": "273356549",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"screen_name": "Mackiwg",
+					"name": "Wayne Mackintosh",
+					"id": 28217898,
+					"id_str": "28217898",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"screen_name": "lightweight",
+					"name": "Dave Lane",
+					"id": 10454472,
+					"id_str": "10454472",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "OpenRN",
+					"name": "Open RN",
+					"id": 1169979943591145500,
+					"id_str": "1169979943591145472",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"screen_name": "observatoryedu",
+					"name": "Observatory IFE",
+					"id": 697785916623036400,
+					"id_str": "697785916623036416",
+					"indices": [
+						131,
+						146
+					]
+				},
+				{
+					"screen_name": "OpenEdEdinburgh",
+					"name": "Edinburgh Univ OERs",
+					"id": 2837920041,
+					"id_str": "2837920041",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4IiLZ3uw2P",
+					"expanded_url": "https://connect.oeglobal.org/c/awards/48/none",
+					"display_url": "connect.oeglobal.org/c/awards/48/no…",
+					"indices": [
+						248,
+						271
+					]
+				},
+				{
+					"url": "https://t.co/FHpMd2jWTZ",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1448952099920879629",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1540,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1448952099920879600,
+		"quoted_status_id_str": "1448952099920879629",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FHpMd2jWTZ",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1448952099920879629",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 15 10:01:15 +0000 2021",
+			"id": 1448952099920879600,
+			"id_str": "1448952099920879629",
+			"full_text": "🏆 Excited to announce #OEAwards21 #OpenAssets winners!!🏆\n\n10 #openeducation assets are being honored across 4 categories: \n#BestOER\n#OpenInfrastructure\n#OpenRepository\n#OpenReuseRemixAdaptation\n\nMeet the winners here: https://t.co/HJdGRAZfYn https://t.co/YHN8LkgExV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEAwards21",
+						"indices": [
+							22,
+							33
+						]
+					},
+					{
+						"text": "OpenAssets",
+						"indices": [
+							34,
+							45
+						]
+					},
+					{
+						"text": "openeducation",
+						"indices": [
+							61,
+							75
+						]
+					},
+					{
+						"text": "BestOER",
+						"indices": [
+							123,
+							131
+						]
+					},
+					{
+						"text": "OpenInfrastructure",
+						"indices": [
+							132,
+							151
+						]
+					},
+					{
+						"text": "OpenRepository",
+						"indices": [
+							152,
+							167
+						]
+					},
+					{
+						"text": "OpenReuseRemixAdaptation",
+						"indices": [
+							168,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HJdGRAZfYn",
+						"expanded_url": "https://bit.ly/OEAwards_OpAssets",
+						"display_url": "bit.ly/OEAwards_OpAss…",
+						"indices": [
+							218,
+							241
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1448952098146693000,
+						"id_str": "1448952098146693121",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/FBu2QaKXMAE5KV_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBu2QaKXMAE5KV_.jpg",
+						"url": "https://t.co/YHN8LkgExV",
+						"display_url": "pic.twitter.com/YHN8LkgExV",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1448952099920879629/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1448952098146693000,
+						"id_str": "1448952098146693121",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/FBu2QaKXMAE5KV_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBu2QaKXMAE5KV_.jpg",
+						"url": "https://t.co/YHN8LkgExV",
+						"display_url": "pic.twitter.com/YHN8LkgExV",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1448952099920879629/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11043,
+				"friends_count": 512,
+				"listed_count": 552,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2590,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10680,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And I am excited to see recognition for @openetc @edtechfactotum @laurapasquini @YearsEd @wikiafrica @Mackiwg @lightweight @OpenRN @observatoryedu @OpenEdEdinburgh and more.\n\nShare your thoughts with #OpenAssets #OEAwards21  winners in OEG Connect https://t.co/4IiLZ3uw2P https://t.co/FHpMd2jWTZ"
+	},
+	{
 		"created_at": "Fri Oct 15 14:34:42 +0000 2021",
 		"id": 1449020914507698200,
 		"id_str": "1449020914507698177",

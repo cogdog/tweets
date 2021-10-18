@@ -1,6 +1,760 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 17:13:22 +0000 2021",
+		"id": 1450148010520989700,
+		"id_str": "1450148010520989705",
+		"full_text": "@Todd_Conaway @ds106dc @PublicDomainRev c.f Hinton (1971) on then vs now... \n\nhttps://t.co/8K4wgyxqdK https://t.co/qNqyYwvUuy",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "PublicDomainRev",
+					"name": "Public Domain Review",
+					"id": 203307838,
+					"id_str": "203307838",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8K4wgyxqdK",
+					"expanded_url": "https://daily.ds106.us/leaders/",
+					"display_url": "daily.ds106.us/leaders/",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450147771911180300,
+					"id_str": "1450147771911180293",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FB_1tyCXEAU5oZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB_1tyCXEAU5oZH.jpg",
+					"url": "https://t.co/qNqyYwvUuy",
+					"display_url": "pic.twitter.com/qNqyYwvUuy",
+					"expanded_url": "https://twitter.com/cogdog/status/1450148010520989705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1482,
+							"h": 1204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450147771911180300,
+					"id_str": "1450147771911180293",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FB_1tyCXEAU5oZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB_1tyCXEAU5oZH.jpg",
+					"url": "https://t.co/qNqyYwvUuy",
+					"display_url": "pic.twitter.com/qNqyYwvUuy",
+					"expanded_url": "https://twitter.com/cogdog/status/1450148010520989705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1482,
+							"h": 1204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450130107981467600,
+		"in_reply_to_status_id_str": "1450130107981467651",
+		"in_reply_to_user_id": 7664302,
+		"in_reply_to_user_id_str": "7664302",
+		"in_reply_to_screen_name": "Todd_Conaway",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1541,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Todd_Conaway @ds106dc @PublicDomainRev c.f Hinton (1971) on then vs now... \n\nhttps://t.co/8K4wgyxqdK https://t.co/qNqyYwvUuy"
+	},
+	{
+		"created_at": "Mon Oct 18 16:40:32 +0000 2021",
+		"id": 1450139745053520000,
+		"id_str": "1450139745053519875",
+		"full_text": "@courosa Bizarro house of internet distortion mirrors... my favorite is Mr T! \"I pity the fool that falls for one of my lures\"",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450122521446166500,
+		"in_reply_to_status_id_str": "1450122521446166528",
+		"in_reply_to_user_id": 739293,
+		"in_reply_to_user_id_str": "739293",
+		"in_reply_to_screen_name": "courosa",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1541,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@courosa Bizarro house of internet distortion mirrors... my favorite is Mr T! \"I pity the fool that falls for one of my lures\""
+	},
+	{
+		"created_at": "Mon Oct 18 16:38:47 +0000 2021",
+		"id": 1450139304177635300,
+		"id_str": "1450139304177635330",
+		"full_text": "Yay for @openetc where many of my favorite openedtech people roost, and one of the most fun metaphors to remix from (nods to chicken art by @visualthinkery) https://t.co/FOeFOskqos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openetc",
+					"name": "openetc",
+					"id": 979007479043579900,
+					"id_str": "979007479043579904",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "visualthinkery",
+					"name": "Visual Thinkery",
+					"id": 4872005950,
+					"id_str": "4872005950",
+					"indices": [
+						140,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FOeFOskqos",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1450130254270447624",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1541,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450130254270447600,
+		"quoted_status_id_str": "1450130254270447624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FOeFOskqos",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1450130254270447624",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 18 16:02:49 +0000 2021",
+			"id": 1450130254270447600,
+			"id_str": "1450130254270447624",
+			"full_text": "🏆 #OEAwards21 #OpenAssets winners!!🏆\n\n🏅The award for #OpenInfrastructure goes to ... 🥁\n\nThe Open EdTech Collaborative created by @brlamb @tanbob @grantpotter @ammienoot @edtechfactotum \n\n🎉 https://t.co/Xc4TjXtchU\n\nAll the winners 👉 https://t.co/tMuKrZqyOJ https://t.co/OM4JW50tJ0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEAwards21",
+						"indices": [
+							2,
+							13
+						]
+					},
+					{
+						"text": "OpenAssets",
+						"indices": [
+							14,
+							25
+						]
+					},
+					{
+						"text": "OpenInfrastructure",
+						"indices": [
+							53,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brlamb",
+						"name": "Brian Lamb",
+						"id": 745903,
+						"id_str": "745903",
+						"indices": [
+							129,
+							136
+						]
+					},
+					{
+						"screen_name": "tanbob",
+						"name": "Dr. Tannis Morgan",
+						"id": 10817782,
+						"id_str": "10817782",
+						"indices": [
+							137,
+							144
+						]
+					},
+					{
+						"screen_name": "grantpotter",
+						"name": "Grant Potter",
+						"id": 6271482,
+						"id_str": "6271482",
+						"indices": [
+							145,
+							157
+						]
+					},
+					{
+						"screen_name": "ammienoot",
+						"name": "Anne-Marie Scott",
+						"id": 22673907,
+						"id_str": "22673907",
+						"indices": [
+							158,
+							168
+						]
+					},
+					{
+						"screen_name": "edtechfactotum",
+						"name": "Clint Lalonde (he/him)",
+						"id": 822204322796609500,
+						"id_str": "822204322796609536",
+						"indices": [
+							169,
+							184
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Xc4TjXtchU",
+						"expanded_url": "http://ow.ly/x32850Gt8Gf",
+						"display_url": "ow.ly/x32850Gt8Gf",
+						"indices": [
+							189,
+							212
+						]
+					},
+					{
+						"url": "https://t.co/tMuKrZqyOJ",
+						"expanded_url": "http://ow.ly/Qyqp50Gt8Ge",
+						"display_url": "ow.ly/Qyqp50Gt8Ge",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1450130252383101000,
+						"id_str": "1450130252383100931",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/FB_lyAtXoAM6hCO.png",
+						"media_url_https": "https://pbs.twimg.com/media/FB_lyAtXoAM6hCO.png",
+						"url": "https://t.co/OM4JW50tJ0",
+						"display_url": "pic.twitter.com/OM4JW50tJ0",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1450130254270447624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 413,
+								"h": 264,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 413,
+								"h": 264,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 413,
+								"h": 264,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450130252383101000,
+						"id_str": "1450130252383100931",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/FB_lyAtXoAM6hCO.png",
+						"media_url_https": "https://pbs.twimg.com/media/FB_lyAtXoAM6hCO.png",
+						"url": "https://t.co/OM4JW50tJ0",
+						"display_url": "pic.twitter.com/OM4JW50tJ0",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1450130254270447624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 413,
+								"h": 264,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 413,
+								"h": 264,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 413,
+								"h": 264,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11052,
+				"friends_count": 512,
+				"listed_count": 552,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2594,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10688,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yay for @openetc where many of my favorite openedtech people roost, and one of the most fun metaphors to remix from (nods to chicken art by @visualthinkery) https://t.co/FOeFOskqos"
+	},
+	{
 		"created_at": "Mon Oct 18 15:06:14 +0000 2021",
 		"id": 1450116015791149000,
 		"id_str": "1450116015791149061",

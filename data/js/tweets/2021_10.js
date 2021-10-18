@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 21:58:41 +0000 2021",
+		"id": 1450219813469622300,
+		"id_str": "1450219813469622276",
+		"full_text": "@Casey Highway 89?",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Casey",
+					"name": "Casey Neistat",
+					"id": 154221292,
+					"id_str": "154221292",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450216968167043000,
+		"in_reply_to_status_id_str": "1450216968167043077",
+		"in_reply_to_user_id": 154221292,
+		"in_reply_to_user_id_str": "154221292",
+		"in_reply_to_screen_name": "Casey",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1541,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Casey Highway 89?"
+	},
+	{
+		"created_at": "Mon Oct 18 21:43:34 +0000 2021",
+		"id": 1450216008984240000,
+		"id_str": "1450216008984240130",
+		"full_text": "@Todd_Conaway @twoodwar @olHatchetJack Stay true to your Jacks!\n\nMy first GIF was Dec 2010 (and how clumsy it was to make then). If you blog your stuff you always have it\n\nhttps://t.co/mRUfN6JGBi https://t.co/Fp516Yn4uk",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "olHatchetJack",
+					"name": "Hatchet Jack",
+					"id": 46135809,
+					"id_str": "46135809",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mRUfN6JGBi",
+					"expanded_url": "https://cogdogblog.com/2010/12/its-alive/",
+					"display_url": "cogdogblog.com/2010/12/its-al…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450215976767795200,
+					"id_str": "1450215976767795200",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCAzv07XMAAAZlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCAzv07XMAAAZlG.jpg",
+					"url": "https://t.co/Fp516Yn4uk",
+					"display_url": "pic.twitter.com/Fp516Yn4uk",
+					"expanded_url": "https://twitter.com/cogdog/status/1450216008984240130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450215976767795200,
+					"id_str": "1450215976767795200",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCAzv07XMAAAZlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCAzv07XMAAAZlG.jpg",
+					"url": "https://t.co/Fp516Yn4uk",
+					"display_url": "pic.twitter.com/Fp516Yn4uk",
+					"expanded_url": "https://twitter.com/cogdog/status/1450216008984240130/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FCAzv07XMAAAZlG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450214455057420300,
+		"in_reply_to_status_id_str": "1450214455057420290",
+		"in_reply_to_user_id": 7664302,
+		"in_reply_to_user_id_str": "7664302",
+		"in_reply_to_screen_name": "Todd_Conaway",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1541,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Todd_Conaway @twoodwar @olHatchetJack Stay true to your Jacks!\n\nMy first GIF was Dec 2010 (and how clumsy it was to make then). If you blog your stuff you always have it\n\nhttps://t.co/mRUfN6JGBi https://t.co/Fp516Yn4uk"
+	},
+	{
 		"created_at": "Mon Oct 18 21:08:12 +0000 2021",
 		"id": 1450207108893446100,
 		"id_str": "1450207108893446150",

@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 28 16:49:15 +0000 2021",
+		"id": 1453765819398242300,
+		"id_str": "1453765819398242311",
+		"full_text": "@koutropoulos @walledculture @OnlineCrsLady @techdirt hah! Maybe this helps https://t.co/JvIsEip8wm I_&amp;ln3=O_ N__!&amp;ln4=&amp;cat=Truth or Fiction?&amp; \n\nor when Vanna flips the letters...\n\nhttps://t.co/JjgLOx705Y!",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "koutropoulos",
+					"name": "koutropoulos",
+					"id": 17907414,
+					"id_str": "17907414",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "walledculture",
+					"name": "Walled Culture",
+					"id": 971762499291877400,
+					"id_str": "971762499291877376",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "techdirt",
+					"name": "techdirt",
+					"id": 11382292,
+					"id_str": "11382292",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JvIsEip8wm",
+					"expanded_url": "https://www.thewordfinder.com/wof-puzzle-generator/puzzle.php?bg=1&ln1=&ln2=B_____",
+					"display_url": "thewordfinder.com/wof-puzzle-gen…",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/JjgLOx705Y",
+					"expanded_url": "https://en.wikipedia.org/wiki/Ripley%27s_Believe_It_or_Not",
+					"display_url": "en.wikipedia.org/wiki/Ripley%27…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1453760961442193400,
+		"in_reply_to_status_id_str": "1453760961442193409",
+		"in_reply_to_user_id": 17907414,
+		"in_reply_to_user_id_str": "17907414",
+		"in_reply_to_screen_name": "koutropoulos",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1541,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@koutropoulos @walledculture @OnlineCrsLady @techdirt hah! Maybe this helps https://t.co/JvIsEip8wm I_&amp;ln3=O_ N__!&amp;ln4=&amp;cat=Truth or Fiction?&amp; \n\nor when Vanna flips the letters...\n\nhttps://t.co/JjgLOx705Y!"
+	},
+	{
 		"created_at": "Thu Oct 28 16:09:46 +0000 2021",
 		"id": 1453755881489846300,
 		"id_str": "1453755881489846277",

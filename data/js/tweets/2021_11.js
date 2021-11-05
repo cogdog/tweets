@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 15:12:05 +0000 2021",
+		"id": 1456640470344474600,
+		"id_str": "1456640470344474627",
+		"full_text": "This tech is cool! DFACE: Face Redaction https://t.co/vkx2RoihO6\n\nJust \"cooltech\" tagged on pinboard https://t.co/bK7QP4TXnv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vkx2RoihO6",
+					"expanded_url": "https://dface.app/",
+					"display_url": "dface.app",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/bK7QP4TXnv",
+					"expanded_url": "https://ift.tt/3bI3Mth",
+					"display_url": "ift.tt/3bI3Mth",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1543,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This tech is cool! DFACE: Face Redaction https://t.co/vkx2RoihO6\n\nJust \"cooltech\" tagged on pinboard https://t.co/bK7QP4TXnv"
+	},
+	{
+		"created_at": "Fri Nov 05 15:09:04 +0000 2021",
+		"id": 1456639709925585000,
+		"id_str": "1456639709925584896",
+		"full_text": "@jimgroom Oops mean to give a nod to @hypervisible for the always useful retweet of stuff like this.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "hypervisible",
+					"name": "new and improved panopticon",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1456639564865544200,
+		"in_reply_to_status_id_str": "1456639564865544193",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1543,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jimgroom Oops mean to give a nod to @hypervisible for the always useful retweet of stuff like this."
+	},
+	{
+		"created_at": "Fri Nov 05 15:08:29 +0000 2021",
+		"id": 1456639564865544200,
+		"id_str": "1456639564865544193",
+		"full_text": "This DFACE app is rather amazing (and more than that useful). Use AI locally to redact faces in photos. \n\nhttps://t.co/tbcPiLYLcC\n\nHere as a test is to show that me and @jimgroom have never been seen at the Grand Canyon together. https://t.co/2olQKA2bVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						169,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tbcPiLYLcC",
+					"expanded_url": "https://twitter.com/adamhrv/status/1454070903562715142",
+					"display_url": "twitter.com/adamhrv/status…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456639205417922600,
+					"id_str": "1456639205417922561",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FDcFo8TXsAELOPJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDcFo8TXsAELOPJ.jpg",
+					"url": "https://t.co/2olQKA2bVU",
+					"display_url": "pic.twitter.com/2olQKA2bVU",
+					"expanded_url": "https://twitter.com/cogdog/status/1456639564865544193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1824,
+							"h": 1130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456639205417922600,
+					"id_str": "1456639205417922561",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FDcFo8TXsAELOPJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDcFo8TXsAELOPJ.jpg",
+					"url": "https://t.co/2olQKA2bVU",
+					"display_url": "pic.twitter.com/2olQKA2bVU",
+					"expanded_url": "https://twitter.com/cogdog/status/1456639564865544193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1824,
+							"h": 1130,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1543,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1454070903562715100,
+		"quoted_status_id_str": "1454070903562715142",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tbcPiLYLcC",
+			"expanded": "https://twitter.com/adamhrv/status/1454070903562715142",
+			"display": "twitter.com/adamhrv/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 29 13:01:33 +0000 2021",
+			"id": 1454070903562715100,
+			"id_str": "1454070903562715142",
+			"full_text": "Launching new app for easily redacting faces in photos: https://t.co/4gmznHsYgi \nmade w/@cosmicsands + support from @NgiZero privacy enhancing technology grant 1/3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cosmicsands",
+						"name": "Jules",
+						"id": 579545718,
+						"id_str": "579545718",
+						"indices": [
+							88,
+							100
+						]
+					},
+					{
+						"screen_name": "NgiZero",
+						"name": "NGI Zero | open source R&D| privacy & open search",
+						"id": 1125769054537572400,
+						"id_str": "1125769054537572357",
+						"indices": [
+							116,
+							124
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4gmznHsYgi",
+						"expanded_url": "http://DFACE.app",
+						"display_url": "DFACE.app",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19002346,
+				"id_str": "19002346",
+				"name": "Adam Harvey",
+				"screen_name": "adamhrv",
+				"location": "mastodon.social/@adamhrv",
+				"description": "Creator of https://t.co/27uBIrN6E0 (2021), https://t.co/jqawNS3e3d (2017), https://t.co/6aliEmAeL8 (2019), and https://t.co/g3r4sba3uQ (2010). More at ahprojects dot com (2006)",
+				"url": "https://t.co/WTFbrxIFCG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WTFbrxIFCG",
+								"expanded_url": "http://ahprojects.com",
+								"display_url": "ahprojects.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/27uBIrN6E0",
+								"expanded_url": "http://dface.app",
+								"display_url": "dface.app",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/jqawNS3e3d",
+								"expanded_url": "http://vframe.io",
+								"display_url": "vframe.io",
+								"indices": [
+									43,
+									66
+								]
+							},
+							{
+								"url": "https://t.co/6aliEmAeL8",
+								"expanded_url": "http://exposing.ai",
+								"display_url": "exposing.ai",
+								"indices": [
+									75,
+									98
+								]
+							},
+							{
+								"url": "https://t.co/g3r4sba3uQ",
+								"expanded_url": "http://cvdazzle.com",
+								"display_url": "cvdazzle.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6617,
+				"friends_count": 368,
+				"listed_count": 231,
+				"created_at": "Wed Jan 14 23:54:18 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 722,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150514997644148737/2_EOFrMt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150514997644148737/2_EOFrMt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19002346/1636122160",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This DFACE app is rather amazing (and more than that useful). Use AI locally to redact faces in photos. \n\nhttps://t.co/tbcPiLYLcC\n\nHere as a test is to show that me and @jimgroom have never been seen at the Grand Canyon together. https://t.co/2olQKA2bVU"
+	},
+	{
 		"created_at": "Fri Nov 05 02:10:39 +0000 2021",
 		"id": 1456413234630697000,
 		"id_str": "1456443813254344721",

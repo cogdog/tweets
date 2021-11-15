@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 15:55:49 +0000 2021",
+		"id": 1460275351918203000,
+		"id_str": "1460275351918202890",
+		"full_text": "@noiseprofessor @growAllison It was magical stuff. If you ever stumbled across DirectorWeb that was me",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noiseprofessor",
+					"name": "Zack Dowell",
+					"id": 23041881,
+					"id_str": "23041881",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "growAllison",
+					"name": "Allison (Bishop) Rodgers",
+					"id": 2603997561,
+					"id_str": "2603997561",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460273524199747600,
+		"in_reply_to_status_id_str": "1460273524199747591",
+		"in_reply_to_user_id": 23041881,
+		"in_reply_to_user_id_str": "23041881",
+		"in_reply_to_screen_name": "noiseprofessor",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10408,
+			"friends_count": 1544,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@noiseprofessor @growAllison It was magical stuff. If you ever stumbled across DirectorWeb that was me"
+	},
+	{
+		"created_at": "Mon Nov 15 15:29:48 +0000 2021",
+		"id": 1460268805704278000,
+		"id_str": "1460268805704278016",
+		"full_text": "Looking forward to recording an @OpenEdGlobal #OEGVoices podcast this week talking to @remikalir about the value of public annotation. \n\nWe have open seats for people interested in being part of the conversation- see https://t.co/7HcoCCvpXq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEGVoices",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7HcoCCvpXq",
+					"expanded_url": "https://connect.oeglobal.org/t/join-a-podcast-recording-session-talking-annotation-with-remi-kalir/3295",
+					"display_url": "connect.oeglobal.org/t/join-a-podca…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10408,
+			"friends_count": 1544,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to recording an @OpenEdGlobal #OEGVoices podcast this week talking to @remikalir about the value of public annotation. \n\nWe have open seats for people interested in being part of the conversation- see https://t.co/7HcoCCvpXq"
+	},
+	{
 		"created_at": "Mon Nov 15 15:07:13 +0000 2021",
 		"id": 1460263124037214200,
 		"id_str": "1460263124037214214",

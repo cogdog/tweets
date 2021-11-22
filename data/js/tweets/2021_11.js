@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 16:03:23 +0000 2021",
+		"id": 1462813974542655500,
+		"id_str": "1462813974542655499",
+		"full_text": "If I can smell phish on opening an email why can't google's genius algorithm's get the stink?\n\n\"Best payer, we have been TRAYING to rech out to you for so many days.\"\n\nAlso, the macafee security plan they think call them about is listed as \"Norton Security plane\" https://t.co/2YRlhEb0Y4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462813609680060400,
+					"id_str": "1462813609680060435",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FEz1OkmWQBMKf31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEz1OkmWQBMKf31.jpg",
+					"url": "https://t.co/2YRlhEb0Y4",
+					"display_url": "pic.twitter.com/2YRlhEb0Y4",
+					"expanded_url": "https://twitter.com/cogdog/status/1462813974542655499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1642,
+							"h": 872,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462813609680060400,
+					"id_str": "1462813609680060435",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FEz1OkmWQBMKf31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEz1OkmWQBMKf31.jpg",
+					"url": "https://t.co/2YRlhEb0Y4",
+					"display_url": "pic.twitter.com/2YRlhEb0Y4",
+					"expanded_url": "https://twitter.com/cogdog/status/1462813974542655499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1642,
+							"h": 872,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10407,
+			"friends_count": 1547,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I can smell phish on opening an email why can't google's genius algorithm's get the stink?\n\n\"Best payer, we have been TRAYING to rech out to you for so many days.\"\n\nAlso, the macafee security plan they think call them about is listed as \"Norton Security plane\" https://t.co/2YRlhEb0Y4"
+	},
+	{
 		"created_at": "Mon Nov 22 01:13:48 +0000 2021",
 		"id": 1462590099837919200,
 		"id_str": "1462590099837919238",

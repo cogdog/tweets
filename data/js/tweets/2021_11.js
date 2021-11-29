@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 29 15:56:22 +0000 2021",
+		"id": 1465348923095146500,
+		"id_str": "1465348923095146507",
+		"full_text": "Music created in iterative layers. Rhythm on acoustic bass, no lyrics yet. George yawns at 1:33 and John shows up 2:07. Get back. https://t.co/u2EBxCx6pd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u2EBxCx6pd",
+					"expanded_url": "https://twitter.com/BoingBoing/status/1465343838185312262",
+					"display_url": "twitter.com/BoingBoing/sta…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10404,
+			"friends_count": 1549,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465343838185312300,
+		"quoted_status_id_str": "1465343838185312262",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u2EBxCx6pd",
+			"expanded": "https://twitter.com/BoingBoing/status/1465343838185312262",
+			"display": "twitter.com/BoingBoing/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 29 15:36:10 +0000 2021",
+			"id": 1465343838185312300,
+			"id_str": "1465343838185312262",
+			"full_text": "Watch the moment Paul McCartney composed “Get Back” https://t.co/1c7j5vlBQ9 https://t.co/xqyB4s3pJf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1c7j5vlBQ9",
+						"expanded_url": "http://www.youtube.com/watch?v=9kOQ5sgzhRA",
+						"display_url": "youtube.com/watch?v=9kOQ5s…",
+						"indices": [
+							52,
+							75
+						]
+					},
+					{
+						"url": "https://t.co/xqyB4s3pJf",
+						"expanded_url": "https://boingboing.net/2021/11/29/watch-the-moment-paul-mccartney-composed-get-back.html",
+						"display_url": "boingboing.net/2021/11/29/wat…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5971922,
+				"id_str": "5971922",
+				"name": "Boing Boing",
+				"screen_name": "BoingBoing",
+				"location": "Directory of Wonderful Things",
+				"description": "A Directory of Wonderful Things.",
+				"url": "https://t.co/84Dq61NblP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/84Dq61NblP",
+								"expanded_url": "http://www.boingboing.net",
+								"display_url": "boingboing.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 226018,
+				"friends_count": 2202,
+				"listed_count": 11723,
+				"created_at": "Fri May 11 19:14:39 +0000 2007",
+				"favourites_count": 13993,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22316,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5971922/1435347157",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DCDCDC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Music created in iterative layers. Rhythm on acoustic bass, no lyrics yet. George yawns at 1:33 and John shows up 2:07. Get back. https://t.co/u2EBxCx6pd"
+	},
+	{
 		"created_at": "Mon Nov 29 01:48:44 +0000 2021",
 		"id": 1465135607789797400,
 		"id_str": "1465135607789797384",

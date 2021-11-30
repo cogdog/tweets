@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 30 02:35:01 +0000 2021",
+		"id": 1465509642881097700,
+		"id_str": "1465509642881097729",
+		"full_text": "Candy corn as data display! Don’t eat the data! https://t.co/AiGGbYXg7B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AiGGbYXg7B",
+					"expanded_url": "https://twitter.com/jill_hubley/status/1464760023444336645",
+					"display_url": "twitter.com/jill_hubley/st…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10404,
+			"friends_count": 1550,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1464760023444336600,
+		"quoted_status_id_str": "1464760023444336645",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AiGGbYXg7B",
+			"expanded": "https://twitter.com/jill_hubley/status/1464760023444336645",
+			"display": "twitter.com/jill_hubley/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 28 00:56:18 +0000 2021",
+			"id": 1464760023444336600,
+			"id_str": "1464760023444336645",
+			"full_text": "for today's #30DayMapChallenge (prompt: heatmap) I looked at corn production in the US - just the lower 48.\ndata from https://t.co/7K1kHhgewo\nmade with candy corn. https://t.co/Hzq3fdwuCc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "30DayMapChallenge",
+						"indices": [
+							12,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7K1kHhgewo",
+						"expanded_url": "https://ipad.fas.usda.gov/cropexplorer/cropview/commodityView.aspx?cropid=0440000",
+						"display_url": "ipad.fas.usda.gov/cropexplorer/c…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1464759568538476500,
+						"id_str": "1464759568538476548",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FFPfESQXIAQRPUD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFPfESQXIAQRPUD.jpg",
+						"url": "https://t.co/Hzq3fdwuCc",
+						"display_url": "pic.twitter.com/Hzq3fdwuCc",
+						"expanded_url": "https://twitter.com/Jill_hubley/status/1464760023444336645/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1529,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1464759568538476500,
+						"id_str": "1464759568538476548",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FFPfESQXIAQRPUD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFPfESQXIAQRPUD.jpg",
+						"url": "https://t.co/Hzq3fdwuCc",
+						"display_url": "pic.twitter.com/Hzq3fdwuCc",
+						"expanded_url": "https://twitter.com/Jill_hubley/status/1464760023444336645/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1529,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1464759628512776200,
+						"id_str": "1464759628512776196",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FFPfHxrWUAQAySu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFPfHxrWUAQAySu.jpg",
+						"url": "https://t.co/Hzq3fdwuCc",
+						"display_url": "pic.twitter.com/Hzq3fdwuCc",
+						"expanded_url": "https://twitter.com/Jill_hubley/status/1464760023444336645/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1464759654098030600,
+						"id_str": "1464759654098030595",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FFPfJQ_WUAMKrzX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFPfJQ_WUAMKrzX.jpg",
+						"url": "https://t.co/Hzq3fdwuCc",
+						"display_url": "pic.twitter.com/Hzq3fdwuCc",
+						"expanded_url": "https://twitter.com/Jill_hubley/status/1464760023444336645/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 347,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1044,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1464759683781218300,
+						"id_str": "1464759683781218305",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FFPfK_kX0AEhnVg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFPfK_kX0AEhnVg.jpg",
+						"url": "https://t.co/Hzq3fdwuCc",
+						"display_url": "pic.twitter.com/Hzq3fdwuCc",
+						"expanded_url": "https://twitter.com/Jill_hubley/status/1464760023444336645/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17847384,
+				"id_str": "17847384",
+				"name": "Jill Hubley",
+				"screen_name": "Jill_hubley",
+				"location": "NYC",
+				"description": "art + code, information + design, slime mold, maps. data viz @verainstitute opinions my own",
+				"url": "https://t.co/8DPSw5EvWL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8DPSw5EvWL",
+								"expanded_url": "https://www.jillhubley.com",
+								"display_url": "jillhubley.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1549,
+				"friends_count": 1345,
+				"listed_count": 80,
+				"created_at": "Wed Dec 03 20:22:43 +0000 2008",
+				"favourites_count": 7714,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541017990737567744/UfmYG3DV_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541017990737567744/UfmYG3DV_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17847384/1637021524",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 245,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Candy corn as data display! Don’t eat the data! https://t.co/AiGGbYXg7B"
+	},
+	{
 		"created_at": "Mon Nov 29 22:14:30 +0000 2021",
 		"id": 1465444080293458000,
 		"id_str": "1465444080293457929",

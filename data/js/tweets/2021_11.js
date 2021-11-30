@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 30 22:03:39 +0000 2021",
+		"id": 1465803737541267500,
+		"id_str": "1465803737541267457",
+		"full_text": "@savasavasava @screensurveil Yup. Sousveillance!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "savasavasava",
+					"name": "sava",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "screensurveil",
+					"name": "Screening Surveillance",
+					"id": 1095043069110599700,
+					"id_str": "1095043069110599687",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1465802307212394500,
+		"in_reply_to_status_id_str": "1465802307212394501",
+		"in_reply_to_user_id": 16699990,
+		"in_reply_to_user_id_str": "16699990",
+		"in_reply_to_screen_name": "savasavasava",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10402,
+			"friends_count": 1549,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fi",
+		"text": "@savasavasava @screensurveil Yup. Sousveillance!"
+	},
+	{
+		"created_at": "Tue Nov 30 21:28:10 +0000 2021",
+		"id": 1465794808044212200,
+		"id_str": "1465794808044212224",
+		"full_text": "@Linkletter @hypervisible Argggh, that must be so frustrating. Wheels of justice move so damn slow. \n\nFind a judge, BC legal system, pronto!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Linkletter",
+					"name": "Ian Linkletter",
+					"id": 804325,
+					"id_str": "804325",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "hypervisible",
+					"name": "The North Pole is a fusion center",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1465788119521763300,
+		"in_reply_to_status_id_str": "1465788119521763329",
+		"in_reply_to_user_id": 804325,
+		"in_reply_to_user_id_str": "804325",
+		"in_reply_to_screen_name": "Linkletter",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10402,
+			"friends_count": 1549,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Linkletter @hypervisible Argggh, that must be so frustrating. Wheels of justice move so damn slow. \n\nFind a judge, BC legal system, pronto!"
+	},
+	{
+		"created_at": "Tue Nov 30 21:20:06 +0000 2021",
+		"id": 1465792781021069300,
+		"id_str": "1465792781021069320",
+		"full_text": "@savasavasava @screensurveil Oh the anticipation for the Big Reveal. A clue (?) https://t.co/OV9pCqnsJr",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "savasavasava",
+					"name": "sava",
+					"id": 16699990,
+					"id_str": "16699990",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "screensurveil",
+					"name": "Screening Surveillance",
+					"id": 1095043069110599700,
+					"id_str": "1095043069110599687",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OV9pCqnsJr",
+					"expanded_url": "https://twitter.com/screensurveil/status/1436108221643730951",
+					"display_url": "twitter.com/screensurveil/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1465784069174739000,
+		"in_reply_to_status_id_str": "1465784069174738947",
+		"in_reply_to_user_id": 16699990,
+		"in_reply_to_user_id_str": "16699990",
+		"in_reply_to_screen_name": "savasavasava",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10402,
+			"friends_count": 1549,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436108221643731000,
+		"quoted_status_id_str": "1436108221643730951",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OV9pCqnsJr",
+			"expanded": "https://twitter.com/screensurveil/status/1436108221643730951",
+			"display": "twitter.com/screensurveil/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 09 23:24:16 +0000 2021",
+			"id": 1436108221643731000,
+			"id_str": "1436108221643730951",
+			"full_text": "👀\n#screeningsurveillance\n#tresdancing \n#behindthescenes https://t.co/TOa2JXExYq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "screeningsurveillance",
+						"indices": [
+							2,
+							24
+						]
+					},
+					{
+						"text": "tresdancing",
+						"indices": [
+							25,
+							37
+						]
+					},
+					{
+						"text": "behindthescenes",
+						"indices": [
+							39,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1436108161048535000,
+						"id_str": "1436108161048535054",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/E-4Uw35WYA4mBXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-4Uw35WYA4mBXb.jpg",
+						"url": "https://t.co/TOa2JXExYq",
+						"display_url": "pic.twitter.com/TOa2JXExYq",
+						"expanded_url": "https://twitter.com/screensurveil/status/1436108221643730951/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1436108161048535000,
+						"id_str": "1436108161048535054",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/E-4Uw35WYA4mBXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-4Uw35WYA4mBXb.jpg",
+						"url": "https://t.co/TOa2JXExYq",
+						"display_url": "pic.twitter.com/TOa2JXExYq",
+						"expanded_url": "https://twitter.com/screensurveil/status/1436108221643730951/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1095043069110599700,
+				"id_str": "1095043069110599687",
+				"name": "Screening Surveillance",
+				"screen_name": "screensurveil",
+				"location": "",
+				"description": "a short film series from @sscqueens exploring the possible effects of big data surveillance on privacy and everyday life. conceptualized by @savasavasava.",
+				"url": "https://t.co/7xSTliOAJ7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7xSTliOAJ7",
+								"expanded_url": "https://www.screeningsurveillance.com",
+								"display_url": "screeningsurveillance.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 379,
+				"friends_count": 30,
+				"listed_count": 5,
+				"created_at": "Mon Feb 11 19:33:07 +0000 2019",
+				"favourites_count": 25,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 73,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112830480334929920/u3DKnibT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112830480334929920/u3DKnibT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095043069110599687/1554157991",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@savasavasava @screensurveil Oh the anticipation for the Big Reveal. A clue (?) https://t.co/OV9pCqnsJr"
+	},
+	{
 		"created_at": "Tue Nov 30 20:54:37 +0000 2021",
 		"id": 1465786368173424600,
 		"id_str": "1465786368173424640",

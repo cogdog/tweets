@@ -1,6 +1,171 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 16:36:42 +0000 2021",
+		"id": 1466078724961542100,
+		"id_str": "1466083849838989324",
+		"full_text": "@pgstacey @remikalir @enkerli And speaking of annotation, newest OEG Voices podcast with @remikalir talking about.... #annotation \n\nhttps://t.co/bcXMcaImlf\n\nRemi will be with us in the open annotation lab at 2:30pm ET Join us then or anytime today https://t.co/dWSmcD4P30",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annotation",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pgstacey",
+					"name": "Paul Stacey",
+					"id": 48018738,
+					"id_str": "48018738",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "enkerli",
+					"name": "Alexandre Enkerli",
+					"id": 4132991,
+					"id_str": "4132991",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bcXMcaImlf",
+					"expanded_url": "https://podcast.oeglobal.org/2021/12/01/voices-26/",
+					"display_url": "podcast.oeglobal.org/2021/12/01/voi…",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/dWSmcD4P30",
+					"expanded_url": "https://connect.oeglobal.org/t/join-the-open-annotation-lab/3313#next-open-annotation-lab-hours-1",
+					"display_url": "connect.oeglobal.org/t/join-the-ope…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1466077675823505400,
+		"in_reply_to_status_id_str": "1466077675823505412",
+		"in_reply_to_user_id": 16548567,
+		"in_reply_to_user_id_str": "16548567",
+		"in_reply_to_screen_name": "OpenEdGlobal",
+		"user": {
+			"id": 16548567,
+			"id_str": "16548567",
+			"name": "Open Education Global",
+			"screen_name": "OpenEdGlobal",
+			"location": "Global",
+			"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+			"url": "https://t.co/FolbQBguMQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FolbQBguMQ",
+							"expanded_url": "https://www.oeglobal.org/",
+							"display_url": "oeglobal.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11185,
+			"friends_count": 515,
+			"listed_count": 552,
+			"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+			"favourites_count": 2617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pgstacey @remikalir @enkerli And speaking of annotation, newest OEG Voices podcast with @remikalir talking about.... #annotation \n\nhttps://t.co/bcXMcaImlf\n\nRemi will be with us in the open annotation lab at 2:30pm ET Join us then or anytime today https://t.co/dWSmcD4P30"
+	},
+	{
 		"created_at": "Wed Dec 01 16:10:27 +0000 2021",
 		"id": 1466077176453816300,
 		"id_str": "1466077242459627525",

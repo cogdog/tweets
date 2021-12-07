@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 17:26:50 +0000 2021",
+		"id": 1468270791695470600,
+		"id_str": "1468270791695470596",
+		"full_text": "Reflect on this and I wonder if anything I am working on now will be as viable in 2082. https://t.co/FePAkRcxn0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FePAkRcxn0",
+					"expanded_url": "https://twitter.com/MIT_CSAIL/status/1468265296532226057",
+					"display_url": "twitter.com/MIT_CSAIL/stat…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10412,
+			"friends_count": 1549,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468265296532226000,
+		"quoted_status_id_str": "1468265296532226057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FePAkRcxn0",
+			"expanded": "https://twitter.com/MIT_CSAIL/status/1468265296532226057",
+			"display": "twitter.com/MIT_CSAIL/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 07 17:05:00 +0000 2021",
+			"id": 1468265296532226000,
+			"id_str": "1468265296532226057",
+			"full_text": "#otd in 1960 Grace Hopper launched her programming language COBOL, one of the world’s first pieces of free software - and one that’s still used in many banking &amp; payroll systems. https://t.co/EXgv3dupwD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "otd",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1468241204286574600,
+						"id_str": "1468241204286574601",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FGA9mKIX0AkmhHY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGA9mKIX0AkmhHY.jpg",
+						"url": "https://t.co/EXgv3dupwD",
+						"display_url": "pic.twitter.com/EXgv3dupwD",
+						"expanded_url": "https://twitter.com/MIT_CSAIL/status/1468265296532226057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1197,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1390,
+								"h": 1394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468241204286574600,
+						"id_str": "1468241204286574601",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FGA9mKIX0AkmhHY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGA9mKIX0AkmhHY.jpg",
+						"url": "https://t.co/EXgv3dupwD",
+						"display_url": "pic.twitter.com/EXgv3dupwD",
+						"expanded_url": "https://twitter.com/MIT_CSAIL/status/1468265296532226057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1197,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1390,
+								"h": 1394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82364810,
+				"id_str": "82364810",
+				"name": "MIT CSAIL",
+				"screen_name": "MIT_CSAIL",
+				"location": "Cambridge, MA",
+				"description": "MIT's Computer Science & Artificial Intelligence Lab. \n\nhttps://t.co/nWyuG4frSj \n\nhttps://t.co/EaXq6WMvte",
+				"url": "https://t.co/2YIudij4og",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2YIudij4og",
+								"expanded_url": "http://csail.mit.edu",
+								"display_url": "csail.mit.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nWyuG4frSj",
+								"expanded_url": "http://instagram.com/mit_csail/",
+								"display_url": "instagram.com/mit_csail/",
+								"indices": [
+									56,
+									79
+								]
+							},
+							{
+								"url": "https://t.co/EaXq6WMvte",
+								"expanded_url": "https://www.csail.mit.edu/news/intelligent-carpet-g",
+								"display_url": "csail.mit.edu/news/intellige…",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 199645,
+				"friends_count": 22416,
+				"listed_count": 3096,
+				"created_at": "Wed Oct 14 13:55:58 +0000 2009",
+				"favourites_count": 2745,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82364810/1499357815",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 253,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reflect on this and I wonder if anything I am working on now will be as viable in 2082. https://t.co/FePAkRcxn0"
+	},
+	{
 		"created_at": "Tue Dec 07 16:43:41 +0000 2021",
 		"id": 1468259931547742200,
 		"id_str": "1468259931547742216",

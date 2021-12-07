@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 16:43:41 +0000 2021",
+		"id": 1468259931547742200,
+		"id_str": "1468259931547742216",
+		"full_text": "So well deserved, thanks for all you do @wfvanvalkenburg https://t.co/UluKOcO2w6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wfvanvalkenburg",
+					"name": "Willem van Valkenburg",
+					"id": 32350449,
+					"id_str": "32350449",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UluKOcO2w6",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1468254469628510209",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10411,
+			"friends_count": 1549,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468254469628510200,
+		"quoted_status_id_str": "1468254469628510209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UluKOcO2w6",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1468254469628510209",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 07 16:21:59 +0000 2021",
+			"id": 1468254469628510200,
+			"id_str": "1468254469628510209",
+			"full_text": "Hot of the OEAwards21 presses President Award winner for 2021 goes to @wfvanvalkenburg Congratulations Willem ... what an inspirational leader! https://t.co/9VFQnBagOn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wfvanvalkenburg",
+						"name": "Willem van Valkenburg",
+						"id": 32350449,
+						"id_str": "32350449",
+						"indices": [
+							70,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1468253466363666400,
+						"id_str": "1468253466363666439",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FGBIv57XoAcQ-5b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGBIv57XoAcQ-5b.jpg",
+						"url": "https://t.co/9VFQnBagOn",
+						"display_url": "pic.twitter.com/9VFQnBagOn",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1468254469628510209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468253466363666400,
+						"id_str": "1468253466363666439",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FGBIv57XoAcQ-5b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGBIv57XoAcQ-5b.jpg",
+						"url": "https://t.co/9VFQnBagOn",
+						"display_url": "pic.twitter.com/9VFQnBagOn",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1468254469628510209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11208,
+				"friends_count": 518,
+				"listed_count": 552,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10775,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So well deserved, thanks for all you do @wfvanvalkenburg https://t.co/UluKOcO2w6"
+	},
+	{
 		"created_at": "Mon Dec 06 22:28:39 +0000 2021",
 		"id": 1467984356631367700,
 		"id_str": "1467984356631367688",

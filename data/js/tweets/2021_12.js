@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 19:15:48 +0000 2021",
+		"id": 1468660601312448500,
+		"id_str": "1468660601312448516",
+		"full_text": "Words fail to say it all, but we can try- please send  support in any way, send warmth for Chuck in this worst of times. He gives so much, now is time to give back. https://t.co/MfqpHKCZnW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MfqpHKCZnW",
+					"expanded_url": "https://twitter.com/ShorterPearson/status/1468605137803517964",
+					"display_url": "twitter.com/ShorterPearson…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1549,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468605137803518000,
+		"quoted_status_id_str": "1468605137803517964",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MfqpHKCZnW",
+			"expanded": "https://twitter.com/ShorterPearson/status/1468605137803517964",
+			"display": "twitter.com/ShorterPearson…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 08 15:35:24 +0000 2021",
+			"id": 1468605137803518000,
+			"id_str": "1468605137803517964",
+			"full_text": "Arrangements for A. Grace Pearson (Anna) are being handled by Jeffers Funeral Chapel in Afton, and we thank them for their kindness and compassion in this difficult time. \n\nInformation thread follows. https://t.co/AHuRSvsKPe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1468605133718270000,
+						"id_str": "1468605133718269953",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/FGGIlo6XsAEvLfK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGGIlo6XsAEvLfK.jpg",
+						"url": "https://t.co/AHuRSvsKPe",
+						"display_url": "pic.twitter.com/AHuRSvsKPe",
+						"expanded_url": "https://twitter.com/ShorterPearson/status/1468605137803517964/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 838,
+								"h": 734,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 838,
+								"h": 734,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468605133718270000,
+						"id_str": "1468605133718269953",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/FGGIlo6XsAEvLfK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGGIlo6XsAEvLfK.jpg",
+						"url": "https://t.co/AHuRSvsKPe",
+						"display_url": "pic.twitter.com/AHuRSvsKPe",
+						"expanded_url": "https://twitter.com/ShorterPearson/status/1468605137803517964/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 838,
+								"h": 734,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 838,
+								"h": 734,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 285102399,
+				"id_str": "285102399",
+				"name": "Chuck Pearson",
+				"screen_name": "ShorterPearson",
+				"location": "North Greene County, TN",
+				"description": "Associate Professor and Department Chair of Natural Science, @Tusculum_Univ. Open education, the Appalachian Mountains, and quizbowl. He/him/etc.",
+				"url": "https://t.co/Yo2RdlJvm1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yo2RdlJvm1",
+								"expanded_url": "https://chuckpearson.wordpress.com",
+								"display_url": "chuckpearson.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2117,
+				"friends_count": 1024,
+				"listed_count": 65,
+				"created_at": "Wed Apr 20 14:46:29 +0000 2011",
+				"favourites_count": 81215,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88073,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349486843612561409/W5Uyc25d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349486843612561409/W5Uyc25d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/285102399/1495584455",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Words fail to say it all, but we can try- please send  support in any way, send warmth for Chuck in this worst of times. He gives so much, now is time to give back. https://t.co/MfqpHKCZnW"
+	},
+	{
 		"created_at": "Wed Dec 08 19:13:18 +0000 2021",
 		"id": 1468605137803518000,
 		"id_str": "1468659972271656965",

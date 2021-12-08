@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 22:57:57 +0000 2021",
+		"id": 1468716508993970200,
+		"id_str": "1468716508993970179",
+		"full_text": "I recall John McPhee's \"Basin and Range\" citing golf courses as recreating the glacial landforms of Scotland (which he picked up from geologist Anita Harris https://t.co/4iy6zyEIUR)\n\nSo maybe it's all back to loess. https://t.co/hoCuFvyCGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4iy6zyEIUR",
+					"expanded_url": "https://www.newscientist.com/article/mg16021575-700-bunkers-and-boulders/",
+					"display_url": "newscientist.com/article/mg1602…",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/hoCuFvyCGS",
+					"expanded_url": "https://twitter.com/Mchristopholese/status/1468682003998552067",
+					"display_url": "twitter.com/Mchristopholes…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10410,
+			"friends_count": 1549,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468682003998552000,
+		"quoted_status_id_str": "1468682003998552067",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hoCuFvyCGS",
+			"expanded": "https://twitter.com/Mchristopholese/status/1468682003998552067",
+			"display": "twitter.com/Mchristopholes…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 08 20:40:51 +0000 2021",
+			"id": 1468682003998552000,
+			"id_str": "1468682003998552067",
+			"full_text": "I dunno about you guys, but I literally could not care less about what happens to golf courses. https://t.co/4Cr5NlaROS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1468681997107269600,
+						"id_str": "1468681997107269632",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/FGHOfrWXEAA7cRS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGHOfrWXEAA7cRS.jpg",
+						"url": "https://t.co/4Cr5NlaROS",
+						"display_url": "pic.twitter.com/4Cr5NlaROS",
+						"expanded_url": "https://twitter.com/Mchristopholese/status/1468682003998552067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 757,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 757,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468681997107269600,
+						"id_str": "1468681997107269632",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/FGHOfrWXEAA7cRS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGHOfrWXEAA7cRS.jpg",
+						"url": "https://t.co/4Cr5NlaROS",
+						"display_url": "pic.twitter.com/4Cr5NlaROS",
+						"expanded_url": "https://twitter.com/Mchristopholese/status/1468682003998552067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 757,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 757,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1547227460,
+				"id_str": "1547227460",
+				"name": "Christopholese",
+				"screen_name": "Mchristopholese",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212,
+				"friends_count": 629,
+				"listed_count": 2,
+				"created_at": "Wed Jun 26 03:24:15 +0000 2013",
+				"favourites_count": 37058,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5275,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1405137736147767302/gI06wcsB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405137736147767302/gI06wcsB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1547227460/1599961428",
+				"profile_link_color": "000405",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I recall John McPhee's \"Basin and Range\" citing golf courses as recreating the glacial landforms of Scotland (which he picked up from geologist Anita Harris https://t.co/4iy6zyEIUR)\n\nSo maybe it's all back to loess. https://t.co/hoCuFvyCGS"
+	},
+	{
 		"created_at": "Wed Dec 08 21:57:26 +0000 2021",
 		"id": 1468701278620598300,
 		"id_str": "1468701278620598280",

@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 19:38:29 +0000 2021",
+		"id": 1469015668800598000,
+		"id_str": "1469028698510839809",
+		"full_text": "Isn't twitter grate? \n\nThey think me, a humble bot, is a business worth having a profile. https://t.co/pQGMEwUewQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469015599753973800,
+					"id_str": "1469015599753973760",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FGL956DX0AA80kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGL956DX0AA80kv.jpg",
+					"url": "https://t.co/pQGMEwUewQ",
+					"display_url": "pic.twitter.com/pQGMEwUewQ",
+					"expanded_url": "https://twitter.com/isamericagrate/status/1469015668800598021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1370,
+							"h": 902,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469015599753973800,
+					"id_str": "1469015599753973760",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FGL956DX0AA80kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGL956DX0AA80kv.jpg",
+					"url": "https://t.co/pQGMEwUewQ",
+					"display_url": "pic.twitter.com/pQGMEwUewQ",
+					"expanded_url": "https://twitter.com/isamericagrate/status/1469015668800598021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1370,
+							"h": 902,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 797267729090629600,
+			"id_str": "797267729090629632",
+			"name": "Is America Grate?",
+			"screen_name": "isamericagrate",
+			"location": "The Republic of America",
+			"description": "If your America is not yet grate, then we have suggestions!",
+			"url": "https://t.co/ypu0fJejCG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ypu0fJejCG",
+							"expanded_url": "https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/here-are-76-of-donald-trumps-many-ca",
+							"display_url": "washingtonpost.com/news/post-poli…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 122,
+			"listed_count": 4,
+			"created_at": "Sat Nov 12 02:40:13 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797284868057010177/gGCU60Xp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797284868057010177/gGCU60Xp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/797267729090629632/1478919177",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Isn't twitter grate? \n\nThey think me, a humble bot, is a business worth having a profile. https://t.co/pQGMEwUewQ"
+	},
+	{
 		"created_at": "Thu Dec 09 17:04:40 +0000 2021",
 		"id": 1468989989950308400,
 		"id_str": "1468989989950308352",

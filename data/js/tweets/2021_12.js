@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 16:59:36 +0000 2021",
+		"id": 1471525428829503500,
+		"id_str": "1471525428829503493",
+		"full_text": "If you reply maybe I can send you an NFT puppy! https://t.co/aAvCKJ5raI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aAvCKJ5raI",
+					"expanded_url": "https://twitter.com/kennwhite/status/1471510920060813316",
+					"display_url": "twitter.com/kennwhite/stat…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1471525330351542300,
+		"in_reply_to_status_id_str": "1471525330351542280",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1550,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471510920060813300,
+		"quoted_status_id_str": "1471510920060813316",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aAvCKJ5raI",
+			"expanded": "https://twitter.com/kennwhite/status/1471510920060813316",
+			"display": "twitter.com/kennwhite/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 16 16:01:57 +0000 2021",
+			"id": 1471510920060813300,
+			"id_str": "1471510920060813316",
+			"full_text": "Proud to announce the launch of my new NFT platform, available exclusively on the DogChain protocol. Featuring adorable puppy pictures. There is no carbon impact. Winning bidder (and everyone else) is granted full right-click/save access. Lot 1 preview: https://t.co/1e0i08aiNr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1471510912628527000,
+						"id_str": "1471510912628527107",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/FGvbYO5VkAMEp1Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGvbYO5VkAMEp1Z.jpg",
+						"url": "https://t.co/1e0i08aiNr",
+						"display_url": "pic.twitter.com/1e0i08aiNr",
+						"expanded_url": "https://twitter.com/kennwhite/status/1471510920060813316/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 882,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1505,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1471510912628527000,
+						"id_str": "1471510912628527107",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/FGvbYO5VkAMEp1Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGvbYO5VkAMEp1Z.jpg",
+						"url": "https://t.co/1e0i08aiNr",
+						"display_url": "pic.twitter.com/1e0i08aiNr",
+						"expanded_url": "https://twitter.com/kennwhite/status/1471510920060813316/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 882,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1505,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1471510913194725400,
+						"id_str": "1471510913194725392",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/FGvbYRAVEBA7bMU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGvbYRAVEBA7bMU.jpg",
+						"url": "https://t.co/1e0i08aiNr",
+						"display_url": "pic.twitter.com/1e0i08aiNr",
+						"expanded_url": "https://twitter.com/kennwhite/status/1471510920060813316/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1004,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 569,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1714,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1471510913245069300,
+						"id_str": "1471510913245069320",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/FGvbYRMVQAglns9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGvbYRMVQAglns9.jpg",
+						"url": "https://t.co/1e0i08aiNr",
+						"display_url": "pic.twitter.com/1e0i08aiNr",
+						"expanded_url": "https://twitter.com/kennwhite/status/1471510920060813316/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42992649,
+				"id_str": "42992649",
+				"name": "Kenn White",
+				"screen_name": "kennwhite",
+				"location": "Ring 0",
+				"description": "cryptography • clinical trials • neuro • cloud • biscuits • dad to @pupsuntzu",
+				"url": "https://t.co/71H3hjFLLU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/71H3hjFLLU",
+								"expanded_url": "https://opencryptoaudit.org/people",
+								"display_url": "opencryptoaudit.org/people",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25128,
+				"friends_count": 2288,
+				"listed_count": 860,
+				"created_at": "Wed May 27 23:20:45 +0000 2009",
+				"favourites_count": 36784,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44415,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E2D29",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2409299713/m4lsp3hhev776f6zogc9_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2409299713/m4lsp3hhev776f6zogc9_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42992649/1376496532",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you reply maybe I can send you an NFT puppy! https://t.co/aAvCKJ5raI"
+	},
+	{
+		"created_at": "Thu Dec 16 16:59:13 +0000 2021",
+		"id": 1471525330351542300,
+		"id_str": "1471525330351542280",
+		"full_text": "Hate to see a request in a open community hanging there with no reply... anyone? anyone? https://t.co/XSH5YqAvJS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XSH5YqAvJS",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1471515715765084167",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1550,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471515715765084200,
+		"quoted_status_id_str": "1471515715765084167",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XSH5YqAvJS",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1471515715765084167",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 16 16:21:00 +0000 2021",
+			"id": 1471515715765084200,
+			"id_str": "1471515715765084167",
+			"full_text": "Help @allossodan with his request made in OEG Connect seeking suggestions for World History open textbooks https://t.co/N59S3YBoxz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AllossoDan",
+						"name": "Dan Allosso",
+						"id": 1027900844249772000,
+						"id_str": "1027900844249772032",
+						"indices": [
+							5,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/N59S3YBoxz",
+						"expanded_url": "https://connect.oeglobal.org/t/world-histories-around-the-world/3294",
+						"display_url": "connect.oeglobal.org/t/world-histor…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11226,
+				"friends_count": 518,
+				"listed_count": 554,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2620,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10775,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hate to see a request in a open community hanging there with no reply... anyone? anyone? https://t.co/XSH5YqAvJS"
+	},
+	{
 		"created_at": "Thu Dec 16 15:53:20 +0000 2021",
 		"id": 1471508751995658200,
 		"id_str": "1471508751995658242",

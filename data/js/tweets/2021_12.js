@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 15:53:20 +0000 2021",
+		"id": 1471508751995658200,
+		"id_str": "1471508751995658242",
+		"full_text": "@steelwagstaff @pressbooks @queerpoetics @maeverawr @actualham @edtechfactotum @poritzj @standardstaple8 @jessnordell @rosecardfaux @erinroseglass @Bali_Maha @OnlineCrsLady @judell @sigpeterson @kate_thornhill @aj_boston Found tattered of Edward Abbey “Desert Solitaire” I read during solo Geology MS fieldwork, camping in eastern California. A reading log and mostly underlined passages, few notes. https://t.co/4SkiFl0aFO",
+		"truncated": false,
+		"display_text_range": [
+			221,
+			399
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steelwagstaff",
+					"name": "Steel Wagstaff",
+					"id": 76695243,
+					"id_str": "76695243",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "pressbooks",
+					"name": "Pressbooks",
+					"id": 197561927,
+					"id_str": "197561927",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "queerpoetics",
+					"name": "Oliver Baez Bendorf",
+					"id": 49468393,
+					"id_str": "49468393",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "maeverawr",
+					"name": "Amanda Larson",
+					"id": 35870761,
+					"id_str": "35870761",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde (he/him)",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						63,
+						78
+					]
+				},
+				{
+					"screen_name": "poritzj",
+					"name": "Jonathan Poritz",
+					"id": 4922508481,
+					"id_str": "4922508481",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"screen_name": "standardstaple8",
+					"name": "Eric Vivier",
+					"id": 258540730,
+					"id_str": "258540730",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"screen_name": "jessnordell",
+					"name": "jessica nordell",
+					"id": 378790873,
+					"id_str": "378790873",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"screen_name": "rosecardfaux",
+					"name": "Rose Card-Faux",
+					"id": 1191834439,
+					"id_str": "1191834439",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"screen_name": "erinroseglass",
+					"name": "erin glass",
+					"id": 468076687,
+					"id_str": "468076687",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						158,
+						172
+					]
+				},
+				{
+					"screen_name": "judell",
+					"name": "Jon Udell",
+					"id": 2937071,
+					"id_str": "2937071",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"screen_name": "sigpeterson",
+					"name": "Sigrid Peterson",
+					"id": 20022338,
+					"id_str": "20022338",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"screen_name": "kate_thornhill",
+					"name": "Kate Thornhill (she/her)",
+					"id": 331222430,
+					"id_str": "331222430",
+					"indices": [
+						194,
+						209
+					]
+				},
+				{
+					"screen_name": "aj_boston",
+					"name": "aj boston",
+					"id": 4901659043,
+					"id_str": "4901659043",
+					"indices": [
+						210,
+						220
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471508728016826400,
+					"id_str": "1471508728016826374",
+					"indices": [
+						400,
+						423
+					],
+					"media_url": "http://pbs.twimg.com/media/FGvZZElUcAYxNBM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGvZZElUcAYxNBM.jpg",
+					"url": "https://t.co/4SkiFl0aFO",
+					"display_url": "pic.twitter.com/4SkiFl0aFO",
+					"expanded_url": "https://twitter.com/cogdog/status/1471508751995658242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471508728016826400,
+					"id_str": "1471508728016826374",
+					"indices": [
+						400,
+						423
+					],
+					"media_url": "http://pbs.twimg.com/media/FGvZZElUcAYxNBM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGvZZElUcAYxNBM.jpg",
+					"url": "https://t.co/4SkiFl0aFO",
+					"display_url": "pic.twitter.com/4SkiFl0aFO",
+					"expanded_url": "https://twitter.com/cogdog/status/1471508751995658242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471508728029454300,
+					"id_str": "1471508728029454346",
+					"indices": [
+						400,
+						423
+					],
+					"media_url": "http://pbs.twimg.com/media/FGvZZEoVIAoovjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGvZZEoVIAoovjK.jpg",
+					"url": "https://t.co/4SkiFl0aFO",
+					"display_url": "pic.twitter.com/4SkiFl0aFO",
+					"expanded_url": "https://twitter.com/cogdog/status/1471508751995658242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471156818659274800,
+		"in_reply_to_status_id_str": "1471156818659274754",
+		"in_reply_to_user_id": 76695243,
+		"in_reply_to_user_id_str": "76695243",
+		"in_reply_to_screen_name": "steelwagstaff",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1550,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@steelwagstaff @pressbooks @queerpoetics @maeverawr @actualham @edtechfactotum @poritzj @standardstaple8 @jessnordell @rosecardfaux @erinroseglass @Bali_Maha @OnlineCrsLady @judell @sigpeterson @kate_thornhill @aj_boston Found tattered of Edward Abbey “Desert Solitaire” I read during solo Geology MS fieldwork, camping in eastern California. A reading log and mostly underlined passages, few notes. https://t.co/4SkiFl0aFO"
+	},
+	{
 		"created_at": "Wed Dec 15 15:28:32 +0000 2021",
 		"id": 1471140121261101000,
 		"id_str": "1471140121261101058",

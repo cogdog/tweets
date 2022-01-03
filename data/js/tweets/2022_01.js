@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 15:25:19 +0000 2022",
+		"id": 1478024682247012400,
+		"id_str": "1478024682247012357",
+		"full_text": "You can't go wrong by following The Truth plus you get compelling movies for your ears... https://t.co/Jub16bnpR1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jub16bnpR1",
+					"expanded_url": "https://twitter.com/TheTruthFiction/status/1476988973704744965",
+					"display_url": "twitter.com/TheTruthFictio…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1546,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1476988973704745000,
+		"quoted_status_id_str": "1476988973704744965",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Jub16bnpR1",
+			"expanded": "https://twitter.com/TheTruthFiction/status/1476988973704744965",
+			"display": "twitter.com/TheTruthFictio…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 31 18:49:47 +0000 2021",
+			"id": 1476988973704745000,
+			"id_str": "1476988973704744965",
+			"full_text": "Our 10th anniversary is coming February 11th (that’s the date of our first podcast episode release). Will we reach 10k followers by our 10th anniversary? https://t.co/B1pX6uouLt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1476988970353545200,
+						"id_str": "1476988970353545222",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FH9RpKMX0AY0TWL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FH9RpKMX0AY0TWL.jpg",
+						"url": "https://t.co/B1pX6uouLt",
+						"display_url": "pic.twitter.com/B1pX6uouLt",
+						"expanded_url": "https://twitter.com/TheTruthFiction/status/1476988973704744965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 923,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 923,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1476988970353545200,
+						"id_str": "1476988970353545222",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FH9RpKMX0AY0TWL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FH9RpKMX0AY0TWL.jpg",
+						"url": "https://t.co/B1pX6uouLt",
+						"display_url": "pic.twitter.com/B1pX6uouLt",
+						"expanded_url": "https://twitter.com/TheTruthFiction/status/1476988973704744965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 923,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 923,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 249644395,
+				"id_str": "249644395",
+				"name": "The Truth Podcast",
+				"screen_name": "TheTruthFiction",
+				"location": "New York",
+				"description": "New stories in stereo. Part of @radiotopia from PRX. Produced by @yourpaljonathan.",
+				"url": "https://t.co/CoC6Lh2kyw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CoC6Lh2kyw",
+								"expanded_url": "http://www.thetruthpodcast.com",
+								"display_url": "thetruthpodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9929,
+				"friends_count": 401,
+				"listed_count": 301,
+				"created_at": "Wed Feb 09 13:47:35 +0000 2011",
+				"favourites_count": 8204,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3315,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F0200",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1303508067645095936/OgY6QU0L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303508067645095936/OgY6QU0L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/249644395/1599615439",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can't go wrong by following The Truth plus you get compelling movies for your ears... https://t.co/Jub16bnpR1"
+	},
+	{
 		"created_at": "Mon Jan 03 14:38:09 +0000 2022",
 		"id": 1478012815382401000,
 		"id_str": "1478012815382401029",

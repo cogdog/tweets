@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 14:09:22 +0000 2022",
+		"id": 1478730344035762200,
+		"id_str": "1478730344035762178",
+		"full_text": "@verenanz @hj_dewaard @catherinecronin @JoelTempleman @barbbrown @tumbach @n_neutzling @TRUOpenLearning @UCalgaryEduc The thanks go all back to you and Nicole, who ran the recording sessions and did post production like a pro. And so valuable to provide the student viewpoint.",
+		"truncated": false,
+		"display_text_range": [
+			118,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "catherinecronin",
+					"name": "Dr. Catherine Cronin",
+					"id": 59833587,
+					"id_str": "59833587",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "JoelTempleman",
+					"name": "Joel Templeman",
+					"id": 286255966,
+					"id_str": "286255966",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "barbbrown",
+					"name": "Dr. Barb Brown",
+					"id": 1829021,
+					"id_str": "1829021",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "tumbach",
+					"name": "MrsTumbach vanStreun",
+					"id": 125372814,
+					"id_str": "125372814",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"screen_name": "n_neutzling",
+					"name": "Nicole Neutzling 🇨🇦🇺🇾🇧🇭",
+					"id": 895682328357294100,
+					"id_str": "895682328357294081",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "TRUOpenLearning",
+					"name": "TRU, Open Learning",
+					"id": 23662900,
+					"id_str": "23662900",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"screen_name": "UCalgaryEduc",
+					"name": "Werklund School",
+					"id": 219787456,
+					"id_str": "219787456",
+					"indices": [
+						104,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1478415380494307300,
+		"in_reply_to_status_id_str": "1478415380494307332",
+		"in_reply_to_user_id": 540380886,
+		"in_reply_to_user_id_str": "540380886",
+		"in_reply_to_screen_name": "verenanz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1547,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@verenanz @hj_dewaard @catherinecronin @JoelTempleman @barbbrown @tumbach @n_neutzling @TRUOpenLearning @UCalgaryEduc The thanks go all back to you and Nicole, who ran the recording sessions and did post production like a pro. And so valuable to provide the student viewpoint."
+	},
+	{
 		"created_at": "Wed Jan 05 01:14:44 +0000 2022",
 		"id": 1478535404366315500,
 		"id_str": "1478535404366315523",

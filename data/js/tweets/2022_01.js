@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 12 15:28:22 +0000 2022",
+		"id": 1481282876868071400,
+		"id_str": "1481286943535210497",
+		"full_text": "1 month to deadline for proposals for 'Higher Education for Good: Teaching &amp; Learning Futures' #HE4Good \n@czernie &amp; I invite contributors to share nuanced critical perspectives, rethink histories, offer alternative imaginaries, consider preferable futures.\nhttps://t.co/Kb6WoV6SsA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HE4Good",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Czernie",
+					"name": "Laura Czerniewicz",
+					"id": 55540675,
+					"id_str": "55540675",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kb6WoV6SsA",
+					"expanded_url": "http://bit.ly/HE4Good",
+					"display_url": "bit.ly/HE4Good",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59833587,
+			"id_str": "59833587",
+			"name": "Dr. Catherine Cronin",
+			"screen_name": "catherinecronin",
+			"location": "Galway & Dublin",
+			"description": "open educator & open researcher | equity & social justice | #HE4good | #FemEdTech #UnboundEq #GO_GN #openedIE | she/her",
+			"url": "https://t.co/fXvEZSpZEf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fXvEZSpZEf",
+							"expanded_url": "http://catherinecronin.net/",
+							"display_url": "catherinecronin.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10542,
+			"friends_count": 3318,
+			"listed_count": 576,
+			"created_at": "Fri Jul 24 17:08:17 +0000 2009",
+			"favourites_count": 70488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "594F4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834092252490145797/OQLf_CqL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834092252490145797/OQLf_CqL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59833587/1531151665",
+			"profile_link_color": "2F72C4",
+			"profile_sidebar_border_color": "E5FCC2",
+			"profile_sidebar_fill_color": "9DE0AD",
+			"profile_text_color": "547980",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1 month to deadline for proposals for 'Higher Education for Good: Teaching &amp; Learning Futures' #HE4Good \n@czernie &amp; I invite contributors to share nuanced critical perspectives, rethink histories, offer alternative imaginaries, consider preferable futures.\nhttps://t.co/Kb6WoV6SsA"
+	},
+	{
 		"created_at": "Wed Jan 12 14:27:26 +0000 2022",
 		"id": 1481271606844346400,
 		"id_str": "1481271606844346373",

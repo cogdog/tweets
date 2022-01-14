@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 14 20:31:18 +0000 2022",
+		"id": 1482087951186157600,
+		"id_str": "1482087951186157577",
+		"full_text": "@ALT_OpenEdSIG @mhawksey And use a secret insider's trick... Start with the #oer22 TAGS explorer URL\n\nhttps://t.co/HLoTPH9i7L\n\nand add to it (w/o @) \"&amp;name=TWITTERNAME\" to find you or someone else in the mix\n\ne.g. for @WarwickLanguage \n\nhttps://t.co/DODO6WSZ3X",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer22",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ALT_OpenEdSIG",
+					"name": "ALT Open Education Special Interest Group",
+					"id": 1159063897137131500,
+					"id_str": "1159063897137131521",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HLoTPH9i7L",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1DEoSbfxACNFGR_We_UWVSzfWkZZZzgxLAVWXdRVdD08&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/DODO6WSZ3X",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1DEoSbfxACNFGR_We_UWVSzfWkZZZzgxLAVWXdRVdD08&gid=400689247&name=WarwickLanguage",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1482087239228268500,
+		"in_reply_to_status_id_str": "1482087239228268549",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1547,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ALT_OpenEdSIG @mhawksey And use a secret insider's trick... Start with the #oer22 TAGS explorer URL\n\nhttps://t.co/HLoTPH9i7L\n\nand add to it (w/o @) \"&amp;name=TWITTERNAME\" to find you or someone else in the mix\n\ne.g. for @WarwickLanguage \n\nhttps://t.co/DODO6WSZ3X"
+	},
+	{
+		"created_at": "Fri Jan 14 20:28:28 +0000 2022",
+		"id": 1482087239228268500,
+		"id_str": "1482087239228268549",
+		"full_text": "@ALT_OpenEdSIG @mhawksey Make use of the tabs at top left to see individual activity around #oer22 tags, each bar on graph opens a single person's tagged tweets https://t.co/8l1dZANukj",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer22",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ALT_OpenEdSIG",
+					"name": "ALT Open Education Special Interest Group",
+					"id": 1159063897137131500,
+					"id_str": "1159063897137131521",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1482087189043372000,
+					"id_str": "1482087189043372039",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJFuci0WYAcUYGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJFuci0WYAcUYGu.jpg",
+					"url": "https://t.co/8l1dZANukj",
+					"display_url": "pic.twitter.com/8l1dZANukj",
+					"expanded_url": "https://twitter.com/cogdog/status/1482087239228268549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482087189043372000,
+					"id_str": "1482087189043372039",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJFuci0WYAcUYGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJFuci0WYAcUYGu.jpg",
+					"url": "https://t.co/8l1dZANukj",
+					"display_url": "pic.twitter.com/8l1dZANukj",
+					"expanded_url": "https://twitter.com/cogdog/status/1482087239228268549/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 558,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							512,
+							279
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FJFuci0WYAcUYGu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1482086773190766600,
+		"in_reply_to_status_id_str": "1482086773190766592",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1547,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ALT_OpenEdSIG @mhawksey Make use of the tabs at top left to see individual activity around #oer22 tags, each bar on graph opens a single person's tagged tweets https://t.co/8l1dZANukj"
+	},
+	{
 		"created_at": "Fri Jan 14 19:39:21 +0000 2022",
 		"id": 1482074881130909700,
 		"id_str": "1482074881130909712",

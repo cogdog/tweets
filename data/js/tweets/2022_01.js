@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 22:44:50 +0000 2022",
+		"id": 1484295886154915800,
+		"id_str": "1484295886154915845",
+		"full_text": "@tutormentorteam @SSpellmanCann @courosa @tina_p @grammasheri @EHordyskiLuong @trainersleaders @rljessen @karenatsharon @debbiefuco @clhendrickson @veranz @RosemaryFPowers @JeffMerrell @DeDari @bhwilkoff @folynick @ActivateLearn @epilepticrabbit These? https://t.co/YEPSL66ECS",
+		"truncated": false,
+		"display_text_range": [
+			246,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tutormentorteam",
+					"name": "Daniel Bassill",
+					"id": 45338918,
+					"id_str": "45338918",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SSpellmanCann",
+					"name": "Susan Spellman Cann",
+					"id": 357925862,
+					"id_str": "357925862",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"screen_name": "tina_p",
+					"name": "Tina Photakis",
+					"id": 14162617,
+					"id_str": "14162617",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "EHordyskiLuong",
+					"name": "Erin Luong",
+					"id": 389131847,
+					"id_str": "389131847",
+					"indices": [
+						62,
+						77
+					]
+				},
+				{
+					"screen_name": "trainersleaders",
+					"name": "Paul Signorelli",
+					"id": 228276261,
+					"id_str": "228276261",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "rljessen",
+					"name": "Rhonda Jessen (she/her)",
+					"id": 201893567,
+					"id_str": "201893567",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"screen_name": "karenatsharon",
+					"name": "Karen Young",
+					"id": 186307153,
+					"id_str": "186307153",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"screen_name": "debbiefuco",
+					"name": "Debbie Fucoloro, PhD",
+					"id": 15280795,
+					"id_str": "15280795",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"screen_name": "clhendrickson",
+					"name": "Christie Fromm",
+					"id": 20799590,
+					"id_str": "20799590",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"screen_name": "veranz",
+					"name": "veranza osa",
+					"id": 85518302,
+					"id_str": "85518302",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"screen_name": "RosemaryFPowers",
+					"name": "Rosemary Powers",
+					"id": 842442697,
+					"id_str": "842442697",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"screen_name": "JeffMerrell",
+					"name": "Jeff Merrell",
+					"id": 21969011,
+					"id_str": "21969011",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"screen_name": "DeDari",
+					"name": "🔥Dari",
+					"id": 785487123436765200,
+					"id_str": "785487123436765184",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"screen_name": "folynick",
+					"name": "Fenella Olynick",
+					"id": 301803313,
+					"id_str": "301803313",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"screen_name": "ActivateLearn",
+					"name": "Helen Blunden 🤔🧠🦉📚🥇",
+					"id": 450340061,
+					"id_str": "450340061",
+					"indices": [
+						214,
+						228
+					]
+				},
+				{
+					"screen_name": "epilepticrabbit",
+					"name": "Laura Hilliger",
+					"id": 212475110,
+					"id_str": "212475110",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YEPSL66ECS",
+					"expanded_url": "https://twitter.com/etmooc/lists",
+					"display_url": "twitter.com/etmooc/lists",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1484291389156475000,
+		"in_reply_to_status_id_str": "1484291389156474880",
+		"in_reply_to_user_id": 45338918,
+		"in_reply_to_user_id_str": "45338918",
+		"in_reply_to_screen_name": "tutormentorteam",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10415,
+			"friends_count": 1547,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tutormentorteam @SSpellmanCann @courosa @tina_p @grammasheri @EHordyskiLuong @trainersleaders @rljessen @karenatsharon @debbiefuco @clhendrickson @veranz @RosemaryFPowers @JeffMerrell @DeDari @bhwilkoff @folynick @ActivateLearn @epilepticrabbit These? https://t.co/YEPSL66ECS"
+	},
+	{
 		"created_at": "Thu Jan 20 14:32:02 +0000 2022",
 		"id": 1484171868336709600,
 		"id_str": "1484171868336709634",

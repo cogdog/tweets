@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 20:46:05 +0000 2022",
+		"id": 1484990777512059000,
+		"id_str": "1484990777512058880",
+		"full_text": "@JeffMerrell @courosa @AlisonSeaman @folynick @clhendricksbc @EHordyskiLuong @rljessen @verenanz @ActivateLearn Thanks Jeff— I hold on to the idea that our human-ness rises above the platforms. That’s what makes genuine community",
+		"truncated": false,
+		"display_text_range": [
+			112,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffMerrell",
+					"name": "Jeff Merrell",
+					"id": 21969011,
+					"id_str": "21969011",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "AlisonSeaman",
+					"name": "Alison Seaman, MHRD",
+					"id": 372578436,
+					"id_str": "372578436",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "folynick",
+					"name": "Fenella Olynick",
+					"id": 301803313,
+					"id_str": "301803313",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "clhendricksbc",
+					"name": "Christina Hendricks",
+					"id": 260919324,
+					"id_str": "260919324",
+					"indices": [
+						46,
+						60
+					]
+				},
+				{
+					"screen_name": "EHordyskiLuong",
+					"name": "Erin Luong",
+					"id": 389131847,
+					"id_str": "389131847",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "rljessen",
+					"name": "Rhonda Jessen (she/her)",
+					"id": 201893567,
+					"id_str": "201893567",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "ActivateLearn",
+					"name": "Helen Blunden 🤔🧠🦉📚🥇",
+					"id": 450340061,
+					"id_str": "450340061",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484981629311455200,
+		"in_reply_to_status_id_str": "1484981629311455235",
+		"in_reply_to_user_id": 21969011,
+		"in_reply_to_user_id_str": "21969011",
+		"in_reply_to_screen_name": "JeffMerrell",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1546,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JeffMerrell @courosa @AlisonSeaman @folynick @clhendricksbc @EHordyskiLuong @rljessen @verenanz @ActivateLearn Thanks Jeff— I hold on to the idea that our human-ness rises above the platforms. That’s what makes genuine community"
+	},
+	{
 		"created_at": "Sat Jan 22 05:33:16 +0000 2022",
 		"id": 1484761059965743000,
 		"id_str": "1484761059965743104",

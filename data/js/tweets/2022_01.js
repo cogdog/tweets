@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 17:20:33 +0000 2022",
+		"id": 1488200540999856000,
+		"id_str": "1488200540999856131",
+		"full_text": "It's another round of trying to get some global annotation activity going, Feb 1-3 (or anytime, because that's how #annotation works).\n\nBut look for more rampant tweeting Tuesday and also open drop in hours Wednesday https://t.co/f6YDbrWdxq https://t.co/ge2RmybOU3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annotation",
+					"indices": [
+						115,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f6YDbrWdxq",
+					"expanded_url": "https://connect.oeglobal.org/t/join-the-open-annotation-lab/3313",
+					"display_url": "connect.oeglobal.org/t/join-the-ope…",
+					"indices": [
+						217,
+						240
+					]
+				},
+				{
+					"url": "https://t.co/ge2RmybOU3",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1488173442914525190",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1546,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1488173442914525200,
+		"quoted_status_id_str": "1488173442914525190",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ge2RmybOU3",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1488173442914525190",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 31 15:32:52 +0000 2022",
+			"id": 1488173442914525200,
+			"id_str": "1488173442914525190",
+			"full_text": "This week is our next focus on #annotating details of the UNESCO OER Recommendation Action Area, this week on Developing Supportive Policy. \n\nHelp by attaching examples, resources, questions to specific words as @hypothes_is notes. \n\nDetails https://t.co/WlZIO0eEkw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "annotating",
+						"indices": [
+							31,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothesis",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							212,
+							224
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WlZIO0eEkw",
+						"expanded_url": "https://connect.oeglobal.org/t/3392",
+						"display_url": "connect.oeglobal.org/t/3392",
+						"indices": [
+							242,
+							265
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11303,
+				"friends_count": 518,
+				"listed_count": 555,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10816,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's another round of trying to get some global annotation activity going, Feb 1-3 (or anytime, because that's how #annotation works).\n\nBut look for more rampant tweeting Tuesday and also open drop in hours Wednesday https://t.co/f6YDbrWdxq https://t.co/ge2RmybOU3"
+	},
+	{
 		"created_at": "Mon Jan 31 15:38:11 +0000 2022",
 		"id": 1488174781895782400,
 		"id_str": "1488174781895782402",

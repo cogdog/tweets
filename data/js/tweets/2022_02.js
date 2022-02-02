@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 14:58:53 +0000 2022",
+		"id": 1488889666954829800,
+		"id_str": "1488889666954829828",
+		"full_text": "All the @OpenEdGlobal updates that can be packed into a newsletter, but there is always more. https://t.co/kj4FIPL5ke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kj4FIPL5ke",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1488883878886625280",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10414,
+			"friends_count": 1547,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1488883878886625300,
+		"quoted_status_id_str": "1488883878886625280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kj4FIPL5ke",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1488883878886625280",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 02 14:35:53 +0000 2022",
+			"id": 1488883878886625300,
+			"id_str": "1488883878886625280",
+			"full_text": "#1 Open Education News in 2022 - https://t.co/N8BvRHBbZc\n\n#Whatareyousharing at #OEWeek in March\nJoin the 2nd @UNESCO #OER annotation event\n#6reasons to attend OEGlobal22\nSubmit your OEGlobal22 proposal in #Arabic, #Chinese, \n#English, #French, or #Spanish • and SO MUCH more. https://t.co/VAcst12Pt7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Whatareyousharing",
+						"indices": [
+							58,
+							76
+						]
+					},
+					{
+						"text": "OEWeek",
+						"indices": [
+							80,
+							87
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							118,
+							122
+						]
+					},
+					{
+						"text": "6reasons",
+						"indices": [
+							140,
+							149
+						]
+					},
+					{
+						"text": "Arabic",
+						"indices": [
+							206,
+							213
+						]
+					},
+					{
+						"text": "Chinese",
+						"indices": [
+							215,
+							223
+						]
+					},
+					{
+						"text": "English",
+						"indices": [
+							226,
+							234
+						]
+					},
+					{
+						"text": "French",
+						"indices": [
+							236,
+							243
+						]
+					},
+					{
+						"text": "Spanish",
+						"indices": [
+							248,
+							256
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UNESCO",
+						"name": "UNESCO 🏛️ #Education #Sciences #Culture 🇺🇳😷",
+						"id": 20646711,
+						"id_str": "20646711",
+						"indices": [
+							110,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/N8BvRHBbZc",
+						"expanded_url": "https://mailchi.mp/oeglobal.org/open-education-news-2022-01",
+						"display_url": "mailchi.mp/oeglobal.org/o…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1488883877426962400,
+						"id_str": "1488883877426962432",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/FKmT_4HXIAASp3O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKmT_4HXIAASp3O.jpg",
+						"url": "https://t.co/VAcst12Pt7",
+						"display_url": "pic.twitter.com/VAcst12Pt7",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1488883878886625280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1488883877426962400,
+						"id_str": "1488883877426962432",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/FKmT_4HXIAASp3O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKmT_4HXIAASp3O.jpg",
+						"url": "https://t.co/VAcst12Pt7",
+						"display_url": "pic.twitter.com/VAcst12Pt7",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1488883878886625280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Open Education Global is a member-based non-profit committed to the development, use and advancement of open education with its worldwide community and members.",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11303,
+				"friends_count": 518,
+				"listed_count": 555,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10822,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1625846041",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All the @OpenEdGlobal updates that can be packed into a newsletter, but there is always more. https://t.co/kj4FIPL5ke"
+	},
+	{
 		"created_at": "Wed Feb 02 03:52:07 +0000 2022",
 		"id": 1488721868429353000,
 		"id_str": "1488721868429352967",

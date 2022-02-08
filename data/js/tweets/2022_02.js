@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 20:34:53 +0000 2022",
+		"id": 1491148549714808800,
+		"id_str": "1491148549714808832",
+		"full_text": "My advice (not available on a blockchain) is to explore every web documentary spun by @remixmanifesto \n\nPinging the #netnarr chamber! https://t.co/5GvncOeA0x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "netnarr",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remixmanifesto",
+					"name": "Brett Gaylor (he/him)",
+					"id": 17851599,
+					"id_str": "17851599",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5GvncOeA0x",
+					"expanded_url": "https://twitter.com/remixmanifesto/status/1491147528406200320",
+					"display_url": "twitter.com/remixmanifesto…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1547,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1491147528406200300,
+		"quoted_status_id_str": "1491147528406200320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5GvncOeA0x",
+			"expanded": "https://twitter.com/remixmanifesto/status/1491147528406200320",
+			"display": "twitter.com/remixmanifesto…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 08 20:30:49 +0000 2022",
+			"id": 1491147528406200300,
+			"id_str": "1491147528406200320",
+			"full_text": "I'm releasing a new thing! Collaborating with the team at @hololabs , I've created a satirical documentary augmented reality filter about the Metaverse. What's that, you say? Try it!  Or stop by the  @VicFilmFestival tomorrow to talk! https://t.co/FcQgg9U9NC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hololabs",
+						"name": "hololabs",
+						"id": 232699384,
+						"id_str": "232699384",
+						"indices": [
+							58,
+							67
+						]
+					},
+					{
+						"screen_name": "VicFilmFestival",
+						"name": "VictoriaFilmFestival",
+						"id": 17541885,
+						"id_str": "17541885",
+						"indices": [
+							200,
+							216
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FcQgg9U9NC",
+						"expanded_url": "https://www.hololabs.org/welcome-to-the-metaverse",
+						"display_url": "hololabs.org/welcome-to-the…",
+						"indices": [
+							235,
+							258
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17851599,
+				"id_str": "17851599",
+				"name": "Brett Gaylor (he/him)",
+				"screen_name": "remixmanifesto",
+				"location": "Victoria, BC",
+				"description": "Critical utopian. Documentaries: Do Not Track, Rip! A Remix Manifesto, OK Google, Internet of Everything.  Raising kids on Lekwungen territory.",
+				"url": "https://t.co/nJJ2awCNnZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nJJ2awCNnZ",
+								"expanded_url": "http://www.impostermedia.com",
+								"display_url": "impostermedia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5431,
+				"friends_count": 1255,
+				"listed_count": 455,
+				"created_at": "Wed Dec 03 22:36:45 +0000 2008",
+				"favourites_count": 2518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13539,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0A0A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950529444740980736/ICqhiV-I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17851599/1644014901",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My advice (not available on a blockchain) is to explore every web documentary spun by @remixmanifesto \n\nPinging the #netnarr chamber! https://t.co/5GvncOeA0x"
+	},
+	{
 		"created_at": "Tue Feb 08 18:40:28 +0000 2022",
 		"id": 1491119758070235100,
 		"id_str": "1491119758070235137",

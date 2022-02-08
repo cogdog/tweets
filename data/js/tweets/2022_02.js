@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 18:40:28 +0000 2022",
+		"id": 1491119758070235100,
+		"id_str": "1491119758070235137",
+		"full_text": "Thanks Clint! this is for Open Education Week but has no time bounds.\n\nNo zooming is involved!\n\nWe are offering a space there for anyone who wants to create an AMA related to Open Education for  #OEWeek  (and beyond) https://t.co/U00lKrsbou https://t.co/h3WUAUt8r4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEWeek",
+					"indices": [
+						195,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U00lKrsbou",
+					"expanded_url": "https://connect.oeglobal.org/c/oeweek/oeweek-do/36",
+					"display_url": "connect.oeglobal.org/c/oeweek/oewee…",
+					"indices": [
+						217,
+						240
+					]
+				},
+				{
+					"url": "https://t.co/h3WUAUt8r4",
+					"expanded_url": "https://twitter.com/edtechfactotum/status/1491118490484617217",
+					"display_url": "twitter.com/edtechfactotum…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1547,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1491118490484617200,
+		"quoted_status_id_str": "1491118490484617217",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h3WUAUt8r4",
+			"expanded": "https://twitter.com/edtechfactotum/status/1491118490484617217",
+			"display": "twitter.com/edtechfactotum…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 08 18:35:26 +0000 2022",
+			"id": 1491118490484617200,
+			"id_str": "1491118490484617217",
+			"full_text": "Over in the @OpenEdGlobal forums I see that @cogdog is hosting an AMA session on H5P. Got questions about H5P? This is the person to ask https://t.co/7v0IMUNkNh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OpenEdGlobal",
+						"name": "Open Education Global",
+						"id": 16548567,
+						"id_str": "16548567",
+						"indices": [
+							12,
+							25
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							44,
+							51
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7v0IMUNkNh",
+						"expanded_url": "https://connect.oeglobal.org/t/im-alan-levine-ask-me-anything-about-using-h5p/3494",
+						"display_url": "connect.oeglobal.org/t/im-alan-levi…",
+						"indices": [
+							137,
+							160
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822204322796609500,
+				"id_str": "822204322796609536",
+				"name": "Clint Lalonde (he/him)",
+				"screen_name": "edtechfactotum",
+				"location": "W̱SÁNEĆ/Victoria BC",
+				"description": "@bccampus OpenEd EdTech | Online Sessional @RRUEduStudies @UVicEducation | co-founder @openetc | Producer @YearsEd | online & open edu | ally | terible speler",
+				"url": "https://t.co/JJKxJG6lpO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JJKxJG6lpO",
+								"expanded_url": "https://edtechfactotum.com/",
+								"display_url": "edtechfactotum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2324,
+				"friends_count": 1647,
+				"listed_count": 71,
+				"created_at": "Thu Jan 19 22:09:21 +0000 2017",
+				"favourites_count": 8435,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 860,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445144155831734291/nl73KwJn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445144155831734291/nl73KwJn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822204322796609536/1633384647",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks Clint! this is for Open Education Week but has no time bounds.\n\nNo zooming is involved!\n\nWe are offering a space there for anyone who wants to create an AMA related to Open Education for  #OEWeek  (and beyond) https://t.co/U00lKrsbou https://t.co/h3WUAUt8r4"
+	},
+	{
 		"created_at": "Tue Feb 08 18:06:50 +0000 2022",
 		"id": 1491111292467355600,
 		"id_str": "1491111292467355652",

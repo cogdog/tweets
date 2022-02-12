@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 14:27:05 +0000 2022",
+		"id": 1492505542446792700,
+		"id_str": "1492505542446792707",
+		"full_text": "This is open now but is set up for Open Education Week Mar 7-11 #oeweek \nPlease post questions in the OEG connect space linked below. https://t.co/PE2niuwbHG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oeweek",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PE2niuwbHG",
+					"expanded_url": "https://twitter.com/ymdahi/status/1492347663337103363",
+					"display_url": "twitter.com/ymdahi/status/…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1492347663337103400,
+		"quoted_status_id_str": "1492347663337103363",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PE2niuwbHG",
+			"expanded": "https://twitter.com/ymdahi/status/1492347663337103363",
+			"display": "twitter.com/ymdahi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 12 03:59:44 +0000 2022",
+			"id": 1492347663337103400,
+			"id_str": "1492347663337103363",
+			"full_text": "Attn #H5P aficionados: @cogdog is hosting an Ask-Me-Anything (AMA) on H5P over at OEGlobal Connect:\n\nhttps://t.co/cIEwIWLLhs\n\nDon't miss this chance to chat with Alan and other folks interested in h5p for #OER!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "H5P",
+						"indices": [
+							5,
+							9
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							205,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							23,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cIEwIWLLhs",
+						"expanded_url": "https://connect.oeglobal.org/t/im-alan-levine-ask-me-anything-about-using-h5p/3494",
+						"display_url": "connect.oeglobal.org/t/im-alan-levi…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 972250261,
+				"id_str": "972250261",
+				"name": "Yasin Dahi",
+				"screen_name": "ymdahi",
+				"location": "Waterloo, Ontario",
+				"description": "#EdTech software/systems. #Drupal #JS developer. #OpenSource & #OpenEducation advocate. #Uzbek-Canadian. MEd @AthabascaU Grad. P/T Prof. Tweets are my own",
+				"url": "https://t.co/z3P4DsKazn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z3P4DsKazn",
+								"expanded_url": "https://learnful.io",
+								"display_url": "learnful.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 274,
+				"friends_count": 664,
+				"listed_count": 11,
+				"created_at": "Mon Nov 26 16:09:24 +0000 2012",
+				"favourites_count": 878,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 513,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451631323236519945/3y8a0NTG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451631323236519945/3y8a0NTG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972250261/1619801833",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is open now but is set up for Open Education Week Mar 7-11 #oeweek \nPlease post questions in the OEG connect space linked below. https://t.co/PE2niuwbHG"
+	},
+	{
 		"created_at": "Sat Feb 12 09:52:50 +0000 2022",
 		"id": 1492436524738224000,
 		"id_str": "1492436524738224136",

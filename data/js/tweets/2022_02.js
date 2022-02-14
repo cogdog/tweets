@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 15:14:47 +0000 2022",
+		"id": 1493242324159185000,
+		"id_str": "1493242324159184899",
+		"full_text": "A refreshing change from the guest blog post spam is an email request to buy lug wrenches from me. It might be my new gig. I got wrenches. https://t.co/HSJTrC1IRO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493242213207355400,
+					"id_str": "1493242213207355398",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FLkP4aHXsAYuyQm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLkP4aHXsAYuyQm.jpg",
+					"url": "https://t.co/HSJTrC1IRO",
+					"display_url": "pic.twitter.com/HSJTrC1IRO",
+					"expanded_url": "https://twitter.com/cogdog/status/1493242324159184899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 95,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1724,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493242213207355400,
+					"id_str": "1493242213207355398",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FLkP4aHXsAYuyQm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLkP4aHXsAYuyQm.jpg",
+					"url": "https://t.co/HSJTrC1IRO",
+					"display_url": "pic.twitter.com/HSJTrC1IRO",
+					"expanded_url": "https://twitter.com/cogdog/status/1493242324159184899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 95,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1724,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A refreshing change from the guest blog post spam is an email request to buy lug wrenches from me. It might be my new gig. I got wrenches. https://t.co/HSJTrC1IRO"
+	},
+	{
+		"created_at": "Mon Feb 14 15:09:52 +0000 2022",
+		"id": 1493241085346386000,
+		"id_str": "1493241085346385924",
+		"full_text": "@OnlineCrsLady @Inoreader You swung me years ago to @inoreader it's the boss reader for me. And I hardly use it to the limits like you do.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Inoreader",
+					"name": "Inoreader",
+					"id": 1536852836,
+					"id_str": "1536852836",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "Inoreader",
+					"name": "Inoreader",
+					"id": 1536852836,
+					"id_str": "1536852836",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1493238398596919300,
+		"in_reply_to_status_id_str": "1493238398596919297",
+		"in_reply_to_user_id": 7044082,
+		"in_reply_to_user_id_str": "7044082",
+		"in_reply_to_screen_name": "OnlineCrsLady",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OnlineCrsLady @Inoreader You swung me years ago to @inoreader it's the boss reader for me. And I hardly use it to the limits like you do."
+	},
+	{
+		"created_at": "Mon Feb 14 15:08:15 +0000 2022",
+		"id": 1493240678587019300,
+		"id_str": "1493240678587019266",
+		"full_text": "@ds106dc @Cali4beach \n #tdc3686 Love in the blog syndication machine of #ds106 \n\nThe valentine day challenge at 10 years old! https://t.co/ofSytdWOog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3686",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Cali4beach",
+					"name": "SK",
+					"id": 70735873,
+					"id_str": "70735873",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493240382217494500,
+					"id_str": "1493240382217494530",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FLkON1JXoAIUW4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLkON1JXoAIUW4U.jpg",
+					"url": "https://t.co/ofSytdWOog",
+					"display_url": "pic.twitter.com/ofSytdWOog",
+					"expanded_url": "https://twitter.com/cogdog/status/1493240678587019266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 531,
+							"h": 876,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 531,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493240382217494500,
+					"id_str": "1493240382217494530",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FLkON1JXoAIUW4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLkON1JXoAIUW4U.jpg",
+					"url": "https://t.co/ofSytdWOog",
+					"display_url": "pic.twitter.com/ofSytdWOog",
+					"expanded_url": "https://twitter.com/cogdog/status/1493240678587019266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 531,
+							"h": 876,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 531,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc @Cali4beach \n #tdc3686 Love in the blog syndication machine of #ds106 \n\nThe valentine day challenge at 10 years old! https://t.co/ofSytdWOog"
+	},
+	{
+		"created_at": "Mon Feb 14 14:46:54 +0000 2022",
+		"id": 1493235304358162400,
+		"id_str": "1493235304358162437",
+		"full_text": "@francesbell @KateMfD I know this as well. And as you detail, the form/place of expression is less important than the act. \n\nYet, I hold that ceasing expression in spaces of our own is giving in to the feudal technobarons. I know a place to put this.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "KateMfD",
+					"name": "Kate Bowles",
+					"id": 379065166,
+					"id_str": "379065166",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1493205942426558500,
+		"in_reply_to_status_id_str": "1493205942426558470",
+		"in_reply_to_user_id": 12438922,
+		"in_reply_to_user_id_str": "12438922",
+		"in_reply_to_screen_name": "francesbell",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@francesbell @KateMfD I know this as well. And as you detail, the form/place of expression is less important than the act. \n\nYet, I hold that ceasing expression in spaces of our own is giving in to the feudal technobarons. I know a place to put this."
+	},
+	{
+		"created_at": "Mon Feb 14 14:25:13 +0000 2022",
+		"id": 1493229847354691600,
+		"id_str": "1493229847354691591",
+		"full_text": "2022/365/44 Lines to the Storm #flickr https://t.co/qSTMuxO9Fq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "flickr",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qSTMuxO9Fq",
+					"expanded_url": "https://flic.kr/p/2n3uMiB",
+					"display_url": "flic.kr/p/2n3uMiB",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022/365/44 Lines to the Storm #flickr https://t.co/qSTMuxO9Fq"
+	},
+	{
+		"created_at": "Mon Feb 14 14:24:12 +0000 2022",
+		"id": 1493229591342862300,
+		"id_str": "1493229591342862337",
+		"full_text": "2022/365/39 Serenity Dog #flickr https://t.co/ghlK3FEEno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "flickr",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ghlK3FEEno",
+					"expanded_url": "https://flic.kr/p/2n3y5nV",
+					"display_url": "flic.kr/p/2n3y5nV",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10417,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022/365/39 Serenity Dog #flickr https://t.co/ghlK3FEEno"
+	},
+	{
 		"created_at": "Mon Feb 14 02:12:52 +0000 2022",
 		"id": 1493045545711149000,
 		"id_str": "1493045545711149058",

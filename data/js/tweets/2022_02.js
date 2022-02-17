@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 18:21:06 +0000 2022",
+		"id": 1494376374651560000,
+		"id_str": "1494376374651559938",
+		"full_text": "@ds106dc #tdc3689 #ds106 A snake song for the times, from the @internetarchive 78RPM collection \"Snake Rag\" by Bob Wilber's Wildcats - lots of snake like trombone action https://t.co/t7ZycgbCTI https://t.co/2vx5wD5BIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3689",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "internetarchive",
+					"name": "Internet Archive",
+					"id": 18957805,
+					"id_str": "18957805",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t7ZycgbCTI",
+					"expanded_url": "https://archive.org/details/78_snake-rag_bob-wilbers-wildcats-johnny-glasel-jerry-blumberg-bob-mielke-bob-wilber_gbia0162320a/SNAKE+RAG+-+Bob+Wilber's+Wildcats+-+Johnny+Glasel.flac",
+					"display_url": "archive.org/details/78_sna…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494376051253854200,
+					"id_str": "1494376051253854208",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FL0XGd_WQAAQxq-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL0XGd_WQAAQxq-.jpg",
+					"url": "https://t.co/2vx5wD5BIJ",
+					"display_url": "pic.twitter.com/2vx5wD5BIJ",
+					"expanded_url": "https://twitter.com/cogdog/status/1494376374651559938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1008,
+							"h": 884,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 884,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494376051253854200,
+					"id_str": "1494376051253854208",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FL0XGd_WQAAQxq-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL0XGd_WQAAQxq-.jpg",
+					"url": "https://t.co/2vx5wD5BIJ",
+					"display_url": "pic.twitter.com/2vx5wD5BIJ",
+					"expanded_url": "https://twitter.com/cogdog/status/1494376374651559938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1008,
+							"h": 884,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 884,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc3689 #ds106 A snake song for the times, from the @internetarchive 78RPM collection \"Snake Rag\" by Bob Wilber's Wildcats - lots of snake like trombone action https://t.co/t7ZycgbCTI https://t.co/2vx5wD5BIJ"
+	},
+	{
 		"created_at": "Thu Feb 17 16:26:16 +0000 2022",
 		"id": 1494347475708043300,
 		"id_str": "1494347475708043276",

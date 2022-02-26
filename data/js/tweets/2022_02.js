@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 18:47:10 +0000 2022",
+		"id": 1497644426440712200,
+		"id_str": "1497644426440712194",
+		"full_text": "@SRochFanshawe @ontarioextend @verenanz @mctoonish @JRDingwall @courosa @brennacgray @mjakubec @hj_dewaard @ammienoot @DocBlom @leohavemann @steph_moore @Kcarte02 @hol_lybrarian @StellaBastone @TriciaB67 @ProfDrewSays @samccheng @JenBoothatGC @kevincpitts @gordivitez What a great result from the original tweet by @verenanz This is how it all works.",
+		"truncated": false,
+		"display_text_range": [
+			268,
+			350
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SRochFanshawe",
+					"name": "Shauna Roch",
+					"id": 859394732694405100,
+					"id_str": "859394732694405121",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "mctoonish",
+					"name": "Heather M. Ross",
+					"id": 26377999,
+					"id_str": "26377999",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"screen_name": "brennacgray",
+					"name": "Brenna Clarke Gray",
+					"id": 14109848,
+					"id_str": "14109848",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "mjakubec",
+					"name": "Melissa Jakubec",
+					"id": 104233945,
+					"id_str": "104233945",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"screen_name": "hj_dewaard",
+					"name": "Helen DeWaard",
+					"id": 2894844952,
+					"id_str": "2894844952",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"screen_name": "DocBlom",
+					"name": "Dr. Constance Blomgren",
+					"id": 2983333981,
+					"id_str": "2983333981",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"screen_name": "steph_moore",
+					"name": "dr stephanie moore",
+					"id": 15636128,
+					"id_str": "15636128",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"screen_name": "Kcarte02",
+					"name": "Kim Carter (she/her)",
+					"id": 1245025976,
+					"id_str": "1245025976",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"screen_name": "hol_lybrarian",
+					"name": "Holly Ashbourne (she/her)",
+					"id": 3222542001,
+					"id_str": "3222542001",
+					"indices": [
+						163,
+						177
+					]
+				},
+				{
+					"screen_name": "StellaBastone",
+					"name": "Stella Maris Bastone",
+					"id": 378181207,
+					"id_str": "378181207",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"screen_name": "TriciaB67",
+					"name": "Tricia B",
+					"id": 859100719626031100,
+					"id_str": "859100719626031105",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"screen_name": "ProfDrewSays",
+					"name": "Andrew Stracuzzi",
+					"id": 2557992918,
+					"id_str": "2557992918",
+					"indices": [
+						204,
+						217
+					]
+				},
+				{
+					"screen_name": "samccheng",
+					"name": "Sam Cheng",
+					"id": 124349263,
+					"id_str": "124349263",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"screen_name": "JenBoothatGC",
+					"name": "Jen Booth",
+					"id": 2792115335,
+					"id_str": "2792115335",
+					"indices": [
+						229,
+						242
+					]
+				},
+				{
+					"screen_name": "kevincpitts",
+					"name": "Kevin Pitts",
+					"id": 570025421,
+					"id_str": "570025421",
+					"indices": [
+						243,
+						255
+					]
+				},
+				{
+					"screen_name": "gordivitez",
+					"name": "Gordana Vitez",
+					"id": 23520587,
+					"id_str": "23520587",
+					"indices": [
+						256,
+						267
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						315,
+						324
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497561559333228500,
+		"in_reply_to_status_id_str": "1497561559333228552",
+		"in_reply_to_user_id": 859394732694405100,
+		"in_reply_to_user_id_str": "859394732694405121",
+		"in_reply_to_screen_name": "SRochFanshawe",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10432,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SRochFanshawe @ontarioextend @verenanz @mctoonish @JRDingwall @courosa @brennacgray @mjakubec @hj_dewaard @ammienoot @DocBlom @leohavemann @steph_moore @Kcarte02 @hol_lybrarian @StellaBastone @TriciaB67 @ProfDrewSays @samccheng @JenBoothatGC @kevincpitts @gordivitez What a great result from the original tweet by @verenanz This is how it all works."
+	},
+	{
 		"created_at": "Sat Feb 26 02:41:19 +0000 2022",
 		"id": 1497401361343856600,
 		"id_str": "1497401361343856641",

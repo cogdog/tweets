@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 14:00:46 +0000 2022",
+		"id": 1498297127797244000,
+		"id_str": "1498297127797243907",
+		"full_text": "Congrats to @dogtrax for putting the mixer together, especially given its current lack of documentation. It's really resonating to hear. https://t.co/1TLmxpII7x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1TLmxpII7x",
+					"expanded_url": "https://twitter.com/CLMOOC/status/1498242483314118657",
+					"display_url": "twitter.com/CLMOOC/status/…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498242483314118700,
+		"quoted_status_id_str": "1498242483314118657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1TLmxpII7x",
+			"expanded": "https://twitter.com/CLMOOC/status/1498242483314118657",
+			"display": "twitter.com/CLMOOC/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 28 10:23:38 +0000 2022",
+			"id": 1498242483314118700,
+			"id_str": "1498242483314118657",
+			"full_text": "Check out #clmooc Poem Voice Remixer Project https://t.co/CYTbM2d4cD Thx to @telliowkuwp @NomadWarMachine @dogtrax @ronald_2008 @wentale @grammasheri @jgmac1106 @LGZreader @inspirepassion @cogdog @JenniferDenslow for adding voices to the (re)mix! #poetry #nwp #literacies #ds106 https://t.co/ZfKmOgo4U1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "clmooc",
+						"indices": [
+							10,
+							17
+						]
+					},
+					{
+						"text": "poetry",
+						"indices": [
+							247,
+							254
+						]
+					},
+					{
+						"text": "nwp",
+						"indices": [
+							255,
+							259
+						]
+					},
+					{
+						"text": "literacies",
+						"indices": [
+							260,
+							271
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							272,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "telliowkuwp",
+						"name": "Terry Elliott",
+						"id": 326772515,
+						"id_str": "326772515",
+						"indices": [
+							76,
+							88
+						]
+					},
+					{
+						"screen_name": "NomadWarMachine",
+						"name": "Sarah Honeychurch",
+						"id": 558091832,
+						"id_str": "558091832",
+						"indices": [
+							89,
+							105
+						]
+					},
+					{
+						"screen_name": "dogtrax",
+						"name": "KevinHodgson",
+						"id": 13307352,
+						"id_str": "13307352",
+						"indices": [
+							106,
+							114
+						]
+					},
+					{
+						"screen_name": "ronald_2008",
+						"name": "Ronald_2008 🤔🌻",
+						"id": 211458710,
+						"id_str": "211458710",
+						"indices": [
+							115,
+							127
+						]
+					},
+					{
+						"screen_name": "wentale",
+						"name": "Wҽɳԃყ Tαʅҽσ",
+						"id": 1072328905,
+						"id_str": "1072328905",
+						"indices": [
+							128,
+							136
+						]
+					},
+					{
+						"screen_name": "grammasheri",
+						"name": "Sheri Edwards",
+						"id": 8373192,
+						"id_str": "8373192",
+						"indices": [
+							137,
+							149
+						]
+					},
+					{
+						"screen_name": "jgmac1106",
+						"name": "https://jgregorymcverry.com",
+						"id": 27620289,
+						"id_str": "27620289",
+						"indices": [
+							150,
+							160
+						]
+					},
+					{
+						"screen_name": "LGZreader",
+						"name": "Lauren Zucker",
+						"id": 1556008045,
+						"id_str": "1556008045",
+						"indices": [
+							161,
+							171
+						]
+					},
+					{
+						"screen_name": "inspirepassion",
+						"name": "𝐂𝐡𝐚𝐫𝐥𝐞𝐧𝐞 𝐃𝐨𝐥𝐚𝐧𝐝",
+						"id": 19514644,
+						"id_str": "19514644",
+						"indices": [
+							172,
+							187
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							188,
+							195
+						]
+					},
+					{
+						"screen_name": "JenniferDenslow",
+						"name": "Jennifer Oakley Denslow",
+						"id": 34639032,
+						"id_str": "34639032",
+						"indices": [
+							196,
+							212
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CYTbM2d4cD",
+						"expanded_url": "https://clmooc.com/clmooc-poem-voice-remixer/",
+						"display_url": "clmooc.com/clmooc-poem-vo…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1498241721116856300,
+						"id_str": "1498241721116856324",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FMrS6EbXEAQeSoB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMrS6EbXEAQeSoB.jpg",
+						"url": "https://t.co/ZfKmOgo4U1",
+						"display_url": "pic.twitter.com/ZfKmOgo4U1",
+						"expanded_url": "https://twitter.com/CLMOOC/status/1498242483314118657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 304,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 537,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1498241721116856300,
+						"id_str": "1498241721116856324",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FMrS6EbXEAQeSoB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMrS6EbXEAQeSoB.jpg",
+						"url": "https://t.co/ZfKmOgo4U1",
+						"display_url": "pic.twitter.com/ZfKmOgo4U1",
+						"expanded_url": "https://twitter.com/CLMOOC/status/1498242483314118657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 304,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 537,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2479023120,
+				"id_str": "2479023120",
+				"name": "CLMOOC",
+				"screen_name": "CLMOOC",
+				"location": "",
+				"description": "A collaborative, knowledge-building and sharing experience. #clmooc",
+				"url": "https://t.co/0xLFemU2dm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0xLFemU2dm",
+								"expanded_url": "http://www.clmooc.com",
+								"display_url": "clmooc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1498,
+				"friends_count": 1020,
+				"listed_count": 48,
+				"created_at": "Tue May 06 00:48:54 +0000 2014",
+				"favourites_count": 344,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2659,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814887799413346304/Uya_1pbF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814887799413346304/Uya_1pbF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2479023120/1483119346",
+				"profile_link_color": "F07622",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats to @dogtrax for putting the mixer together, especially given its current lack of documentation. It's really resonating to hear. https://t.co/1TLmxpII7x"
+	},
+	{
 		"created_at": "Sat Feb 26 23:58:56 +0000 2022",
 		"id": 1497722884189528000,
 		"id_str": "1497722884189528067",

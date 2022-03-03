@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 02:10:01 +0000 2022",
+		"id": 1499205421369897000,
+		"id_str": "1499205421369896970",
+		"full_text": "@micwalker @shareski @willrich45 @wfryer Thanks for this. I miss Clay’s voice. The blogging was part of the path that got me to visit his class in maybe 2010.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "micwalker",
+					"name": "Michael Walker",
+					"id": 10010202,
+					"id_str": "10010202",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "willrich45",
+					"name": "Will Richardson-BIG Questions Institute",
+					"id": 1349941,
+					"id_str": "1349941",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀 (He/Him)",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						33,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1499180890823536600,
+		"in_reply_to_status_id_str": "1499180890823536645",
+		"in_reply_to_user_id": 10010202,
+		"in_reply_to_user_id_str": "10010202",
+		"in_reply_to_screen_name": "micwalker",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@micwalker @shareski @willrich45 @wfryer Thanks for this. I miss Clay’s voice. The blogging was part of the path that got me to visit his class in maybe 2010."
+	},
+	{
 		"created_at": "Thu Mar 03 00:24:37 +0000 2022",
 		"id": 1499178899695153200,
 		"id_str": "1499178899695153155",

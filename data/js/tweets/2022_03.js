@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 19:14:03 +0000 2022",
+		"id": 1499463130946146300,
+		"id_str": "1499463130946146317",
+		"full_text": "Get ready for #OEweek Remix our postcards https://t.co/0INEmesLqw and share where you are for Open Education Week and/or where you might go!  \n\n#RemixerMachine thanks to @visualthinkery",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEweek",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "RemixerMachine",
+					"indices": [
+						144,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visualthinkery",
+					"name": "Visual Thinkery",
+					"id": 4872005950,
+					"id_str": "4872005950",
+					"indices": [
+						170,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0INEmesLqw",
+					"expanded_url": "https://remixer.visualthinkery.com/r/9dqpyt1Oc55azObsz13C/TffEcl4XkzNsqwZKNQvh",
+					"display_url": "remixer.visualthinkery.com/r/9dqpyt1Oc55a…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ready for #OEweek Remix our postcards https://t.co/0INEmesLqw and share where you are for Open Education Week and/or where you might go!  \n\n#RemixerMachine thanks to @visualthinkery"
+	},
+	{
+		"created_at": "Thu Mar 03 18:52:57 +0000 2022",
+		"id": 1499457818822426600,
+		"id_str": "1499457818822426628",
+		"full_text": "@cherylcolan @Todd_Conaway Do you send any prompts / reminders?",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cherylcolan",
+					"name": "Cheryl Colan 💙💛 (she, her)",
+					"id": 1836791,
+					"id_str": "1836791",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1499457353065779200,
+		"in_reply_to_status_id_str": "1499457353065779211",
+		"in_reply_to_user_id": 1836791,
+		"in_reply_to_user_id_str": "1836791",
+		"in_reply_to_screen_name": "cherylcolan",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cherylcolan @Todd_Conaway Do you send any prompts / reminders?"
+	},
+	{
+		"created_at": "Thu Mar 03 18:52:29 +0000 2022",
+		"id": 1499457702602358800,
+		"id_str": "1499457702602358793",
+		"full_text": "@JRDingwall @karencang @acoolidge @mburtis @gobman @DeleneWhite Anxious to hear your takes on the new tools. https://t.co/obXiD23gFD\n\nThe Cornell Notes one looks promising, but wondering what can be saved/shared\n\nand I can see uses for the structured strip\n\nbut thats from a 5 minute glance!",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "karencang",
+					"name": "Dr. Karen Cangialosi",
+					"id": 274739602,
+					"id_str": "274739602",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "acoolidge",
+					"name": "Amanda Coolidge [she/her/hers]",
+					"id": 17416175,
+					"id_str": "17416175",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "mburtis",
+					"name": "martha",
+					"id": 744533,
+					"id_str": "744533",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"screen_name": "gobman",
+					"name": "Jenny Darrow",
+					"id": 5692872,
+					"id_str": "5692872",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"screen_name": "DeleneWhite",
+					"name": "Dr. Delene White",
+					"id": 67629570,
+					"id_str": "67629570",
+					"indices": [
+						51,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/obXiD23gFD",
+					"expanded_url": "https://h5p.org/the-chase-ar-scavenger-cornell-notes-structure-strip-released",
+					"display_url": "h5p.org/the-chase-ar-s…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1499451709856239600,
+		"in_reply_to_status_id_str": "1499451709856239624",
+		"in_reply_to_user_id": 141806761,
+		"in_reply_to_user_id_str": "141806761",
+		"in_reply_to_screen_name": "JRDingwall",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JRDingwall @karencang @acoolidge @mburtis @gobman @DeleneWhite Anxious to hear your takes on the new tools. https://t.co/obXiD23gFD\n\nThe Cornell Notes one looks promising, but wondering what can be saved/shared\n\nand I can see uses for the structured strip\n\nbut thats from a 5 minute glance!"
+	},
+	{
 		"created_at": "Thu Mar 03 17:55:08 +0000 2022",
 		"id": 1499443270597943300,
 		"id_str": "1499443270597943302",

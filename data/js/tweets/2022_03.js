@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 19:21:19 +0000 2022",
+		"id": 1499464960245743600,
+		"id_str": "1499464960245743623",
+		"full_text": "@otacke @JRDingwall @karencang @acoolidge @mburtis @gobman @DeleneWhite I like that deal! Thanks Oliver",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "otacke",
+					"name": "Oliver Tacke",
+					"id": 34880281,
+					"id_str": "34880281",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "karencang",
+					"name": "Dr. Karen Cangialosi",
+					"id": 274739602,
+					"id_str": "274739602",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "acoolidge",
+					"name": "Amanda Coolidge [she/her/hers]",
+					"id": 17416175,
+					"id_str": "17416175",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "mburtis",
+					"name": "martha",
+					"id": 744533,
+					"id_str": "744533",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"screen_name": "gobman",
+					"name": "Jenny Darrow",
+					"id": 5692872,
+					"id_str": "5692872",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"screen_name": "DeleneWhite",
+					"name": "Dr. Delene White",
+					"id": 67629570,
+					"id_str": "67629570",
+					"indices": [
+						59,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1499459654509863000,
+		"in_reply_to_status_id_str": "1499459654509862928",
+		"in_reply_to_user_id": 34880281,
+		"in_reply_to_user_id_str": "34880281",
+		"in_reply_to_screen_name": "otacke",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@otacke @JRDingwall @karencang @acoolidge @mburtis @gobman @DeleneWhite I like that deal! Thanks Oliver"
+	},
+	{
 		"created_at": "Thu Mar 03 19:14:03 +0000 2022",
 		"id": 1499463130946146300,
 		"id_str": "1499463130946146317",

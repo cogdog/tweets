@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 07 19:06:07 +0000 2022",
+		"id": 1500910683889803300,
+		"id_str": "1500910683889803268",
+		"full_text": "Exciting to hear this live audio conversation via Twitter Spaces- click and listen in now #OEweek with @thatpsychprof @drmichaelmills @ProfHernandez2 https://t.co/5JjiBGF9SV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEweek",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatpsychprof",
+					"name": "Dr. Rajiv Jhangiani",
+					"id": 39835900,
+					"id_str": "39835900",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"screen_name": "drmichaelmills",
+					"name": "Michael Mills",
+					"id": 87221180,
+					"id_str": "87221180",
+					"indices": [
+						118,
+						133
+					]
+				},
+				{
+					"screen_name": "ProfHernandez2",
+					"name": "Shinta H. Hernandez, Ph.D.",
+					"id": 4226803895,
+					"id_str": "4226803895",
+					"indices": [
+						134,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5JjiBGF9SV",
+					"expanded_url": "https://twitter.com/drmichaelmills/status/1498691371774971906",
+					"display_url": "twitter.com/drmichaelmills…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498691371774972000,
+		"quoted_status_id_str": "1498691371774971906",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5JjiBGF9SV",
+			"expanded": "https://twitter.com/drmichaelmills/status/1498691371774971906",
+			"display": "twitter.com/drmichaelmills…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 01 16:07:22 +0000 2022",
+			"id": 1498691371774972000,
+			"id_str": "1498691371774971906",
+			"full_text": "Kick off #OEWeek in Twitter Spaces with @montgomerycoll as @ProfHernandez2 and I are joined by @thatpsychprof in an #askmeanything #OER session https://t.co/4te8HtQ1Pd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEWeek",
+						"indices": [
+							9,
+							16
+						]
+					},
+					{
+						"text": "askmeanything",
+						"indices": [
+							116,
+							130
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							131,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "montgomerycoll",
+						"name": "Montgomery College",
+						"id": 29475822,
+						"id_str": "29475822",
+						"indices": [
+							40,
+							55
+						]
+					},
+					{
+						"screen_name": "ProfHernandez2",
+						"name": "Shinta H. Hernandez, Ph.D.",
+						"id": 4226803895,
+						"id_str": "4226803895",
+						"indices": [
+							59,
+							74
+						]
+					},
+					{
+						"screen_name": "thatpsychprof",
+						"name": "Dr. Rajiv Jhangiani",
+						"id": 39835900,
+						"id_str": "39835900",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4te8HtQ1Pd",
+						"expanded_url": "https://twitter.com/i/spaces/1RDGlgYjXaOKL",
+						"display_url": "twitter.com/i/spaces/1RDGl…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87221180,
+				"id_str": "87221180",
+				"name": "Michael Mills",
+				"screen_name": "drmichaelmills",
+				"location": "Montgomery College",
+				"description": "Distance education, instructional technology, any technology designed to improve teaching and learning. Huge Maryland Terps fan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 606,
+				"friends_count": 347,
+				"listed_count": 24,
+				"created_at": "Tue Nov 03 16:03:50 +0000 2009",
+				"favourites_count": 4501,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907638120555958274/zTMUwtoy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907638120555958274/zTMUwtoy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87221180/1472654279",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exciting to hear this live audio conversation via Twitter Spaces- click and listen in now #OEweek with @thatpsychprof @drmichaelmills @ProfHernandez2 https://t.co/5JjiBGF9SV"
+	},
+	{
+		"created_at": "Mon Mar 07 18:55:56 +0000 2022",
+		"id": 1500908121983795200,
+		"id_str": "1500908121983795204",
+		"full_text": "@priyaparker Made this last year as anonymous place to whisper one's pandemic truths, Post Secret style. Been quiet for a whole https://t.co/NsqBhedHE9",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "priyaparker",
+					"name": "Priya Parker",
+					"id": 56212663,
+					"id_str": "56212663",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NsqBhedHE9",
+					"expanded_url": "https://whisper.arganee.world/",
+					"display_url": "whisper.arganee.world",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1500863769550983200,
+		"in_reply_to_status_id_str": "1500863769550983186",
+		"in_reply_to_user_id": 56212663,
+		"in_reply_to_user_id_str": "56212663",
+		"in_reply_to_screen_name": "priyaparker",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1548,
+			"listed_count": 784,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@priyaparker Made this last year as anonymous place to whisper one's pandemic truths, Post Secret style. Been quiet for a whole https://t.co/NsqBhedHE9"
+	},
+	{
 		"created_at": "Mon Mar 07 16:08:56 +0000 2022",
 		"id": 1500866096638804000,
 		"id_str": "1500866096638803970",

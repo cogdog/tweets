@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 22:44:17 +0000 2022",
+		"id": 1503502302124064800,
+		"id_str": "1503502302124064773",
+		"full_text": "This is suitable for today's #ds106 #dailycreate celebration of Pi Day.\n\n\"You're traveling through another dimension, a dimension not only of sight and sound but of Pi. A journey into a wondrous land of Pies whose boundaries are that of what you can shove in your mouth.\" https://t.co/KAfNY9rII6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "dailycreate",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KAfNY9rII6",
+					"expanded_url": "https://twitter.com/TheNightGallery/status/1503501224372420608",
+					"display_url": "twitter.com/TheNightGaller…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1547,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1503501224372420600,
+		"quoted_status_id_str": "1503501224372420608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KAfNY9rII6",
+			"expanded": "https://twitter.com/TheNightGallery/status/1503501224372420608",
+			"display": "twitter.com/TheNightGaller…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 14 22:40:00 +0000 2022",
+			"id": 1503501224372420600,
+			"id_str": "1503501224372420608",
+			"full_text": "1) The best place to get pie on #NationalPiDay is in a diner.\n\n2) The best diners are in the Twilight Zone. \n\n3) And the best way to see them all in one spot is by checking out my exclusive tour! \n\nEnjoy them in this encore post: https://t.co/neqtqbNYQY https://t.co/ynvxUKhkLa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalPiDay",
+						"indices": [
+							32,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/neqtqbNYQY",
+						"expanded_url": "https://thenightgallery.wordpress.com/2020/07/17/finding-food-in-the-fifth-dimension-a-tz-diner-tour/",
+						"display_url": "thenightgallery.wordpress.com/2020/07/17/fin…",
+						"indices": [
+							230,
+							253
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1503495493518774300,
+						"id_str": "1503495493518774273",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/FN19L3yWUAEftDo.png",
+						"media_url_https": "https://pbs.twimg.com/media/FN19L3yWUAEftDo.png",
+						"url": "https://t.co/ynvxUKhkLa",
+						"display_url": "pic.twitter.com/ynvxUKhkLa",
+						"expanded_url": "https://twitter.com/TheNightGallery/status/1503501224372420608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 845,
+								"h": 634,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 845,
+								"h": 634,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1503495493518774300,
+						"id_str": "1503495493518774273",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/FN19L3yWUAEftDo.png",
+						"media_url_https": "https://pbs.twimg.com/media/FN19L3yWUAEftDo.png",
+						"url": "https://t.co/ynvxUKhkLa",
+						"display_url": "pic.twitter.com/ynvxUKhkLa",
+						"expanded_url": "https://twitter.com/TheNightGallery/status/1503501224372420608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 845,
+								"h": 634,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 845,
+								"h": 634,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190403384,
+				"id_str": "190403384",
+				"name": "The Twilight Zone",
+				"screen_name": "TheNightGallery",
+				"location": "The Fifth Dimension",
+				"description": "Fan of the Twilight Zone? No need to wait for a marathon. Join me (Paul) for daily quotes and facts from TZ, Night Gallery, and Rod Serling's many other works.",
+				"url": "https://t.co/eJdaA1wl4G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eJdaA1wl4G",
+								"expanded_url": "http://thenightgallery.wordpress.com/",
+								"display_url": "thenightgallery.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34162,
+				"friends_count": 2277,
+				"listed_count": 356,
+				"created_at": "Mon Sep 13 21:34:06 +0000 2010",
+				"favourites_count": 30270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 94129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/471378910114889728/ZoYJ17X-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/471378910114889728/ZoYJ17X-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190403384/1466395060",
+				"profile_link_color": "DE0B0B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "47C1D1",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is suitable for today's #ds106 #dailycreate celebration of Pi Day.\n\n\"You're traveling through another dimension, a dimension not only of sight and sound but of Pi. A journey into a wondrous land of Pies whose boundaries are that of what you can shove in your mouth.\" https://t.co/KAfNY9rII6"
+	},
+	{
 		"created_at": "Mon Mar 14 21:47:01 +0000 2022",
 		"id": 1503487892743770000,
 		"id_str": "1503487892743770117",

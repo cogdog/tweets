@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 15:13:08 +0000 2022",
+		"id": 1503751154001399800,
+		"id_str": "1503751154001399812",
+		"full_text": "@AWohlwill @BryanAlexander That would be Domain of One's Own efforts, offered by @ReclaimHosting Info at https://t.co/wnSIPXYMEO not finding a list of institutions using but it's not small - some at https://t.co/RDC6qRexBt",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AWohlwill",
+					"name": "Arthur Wohlwill",
+					"id": 3318166991,
+					"id_str": "3318166991",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wnSIPXYMEO",
+					"expanded_url": "https://reclaimhosting.com/domain-of-ones-own/",
+					"display_url": "reclaimhosting.com/domain-of-ones…",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/RDC6qRexBt",
+					"expanded_url": "https://www.google.com/search?q=%22domain+of+one%27s+own%22",
+					"display_url": "google.com/search?q=%22do…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1503199425904230400,
+		"in_reply_to_status_id_str": "1503199425904230403",
+		"in_reply_to_user_id": 3318166991,
+		"in_reply_to_user_id_str": "3318166991",
+		"in_reply_to_screen_name": "AWohlwill",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10445,
+			"friends_count": 1547,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AWohlwill @BryanAlexander That would be Domain of One's Own efforts, offered by @ReclaimHosting Info at https://t.co/wnSIPXYMEO not finding a list of institutions using but it's not small - some at https://t.co/RDC6qRexBt"
+	},
+	{
+		"created_at": "Tue Mar 15 14:52:29 +0000 2022",
+		"id": 1503745957439099000,
+		"id_str": "1503745957439098880",
+		"full_text": "@bennettscience That's been on my long list of \"stuff I should tinker with\" -- share if you get farther",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennettscience",
+					"name": "Brian E. Bennett",
+					"id": 270307546,
+					"id_str": "270307546",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1503724472473370600,
+		"in_reply_to_status_id_str": "1503724472473370632",
+		"in_reply_to_user_id": 270307546,
+		"in_reply_to_user_id_str": "270307546",
+		"in_reply_to_screen_name": "bennettscience",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10445,
+			"friends_count": 1547,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bennettscience That's been on my long list of \"stuff I should tinker with\" -- share if you get farther"
+	},
+	{
+		"created_at": "Tue Mar 15 14:49:48 +0000 2022",
+		"id": 1503745284161126400,
+		"id_str": "1503745284161126403",
+		"full_text": "C'mon share at #pressEdConf22 @greeneterry @tinebeest @karencang @twoodwar @drcoop @Todd_Conaway @JRDingwall @Bali_Maha\n @cherylcolan @johnjohnston @phb256 @ken_bauer @joefromkenyon @grantpotter https://t.co/K4sUtiNAsM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressEdConf22",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greeneterry",
+					"name": "Greene, Terry",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "tinebeest",
+					"name": "Dr. Tineke D'Haeseleer",
+					"id": 16434234,
+					"id_str": "16434234",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "karencang",
+					"name": "Dr. Karen Cangialosi",
+					"id": 274739602,
+					"id_str": "274739602",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "drcoop",
+					"name": "Alisa Cooper",
+					"id": 6082462,
+					"id_str": "6082462",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "cherylcolan",
+					"name": "Cheryl Colan 💙💛 (she, her)",
+					"id": 1836791,
+					"id_str": "1836791",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "phb256",
+					"name": "paul bond",
+					"id": 52256628,
+					"id_str": "52256628",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"screen_name": "joefromkenyon",
+					"name": "Joe Murphy",
+					"id": 14466272,
+					"id_str": "14466272",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						182,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K4sUtiNAsM",
+					"expanded_url": "https://twitter.com/cogdog/status/1503741143040802816",
+					"display_url": "twitter.com/cogdog/status/…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10445,
+			"friends_count": 1547,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1503741143040802800,
+		"quoted_status_id_str": "1503741143040802816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K4sUtiNAsM",
+			"expanded": "https://twitter.com/cogdog/status/1503741143040802816",
+			"display": "twitter.com/cogdog/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 15 14:33:21 +0000 2022",
+			"id": 1503741143040802800,
+			"id_str": "1503741143040802816",
+			"full_text": "Do you use WordPress in education? Then surely you can present it in 10-15 tweets for #pressEdConf22\n\nI won't stop calling you Shirley until you submit something\n\nhttps://t.co/Otii9QD9zW\n\ninfo/submit here https://t.co/8Kxy8JBW5v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "pressEdConf22",
+						"indices": [
+							86,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Otii9QD9zW",
+						"expanded_url": "https://giphy.com/gifs/wordpress-shirley-pressedconf-oBK2uuE9Al514pP4ca",
+						"display_url": "giphy.com/gifs/wordpress…",
+						"indices": [
+							163,
+							186
+						]
+					},
+					{
+						"url": "https://t.co/8Kxy8JBW5v",
+						"expanded_url": "https://2022.pressedconf.org/",
+						"display_url": "2022.pressedconf.org",
+						"indices": [
+							205,
+							228
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740343,
+				"id_str": "740343",
+				"name": "Alan Levine",
+				"screen_name": "cogdog",
+				"location": "Archydal, Saskatchewan",
+				"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+				"url": "https://t.co/wAzdfm9TIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wAzdfm9TIB",
+								"expanded_url": "http://cog.dog",
+								"display_url": "cog.dog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZxC70YWtmO",
+								"expanded_url": "http://cogdogblog.com",
+								"display_url": "cogdogblog.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10445,
+				"friends_count": 1547,
+				"listed_count": 782,
+				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+				"favourites_count": 926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 94905,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "C'mon share at #pressEdConf22 @greeneterry @tinebeest @karencang @twoodwar @drcoop @Todd_Conaway @JRDingwall @Bali_Maha\n @cherylcolan @johnjohnston @phb256 @ken_bauer @joefromkenyon @grantpotter https://t.co/K4sUtiNAsM"
+	},
+	{
 		"created_at": "Tue Mar 15 02:56:57 +0000 2022",
 		"id": 1503565887613325300,
 		"id_str": "1503565887613325312",

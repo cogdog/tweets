@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 16 17:34:35 +0000 2022",
+		"id": 1504149139277459500,
+		"id_str": "1504149139277459460",
+		"full_text": "AI is great!... but only if you ask a chatbot about walnuts or chatbots. #SeriouslyUnderwhelmed g https://t.co/WUi5Gi80mZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SeriouslyUnderwhelmed",
+					"indices": [
+						73,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504148527001256000,
+					"id_str": "1504148527001255940",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_PHbFWQAQze7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_PHbFWQAQze7Q.jpg",
+					"url": "https://t.co/WUi5Gi80mZ",
+					"display_url": "pic.twitter.com/WUi5Gi80mZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1504149139277459460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 974,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504148527001256000,
+					"id_str": "1504148527001255940",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_PHbFWQAQze7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_PHbFWQAQze7Q.jpg",
+					"url": "https://t.co/WUi5Gi80mZ",
+					"display_url": "pic.twitter.com/WUi5Gi80mZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1504149139277459460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 974,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504148526988673000,
+					"id_str": "1504148526988673029",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_PHbCWQAUKHA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_PHbCWQAUKHA7.jpg",
+					"url": "https://t.co/WUi5Gi80mZ",
+					"display_url": "pic.twitter.com/WUi5Gi80mZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1504149139277459460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 876,
+							"h": 984,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 984,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504148527051640800,
+					"id_str": "1504148527051640839",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_PHbRXEAcRgF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_PHbRXEAcRgF7.jpg",
+					"url": "https://t.co/WUi5Gi80mZ",
+					"display_url": "pic.twitter.com/WUi5Gi80mZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1504149139277459460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 864,
+							"h": 980,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504148527269785600,
+					"id_str": "1504148527269785608",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_PHcFXsAg30Lt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_PHcFXsAg30Lt.jpg",
+					"url": "https://t.co/WUi5Gi80mZ",
+					"display_url": "pic.twitter.com/WUi5Gi80mZ",
+					"expanded_url": "https://twitter.com/cogdog/status/1504149139277459460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 868,
+							"h": 978,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 978,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10449,
+			"friends_count": 1547,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AI is great!... but only if you ask a chatbot about walnuts or chatbots. #SeriouslyUnderwhelmed g https://t.co/WUi5Gi80mZ"
+	},
+	{
 		"created_at": "Wed Mar 16 15:05:44 +0000 2022",
 		"id": 1504111681533878300,
 		"id_str": "1504111681533878272",

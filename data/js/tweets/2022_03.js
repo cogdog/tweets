@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 16 20:26:15 +0000 2022",
+		"id": 1504191644391731200,
+		"id_str": "1504192342630313994",
+		"full_text": "My pantry now has 108 oranges and 42 18-tbytes disk drives. That’s 756 tbytes of disk and roughly 2.8 gallons of juice. https://t.co/pqqBfoCU97",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504191630428946400,
+					"id_str": "1504191630428946434",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_2UX3VQAI2Qd6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_2UX3VQAI2Qd6.jpg",
+					"url": "https://t.co/pqqBfoCU97",
+					"display_url": "pic.twitter.com/pqqBfoCU97",
+					"expanded_url": "https://twitter.com/carlmalamud/status/1504191644391731201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504191630428946400,
+					"id_str": "1504191630428946434",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_2UX3VQAI2Qd6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_2UX3VQAI2Qd6.jpg",
+					"url": "https://t.co/pqqBfoCU97",
+					"display_url": "pic.twitter.com/pqqBfoCU97",
+					"expanded_url": "https://twitter.com/carlmalamud/status/1504191644391731201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504191630575734800,
+					"id_str": "1504191630575734785",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FN_2UYaVEAEsIJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN_2UYaVEAEsIJu.jpg",
+					"url": "https://t.co/pqqBfoCU97",
+					"display_url": "pic.twitter.com/pqqBfoCU97",
+					"expanded_url": "https://twitter.com/carlmalamud/status/1504191644391731201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17495946,
+			"id_str": "17495946",
+			"name": "Carl Malamud",
+			"screen_name": "carlmalamud",
+			"location": "Sebastopol, CA",
+			"description": "Archivist. Usually civil servant. Founder of https://t.co/j6ooU76oQO. Open source America's operating system. Code swaraj.",
+			"url": "http://t.co/jCuLZBPKTx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jCuLZBPKTx",
+							"expanded_url": "http://Public.Resource.Org/",
+							"display_url": "Public.Resource.Org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j6ooU76oQO",
+							"expanded_url": "http://Public.Resource.Org",
+							"display_url": "Public.Resource.Org",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17315,
+			"friends_count": 1467,
+			"listed_count": 814,
+			"created_at": "Wed Nov 19 21:14:58 +0000 2008",
+			"favourites_count": 10020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464912469278728192/X7T2lRQ5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464912469278728192/X7T2lRQ5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17495946/1633985297",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "BEBEBE",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My pantry now has 108 oranges and 42 18-tbytes disk drives. That’s 756 tbytes of disk and roughly 2.8 gallons of juice. https://t.co/pqqBfoCU97"
+	},
+	{
 		"created_at": "Wed Mar 16 20:10:37 +0000 2022",
 		"id": 1504188407710470100,
 		"id_str": "1504188407710470154",

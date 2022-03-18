@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 17:42:01 +0000 2022",
+		"id": 1504875786301444000,
+		"id_str": "1504875786301444096",
+		"full_text": "@OpenEdGlobal @ginofransman @wernerio @LearnEQ @MandelaUni @OpenInfluencers @GOGN_OER @oe4bw Come for the conversations and then continue on to enjoy the musical talent of our guests\n\nhttps://t.co/atww8L9fOx\n\nhttps://t.co/edFpogzV5z",
+		"truncated": false,
+		"display_text_range": [
+			93,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ginofransman",
+					"name": "Gino Fransman",
+					"id": 595651045,
+					"id_str": "595651045",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "wernerio",
+					"name": "Werner Westermann",
+					"id": 15763431,
+					"id_str": "15763431",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "LearnEQ",
+					"name": "Learning Equality",
+					"id": 1337891594,
+					"id_str": "1337891594",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "MandelaUni",
+					"name": "Mandela University",
+					"id": 215253081,
+					"id_str": "215253081",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "OpenInfluencers",
+					"name": "OpenEdInfluencers",
+					"id": 1236793838712377300,
+					"id_str": "1236793838712377344",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"screen_name": "GOGN_OER",
+					"name": "GO-GN",
+					"id": 2574966348,
+					"id_str": "2574966348",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"screen_name": "oe4bw",
+					"name": "Open Education for a Better World",
+					"id": 1143881849594400800,
+					"id_str": "1143881849594400768",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/atww8L9fOx",
+					"expanded_url": "https://soundcloud.com/gerontofobia/sets/finares",
+					"display_url": "soundcloud.com/gerontofobia/s…",
+					"indices": [
+						184,
+						207
+					]
+				},
+				{
+					"url": "https://t.co/edFpogzV5z",
+					"expanded_url": "https://soundcloud.com/ginofmusic",
+					"display_url": "soundcloud.com/ginofmusic",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1504853193821499400,
+		"in_reply_to_status_id_str": "1504853193821499399",
+		"in_reply_to_user_id": 16548567,
+		"in_reply_to_user_id_str": "16548567",
+		"in_reply_to_screen_name": "OpenEdGlobal",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10448,
+			"friends_count": 1548,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OpenEdGlobal @ginofransman @wernerio @LearnEQ @MandelaUni @OpenInfluencers @GOGN_OER @oe4bw Come for the conversations and then continue on to enjoy the musical talent of our guests\n\nhttps://t.co/atww8L9fOx\n\nhttps://t.co/edFpogzV5z"
+	},
+	{
 		"created_at": "Fri Mar 18 16:30:29 +0000 2022",
 		"id": 1504857782939381800,
 		"id_str": "1504857782939381761",

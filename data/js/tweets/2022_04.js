@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 19:30:28 +0000 2022",
+		"id": 1509976508445737000,
+		"id_str": "1509976508445736967",
+		"full_text": "@xb7r @pomeranian99 @uxdesigncc Did a little play with script to pull text from 50 random blog posts, then run though the Only the Question Marks. Have to filter out more gunk (URLs, old caption short codes). Fun https://t.co/OgcpfMRVpI",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xb7r",
+					"name": "Jim Stauffer (he/him)",
+					"id": 205077445,
+					"id_str": "205077445",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "pomeranian99",
+					"name": "Clive Thompson",
+					"id": 661403,
+					"id_str": "661403",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"screen_name": "uxdesigncc",
+					"name": "UX Collective",
+					"id": 16814473,
+					"id_str": "16814473",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509976423083225000,
+					"id_str": "1509976423083225101",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FPSDjn0XMA0TiBr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPSDjn0XMA0TiBr.jpg",
+					"url": "https://t.co/OgcpfMRVpI",
+					"display_url": "pic.twitter.com/OgcpfMRVpI",
+					"expanded_url": "https://twitter.com/cogdog/status/1509976508445736967/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 752,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1784,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509976423083225000,
+					"id_str": "1509976423083225101",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FPSDjn0XMA0TiBr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPSDjn0XMA0TiBr.jpg",
+					"url": "https://t.co/OgcpfMRVpI",
+					"display_url": "pic.twitter.com/OgcpfMRVpI",
+					"expanded_url": "https://twitter.com/cogdog/status/1509976508445736967/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 752,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1784,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1509622003019530200,
+		"in_reply_to_status_id_str": "1509622003019530246",
+		"in_reply_to_user_id": 205077445,
+		"in_reply_to_user_id_str": "205077445",
+		"in_reply_to_screen_name": "xb7r",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10464,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@xb7r @pomeranian99 @uxdesigncc Did a little play with script to pull text from 50 random blog posts, then run though the Only the Question Marks. Have to filter out more gunk (URLs, old caption short codes). Fun https://t.co/OgcpfMRVpI"
+	},
+	{
 		"created_at": "Fri Apr 01 16:18:11 +0000 2022",
 		"id": 1509928118890471400,
 		"id_str": "1509928118890471444",

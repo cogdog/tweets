@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 18:06:06 +0000 2022",
+		"id": 1511042441255735300,
+		"id_str": "1511042441255735301",
+		"full_text": "@ResearchBuzz I might have this framed. \n\n6 minutes! https://t.co/8W1C2cfaE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchBuzz",
+					"name": "Tara Calishain",
+					"id": 6979102,
+					"id_str": "6979102",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511041832909684700,
+					"id_str": "1511041832909684736",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FPhMiotWQAAoRGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPhMiotWQAAoRGo.jpg",
+					"url": "https://t.co/8W1C2cfaE7",
+					"display_url": "pic.twitter.com/8W1C2cfaE7",
+					"expanded_url": "https://twitter.com/cogdog/status/1511042441255735301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 584,
+							"h": 706,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 706,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511041832909684700,
+					"id_str": "1511041832909684736",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FPhMiotWQAAoRGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPhMiotWQAAoRGo.jpg",
+					"url": "https://t.co/8W1C2cfaE7",
+					"display_url": "pic.twitter.com/8W1C2cfaE7",
+					"expanded_url": "https://twitter.com/cogdog/status/1511042441255735301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 584,
+							"h": 706,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 706,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 6979102,
+		"in_reply_to_user_id_str": "6979102",
+		"in_reply_to_screen_name": "ResearchBuzz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10467,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ResearchBuzz I might have this framed. \n\n6 minutes! https://t.co/8W1C2cfaE7"
+	},
+	{
+		"created_at": "Mon Apr 04 17:54:24 +0000 2022",
+		"id": 1511039497139540000,
+		"id_str": "1511039497139539974",
+		"full_text": "@ResearchBuzz Minds change\n\nhttps://t.co/fOIXuydz18",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchBuzz",
+					"name": "Tara Calishain",
+					"id": 6979102,
+					"id_str": "6979102",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fOIXuydz18",
+					"expanded_url": "https://twitter.com/DonMacAskill/status/1511033739706478594",
+					"display_url": "twitter.com/DonMacAskill/s…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1511031459343122400,
+		"in_reply_to_status_id_str": "1511031459343122433",
+		"in_reply_to_user_id": 6979102,
+		"in_reply_to_user_id_str": "6979102",
+		"in_reply_to_screen_name": "ResearchBuzz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10467,
+			"friends_count": 1548,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1511033739706478600,
+		"quoted_status_id_str": "1511033739706478594",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fOIXuydz18",
+			"expanded": "https://twitter.com/DonMacAskill/status/1511033739706478594",
+			"display": "twitter.com/DonMacAskill/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 04 17:31:31 +0000 2022",
+			"id": 1511033739706478600,
+			"id_str": "1511033739706478594",
+			"full_text": "@nightgolfer @Flickr @internetarchive Recommending to IA that they delete it was a mistake. Our problem was that the 5M book images were drowning out the rest of the Commons members. So, we are restoring the account, moving it out of the Commons, and placing the book images under CC0, with IA’s permission and support",
+			"truncated": false,
+			"display_text_range": [
+				38,
+				318
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nightgolfer",
+						"name": "Jonas Lönborg",
+						"id": 14146715,
+						"id_str": "14146715",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "Flickr",
+						"name": "Flickr",
+						"id": 21237045,
+						"id_str": "21237045",
+						"indices": [
+							13,
+							20
+						]
+					},
+					{
+						"screen_name": "internetarchive",
+						"name": "Internet Archive",
+						"id": 18957805,
+						"id_str": "18957805",
+						"indices": [
+							21,
+							37
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1511023505122332700,
+			"in_reply_to_status_id_str": "1511023505122332677",
+			"in_reply_to_user_id": 813491,
+			"in_reply_to_user_id_str": "813491",
+			"in_reply_to_screen_name": "DonMacAskill",
+			"user": {
+				"id": 813491,
+				"id_str": "813491",
+				"name": "Don MacAskill",
+				"screen_name": "DonMacAskill",
+				"location": "Mountain View, CA",
+				"description": "Chief Geek (& CEO) at @SmugMug + @Flickr. Thrilling our customers. 1st large AWS customer. \"onethumb\". Tweets mine. Anti-hate. he/him. #BlackLivesMatter",
+				"url": "https://t.co/HGfQohT8yl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HGfQohT8yl",
+								"expanded_url": "https://don.smugmug.com",
+								"display_url": "don.smugmug.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11473,
+				"friends_count": 594,
+				"listed_count": 656,
+				"created_at": "Tue Mar 06 00:04:55 +0000 2007",
+				"favourites_count": 27532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12345,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/408663829/Wolverine_X3__270K__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/408663829/Wolverine_X3__270K__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/813491/1442628523",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "@ResearchBuzz Minds change\n\nhttps://t.co/fOIXuydz18"
+	},
+	{
 		"created_at": "Mon Apr 04 15:47:52 +0000 2022",
 		"id": 1511007652272296000,
 		"id_str": "1511007652272295944",

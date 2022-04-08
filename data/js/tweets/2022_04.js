@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 19:24:55 +0000 2022",
+		"id": 1512511825979584500,
+		"id_str": "1512511825979584519",
+		"full_text": "I so remember watching on TV number 715 sail over the fence  and me yelling and screaming for joy. https://t.co/O6MKrcz7WN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O6MKrcz7WN",
+					"expanded_url": "https://twitter.com/BSmile/status/1512397951422898182",
+					"display_url": "twitter.com/BSmile/status/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10464,
+			"friends_count": 1547,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1512397951422898200,
+		"quoted_status_id_str": "1512397951422898182",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O6MKrcz7WN",
+			"expanded": "https://twitter.com/BSmile/status/1512397951422898182",
+			"display": "twitter.com/BSmile/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 08 11:52:25 +0000 2022",
+			"id": 1512397951422898200,
+			"id_str": "1512397951422898182",
+			"full_text": "Today In 1974: The great Henry Aaron hits career HR #715, passing Babe Ruth to become the new all-time career home run leader! (Classic call from @TheVinScully!) #MLB #Baseball #History #Inspiration https://t.co/ZVTWgtGIjf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MLB",
+						"indices": [
+							162,
+							166
+						]
+					},
+					{
+						"text": "Baseball",
+						"indices": [
+							167,
+							176
+						]
+					},
+					{
+						"text": "History",
+						"indices": [
+							177,
+							185
+						]
+					},
+					{
+						"text": "Inspiration",
+						"indices": [
+							186,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheVinScully",
+						"name": "Vin Scully",
+						"id": 1298057675851223000,
+						"id_str": "1298057675851223041",
+						"indices": [
+							146,
+							159
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1115208484985954300,
+						"id_str": "1115208484985954304",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115208484985954304/pu/img/uvjjzDKMOqhNSkk1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115208484985954304/pu/img/uvjjzDKMOqhNSkk1.jpg",
+						"url": "https://t.co/ZVTWgtGIjf",
+						"display_url": "pic.twitter.com/ZVTWgtGIjf",
+						"expanded_url": "https://twitter.com/BSmile/status/1115212254931292160/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 358,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 358,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 358,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1115212254931292200,
+						"source_status_id_str": "1115212254931292160",
+						"source_user_id": 19479487,
+						"source_user_id_str": "19479487"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115208484985954300,
+						"id_str": "1115208484985954304",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115208484985954304/pu/img/uvjjzDKMOqhNSkk1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115208484985954304/pu/img/uvjjzDKMOqhNSkk1.jpg",
+						"url": "https://t.co/ZVTWgtGIjf",
+						"display_url": "pic.twitter.com/ZVTWgtGIjf",
+						"expanded_url": "https://twitter.com/BSmile/status/1115212254931292160/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 358,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 358,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 358,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1115212254931292200,
+						"source_status_id_str": "1115212254931292160",
+						"source_user_id": 19479487,
+						"source_user_id_str": "19479487",
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								179
+							],
+							"duration_millis": 126542,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1115208484985954304/pu/vid/240x180/N1tvKpV6JTlBawJG.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1115208484985954304/pu/vid/480x358/d5IC96hoSnUHxHrv.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1115208484985954304/pu/pl/-scQh2IJyw1SVDPQ.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 19479487,
+								"id_str": "19479487",
+								"name": "Baseball by BSmile",
+								"screen_name": "BSmile",
+								"location": "Northeast USA",
+								"description": "Baseball History | Digital Artist\nPhoto Editing/Restoration/Colorization \n~ Vintage image content enhanced by @BSmile",
+								"url": "https://t.co/FFbwhrXzhJ",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/FFbwhrXzhJ",
+												"expanded_url": "https://twitter.com/BSmile",
+												"display_url": "twitter.com/BSmile",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 58471,
+								"friends_count": 784,
+								"listed_count": 798,
+								"created_at": "Sun Jan 25 05:54:18 +0000 2009",
+								"favourites_count": 48769,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 59788,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1512042819455758339/NzkIEGZ6_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512042819455758339/NzkIEGZ6_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/19479487/1557755584",
+								"profile_link_color": "9E7740",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDFFCC",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19479487,
+				"id_str": "19479487",
+				"name": "Baseball by BSmile",
+				"screen_name": "BSmile",
+				"location": "Northeast USA",
+				"description": "Baseball History | Digital Artist\nPhoto Editing/Restoration/Colorization \n~ Vintage image content enhanced by @BSmile",
+				"url": "https://t.co/FFbwhrXzhJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FFbwhrXzhJ",
+								"expanded_url": "https://twitter.com/BSmile",
+								"display_url": "twitter.com/BSmile",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58471,
+				"friends_count": 784,
+				"listed_count": 798,
+				"created_at": "Sun Jan 25 05:54:18 +0000 2009",
+				"favourites_count": 48769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1512042819455758339/NzkIEGZ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512042819455758339/NzkIEGZ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19479487/1557755584",
+				"profile_link_color": "9E7740",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 257,
+			"favorite_count": 904,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I so remember watching on TV number 715 sail over the fence  and me yelling and screaming for joy. https://t.co/O6MKrcz7WN"
+	},
+	{
 		"created_at": "Fri Apr 08 19:12:35 +0000 2022",
 		"id": 1512508724585406500,
 		"id_str": "1512508724585406470",

@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 19:00:04 +0000 2022",
+		"id": 1513955124984569900,
+		"id_str": "1513955124984569867",
+		"full_text": "Woah, @BBedit turns 30. I have used it and still use it daily for all web development since 1993. \n\nFor many, many reasons, but mostly, because it's magical to say, grep search and replace across multiple files.\n\n30 years later, still is software that doesn't suck https://t.co/6XDLnBxwxT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbedit",
+					"name": "BBEdit",
+					"id": 39076170,
+					"id_str": "39076170",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6XDLnBxwxT",
+					"expanded_url": "https://twitter.com/bbedit/status/1513874673913716736",
+					"display_url": "twitter.com/bbedit/status/…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10461,
+			"friends_count": 1547,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513874673913716700,
+		"quoted_status_id_str": "1513874673913716736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6XDLnBxwxT",
+			"expanded": "https://twitter.com/bbedit/status/1513874673913716736",
+			"display": "twitter.com/bbedit/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 12 13:40:23 +0000 2022",
+			"id": 1513874673913716700,
+			"id_str": "1513874673913716736",
+			"full_text": "On this day, 1992: https://t.co/jTnStxsgXy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jTnStxsgXy",
+						"expanded_url": "https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs",
+						"display_url": "groups.google.com/g/comp.sys.mac…",
+						"indices": [
+							19,
+							42
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39076170,
+				"id_str": "39076170",
+				"name": "BBEdit",
+				"screen_name": "bbedit",
+				"location": "North Chelmsford, MA ",
+				"description": "The industrial strength Mac text editor. It doesn’t suck.® Send feature requests and problem reports to https://t.co/hDbQMbWoCL",
+				"url": "https://t.co/WFUO0NmxoA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WFUO0NmxoA",
+								"expanded_url": "https://www.barebones.com/",
+								"display_url": "barebones.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hDbQMbWoCL",
+								"expanded_url": "https://www.barebones.com/contact/technical.html",
+								"display_url": "barebones.com/contact/techni…",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4516,
+				"friends_count": 200,
+				"listed_count": 294,
+				"created_at": "Sun May 10 17:00:44 +0000 2009",
+				"favourites_count": 5255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10474,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417454000329437184/V5NmOkaz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417454000329437184/V5NmOkaz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39076170/1469318646",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 239,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woah, @BBedit turns 30. I have used it and still use it daily for all web development since 1993. \n\nFor many, many reasons, but mostly, because it's magical to say, grep search and replace across multiple files.\n\n30 years later, still is software that doesn't suck https://t.co/6XDLnBxwxT"
+	},
+	{
 		"created_at": "Tue Apr 12 04:26:01 +0000 2022",
 		"id": 1513735164895051800,
 		"id_str": "1513735164895051778",

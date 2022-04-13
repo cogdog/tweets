@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 18:53:29 +0000 2022",
+		"id": 1514315854879637500,
+		"id_str": "1514315854879637504",
+		"full_text": "The web renaissance is on! \n\n@anildash makes the case for \"made on, and for, the web\" (I would insert \"of the web\")\n\nhttps://t.co/5RSFbIKsEg https://t.co/gaJeM63CHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anildash",
+					"name": "anildash",
+					"id": 36823,
+					"id_str": "36823",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5RSFbIKsEg",
+					"expanded_url": "https://anildash.com/2022/04/13/a-web-renaissance/",
+					"display_url": "anildash.com/2022/04/13/a-w…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514315727871922200,
+					"id_str": "1514315727871922177",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FQPuIZ2X0AEcZ_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQPuIZ2X0AEcZ_c.jpg",
+					"url": "https://t.co/gaJeM63CHd",
+					"display_url": "pic.twitter.com/gaJeM63CHd",
+					"expanded_url": "https://twitter.com/cogdog/status/1514315854879637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 403,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514315727871922200,
+					"id_str": "1514315727871922177",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FQPuIZ2X0AEcZ_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQPuIZ2X0AEcZ_c.jpg",
+					"url": "https://t.co/gaJeM63CHd",
+					"display_url": "pic.twitter.com/gaJeM63CHd",
+					"expanded_url": "https://twitter.com/cogdog/status/1514315854879637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 403,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10461,
+			"friends_count": 1547,
+			"listed_count": 787,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The web renaissance is on! \n\n@anildash makes the case for \"made on, and for, the web\" (I would insert \"of the web\")\n\nhttps://t.co/5RSFbIKsEg https://t.co/gaJeM63CHd"
+	},
+	{
 		"created_at": "Wed Apr 13 18:02:19 +0000 2022",
 		"id": 1514302981495300000,
 		"id_str": "1514302981495300101",

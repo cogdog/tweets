@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 05 21:18:44 +0000 2022",
+		"id": 1522324942263668700,
+		"id_str": "1522324942263668737",
+		"full_text": "This seems like a @remikalir flavor of interesting and activist  #annotation https://t.co/3LIJD3VO0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annotation",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3LIJD3VO0E",
+					"expanded_url": "https://twitter.com/jruddock__/status/1522214539248381954",
+					"display_url": "twitter.com/jruddock__/sta…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10441,
+			"friends_count": 1543,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522214539248382000,
+		"quoted_status_id_str": "1522214539248381954",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3LIJD3VO0E",
+			"expanded": "https://twitter.com/jruddock__/status/1522214539248381954",
+			"display": "twitter.com/jruddock__/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 05 14:00:02 +0000 2022",
+			"id": 1522214539248382000,
+			"id_str": "1522214539248381954",
+			"full_text": "A closer view of the Court's \"EQUAL JUSTICE UNDER LAW\" engraving through the fencing raised overnight. May 5, 2022. https://t.co/oz1u5wb1Qj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1522214515688894500,
+						"id_str": "1522214515688894467",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/FR_-CXeUcAMKSyK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FR_-CXeUcAMKSyK.jpg",
+						"url": "https://t.co/oz1u5wb1Qj",
+						"display_url": "pic.twitter.com/oz1u5wb1Qj",
+						"expanded_url": "https://twitter.com/jruddock__/status/1522214539248381954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1081,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522214515688894500,
+						"id_str": "1522214515688894467",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/FR_-CXeUcAMKSyK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FR_-CXeUcAMKSyK.jpg",
+						"url": "https://t.co/oz1u5wb1Qj",
+						"display_url": "pic.twitter.com/oz1u5wb1Qj",
+						"expanded_url": "https://twitter.com/jruddock__/status/1522214539248381954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1081,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1522171676401803300,
+			"in_reply_to_status_id_str": "1522171676401803264",
+			"in_reply_to_user_id": 1189957651163156500,
+			"in_reply_to_user_id_str": "1189957651163156486",
+			"in_reply_to_screen_name": "jruddock__",
+			"user": {
+				"id": 1189957651163156500,
+				"id_str": "1189957651163156486",
+				"name": "jenna ruddock",
+				"screen_name": "jruddock__",
+				"location": "",
+				"description": "researching, documenting • law, tech, power, communities \nfellow @shorensteinctr / past: @auwcl • professionally anxious, amateur most other things • 🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 303,
+				"friends_count": 1491,
+				"listed_count": 2,
+				"created_at": "Thu Oct 31 17:29:53 +0000 2019",
+				"favourites_count": 2999,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 960,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1515847696858374150/zQDfixSf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515847696858374150/zQDfixSf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189957651163156486/1651760312",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 534,
+			"favorite_count": 2482,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This seems like a @remikalir flavor of interesting and activist  #annotation https://t.co/3LIJD3VO0E"
+	},
+	{
 		"created_at": "Thu May 05 18:06:54 +0000 2022",
 		"id": 1522276668437581800,
 		"id_str": "1522276668437581830",

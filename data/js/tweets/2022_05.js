@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 23:31:36 +0000 2022",
+		"id": 1524895094779924500,
+		"id_str": "1524895094779924480",
+		"full_text": "Hey @ontarioextend ers! If you earned your Empowered Educator badge please help @jesslyndw in her research project (you know, scholarship!) https://t.co/qoPWz9ujSX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						4,
+						18
+					]
+				},
+				{
+					"screen_name": "jesslyndw",
+					"name": "Jess Wilkinson (she/her)",
+					"id": 1519806174,
+					"id_str": "1519806174",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qoPWz9ujSX",
+					"expanded_url": "https://twitter.com/jesslyndw/status/1524763502237396993",
+					"display_url": "twitter.com/jesslyndw/stat…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10444,
+			"friends_count": 1544,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524763502237397000,
+		"quoted_status_id_str": "1524763502237396993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qoPWz9ujSX",
+			"expanded": "https://twitter.com/jesslyndw/status/1524763502237396993",
+			"display": "twitter.com/jesslyndw/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 12 14:48:42 +0000 2022",
+			"id": 1524763502237397000,
+			"id_str": "1524763502237396993",
+			"full_text": "Hi Twitter colleagues! Are you an Ontario higher ed faculty member who is also an \n@OntarioExtend\n Empowered Educator? Consider participating in a voluntary research project as part of my \n@OntarioTechU\n M.Ed. project. Learn more and apply: https://t.co/QiDqbcFlAV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ontarioextend",
+						"name": "OntarioExtend",
+						"id": 885339669457776600,
+						"id_str": "885339669457776641",
+						"indices": [
+							83,
+							97
+						]
+					},
+					{
+						"screen_name": "ontariotechu",
+						"name": "ontariotechu",
+						"id": 1046028846691233800,
+						"id_str": "1046028846691233800",
+						"indices": [
+							189,
+							202
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1524763323253858300,
+						"id_str": "1524763323253858305",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FSkMKfkXIAE0Epx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSkMKfkXIAE0Epx.jpg",
+						"url": "https://t.co/QiDqbcFlAV",
+						"display_url": "pic.twitter.com/QiDqbcFlAV",
+						"expanded_url": "https://twitter.com/jesslyndw/status/1524763502237396993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 495,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1524763323253858300,
+						"id_str": "1524763323253858305",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FSkMKfkXIAE0Epx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSkMKfkXIAE0Epx.jpg",
+						"url": "https://t.co/QiDqbcFlAV",
+						"display_url": "pic.twitter.com/QiDqbcFlAV",
+						"expanded_url": "https://twitter.com/jesslyndw/status/1524763502237396993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 495,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1519806174,
+				"id_str": "1519806174",
+				"name": "Jess Wilkinson (she/her)",
+				"screen_name": "jesslyndw",
+				"location": "Ontario, Canada",
+				"description": "Teacher | Faculty Developer | Tech Enabled Practice | UDL first always | M. Ed learner @ONTechU |  onetime @MicrosoftEDU and @Google Cert. Trainer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 802,
+				"friends_count": 956,
+				"listed_count": 17,
+				"created_at": "Sat Jun 15 16:29:36 +0000 2013",
+				"favourites_count": 8246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2264,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1350654520251076609/TKGHk8z__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350654520251076609/TKGHk8z__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1519806174/1606795455",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @ontarioextend ers! If you earned your Empowered Educator badge please help @jesslyndw in her research project (you know, scholarship!) https://t.co/qoPWz9ujSX"
+	},
+	{
 		"created_at": "Thu May 12 03:15:49 +0000 2022",
 		"id": 1524589134257528800,
 		"id_str": "1524589134257528832",

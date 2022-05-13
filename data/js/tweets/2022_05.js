@@ -1,6 +1,172 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 06:00:40 +0000 2022",
+		"id": 1524993006406967300,
+		"id_str": "1524993006406967297",
+		"full_text": "LindyAnnotations is pretty fantastical  https://t.co/Emg7D65HCP (h/t @chrisaldrich_ )\n\nSeen yourself? @fncll https://t.co/0Lmsv8z5xP\n\n@remikalir ?? https://t.co/7AzVNGGqBw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrisaldrich_",
+					"name": "Chris Aldrich",
+					"id": 755615871075135500,
+					"id_str": "755615871075135490",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"screen_name": "fncll",
+					"name": "Chris L",
+					"id": 2345538506,
+					"id_str": "2345538506",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						134,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Emg7D65HCP",
+					"expanded_url": "https://annotations.lindylearn.io",
+					"display_url": "annotations.lindylearn.io",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/0Lmsv8z5xP",
+					"expanded_url": "https://annotations.lindylearn.io/user/fncll/",
+					"display_url": "annotations.lindylearn.io/user/fncll/",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/7AzVNGGqBw",
+					"expanded_url": "https://annotations.lindylearn.io/user/remikalir/",
+					"display_url": "annotations.lindylearn.io/user/remikalir/",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1543,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LindyAnnotations is pretty fantastical  https://t.co/Emg7D65HCP (h/t @chrisaldrich_ )\n\nSeen yourself? @fncll https://t.co/0Lmsv8z5xP\n\n@remikalir ?? https://t.co/7AzVNGGqBw"
+	},
+	{
 		"created_at": "Fri May 13 03:37:29 +0000 2022",
 		"id": 1524956972105310200,
 		"id_str": "1524956972105310208",

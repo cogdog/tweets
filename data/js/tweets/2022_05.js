@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 03:37:29 +0000 2022",
+		"id": 1524956972105310200,
+		"id_str": "1524956972105310208",
+		"full_text": "@jesslyndw @Kcarte02 @ConestogaLRC @ontarioextend @greeneterry @rutherfor_marie @lkoster @alissabigelow @SRochFanshawe @TriciaB67 Hey that's how you earn an experimenter badge, by finding the link!",
+		"truncated": false,
+		"display_text_range": [
+			130,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesslyndw",
+					"name": "Jess Wilkinson (she/her)",
+					"id": 1519806174,
+					"id_str": "1519806174",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Kcarte02",
+					"name": "Kim Carter (she/her)",
+					"id": 1245025976,
+					"id_str": "1245025976",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "ConestogaLRC",
+					"name": "Conestoga Library",
+					"id": 3131120727,
+					"id_str": "3131120727",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "ontarioextend",
+					"name": "OntarioExtend",
+					"id": 885339669457776600,
+					"id_str": "885339669457776641",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Greene, Terry",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "rutherfor_marie",
+					"name": "Marie Rutherford",
+					"id": 923290846664933400,
+					"id_str": "923290846664933377",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "lkoster",
+					"name": "Lisa Koster",
+					"id": 20738299,
+					"id_str": "20738299",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"screen_name": "alissabigelow",
+					"name": "Alissa Bigelow",
+					"id": 403825928,
+					"id_str": "403825928",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"screen_name": "SRochFanshawe",
+					"name": "Shauna Roch",
+					"id": 859394732694405100,
+					"id_str": "859394732694405121",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"screen_name": "TriciaB67",
+					"name": "Tricia B",
+					"id": 859100719626031100,
+					"id_str": "859100719626031105",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1524824763553685500,
+		"in_reply_to_status_id_str": "1524824763553685504",
+		"in_reply_to_user_id": 1519806174,
+		"in_reply_to_user_id_str": "1519806174",
+		"in_reply_to_screen_name": "jesslyndw",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1543,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jesslyndw @Kcarte02 @ConestogaLRC @ontarioextend @greeneterry @rutherfor_marie @lkoster @alissabigelow @SRochFanshawe @TriciaB67 Hey that's how you earn an experimenter badge, by finding the link!"
+	},
+	{
 		"created_at": "Thu May 12 23:31:36 +0000 2022",
 		"id": 1524895094779924500,
 		"id_str": "1524895094779924480",

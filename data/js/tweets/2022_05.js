@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 03:58:55 +0000 2022",
+		"id": 1525687141845573600,
+		"id_str": "1525687141845573635",
+		"full_text": "Surveillance is Peace? https://t.co/RKxNiddQc3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RKxNiddQc3",
+					"expanded_url": "https://twitter.com/ar_rothschild/status/1525552747642335232",
+					"display_url": "twitter.com/ar_rothschild/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1544,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525552747642335200,
+		"quoted_status_id_str": "1525552747642335232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RKxNiddQc3",
+			"expanded": "https://twitter.com/ar_rothschild/status/1525552747642335232",
+			"display": "twitter.com/ar_rothschild/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 14 19:04:53 +0000 2022",
+			"id": 1525552747642335200,
+			"id_str": "1525552747642335232",
+			"full_text": "The current owners of George Orwell's house have a ring camera. Incredible, 10/10 irony, no notes. https://t.co/x4dXRH1NBN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1525552743678718000,
+						"id_str": "1525552743678717952",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FSvaIz0XsAAOP4s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSvaIz0XsAAOP4s.jpg",
+						"url": "https://t.co/x4dXRH1NBN",
+						"display_url": "pic.twitter.com/x4dXRH1NBN",
+						"expanded_url": "https://twitter.com/ar_rothschild/status/1525552747642335232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1525552743678718000,
+						"id_str": "1525552743678717952",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FSvaIz0XsAAOP4s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSvaIz0XsAAOP4s.jpg",
+						"url": "https://t.co/x4dXRH1NBN",
+						"display_url": "pic.twitter.com/x4dXRH1NBN",
+						"expanded_url": "https://twitter.com/ar_rothschild/status/1525552747642335232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1091833574607732700,
+				"id_str": "1091833574607732742",
+				"name": "Annabel Rothschild",
+				"screen_name": "ar_rothschild",
+				"location": "¯\\_(ツ)_/",
+				"description": "(she/her) Georgia Tech PhD student studying contextualization practices in data work/science and the tools + programming languages that support it. Also coffee.",
+				"url": "https://t.co/wsxx2wAWjz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wsxx2wAWjz",
+								"expanded_url": "http://annabelrothschild.com",
+								"display_url": "annabelrothschild.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 208,
+				"friends_count": 589,
+				"listed_count": 3,
+				"created_at": "Sat Feb 02 22:59:44 +0000 2019",
+				"favourites_count": 2020,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 282,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1393213624718594053/nW3_6wQ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393213624718594053/nW3_6wQ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091833574607732742/1614518895",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 899,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Surveillance is Peace? https://t.co/RKxNiddQc3"
+	},
+	{
 		"created_at": "Sun May 15 00:24:58 +0000 2022",
 		"id": 1525633299485319200,
 		"id_str": "1525633299485319168",

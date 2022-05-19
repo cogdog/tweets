@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 19:28:21 +0000 2022",
+		"id": 1527370595113267200,
+		"id_str": "1527370595113267200",
+		"full_text": "Hah, guess who forgot to switch twitter accounts to retweet! #rookiemistakeagain\n\nPlease check out and contribute something to the \"AND Conference\" https://t.co/8MRseBQpC9 https://t.co/gpgF5ZekAg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rookiemistakeagain",
+					"indices": [
+						61,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8MRseBQpC9",
+					"expanded_url": "https://connect.oeglobal.org/c/oeg-2022/",
+					"display_url": "connect.oeglobal.org/c/oeg-2022/",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/gpgF5ZekAg",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1527360800255447043",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1545,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527360800255447000,
+		"quoted_status_id_str": "1527360800255447043",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gpgF5ZekAg",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1527360800255447043",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 19 18:49:26 +0000 2022",
+			"id": 1527360800255447000,
+			"id_str": "1527360800255447043",
+			"full_text": "Yes this is me waving arms to try to entice others to be part of an online experience that is built around the edges and spaces of the in-person #OEGlobal22 \n\nClick if you dare? Please participate, it's open as in free and open https://t.co/H5qUospEYI https://t.co/M7pMY7JjXd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEGlobal22",
+						"indices": [
+							145,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H5qUospEYI",
+						"expanded_url": "https://connect.oeglobal.org/c/oeg-2022/",
+						"display_url": "connect.oeglobal.org/c/oeg-2022/",
+						"indices": [
+							228,
+							251
+						]
+					},
+					{
+						"url": "https://t.co/M7pMY7JjXd",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1527349873363734545",
+						"display_url": "twitter.com/OpenEdGlobal/s…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Join us at #OEGlobal22, our annual open education conference over 3-days from May 23-25 in Nantes, France + the \"And Conference\" on #OEGConnect. See you there!",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11456,
+				"friends_count": 551,
+				"listed_count": 554,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10968,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1645114899",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1527349873363734500,
+			"quoted_status_id_str": "1527349873363734545",
+			"quoted_status_permalink": {
+				"url": "https://t.co/M7pMY7JjXd",
+				"expanded": "https://twitter.com/OpenEdGlobal/status/1527349873363734545",
+				"display": "twitter.com/OpenEdGlobal/s…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hah, guess who forgot to switch twitter accounts to retweet! #rookiemistakeagain\n\nPlease check out and contribute something to the \"AND Conference\" https://t.co/8MRseBQpC9 https://t.co/gpgF5ZekAg"
+	},
+	{
 		"created_at": "Thu May 19 18:00:46 +0000 2022",
 		"id": 1527348554754248700,
 		"id_str": "1527348554754248704",
@@ -149,7 +420,7 @@ Grailbird.data.tweets_2022_05 =
 			"created_at": "Thu May 19 15:01:35 +0000 2022",
 			"id": 1527303458784571400,
 			"id_str": "1527303458784571394",
-			"full_text": "⤴️ #OEWeek is never over! ⁠\n⁠\nFrom the OEWeek library – today's #spotlight is on \n\nH5P Kitchen\ncreated by @cogdog @bccampus\n\nlink 👉🏼 https://t.co/IcUr0AtNgH\n\n#English #madeinVictoria #OpenSourceSoftware #OER https://t.co/xGes17mGP4",
+			"full_text": "⤴️ #OEWeek is never over! \n\nFrom the OEWeek library – today's #spotlight is on \n\nH5P Kitchen\ncreated by @cogdog @bccampus\n\nlink 👉🏼 https://t.co/IcUr0AtNgH\n\n#English #madeinVictoria #OpenSourceSoftware #OER https://t.co/xGes17mGP4",
 			"truncated": false,
 			"display_text_range": [
 				0,

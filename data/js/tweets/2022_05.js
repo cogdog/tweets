@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 18:00:46 +0000 2022",
+		"id": 1527348554754248700,
+		"id_str": "1527348554754248704",
+		"full_text": "Thanks @oeweek for the spotlight! Look @edtechfactotum the H5P kitchen lights are still on. #oneofthebestprojects https://t.co/00C1wjlJZn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oneofthebestprojects",
+					"indices": [
+						92,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OEWeek",
+					"name": "Open Education Week",
+					"id": 396632857,
+					"id_str": "396632857",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde (he/him)",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						39,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/00C1wjlJZn",
+					"expanded_url": "https://twitter.com/OEWeek/status/1527303458784571394",
+					"display_url": "twitter.com/OEWeek/status/…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1545,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527303458784571400,
+		"quoted_status_id_str": "1527303458784571394",
+		"quoted_status_permalink": {
+			"url": "https://t.co/00C1wjlJZn",
+			"expanded": "https://twitter.com/OEWeek/status/1527303458784571394",
+			"display": "twitter.com/OEWeek/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 19 15:01:35 +0000 2022",
+			"id": 1527303458784571400,
+			"id_str": "1527303458784571394",
+			"full_text": "⤴️ #OEWeek is never over! ⁠\n⁠\nFrom the OEWeek library – today's #spotlight is on \n\nH5P Kitchen\ncreated by @cogdog @bccampus\n\nlink 👉🏼 https://t.co/IcUr0AtNgH\n\n#English #madeinVictoria #OpenSourceSoftware #OER https://t.co/xGes17mGP4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEWeek",
+						"indices": [
+							3,
+							10
+						]
+					},
+					{
+						"text": "spotlight",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"text": "English",
+						"indices": [
+							158,
+							166
+						]
+					},
+					{
+						"text": "madeinVictoria",
+						"indices": [
+							167,
+							182
+						]
+					},
+					{
+						"text": "OpenSourceSoftware",
+						"indices": [
+							183,
+							202
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							203,
+							207
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							106,
+							113
+						]
+					},
+					{
+						"screen_name": "BCcampus",
+						"name": "BCcampus",
+						"id": 93710949,
+						"id_str": "93710949",
+						"indices": [
+							114,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IcUr0AtNgH",
+						"expanded_url": "https://oeweek.oeglobal.org/resources/2022/h5p-kitchen/",
+						"display_url": "oeweek.oeglobal.org/resources/2022…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1527303105653526500,
+						"id_str": "1527303105653526533",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/FTISFSTUUAUm6dw.png",
+						"media_url_https": "https://pbs.twimg.com/media/FTISFSTUUAUm6dw.png",
+						"url": "https://t.co/xGes17mGP4",
+						"display_url": "pic.twitter.com/xGes17mGP4",
+						"expanded_url": "https://twitter.com/OEWeek/status/1527303458784571394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 323,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 323,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 323,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1527303105653526500,
+						"id_str": "1527303105653526533",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/FTISFSTUUAUm6dw.png",
+						"media_url_https": "https://pbs.twimg.com/media/FTISFSTUUAUm6dw.png",
+						"url": "https://t.co/xGes17mGP4",
+						"display_url": "pic.twitter.com/xGes17mGP4",
+						"expanded_url": "https://twitter.com/OEWeek/status/1527303458784571394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 323,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 323,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 323,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 396632857,
+				"id_str": "396632857",
+				"name": "Open Education Week",
+				"screen_name": "OEWeek",
+				"location": "Worldwide",
+				"description": "Join us at #oeweek to celebrate education that's open and available to all. Share, collaborate, discuss, build. #openeducation #oer \nHosted by @OpenEdGlobal",
+				"url": "https://t.co/hh3Lx2lFyB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hh3Lx2lFyB",
+								"expanded_url": "https://oeweek.oeglobal.org",
+								"display_url": "oeweek.oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6373,
+				"friends_count": 70,
+				"listed_count": 284,
+				"created_at": "Sun Oct 23 15:13:33 +0000 2011",
+				"favourites_count": 218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4338,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5FB2A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1483463114284834824/C4BFtBSN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483463114284834824/C4BFtBSN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/396632857/1648641589",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @oeweek for the spotlight! Look @edtechfactotum the H5P kitchen lights are still on. #oneofthebestprojects https://t.co/00C1wjlJZn"
+	},
+	{
 		"created_at": "Thu May 19 15:44:23 +0000 2022",
 		"id": 1527314232177348600,
 		"id_str": "1527314232177348608",

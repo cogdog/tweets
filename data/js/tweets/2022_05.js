@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 08:09:22 +0000 2022",
+		"id": 1528640491620905000,
+		"id_str": "1528649273646235649",
+		"full_text": "In Nantes findet gerade die Open Education Global Konferenz statt. OERinfo erklärt, wie man auch online dabei sein kann.\nHashtag: #OEGlobal22\nOnline-Partizipation: https://t.co/gkdKjkROYZ https://t.co/sxXzoF8dmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEGlobal22",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gkdKjkROYZ",
+					"expanded_url": "https://connect.oeglobal.org/c/oeg-2022/70/none",
+					"display_url": "connect.oeglobal.org/c/oeg-2022/70/…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528640312494760000,
+					"id_str": "1528640312494759937",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1528640312494759937/pu/img/xX-jQbDA6j199OLI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1528640312494759937/pu/img/xX-jQbDA6j199OLI.jpg",
+					"url": "https://t.co/sxXzoF8dmk",
+					"display_url": "pic.twitter.com/sxXzoF8dmk",
+					"expanded_url": "https://twitter.com/OERinfo/status/1528640491620904960/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528640312494760000,
+					"id_str": "1528640312494759937",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1528640312494759937/pu/img/xX-jQbDA6j199OLI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1528640312494759937/pu/img/xX-jQbDA6j199OLI.jpg",
+					"url": "https://t.co/sxXzoF8dmk",
+					"display_url": "pic.twitter.com/sxXzoF8dmk",
+					"expanded_url": "https://twitter.com/OERinfo/status/1528640491620904960/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							213
+						],
+						"duration_millis": 139406,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1528640312494759937/pu/vid/1080x720/r-uoLnngf970UOWE.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1528640312494759937/pu/vid/404x270/SnyGUuY5OXDXrN7r.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1528640312494759937/pu/vid/540x360/OtBlRfVd02d6qiUU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1528640312494759937/pu/pl/GMfXEX1X-UKdfHYt.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2800009261,
+			"id_str": "2800009261",
+			"name": "OERinfo",
+			"screen_name": "OERinfo",
+			"location": "Deutschland",
+			"description": "OERinfo, die Informationsstelle #OER bietet Information, Transfer und Vernetzung rund um #OpenEducationalResources im deutschsprachigen Raum (#OERde).",
+			"url": "https://t.co/GoCyjoUhK7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GoCyjoUhK7",
+							"expanded_url": "http://open-educational-resources.de/",
+							"display_url": "open-educational-resources.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5668,
+			"friends_count": 2397,
+			"listed_count": 177,
+			"created_at": "Tue Sep 09 14:03:37 +0000 2014",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854587689391280128/Y1bAbI9j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854587689391280128/Y1bAbI9j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2800009261/1633510620",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9c9d31b481003",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9c9d31b481003.json",
+			"place_type": "poi",
+			"name": "Cité Internationale des Congrès",
+			"full_name": "Cité Internationale des Congrès",
+			"country_code": "FR",
+			"country": "France",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.5426993370056152,
+							47.213053200782895
+						],
+						[
+							-1.5426993370056152,
+							47.213053200782895
+						],
+						[
+							-1.5426993370056152,
+							47.213053200782895
+						],
+						[
+							-1.5426993370056152,
+							47.213053200782895
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "In Nantes findet gerade die Open Education Global Konferenz statt. OERinfo erklärt, wie man auch online dabei sein kann.\nHashtag: #OEGlobal22\nOnline-Partizipation: https://t.co/gkdKjkROYZ https://t.co/sxXzoF8dmk"
+	},
+	{
+		"created_at": "Mon May 23 08:09:13 +0000 2022",
+		"id": 1528647944714559500,
+		"id_str": "1528649235180183554",
+		"full_text": "Excited for #OEglobal22 to begin! https://t.co/BLNLRrbBMW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEglobal22",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528647933834444800,
+					"id_str": "1528647933834444802",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbZMlrWQAIpXNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbZMlrWQAIpXNg.jpg",
+					"url": "https://t.co/BLNLRrbBMW",
+					"display_url": "pic.twitter.com/BLNLRrbBMW",
+					"expanded_url": "https://twitter.com/karencang/status/1528647944714559490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528647933834444800,
+					"id_str": "1528647933834444802",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbZMlrWQAIpXNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbZMlrWQAIpXNg.jpg",
+					"url": "https://t.co/BLNLRrbBMW",
+					"display_url": "pic.twitter.com/BLNLRrbBMW",
+					"expanded_url": "https://twitter.com/karencang/status/1528647944714559490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 274739602,
+			"id_str": "274739602",
+			"name": "Dr. Karen Cangialosi",
+			"screen_name": "karencang",
+			"location": "Northampton, MA",
+			"description": "#RLOE network Program Director, Biology Prof, she/her 🏳️‍🌈LGBT, #OpenPedagogy #OER #OpenScience #Ungrading\nRIOS Institute co-founder, @RIOScommunity",
+			"url": "https://t.co/DmGF90gZFD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DmGF90gZFD",
+							"expanded_url": "https://karencang.net/",
+							"display_url": "karencang.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1764,
+			"friends_count": 1383,
+			"listed_count": 65,
+			"created_at": "Wed Mar 30 23:24:41 +0000 2011",
+			"favourites_count": 20122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1492971197671346186/ft3Y09T-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492971197671346186/ft3Y09T-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/274739602/1645209359",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited for #OEglobal22 to begin! https://t.co/BLNLRrbBMW"
+	},
+	{
 		"created_at": "Mon May 23 03:46:27 +0000 2022",
 		"id": 1528583109087723500,
 		"id_str": "1528583109087723520",

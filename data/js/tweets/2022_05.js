@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 08:48:03 +0000 2022",
+		"id": 1528658322202689500,
+		"id_str": "1528659008382443520",
+		"full_text": "Le ReiSO @ouvrirlascience est présent à #OEGlobal22 à Nantes, RV merc. 25 juin matin avec @LunivNumerique et @Couperin_consor: \nProgramme sur\nhttps://t.co/eSFURTxtbX. @ADBU_Officiel @LIBEReurope @UOHumanites @SPARC_EU @sup_numerique @Chaire_RELIA @LeLibreEdu. Ouvrons l'éducation! https://t.co/IKY5YDHriK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEGlobal22",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ouvrirlascience",
+					"name": "Comité pour la science ouverte",
+					"id": 3620615237,
+					"id_str": "3620615237",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "LunivNumerique",
+					"name": "L'Université Numérique",
+					"id": 917317522168401900,
+					"id_str": "917317522168401922",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"screen_name": "Couperin_consor",
+					"name": "Consortium Couperin",
+					"id": 36020345,
+					"id_str": "36020345",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"screen_name": "ADBU_Officiel",
+					"name": "ADBU",
+					"id": 1500749184,
+					"id_str": "1500749184",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"screen_name": "LIBEReurope",
+					"name": "LIBER Europe",
+					"id": 185567052,
+					"id_str": "185567052",
+					"indices": [
+						182,
+						194
+					]
+				},
+				{
+					"screen_name": "UOHumanites",
+					"name": "UOHumanites",
+					"id": 307878849,
+					"id_str": "307878849",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"screen_name": "SPARC_EU",
+					"name": "SPARC Europe",
+					"id": 171753220,
+					"id_str": "171753220",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"screen_name": "sup_numerique",
+					"name": "Sup & numérique",
+					"id": 1919269746,
+					"id_str": "1919269746",
+					"indices": [
+						218,
+						232
+					]
+				},
+				{
+					"screen_name": "Chaire_RELIA",
+					"name": "Chaire Unesco RELIA",
+					"id": 1318850519163719700,
+					"id_str": "1318850519163719683",
+					"indices": [
+						233,
+						246
+					]
+				},
+				{
+					"screen_name": "LeLibreEdu",
+					"name": "Le Libre Éducatif",
+					"id": 1508703610938478600,
+					"id_str": "1508703610938478593",
+					"indices": [
+						247,
+						258
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eSFURTxtbX",
+					"expanded_url": "https://pretalx.com/oeglobal2022/schedule/",
+					"display_url": "pretalx.com/oeglobal2022/s…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528658312761327600,
+					"id_str": "1528658312761327618",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbiouMWQAI9s-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbiouMWQAI9s-Q.jpg",
+					"url": "https://t.co/IKY5YDHriK",
+					"display_url": "pic.twitter.com/IKY5YDHriK",
+					"expanded_url": "https://twitter.com/Cecile_Swiatek/status/1528658322202689536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528658312761327600,
+					"id_str": "1528658312761327618",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbiouMWQAI9s-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbiouMWQAI9s-Q.jpg",
+					"url": "https://t.co/IKY5YDHriK",
+					"display_url": "pic.twitter.com/IKY5YDHriK",
+					"expanded_url": "https://twitter.com/Cecile_Swiatek/status/1528658322202689536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020069223043100,
+			"id_str": "834020069223043072",
+			"name": "cecile swiatek cassafieres",
+			"screen_name": "Cecile_Swiatek",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/JR91FTzpf3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JR91FTzpf3",
+							"expanded_url": "https://orcid.org/0000-0003-1066-4559",
+							"display_url": "orcid.org/0000-0003-1066…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1307,
+			"listed_count": 25,
+			"created_at": "Tue Feb 21 12:40:54 +0000 2017",
+			"favourites_count": 504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1528659274615951360/Hz-dCGYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528659274615951360/Hz-dCGYz_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le ReiSO @ouvrirlascience est présent à #OEGlobal22 à Nantes, RV merc. 25 juin matin avec @LunivNumerique et @Couperin_consor: \nProgramme sur\nhttps://t.co/eSFURTxtbX. @ADBU_Officiel @LIBEReurope @UOHumanites @SPARC_EU @sup_numerique @Chaire_RELIA @LeLibreEdu. Ouvrons l'éducation! https://t.co/IKY5YDHriK"
+	},
+	{
 		"created_at": "Mon May 23 08:09:22 +0000 2022",
 		"id": 1528640491620905000,
 		"id_str": "1528649273646235649",
@@ -371,7 +664,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr. Karen Cangialosi",
 			"screen_name": "karencang",
 			"location": "Northampton, MA",
-			"description": "#RLOE network Program Director, Biology Prof, she/her 🏳️‍🌈LGBT, #OpenPedagogy #OER #OpenScience #Ungrading\nRIOS Institute co-founder, @RIOScommunity",
+			"description": "#RLOE network Program Director, Biology Prof, she/her 🏳️🌈LGBT, #OpenPedagogy #OER #OpenScience #Ungrading\nRIOS Institute co-founder, @RIOScommunity",
 			"url": "https://t.co/DmGF90gZFD",
 			"entities": {
 				"url": {

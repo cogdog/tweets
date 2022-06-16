@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 18:58:50 +0000 2022",
+		"id": 1537510026256035800,
+		"id_str": "1537510026256035841",
+		"full_text": "@Bali_Maha @brennacgray @AmplifyPodcasts Exactly what I saw https://t.co/CMgXKXGdh8 \n\nThat is the slimy ooze. Don't click, step in, or send anyone near it.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "brennacgray",
+					"name": "Brenna Clarke Gray",
+					"id": 14109848,
+					"id_str": "14109848",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "AmplifyPodcasts",
+					"name": "Amplify Podcast Network",
+					"id": 1318630265976201200,
+					"id_str": "1318630265976201216",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CMgXKXGdh8",
+					"expanded_url": "https://twitter.com/cogdog/status/1537088931895844866",
+					"display_url": "twitter.com/cogdog/status/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1537503119919222800,
+		"in_reply_to_status_id_str": "1537503119919222787",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10445,
+			"friends_count": 1550,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537088931895844900,
+		"quoted_status_id_str": "1537088931895844866",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CMgXKXGdh8",
+			"expanded": "https://twitter.com/cogdog/status/1537088931895844866",
+			"display": "twitter.com/cogdog/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 15 15:05:33 +0000 2022",
+			"id": 1537088931895844900,
+			"id_str": "1537088931895844866",
+			"full_text": "@LibreTexts @ymdahi The course content becomes a place to hang links to the CH \"study resources\" that lead to signing up for accounts to see,  which slithers down into paying for an account to see more. \n\n$$$ https://t.co/KCpzk9UgJf",
+			"truncated": false,
+			"display_text_range": [
+				20,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LibreTexts",
+						"name": "Delmar Larsen",
+						"id": 80937370,
+						"id_str": "80937370",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "ymdahi",
+						"name": "Yasin Dahi",
+						"id": 972250261,
+						"id_str": "972250261",
+						"indices": [
+							12,
+							19
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1537088113390100500,
+						"id_str": "1537088113390100481",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FVTVfssXoAEOvqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVTVfssXoAEOvqf.jpg",
+						"url": "https://t.co/KCpzk9UgJf",
+						"display_url": "pic.twitter.com/KCpzk9UgJf",
+						"expanded_url": "https://twitter.com/cogdog/status/1537088931895844866/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 855,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1786,
+								"h": 1272,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537088113390100500,
+						"id_str": "1537088113390100481",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FVTVfssXoAEOvqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVTVfssXoAEOvqf.jpg",
+						"url": "https://t.co/KCpzk9UgJf",
+						"display_url": "pic.twitter.com/KCpzk9UgJf",
+						"expanded_url": "https://twitter.com/cogdog/status/1537088931895844866/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 855,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1786,
+								"h": 1272,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1537088532333973500,
+						"id_str": "1537088532333973504",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/FVTV4FYX0AAsxTh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVTV4FYX0AAsxTh.jpg",
+						"url": "https://t.co/KCpzk9UgJf",
+						"display_url": "pic.twitter.com/KCpzk9UgJf",
+						"expanded_url": "https://twitter.com/cogdog/status/1537088931895844866/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 664,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1134,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1537086600999342000,
+			"in_reply_to_status_id_str": "1537086600999342085",
+			"in_reply_to_user_id": 80937370,
+			"in_reply_to_user_id_str": "80937370",
+			"in_reply_to_screen_name": "LibreTexts",
+			"user": {
+				"id": 740343,
+				"id_str": "740343",
+				"name": "Alan Levine",
+				"screen_name": "cogdog",
+				"location": "Archydal, Saskatchewan",
+				"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+				"url": "https://t.co/wAzdfm9TIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wAzdfm9TIB",
+								"expanded_url": "http://cog.dog",
+								"display_url": "cog.dog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZxC70YWtmO",
+								"expanded_url": "http://cogdogblog.com",
+								"display_url": "cogdogblog.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10445,
+				"friends_count": 1550,
+				"listed_count": 785,
+				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+				"favourites_count": 938,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 95365,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bali_Maha @brennacgray @AmplifyPodcasts Exactly what I saw https://t.co/CMgXKXGdh8 \n\nThat is the slimy ooze. Don't click, step in, or send anyone near it."
+	},
+	{
 		"created_at": "Thu Jun 16 14:05:43 +0000 2022",
 		"id": 1537436259550756900,
 		"id_str": "1537436259550756864",

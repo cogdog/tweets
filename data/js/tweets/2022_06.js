@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 19:23:15 +0000 2022",
+		"id": 1537516169565024300,
+		"id_str": "1537516169565024256",
+		"full_text": "Hey, intern with us, create new learning resources. https://t.co/9HdrGACR9U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9HdrGACR9U",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1537405147772604417",
+					"display_url": "twitter.com/OpenEdGlobal/s…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10445,
+			"friends_count": 1550,
+			"listed_count": 785,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537405147772604400,
+		"quoted_status_id_str": "1537405147772604417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9HdrGACR9U",
+			"expanded": "https://twitter.com/OpenEdGlobal/status/1537405147772604417",
+			"display": "twitter.com/OpenEdGlobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 16 12:02:05 +0000 2022",
+			"id": 1537405147772604400,
+			"id_str": "1537405147772604417",
+			"full_text": "🔥5 \"Open\" positions at @OpenEdGlobal 🔥\n\nOELATAM Tutorial Developer – create a bilingual \"How to do Open\" course\n\nApply now!  ➡️ https://t.co/h6eJmCiHIB\n\n📆 Deadline: June 24\n\n#bilingual #latam #spanish #coursedesign #moocdesign #internships #graduation #postcollege #firstjob https://t.co/jtooksVNRu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bilingual",
+						"indices": [
+							174,
+							184
+						]
+					},
+					{
+						"text": "latam",
+						"indices": [
+							185,
+							191
+						]
+					},
+					{
+						"text": "spanish",
+						"indices": [
+							192,
+							200
+						]
+					},
+					{
+						"text": "coursedesign",
+						"indices": [
+							201,
+							214
+						]
+					},
+					{
+						"text": "moocdesign",
+						"indices": [
+							215,
+							226
+						]
+					},
+					{
+						"text": "internships",
+						"indices": [
+							227,
+							239
+						]
+					},
+					{
+						"text": "graduation",
+						"indices": [
+							240,
+							251
+						]
+					},
+					{
+						"text": "postcollege",
+						"indices": [
+							252,
+							264
+						]
+					},
+					{
+						"text": "firstjob",
+						"indices": [
+							265,
+							274
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OpenEdGlobal",
+						"name": "Open Education Global",
+						"id": 16548567,
+						"id_str": "16548567",
+						"indices": [
+							23,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/h6eJmCiHIB",
+						"expanded_url": "https://oeg.pub/22Interns",
+						"display_url": "oeg.pub/22Interns",
+						"indices": [
+							128,
+							151
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1537405146736513000,
+						"id_str": "1537405146736513025",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FVX11d8WUAETWAW.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVX11d8WUAETWAW.jpg",
+						"url": "https://t.co/jtooksVNRu",
+						"display_url": "pic.twitter.com/jtooksVNRu",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1537405147772604417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537405146736513000,
+						"id_str": "1537405146736513025",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FVX11d8WUAETWAW.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVX11d8WUAETWAW.jpg",
+						"url": "https://t.co/jtooksVNRu",
+						"display_url": "pic.twitter.com/jtooksVNRu",
+						"expanded_url": "https://twitter.com/OpenEdGlobal/status/1537405147772604417/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 810,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FVX11d8WUAETWAW.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16548567,
+				"id_str": "16548567",
+				"name": "Open Education Global",
+				"screen_name": "OpenEdGlobal",
+				"location": "Global",
+				"description": "Join us at #OEGlobal22, our annual open education conference over 3-days from May 23-25 in Nantes, France + the \"And Conference\" on #OEGConnect. See you there!",
+				"url": "https://t.co/FolbQBguMQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FolbQBguMQ",
+								"expanded_url": "https://www.oeglobal.org/",
+								"display_url": "oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11546,
+				"friends_count": 563,
+				"listed_count": 557,
+				"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+				"favourites_count": 2755,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11174,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1645114899",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, intern with us, create new learning resources. https://t.co/9HdrGACR9U"
+	},
+	{
 		"created_at": "Thu Jun 16 18:58:50 +0000 2022",
 		"id": 1537510026256035800,
 		"id_str": "1537510026256035841",

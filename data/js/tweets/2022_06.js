@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 17:40:59 +0000 2022",
+		"id": 1539302372308095000,
+		"id_str": "1539302372308094978",
+		"full_text": "Here is what a *real* course hero looks like. Congrats and so well deserved, @LibreTexts https://t.co/p95H2ESUFH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibreTexts",
+					"name": "Delmar Larsen",
+					"id": 80937370,
+					"id_str": "80937370",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p95H2ESUFH",
+					"expanded_url": "https://twitter.com/LibreTexts/status/1539074811678191617",
+					"display_url": "twitter.com/LibreTexts/sta…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1551,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539074811678191600,
+		"quoted_status_id_str": "1539074811678191617",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p95H2ESUFH",
+			"expanded": "https://twitter.com/LibreTexts/status/1539074811678191617",
+			"display": "twitter.com/LibreTexts/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 21 02:36:44 +0000 2022",
+			"id": 1539074811678191600,
+			"id_str": "1539074811678191617",
+			"full_text": "I am honored to receive a @ucdavis Chancellor's Innovation Award for work on building the LibreTexts project. I look forward to the future with the support of Campus and  @UCDLandS College in promoting affordable education for our students. https://t.co/FIc7yRG6YT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ucdavis",
+						"name": "UC Davis",
+						"id": 15987188,
+						"id_str": "15987188",
+						"indices": [
+							26,
+							34
+						]
+					},
+					{
+						"screen_name": "UCDLandS",
+						"name": "UC Davis Letters and Science",
+						"id": 575732221,
+						"id_str": "575732221",
+						"indices": [
+							171,
+							180
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FIc7yRG6YT",
+						"expanded_url": "https://twitter.com/UCDLandS/status/1539058035011854336",
+						"display_url": "twitter.com/UCDLandS/statu…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80937370,
+				"id_str": "80937370",
+				"name": "Delmar Larsen",
+				"screen_name": "LibreTexts",
+				"location": "Davis, CA",
+				"description": "Professor of Chemistry, Ultrafast Laser Spectroscopist, Founder and Director of LibreTexts, father of two daughters, two apathetic cats, and one dumb dog.",
+				"url": "https://t.co/B9ss9oPNlW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B9ss9oPNlW",
+								"expanded_url": "http://LibreTexts.org",
+								"display_url": "LibreTexts.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1589,
+				"friends_count": 776,
+				"listed_count": 56,
+				"created_at": "Thu Oct 08 20:37:33 +0000 2009",
+				"favourites_count": 4742,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793535441261572096/XVySiSH7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793535441261572096/XVySiSH7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80937370/1415290745",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1539058035011854300,
+			"quoted_status_id_str": "1539058035011854336",
+			"quoted_status_permalink": {
+				"url": "https://t.co/FIc7yRG6YT",
+				"expanded": "https://twitter.com/UCDLandS/status/1539058035011854336",
+				"display": "twitter.com/UCDLandS/statu…"
+			},
+			"retweet_count": 6,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is what a *real* course hero looks like. Congrats and so well deserved, @LibreTexts https://t.co/p95H2ESUFH"
+	},
+	{
+		"created_at": "Tue Jun 21 17:36:48 +0000 2022",
+		"id": 1539301319403528200,
+		"id_str": "1539301319403528196",
+		"full_text": "@ds106dc #tdc3813 #ds106 This might not be decoration, but with my interest in poking about AI I put the #MYFest22 logo into the Even Stranger Things generator https://t.co/maf4XYGHGo\n\nThis makes a Stranger Things style poster from what it thinks is in the image. Not bad. https://t.co/W8IMsKoNsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3813",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "MYFest22",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/maf4XYGHGo",
+					"expanded_url": "http://evenstranger.pw/",
+					"display_url": "evenstranger.pw",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539301043892256800,
+					"id_str": "1539301043892256769",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FVyyJNOWAAEknWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVyyJNOWAAEknWz.jpg",
+					"url": "https://t.co/W8IMsKoNsi",
+					"display_url": "pic.twitter.com/W8IMsKoNsi",
+					"expanded_url": "https://twitter.com/cogdog/status/1539301319403528196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1010,
+							"h": 920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539301043892256800,
+					"id_str": "1539301043892256769",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FVyyJNOWAAEknWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVyyJNOWAAEknWz.jpg",
+					"url": "https://t.co/W8IMsKoNsi",
+					"display_url": "pic.twitter.com/W8IMsKoNsi",
+					"expanded_url": "https://twitter.com/cogdog/status/1539301319403528196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1010,
+							"h": 920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1551,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc3813 #ds106 This might not be decoration, but with my interest in poking about AI I put the #MYFest22 logo into the Even Stranger Things generator https://t.co/maf4XYGHGo\n\nThis makes a Stranger Things style poster from what it thinks is in the image. Not bad. https://t.co/W8IMsKoNsi"
+	},
+	{
+		"created_at": "Tue Jun 21 17:31:09 +0000 2022",
+		"id": 1539299898536894500,
+		"id_str": "1539299898536894472",
+		"full_text": "If you do the #ds106 #dailcreates in twitter, you can find your progress on the #myfest22 leaderboard, which counts all activity since June 1\n\nhttps://t.co/ro73bd2EXt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "dailcreates",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"text": "myfest22",
+					"indices": [
+						80,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ro73bd2EXt",
+					"expanded_url": "https://daily.ds106.us/myfest22/",
+					"display_url": "daily.ds106.us/myfest22/",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1539299670970798000,
+		"in_reply_to_status_id_str": "1539299670970798082",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1551,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you do the #ds106 #dailcreates in twitter, you can find your progress on the #myfest22 leaderboard, which counts all activity since June 1\n\nhttps://t.co/ro73bd2EXt"
+	},
+	{
 		"created_at": "Tue Jun 21 14:03:21 +0000 2022",
 		"id": 1539247603375800300,
 		"id_str": "1539247603375800324",

@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 14:05:42 +0000 2022",
+		"id": 1541784910314225700,
+		"id_str": "1541784910314225668",
+		"full_text": "@BryanAlexander The craiyon version not much different https://t.co/AGQkzTHuhf https://t.co/0pRODDFg4O",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AGQkzTHuhf",
+					"expanded_url": "https://www.craiyon.com/",
+					"display_url": "craiyon.com",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541784833617174500,
+					"id_str": "1541784833617174530",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FWWFIy_WIAIl5j0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWWFIy_WIAIl5j0.jpg",
+					"url": "https://t.co/0pRODDFg4O",
+					"display_url": "pic.twitter.com/0pRODDFg4O",
+					"expanded_url": "https://twitter.com/cogdog/status/1541784910314225668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1528,
+							"h": 1870,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 981,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541784833617174500,
+					"id_str": "1541784833617174530",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FWWFIy_WIAIl5j0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWWFIy_WIAIl5j0.jpg",
+					"url": "https://t.co/0pRODDFg4O",
+					"display_url": "pic.twitter.com/0pRODDFg4O",
+					"expanded_url": "https://twitter.com/cogdog/status/1541784910314225668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1528,
+							"h": 1870,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 981,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1541775611139588000,
+		"in_reply_to_status_id_str": "1541775611139588099",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10451,
+			"friends_count": 1551,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BryanAlexander The craiyon version not much different https://t.co/AGQkzTHuhf https://t.co/0pRODDFg4O"
+	},
+	{
 		"created_at": "Tue Jun 28 04:18:51 +0000 2022",
 		"id": 1541637223967244300,
 		"id_str": "1541637223967244289",

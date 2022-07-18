@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 14:56:31 +0000 2022",
+		"id": 1549045457992573000,
+		"id_str": "1549045457992572931",
+		"full_text": "@Todd_Conaway Like the old saying, all home made pizza is good.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1548864833583386600,
+		"in_reply_to_status_id_str": "1548864833583386624",
+		"in_reply_to_user_id": 7664302,
+		"in_reply_to_user_id_str": "7664302",
+		"in_reply_to_screen_name": "Todd_Conaway",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10460,
+			"friends_count": 1551,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Todd_Conaway Like the old saying, all home made pizza is good."
+	},
+	{
+		"created_at": "Mon Jul 18 14:49:38 +0000 2022",
+		"id": 1549043725363564500,
+		"id_str": "1549043725363564549",
+		"full_text": "@BryanAlexander @Lucyappert @dtmollenkamp @EdSurge @LumenLearning @rubenrp @CourseHero In the absence of any official statement from the companies involved, all we can do is speculate. They definitely would know what is going on out here, but are hoping a cone of silence will hold until people move on to something else.",
+		"truncated": false,
+		"display_text_range": [
+			87,
+			321
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Lucyappert",
+					"name": "Lucy Appert",
+					"id": 153617129,
+					"id_str": "153617129",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "dtmollenkamp",
+					"name": "Daniel Mollenkamp",
+					"id": 2620497043,
+					"id_str": "2620497043",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "EdSurge",
+					"name": "EdSurge",
+					"id": 274793711,
+					"id_str": "274793711",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"screen_name": "LumenLearning",
+					"name": "Lumen Learning",
+					"id": 893541522,
+					"id_str": "893541522",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"screen_name": "rubenrp",
+					"name": "Ruben R. Puentedura",
+					"id": 1306511,
+					"id_str": "1306511",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"screen_name": "CourseHero",
+					"name": "Course Hero",
+					"id": 33735671,
+					"id_str": "33735671",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1549039376721916000,
+		"in_reply_to_status_id_str": "1549039376721915905",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10460,
+			"friends_count": 1551,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BryanAlexander @Lucyappert @dtmollenkamp @EdSurge @LumenLearning @rubenrp @CourseHero In the absence of any official statement from the companies involved, all we can do is speculate. They definitely would know what is going on out here, but are hoping a cone of silence will hold until people move on to something else."
+	},
+	{
+		"created_at": "Mon Jul 18 14:29:09 +0000 2022",
+		"id": 1549038568231899100,
+		"id_str": "1549038568231899136",
+		"full_text": "@BryanAlexander @Lucyappert @dtmollenkamp @EdSurge @LumenLearning @rubenrp @CourseHero According to Edsurge who reported solely on  email, to CH  it was \"not newsworthy\" https://t.co/yinjqxpuja\n\nLumen says it generated a lot of traffic that was only limited visits, so they said it was too expensive to maintain. \n\nNo mention of why/how CH was chosen as best archive.",
+		"truncated": false,
+		"display_text_range": [
+			87,
+			367
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Lucyappert",
+					"name": "Lucy Appert",
+					"id": 153617129,
+					"id_str": "153617129",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "dtmollenkamp",
+					"name": "Daniel Mollenkamp",
+					"id": 2620497043,
+					"id_str": "2620497043",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "EdSurge",
+					"name": "EdSurge",
+					"id": 274793711,
+					"id_str": "274793711",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"screen_name": "LumenLearning",
+					"name": "Lumen Learning",
+					"id": 893541522,
+					"id_str": "893541522",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"screen_name": "rubenrp",
+					"name": "Ruben R. Puentedura",
+					"id": 1306511,
+					"id_str": "1306511",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"screen_name": "CourseHero",
+					"name": "Course Hero",
+					"id": 33735671,
+					"id_str": "33735671",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yinjqxpuja",
+					"expanded_url": "https://www.edsurge.com/news/2022-07-11-course-hero-quietly-took-over-hosting-lumen-s-oer-content-they-say-it-s-no-big-deal",
+					"display_url": "edsurge.com/news/2022-07-1…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1549023538044076000,
+		"in_reply_to_status_id_str": "1549023538044076035",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10460,
+			"friends_count": 1551,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BryanAlexander @Lucyappert @dtmollenkamp @EdSurge @LumenLearning @rubenrp @CourseHero According to Edsurge who reported solely on  email, to CH  it was \"not newsworthy\" https://t.co/yinjqxpuja\n\nLumen says it generated a lot of traffic that was only limited visits, so they said it was too expensive to maintain. \n\nNo mention of why/how CH was chosen as best archive."
+	},
+	{
 		"created_at": "Mon Jul 18 08:38:24 +0000 2022",
 		"id": 1548950300060442600,
 		"id_str": "1548950300060442625",

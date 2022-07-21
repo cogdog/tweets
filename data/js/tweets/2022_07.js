@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 14:35:09 +0000 2022",
+		"id": 1550127242398773200,
+		"id_str": "1550127242398773250",
+		"full_text": "@joanne_kehoe @kylemackie @OpenLibraryON Sometimes it’s an admin level fix sometimes at user level, when you go to create new content, look under Interactive Book and see if there is an “update available” message. I think in WordPress you can do it yourself",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joanne_kehoe",
+					"name": "Joanne Kehoe",
+					"id": 226662699,
+					"id_str": "226662699",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "kylemackie",
+					"name": "kyle mackie (he/him)",
+					"id": 18153298,
+					"id_str": "18153298",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "OpenLibraryON",
+					"name": "eCampusOntario Open Library",
+					"id": 1179813300068081700,
+					"id_str": "1179813300068081665",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550120473026973700,
+		"in_reply_to_status_id_str": "1550120473026973697",
+		"in_reply_to_user_id": 226662699,
+		"in_reply_to_user_id_str": "226662699",
+		"in_reply_to_screen_name": "joanne_kehoe",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10462,
+			"friends_count": 1551,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@joanne_kehoe @kylemackie @OpenLibraryON Sometimes it’s an admin level fix sometimes at user level, when you go to create new content, look under Interactive Book and see if there is an “update available” message. I think in WordPress you can do it yourself"
+	},
+	{
 		"created_at": "Thu Jul 21 01:37:21 +0000 2022",
 		"id": 1549931502082764800,
 		"id_str": "1549931502082764800",

@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 14 03:11:24 +0000 2022",
+		"id": 1558652481420288000,
+		"id_str": "1558652481420288001",
+		"full_text": "There's a million kinds of people on the internet- 999,999 who just retweet/reshare stuff and 1 who looks it up.\n\nBe one in a million. https://t.co/WBr9ky5N23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WBr9ky5N23",
+					"expanded_url": "https://twitter.com/DrJoeHanson/status/1557774832883965952",
+					"display_url": "twitter.com/DrJoeHanson/st…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10458,
+			"friends_count": 1551,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557774832883966000,
+		"quoted_status_id_str": "1557774832883965952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WBr9ky5N23",
+			"expanded": "https://twitter.com/DrJoeHanson/status/1557774832883965952",
+			"display": "twitter.com/DrJoeHanson/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 11 17:03:56 +0000 2022",
+			"id": 1557774832883966000,
+			"id_str": "1557774832883965952",
+			"full_text": "Here's a little story about how the internet makes it wonderfully easy to be skeptical and not get fooled by clout-chasers and virality recyclers who share things that aren't true…\n\nTime for some practice in the fine art of baloney detection https://t.co/kgebwxWji4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kgebwxWji4",
+						"expanded_url": "https://twitter.com/Rushzilla/status/1557043086529806336",
+						"display_url": "twitter.com/Rushzilla/stat…",
+						"indices": [
+							242,
+							265
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26099938,
+				"id_str": "26099938",
+				"name": "Joe Hanson",
+				"screen_name": "DrJoeHanson",
+				"location": "Austin, TX",
+				"description": "Nerdy by nature. Ph.D. biologist, science writer, creator of @okaytobesmart and other shows for @PBS, moved to Austin before everyone else did🤘#HookEm",
+				"url": "https://t.co/GC2OyJdgBL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GC2OyJdgBL",
+								"expanded_url": "https://www.youtube.com/itsokaytobesmart",
+								"display_url": "youtube.com/itsokaytobesma…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50957,
+				"friends_count": 797,
+				"listed_count": 1272,
+				"created_at": "Mon Mar 23 21:55:33 +0000 2009",
+				"favourites_count": 13231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48900,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1166728718007644161/ZxUb19HR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166728718007644161/ZxUb19HR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26099938/1567003837",
+				"profile_link_color": "CC5500",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2C0C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1557043086529806300,
+			"quoted_status_id_str": "1557043086529806336",
+			"quoted_status_permalink": {
+				"url": "https://t.co/kgebwxWji4",
+				"expanded": "https://twitter.com/Rushzilla/status/1557043086529806336",
+				"display": "twitter.com/Rushzilla/stat…"
+			},
+			"retweet_count": 4659,
+			"favorite_count": 20095,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's a million kinds of people on the internet- 999,999 who just retweet/reshare stuff and 1 who looks it up.\n\nBe one in a million. https://t.co/WBr9ky5N23"
+	},
+	{
 		"created_at": "Sat Aug 13 22:46:12 +0000 2022",
 		"id": 1558585741189562400,
 		"id_str": "1558585741189562373",

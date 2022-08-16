@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 05:16:37 +0000 2022",
+		"id": 1559408766788968400,
+		"id_str": "1559408766788968448",
+		"full_text": "Not too sure what I did using this Felix photo https://t.co/PILTlLIWg6 with prompt \"A dog rolls joyfully in the grass\" using https://t.co/LkJlV1yrdj\n\nI am profoundly underwhelmed, https://t.co/xXUHIq41Wo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PILTlLIWg6",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/52106555281",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/LkJlV1yrdj",
+					"expanded_url": "https://huggingface.co/spaces/THUDM/CogVideo",
+					"display_url": "huggingface.co/spaces/THUDM/C…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559408711587827700,
+					"id_str": "1559408711587827714",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559408711587827714/pu/img/A3XoUW-WFy9wY-cB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559408711587827714/pu/img/A3XoUW-WFy9wY-cB.jpg",
+					"url": "https://t.co/xXUHIq41Wo",
+					"display_url": "pic.twitter.com/xXUHIq41Wo",
+					"expanded_url": "https://twitter.com/cogdog/status/1559408766788968448/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559408711587827700,
+					"id_str": "1559408711587827714",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559408711587827714/pu/img/A3XoUW-WFy9wY-cB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559408711587827714/pu/img/A3XoUW-WFy9wY-cB.jpg",
+					"url": "https://t.co/xXUHIq41Wo",
+					"display_url": "pic.twitter.com/xXUHIq41Wo",
+					"expanded_url": "https://twitter.com/cogdog/status/1559408766788968448/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 1250,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559408711587827714/pu/vid/480x480/FdZOVKFB4yjrVJg1.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559408711587827714/pu/vid/320x320/x50YdW3_fbiLw1t2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1559408711587827714/pu/pl/8dQ5bAlEgf6PfTay.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1559408274809708500,
+		"in_reply_to_status_id_str": "1559408274809708544",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10455,
+			"friends_count": 1551,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not too sure what I did using this Felix photo https://t.co/PILTlLIWg6 with prompt \"A dog rolls joyfully in the grass\" using https://t.co/LkJlV1yrdj\n\nI am profoundly underwhelmed, https://t.co/xXUHIq41Wo"
+	},
+	{
 		"created_at": "Tue Aug 16 05:14:39 +0000 2022",
 		"id": 1559408274809708500,
 		"id_str": "1559408274809708544",

@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 06:40:46 +0000 2022",
+		"id": 1562329046553399300,
+		"id_str": "1562329046553399297",
+		"full_text": "I love this series! Come for the SPLOT intro but stick around to read what Tineke’s student did with her own SPLOT https://t.co/tmmWig0wrA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tmmWig0wrA",
+					"expanded_url": "https://twitter.com/tinebeest/status/1562272471088234496",
+					"display_url": "twitter.com/tinebeest/stat…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10455,
+			"friends_count": 1551,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1562272471088234500,
+		"quoted_status_id_str": "1562272471088234496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tmmWig0wrA",
+			"expanded": "https://twitter.com/tinebeest/status/1562272471088234496",
+			"display": "twitter.com/tinebeest/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 24 02:55:57 +0000 2022",
+			"id": 1562272471088234500,
+			"id_str": "1562272471088234496",
+			"full_text": "For anybody considering creating a SPLOT, ànd for all of you who have no idea what a SPLOT is, as always my #DigitalToolsforTeaching series has you covered: \nhttps://t.co/hGig2Vbj9j https://t.co/jSmrDytNd1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigitalToolsforTeaching",
+						"indices": [
+							108,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hGig2Vbj9j",
+						"expanded_url": "https://tdh.bergbuilds.domains/pedagogy/splot/",
+						"display_url": "tdh.bergbuilds.domains/pedagogy/splot/",
+						"indices": [
+							158,
+							181
+						]
+					},
+					{
+						"url": "https://t.co/jSmrDytNd1",
+						"expanded_url": "https://twitter.com/OnlineCrsLady/status/1562261083112488960",
+						"display_url": "twitter.com/OnlineCrsLady/…",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16434234,
+				"id_str": "16434234",
+				"name": "Dr. Tineke D'Haeseleer",
+				"screen_name": "tinebeest",
+				"location": "Absurdistan",
+				"description": "🦾 💉💉\n Sinologist, runner, knitter and spinner. Founder of #BackyardWildlifeCollege (2017)\n\n“Single-handedly lowering the standards of an entire industry.”",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 876,
+				"friends_count": 913,
+				"listed_count": 20,
+				"created_at": "Wed Sep 24 13:29:25 +0000 2008",
+				"favourites_count": 28717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21258,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/73470827/bunny_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73470827/bunny_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16434234/1564694190",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1562261083112489000,
+			"quoted_status_id_str": "1562261083112488960",
+			"quoted_status_permalink": {
+				"url": "https://t.co/jSmrDytNd1",
+				"expanded": "https://twitter.com/OnlineCrsLady/status/1562261083112488960",
+				"display": "twitter.com/OnlineCrsLady/…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this series! Come for the SPLOT intro but stick around to read what Tineke’s student did with her own SPLOT https://t.co/tmmWig0wrA"
+	},
+	{
 		"created_at": "Wed Aug 24 05:41:22 +0000 2022",
 		"id": 1562314098427265000,
 		"id_str": "1562314098427265025",

@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 29 21:02:33 +0000 2022",
+		"id": 1564353602159870000,
+		"id_str": "1564357863027445766",
+		"full_text": "Get to the Goodies With These Two Paywall Ladder Bookmarklets\n\nRead more  https://t.co/tVdFxszPdX\n\n#news #paywalls #journalism #javascript https://t.co/B0eGGNcaOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "news",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "paywalls",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "journalism",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "javascript",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tVdFxszPdX",
+					"expanded_url": "https://lttr.ai/1IFz",
+					"display_url": "lttr.ai/1IFz",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1564353600578637800,
+					"id_str": "1564353600578637825",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FbWzT7mX0AEb7y0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbWzT7mX0AEb7y0.jpg",
+					"url": "https://t.co/B0eGGNcaOx",
+					"display_url": "pic.twitter.com/B0eGGNcaOx",
+					"expanded_url": "https://twitter.com/ResearchBuzz/status/1564353602159869953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 586,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 586,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564353600578637800,
+					"id_str": "1564353600578637825",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FbWzT7mX0AEb7y0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbWzT7mX0AEb7y0.jpg",
+					"url": "https://t.co/B0eGGNcaOx",
+					"display_url": "pic.twitter.com/B0eGGNcaOx",
+					"expanded_url": "https://twitter.com/ResearchBuzz/status/1564353602159869953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 586,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 586,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://missinglettr.com\" rel=\"nofollow\">Missinglettr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6979102,
+			"id_str": "6979102",
+			"name": "Tara Calishain",
+			"screen_name": "ResearchBuzz",
+			"location": "",
+			"description": "Autistic, writer, obsessed w/ search engines, databases, & info collections. Writing books since 1996, writing ResearchBuzz since 1998. https://t.co/SVLVPk0SuC . Say hi.",
+			"url": "https://t.co/q7iEdl772H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q7iEdl772H",
+							"expanded_url": "http://www.researchbuzz.com",
+							"display_url": "researchbuzz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SVLVPk0SuC",
+							"expanded_url": "http://RBGizmos.com",
+							"display_url": "RBGizmos.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5875,
+			"friends_count": 3719,
+			"listed_count": 577,
+			"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+			"favourites_count": 24280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_link_color": "243A8F",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get to the Goodies With These Two Paywall Ladder Bookmarklets\n\nRead more  https://t.co/tVdFxszPdX\n\n#news #paywalls #journalism #javascript https://t.co/B0eGGNcaOx"
+	},
+	{
 		"created_at": "Mon Aug 29 17:18:27 +0000 2022",
 		"id": 1564301464490606600,
 		"id_str": "1564301464490606592",

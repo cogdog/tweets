@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 04:36:40 +0000 2022",
+		"id": 1572807067827839000,
+		"id_str": "1572807067827838976",
+		"full_text": "Weird. Just me? \n\nIt looks like Google Image search results filtered for Usage Rights  = Creative Commons returns almost nothing. Hey Google, let the CC dogs out!\n\nhttps://t.co/XWm0UFRkHy https://t.co/9NkT3FIz2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XWm0UFRkHy",
+					"expanded_url": "https://www.google.com/search?q=dog&tbm=isch&hl=en&tbs=il:cl",
+					"display_url": "google.com/search?q=dog&t…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572806499461726200,
+					"id_str": "1572806499461726208",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO7LZzXgAA5nkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO7LZzXgAA5nkA.jpg",
+					"url": "https://t.co/9NkT3FIz2K",
+					"display_url": "pic.twitter.com/9NkT3FIz2K",
+					"expanded_url": "https://twitter.com/cogdog/status/1572807067827838976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572806499461726200,
+					"id_str": "1572806499461726208",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO7LZzXgAA5nkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO7LZzXgAA5nkA.jpg",
+					"url": "https://t.co/9NkT3FIz2K",
+					"display_url": "pic.twitter.com/9NkT3FIz2K",
+					"expanded_url": "https://twitter.com/cogdog/status/1572807067827838976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572806499457433600,
+					"id_str": "1572806499457433601",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO7LZyWAAEBf6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO7LZyWAAEBf6h.jpg",
+					"url": "https://t.co/9NkT3FIz2K",
+					"display_url": "pic.twitter.com/9NkT3FIz2K",
+					"expanded_url": "https://twitter.com/cogdog/status/1572807067827838976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 271,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 815,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10457,
+			"friends_count": 1554,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weird. Just me? \n\nIt looks like Google Image search results filtered for Usage Rights  = Creative Commons returns almost nothing. Hey Google, let the CC dogs out!\n\nhttps://t.co/XWm0UFRkHy https://t.co/9NkT3FIz2K"
+	},
+	{
 		"created_at": "Thu Sep 22 01:47:36 +0000 2022",
 		"id": 1572764519893725200,
 		"id_str": "1572764519893725185",

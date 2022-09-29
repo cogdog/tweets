@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 19:49:04 +0000 2022",
+		"id": 1575573393541279700,
+		"id_str": "1575573393541279744",
+		"full_text": "More than a fantastic set of creative respurces by @OnlineCrsLady it showcases her enthusiasm and generosity. And woah, she is pushing the padlet to new levels with Padlet as Presentation (with comments). \n\nGo Laura Go! https://t.co/p3PgQyoe0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						51,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p3PgQyoe0h",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1575565637367123969",
+					"display_url": "twitter.com/OnlineCrsLady/…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10464,
+			"friends_count": 1555,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575565637367124000,
+		"quoted_status_id_str": "1575565637367123969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p3PgQyoe0h",
+			"expanded": "https://twitter.com/OnlineCrsLady/status/1575565637367123969",
+			"display": "twitter.com/OnlineCrsLady/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 19:18:15 +0000 2022",
+			"id": 1575565637367124000,
+			"id_str": "1575565637367123969",
+			"full_text": "I've finished Tiny Writing padlet for presentation tomorrow; it was so much fun to put together: \nhttps://t.co/hdNUSvQqRO\nI hope it can be useful to anyone interested in learning about genius of tiny writing: 6 words, 25 words, 50 words, 100 words, 1 sentence, 2 sentences, tweets https://t.co/hEaempUCTf https://t.co/NiKtaoMBWn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				304
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hdNUSvQqRO",
+						"expanded_url": "http://TinyWriting.LauraGibbs.net",
+						"display_url": "TinyWriting.LauraGibbs.net",
+						"indices": [
+							98,
+							121
+						]
+					},
+					{
+						"url": "https://t.co/hEaempUCTf",
+						"expanded_url": "https://twitter.com/alistairm/status/1569992663163891712",
+						"display_url": "twitter.com/alistairm/stat…",
+						"indices": [
+							281,
+							304
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1575561765919887400,
+						"id_str": "1575561765919887361",
+						"indices": [
+							305,
+							328
+						],
+						"media_url": "http://pbs.twimg.com/media/Fd2FFBNXkAEpJoc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fd2FFBNXkAEpJoc.jpg",
+						"url": "https://t.co/NiKtaoMBWn",
+						"display_url": "pic.twitter.com/NiKtaoMBWn",
+						"expanded_url": "https://twitter.com/OnlineCrsLady/status/1575565637367123969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1111,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 237,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1111,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1575561765919887400,
+						"id_str": "1575561765919887361",
+						"indices": [
+							305,
+							328
+						],
+						"media_url": "http://pbs.twimg.com/media/Fd2FFBNXkAEpJoc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fd2FFBNXkAEpJoc.jpg",
+						"url": "https://t.co/NiKtaoMBWn",
+						"display_url": "pic.twitter.com/NiKtaoMBWn",
+						"expanded_url": "https://twitter.com/OnlineCrsLady/status/1575565637367123969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1111,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 237,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1111,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7044082,
+				"id_str": "7044082",
+				"name": "Laura Gibbs",
+				"screen_name": "OnlineCrsLady",
+				"location": "the Interwebz",
+				"description": "Recently retired from Univ of Oklahoma where I taught online. Now: I write! https://t.co/Yca0sD1D6L\n#MYFest22 #ControlledDigitalLending #Ungrading she/her :-)",
+				"url": "https://t.co/IBzftCyMsG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IBzftCyMsG",
+								"expanded_url": "http://LauraGibbs.net",
+								"display_url": "LauraGibbs.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Yca0sD1D6L",
+								"expanded_url": "http://100Words.LauraGibbs.net",
+								"display_url": "100Words.LauraGibbs.net",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7507,
+				"friends_count": 3640,
+				"listed_count": 409,
+				"created_at": "Sun Jun 24 04:17:20 +0000 2007",
+				"favourites_count": 150655,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 123699,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "112E18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7044082/1622388975",
+				"profile_link_color": "196912",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1569992663163891700,
+			"quoted_status_id_str": "1569992663163891712",
+			"quoted_status_permalink": {
+				"url": "https://t.co/hEaempUCTf",
+				"expanded": "https://twitter.com/alistairm/status/1569992663163891712",
+				"display": "twitter.com/alistairm/stat…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More than a fantastic set of creative respurces by @OnlineCrsLady it showcases her enthusiasm and generosity. And woah, she is pushing the padlet to new levels with Padlet as Presentation (with comments). \n\nGo Laura Go! https://t.co/p3PgQyoe0h"
+	},
+	{
 		"created_at": "Thu Sep 29 17:51:33 +0000 2022",
 		"id": 1575543819986030600,
 		"id_str": "1575543819986030593",

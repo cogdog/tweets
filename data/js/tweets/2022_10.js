@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 13:53:22 +0000 2022",
+		"id": 1579832532983349200,
+		"id_str": "1579832532983349250",
+		"full_text": "@verenanz @wiobyrne @msisabellau @UCalgary_TI Great to see... err hear of the #Techlit run with #ds106 #dailycreates and putting to use that drum machine for almost a poem of sound.\n\nHope they blog issue clears (using http:// instead of https:// got through)",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Techlit",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "dailycreates",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "msisabellau",
+					"name": "Isabel Lau",
+					"id": 1414114820,
+					"id_str": "1414114820",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "UCalgary_TI",
+					"name": "Taylor Institute for Teaching and Learning",
+					"id": 2252655212,
+					"id_str": "2252655212",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1579661314628391000,
+		"in_reply_to_status_id_str": "1579661314628390914",
+		"in_reply_to_user_id": 540380886,
+		"in_reply_to_user_id_str": "540380886",
+		"in_reply_to_screen_name": "verenanz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10467,
+			"friends_count": 1556,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@verenanz @wiobyrne @msisabellau @UCalgary_TI Great to see... err hear of the #Techlit run with #ds106 #dailycreates and putting to use that drum machine for almost a poem of sound.\n\nHope they blog issue clears (using http:// instead of https:// got through)"
+	},
+	{
 		"created_at": "Mon Oct 10 09:23:19 +0000 2022",
 		"id": 1579402185129230300,
 		"id_str": "1579402185129230338",

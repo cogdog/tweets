@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 18:00:15 +0000 2022",
+		"id": 1582431377479602200,
+		"id_str": "1582431377479602177",
+		"full_text": "Possible good stuff for #ds106 (Photo505 is new to me).\n\n Photofunia has been in #dailycreates and note that Loonapic is different from Lunapic (a good photo editor).\n\nAlso the various sites like https://t.co/goILNIiIFM are very handy. https://t.co/YCb1E8oyZe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "dailycreates",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/goILNIiIFM",
+					"expanded_url": "https://www.remove.bg/",
+					"display_url": "remove.bg",
+					"indices": [
+						196,
+						219
+					]
+				},
+				{
+					"url": "https://t.co/YCb1E8oyZe",
+					"expanded_url": "https://twitter.com/ResearchBuzz/status/1582427793748422656",
+					"display_url": "twitter.com/ResearchBuzz/s…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10466,
+			"friends_count": 1558,
+			"listed_count": 783,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1582427793748422700,
+		"quoted_status_id_str": "1582427793748422656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YCb1E8oyZe",
+			"expanded": "https://twitter.com/ResearchBuzz/status/1582427793748422656",
+			"display": "twitter.com/ResearchBuzz/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 18 17:46:00 +0000 2022",
+			"id": 1582427793748422700,
+			"id_str": "1582427793748422656",
+			"full_text": "Hongkiat: 10 Websites to Have Fun With Your Photos - https://t.co/AlTF0bwNwQ #imaging #photos #PhotoEditing #fun",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "imaging",
+						"indices": [
+							77,
+							85
+						]
+					},
+					{
+						"text": "photos",
+						"indices": [
+							86,
+							93
+						]
+					},
+					{
+						"text": "PhotoEditing",
+						"indices": [
+							94,
+							107
+						]
+					},
+					{
+						"text": "fun",
+						"indices": [
+							108,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AlTF0bwNwQ",
+						"expanded_url": "https://www.hongkiat.com/blog/25-websites-to-have-fun-with-your-photos/",
+						"display_url": "hongkiat.com/blog/25-websit…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6979102,
+				"id_str": "6979102",
+				"name": "Tara Calishain",
+				"screen_name": "ResearchBuzz",
+				"location": "",
+				"description": "Autistic, writer, obsessed w/ search engines, databases, info collections. Writing ResearchBuzz since 1998. The NSA thinks I'm clever. Having fun: https://t.co/SVLVPk0SuC",
+				"url": "https://t.co/q7iEdl772H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q7iEdl772H",
+								"expanded_url": "http://www.researchbuzz.com",
+								"display_url": "researchbuzz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SVLVPk0SuC",
+								"expanded_url": "http://RBGizmos.com",
+								"display_url": "RBGizmos.com",
+								"indices": [
+									147,
+									170
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5977,
+				"friends_count": 3738,
+				"listed_count": 576,
+				"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+				"favourites_count": 25414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 102658,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6979102/1663074514",
+				"profile_link_color": "243A8F",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Possible good stuff for #ds106 (Photo505 is new to me).\n\n Photofunia has been in #dailycreates and note that Loonapic is different from Lunapic (a good photo editor).\n\nAlso the various sites like https://t.co/goILNIiIFM are very handy. https://t.co/YCb1E8oyZe"
+	},
+	{
 		"created_at": "Tue Oct 18 17:09:31 +0000 2022",
 		"id": 1582418612337672200,
 		"id_str": "1582418612337672192",

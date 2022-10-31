@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 20:44:52 +0000 2022",
+		"id": 1587183848131121200,
+		"id_str": "1587183848131121152",
+		"full_text": "@jasongreen @BryanAlexander @danielTBingham I'm not to sure what I am doing. I just use the ActivityPub plugin so my WP posts get published to mastodon https://t.co/gGQMz3Ubll \n\nIt seems to publish under that account name https://t.co/62F4YXnHN1 but shows up in my timeline",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasongreen",
+					"name": "Jason Green",
+					"id": 14587524,
+					"id_str": "14587524",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "danielTBingham",
+					"name": "Daniel Bingham",
+					"id": 1554150362185179100,
+					"id_str": "1554150362185179136",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gGQMz3Ubll",
+					"expanded_url": "https://wordpress.org/plugins/activitypub/",
+					"display_url": "wordpress.org/plugins/activi…",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/62F4YXnHN1",
+					"expanded_url": "https://mastodon.social/@topdog@cogdogblog.com",
+					"display_url": "mastodon.social/@topdog@cogdog…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1587159707860422700,
+		"in_reply_to_status_id_str": "1587159707860422656",
+		"in_reply_to_user_id": 14587524,
+		"in_reply_to_user_id_str": "14587524",
+		"in_reply_to_screen_name": "jasongreen",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1543,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jasongreen @BryanAlexander @danielTBingham I'm not to sure what I am doing. I just use the ActivityPub plugin so my WP posts get published to mastodon https://t.co/gGQMz3Ubll \n\nIt seems to publish under that account name https://t.co/62F4YXnHN1 but shows up in my timeline"
+	},
+	{
 		"created_at": "Mon Oct 31 17:39:06 +0000 2022",
 		"id": 1587137098066251800,
 		"id_str": "1587137098066251776",

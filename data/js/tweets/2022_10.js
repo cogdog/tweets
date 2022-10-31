@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 17:39:06 +0000 2022",
+		"id": 1587137098066251800,
+		"id_str": "1587137098066251776",
+		"full_text": "Plus embedded documentation pulled directly from GitHub using @hibbittsdesign Docsify This (also enabling the display of examples on the splot page to also be embedded directly from source) https://t.co/EkyyrRvMk4 https://t.co/9NXLC4MZTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibbittsdesign",
+					"name": "Hibbitts Design",
+					"id": 15949844,
+					"id_str": "15949844",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EkyyrRvMk4",
+					"expanded_url": "https://splot.ca/splots/tru-writer/",
+					"display_url": "splot.ca/splots/tru-wri…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1587136769614647300,
+					"id_str": "1587136769614647299",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgake6LXkAM1LxE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgake6LXkAM1LxE.jpg",
+					"url": "https://t.co/9NXLC4MZTS",
+					"display_url": "pic.twitter.com/9NXLC4MZTS",
+					"expanded_url": "https://twitter.com/cogdog/status/1587137098066251776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587136769614647300,
+					"id_str": "1587136769614647299",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgake6LXkAM1LxE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgake6LXkAM1LxE.jpg",
+					"url": "https://t.co/9NXLC4MZTS",
+					"display_url": "pic.twitter.com/9NXLC4MZTS",
+					"expanded_url": "https://twitter.com/cogdog/status/1587137098066251776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1587136235897847800,
+		"in_reply_to_status_id_str": "1587136235897847813",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1543,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Plus embedded documentation pulled directly from GitHub using @hibbittsdesign Docsify This (also enabling the display of examples on the splot page to also be embedded directly from source) https://t.co/EkyyrRvMk4 https://t.co/9NXLC4MZTS"
+	},
+	{
+		"created_at": "Mon Oct 31 17:35:40 +0000 2022",
+		"id": 1587136235897847800,
+		"id_str": "1587136235897847813",
+		"full_text": "Also, this enables a public link as well https://t.co/XdxA2gNWm4\n\nwhich is now linked in footers to show all writings from same person https://t.co/2VRAPNqUkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XdxA2gNWm4",
+					"expanded_url": "https://splot.ca/writer/?writer=Anonymous",
+					"display_url": "splot.ca/writer/?writer…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1587136032427884500,
+					"id_str": "1587136032427884547",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgajz_8WQAMMVr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgajz_8WQAMMVr7.jpg",
+					"url": "https://t.co/2VRAPNqUkF",
+					"display_url": "pic.twitter.com/2VRAPNqUkF",
+					"expanded_url": "https://twitter.com/cogdog/status/1587136235897847813/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1818,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 183,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587136032427884500,
+					"id_str": "1587136032427884547",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgajz_8WQAMMVr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgajz_8WQAMMVr7.jpg",
+					"url": "https://t.co/2VRAPNqUkF",
+					"display_url": "pic.twitter.com/2VRAPNqUkF",
+					"expanded_url": "https://twitter.com/cogdog/status/1587136235897847813/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1818,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 183,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1587134543496347600,
+		"in_reply_to_status_id_str": "1587134543496347651",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1543,
+			"listed_count": 782,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also, this enables a public link as well https://t.co/XdxA2gNWm4\n\nwhich is now linked in footers to show all writings from same person https://t.co/2VRAPNqUkF"
+	},
+	{
 		"created_at": "Mon Oct 31 04:11:01 +0000 2022",
 		"id": 1586933736696066000,
 		"id_str": "1586933736696066050",

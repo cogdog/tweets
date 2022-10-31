@@ -3,7 +3,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2022_10.js",
 		"year": 2022,
 		"var_name": "tweets_2022_10",
-		"tweet_count": 119,
+		"tweet_count": 121,
 		"month": 10
 	},
 	{

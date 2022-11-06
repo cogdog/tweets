@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 23:09:19 +0000 2022",
+		"id": 1589394525268607000,
+		"id_str": "1589394525268606976",
+		"full_text": "@ds106dc #tdc3950 #ds106 I remember some audacious tulips \n\nhttps://t.co/YTV2sIZ0wC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3950",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YTV2sIZ0wC",
+					"expanded_url": "https://www.flickr.com/photos/cogdog/8502890232/",
+					"display_url": "flickr.com/photos/cogdog/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10361,
+			"friends_count": 1537,
+			"listed_count": 0,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc3950 #ds106 I remember some audacious tulips \n\nhttps://t.co/YTV2sIZ0wC"
+	},
+	{
+		"created_at": "Sun Nov 06 22:59:59 +0000 2022",
+		"id": 1589391496205455400,
+		"id_str": "1589392179402866688",
+		"full_text": "Want to explore how to take back the #OpenWeb in #HigherEd?? Then come to my workshop at @OEBconference #OEB2022 Wednesday, Nov 23!  Time: 10:00  – 13:00. https://t.co/K3Lvcskq6m https://t.co/jn5uaLlFVx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenWeb",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "OEB2022",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OEBconference",
+					"name": "OEB Conference",
+					"id": 80607805,
+					"id_str": "80607805",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K3Lvcskq6m",
+					"expanded_url": "https://oeb.global/programme/agenda/oeb-22/sessions/25900",
+					"display_url": "oeb.global/programme/agen…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589391454945804300,
+					"id_str": "1589391454945804288",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg6nG3kWAAAAs6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg6nG3kWAAAAs6N.jpg",
+					"url": "https://t.co/jn5uaLlFVx",
+					"display_url": "pic.twitter.com/jn5uaLlFVx",
+					"expanded_url": "https://twitter.com/avunque/status/1589391496205455360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589391454945804300,
+					"id_str": "1589391454945804288",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg6nG3kWAAAAs6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg6nG3kWAAAAs6N.jpg",
+					"url": "https://t.co/jn5uaLlFVx",
+					"display_url": "pic.twitter.com/jn5uaLlFVx",
+					"expanded_url": "https://twitter.com/avunque/status/1589391496205455360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16528394,
+			"id_str": "16528394",
+			"name": "Antonio Vantaggiato",
+			"screen_name": "avunque",
+			"location": "San Juan",
+			"description": "Unsound tweets. Edtech, media, education. A bit from here, a bit from there.",
+			"url": "https://t.co/M11qtBnPba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M11qtBnPba",
+							"expanded_url": "http://skateofweb.com",
+							"display_url": "skateofweb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1130,
+			"friends_count": 1229,
+			"listed_count": 162,
+			"created_at": "Tue Sep 30 14:44:04 +0000 2008",
+			"favourites_count": 5883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3396337457/aad1ef0cfc446bf8956c3f076886e6ac_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to explore how to take back the #OpenWeb in #HigherEd?? Then come to my workshop at @OEBconference #OEB2022 Wednesday, Nov 23!  Time: 10:00  – 13:00. https://t.co/K3Lvcskq6m https://t.co/jn5uaLlFVx"
+	},
+	{
 		"created_at": "Sun Nov 06 19:47:57 +0000 2022",
 		"id": 1589343853219389400,
 		"id_str": "1589343853219389440",

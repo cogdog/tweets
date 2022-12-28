@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 23:04:14 +0000 2022",
+		"id": 1608237415235215400,
+		"id_str": "1608237415235215362",
+		"full_text": "@dogtrax @NomadWarMachine @Rockylou22 @ronald_2008 @ds106dc @grammasheri @Todd_Conaway @jimgroom @kfasimpaur Sergeant Hulka might by dusting off his bugle for 2023. Either that or some moose are mating out there. https://t.co/Ld3MioyP96",
+		"truncated": false,
+		"display_text_range": [
+			109,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "Rockylou22",
+					"name": "Rochelle Lockridge",
+					"id": 58716218,
+					"id_str": "58716218",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "ronald_2008",
+					"name": "Ronald_2008 🤔🌻",
+					"id": 211458710,
+					"id_str": "211458710",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "kfasimpaur",
+					"name": "Karen Fasimpaur",
+					"id": 7461192,
+					"id_str": "7461192",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ld3MioyP96",
+					"expanded_url": "https://cogdogblog.com/2017/05/the-ds106-june-30-day-daily-create-challenge/",
+					"display_url": "cogdogblog.com/2017/05/the-ds…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1607701555293175800,
+		"in_reply_to_status_id_str": "1607701555293175808",
+		"in_reply_to_user_id": 13307352,
+		"in_reply_to_user_id_str": "13307352",
+		"in_reply_to_screen_name": "dogtrax",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10214,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dogtrax @NomadWarMachine @Rockylou22 @ronald_2008 @ds106dc @grammasheri @Todd_Conaway @jimgroom @kfasimpaur Sergeant Hulka might by dusting off his bugle for 2023. Either that or some moose are mating out there. https://t.co/Ld3MioyP96"
+	},
+	{
 		"created_at": "Wed Dec 28 19:37:38 +0000 2022",
 		"id": 1608185423955648500,
 		"id_str": "1608185423955648513",

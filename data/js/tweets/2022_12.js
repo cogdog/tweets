@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 19:15:06 +0000 2022",
+		"id": 1608904531164762000,
+		"id_str": "1608904531164762115",
+		"full_text": "@Rockylou22 @NomadWarMachine @dogtrax @ronald_2008 @ds106dc @grammasheri @Todd_Conaway @jimgroom @kfasimpaur @mdvfunes Wow, I had not seen that before, what a fantastic concept. Bring on the Nissaba School of Sorcery in 2023.\n\nMy bandwidth is limited (and keeping Sister Staff Sergeant Hulka reigned in will take alot) but fully support y'all rallying some participants.",
+		"truncated": false,
+		"display_text_range": [
+			119,
+			370
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rockylou22",
+					"name": "Rochelle Lockridge",
+					"id": 58716218,
+					"id_str": "58716218",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"screen_name": "ronald_2008",
+					"name": "Ronald_2008 🤔🌻",
+					"id": 211458710,
+					"id_str": "211458710",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "kfasimpaur",
+					"name": "Karen Fasimpaur",
+					"id": 7461192,
+					"id_str": "7461192",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"screen_name": "mdvfunes",
+					"name": "Mariana",
+					"id": 1556094044,
+					"id_str": "1556094044",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1608902652443897900,
+		"in_reply_to_status_id_str": "1608902652443897856",
+		"in_reply_to_user_id": 58716218,
+		"in_reply_to_user_id_str": "58716218",
+		"in_reply_to_screen_name": "Rockylou22",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10212,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Rockylou22 @NomadWarMachine @dogtrax @ronald_2008 @ds106dc @grammasheri @Todd_Conaway @jimgroom @kfasimpaur @mdvfunes Wow, I had not seen that before, what a fantastic concept. Bring on the Nissaba School of Sorcery in 2023.\n\nMy bandwidth is limited (and keeping Sister Staff Sergeant Hulka reigned in will take alot) but fully support y'all rallying some participants."
+	},
+	{
+		"created_at": "Fri Dec 30 19:07:04 +0000 2022",
+		"id": 1608902508373590000,
+		"id_str": "1608902508373590017",
+		"full_text": "Get ready on January 1 for an important announcement/command from Sister STAFF Sergeant Hulka\n\nFall in line, #ds106 platoon, and get ready to DAILY CREATE in 2023. https://t.co/GV82T78p23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GV82T78p23",
+					"expanded_url": "https://twitter.com/Rockylou22/status/1608685677591560196",
+					"display_url": "twitter.com/Rockylou22/sta…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10212,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1608685677591560200,
+		"quoted_status_id_str": "1608685677591560196",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GV82T78p23",
+			"expanded": "https://twitter.com/Rockylou22/status/1608685677591560196",
+			"display": "twitter.com/Rockylou22/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 30 04:45:28 +0000 2022",
+			"id": 1608685677591560200,
+			"id_str": "1608685677591560196",
+			"full_text": "@cogdog Sgt Hulka’s sister, STAFF Sergeant Hulka, wants the scoop! Are you dusting off your #ds106 bugle? How serious are you? @dogtrax @NomadWarMachine @mdvfunes @ronald_2008 @IamTalkyTina @Todd_Conaway @ds106dc @jimgroom @johnjohnston @VivienRolfe @konarheim @AnnyCow https://t.co/q7t1h7e92s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ds106",
+						"indices": [
+							92,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "dogtrax",
+						"name": "KevinHodgson",
+						"id": 13307352,
+						"id_str": "13307352",
+						"indices": [
+							127,
+							135
+						]
+					},
+					{
+						"screen_name": "NomadWarMachine",
+						"name": "Sarah Honeychurch",
+						"id": 558091832,
+						"id_str": "558091832",
+						"indices": [
+							136,
+							152
+						]
+					},
+					{
+						"screen_name": "mdvfunes",
+						"name": "Mariana",
+						"id": 1556094044,
+						"id_str": "1556094044",
+						"indices": [
+							153,
+							162
+						]
+					},
+					{
+						"screen_name": "ronald_2008",
+						"name": "Ronald_2008 🤔🌻",
+						"id": 211458710,
+						"id_str": "211458710",
+						"indices": [
+							163,
+							175
+						]
+					},
+					{
+						"screen_name": "IamTalkyTina",
+						"name": "Talky Tina",
+						"id": 1149090684,
+						"id_str": "1149090684",
+						"indices": [
+							176,
+							189
+						]
+					},
+					{
+						"screen_name": "Todd_Conaway",
+						"name": "Todd Conaway",
+						"id": 7664302,
+						"id_str": "7664302",
+						"indices": [
+							190,
+							203
+						]
+					},
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							204,
+							212
+						]
+					},
+					{
+						"screen_name": "jimgroom",
+						"name": "Jim Groom",
+						"id": 3362981,
+						"id_str": "3362981",
+						"indices": [
+							213,
+							222
+						]
+					},
+					{
+						"screen_name": "johnjohnston",
+						"name": "john johnston",
+						"id": 7484192,
+						"id_str": "7484192",
+						"indices": [
+							223,
+							236
+						]
+					},
+					{
+						"screen_name": "VivienRolfe",
+						"name": "Dr Viv Rolfe 🍵🎵🌿🎷💜🤍💚Head of Herbal Research",
+						"id": 214901910,
+						"id_str": "214901910",
+						"indices": [
+							237,
+							249
+						]
+					},
+					{
+						"screen_name": "konarheim",
+						"name": "Kathy Onarheim",
+						"id": 12158652,
+						"id_str": "12158652",
+						"indices": [
+							250,
+							260
+						]
+					},
+					{
+						"screen_name": "AnnyCow",
+						"name": "AnnaCow",
+						"id": 2389814168,
+						"id_str": "2389814168",
+						"indices": [
+							261,
+							269
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/q7t1h7e92s",
+						"expanded_url": "https://twitter.com/rockylou22/status/872089507297996806",
+						"display_url": "twitter.com/rockylou22/sta…",
+						"indices": [
+							270,
+							293
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 740343,
+			"in_reply_to_user_id_str": "740343",
+			"in_reply_to_screen_name": "cogdog",
+			"user": {
+				"id": 58716218,
+				"id_str": "58716218",
+				"name": "Rochelle Lockridge",
+				"screen_name": "Rockylou22",
+				"location": "Minnesota",
+				"description": "High school chemistry teacher & proud Nana cultivating creativity, raising visions and co-creating the future",
+				"url": "https://t.co/PNtiQ3SKgw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PNtiQ3SKgw",
+								"expanded_url": "http://www.RockylouProductions.com/blog_wp",
+								"display_url": "RockylouProductions.com/blog_wp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 213,
+				"friends_count": 492,
+				"listed_count": 12,
+				"created_at": "Tue Jul 21 05:35:51 +0000 2009",
+				"favourites_count": 2442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2374,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000800605785/60a9ead1354e121cb497ff20696bb0f4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000800605785/60a9ead1354e121cb497ff20696bb0f4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58716218/1621532098",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 872089507297996800,
+			"quoted_status_id_str": "872089507297996806",
+			"quoted_status_permalink": {
+				"url": "https://t.co/q7t1h7e92s",
+				"expanded": "https://twitter.com/rockylou22/status/872089507297996806",
+				"display": "twitter.com/rockylou22/sta…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ready on January 1 for an important announcement/command from Sister STAFF Sergeant Hulka\n\nFall in line, #ds106 platoon, and get ready to DAILY CREATE in 2023. https://t.co/GV82T78p23"
+	},
+	{
 		"created_at": "Fri Dec 30 17:34:41 +0000 2022",
 		"id": 1608879256787992600,
 		"id_str": "1608879256787992577",

@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 13:52:54 +0000 2022",
+		"id": 1608823443205795800,
+		"id_str": "1608823443205795841",
+		"full_text": "@mdvfunes @Rockylou22 @NomadWarMachine @dogtrax @ronald_2008 @ds106dc @grammasheri @Todd_Conaway @jimgroom @kfasimpaur The word is HULKA DOES NOT CARE IF YOU TWEET, TOOT OR KAHOOT AS LONG AS YOU COMMIT TO MAKING DS106 ART DAMNIT. Same personality….",
+		"truncated": false,
+		"display_text_range": [
+			119,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdvfunes",
+					"name": "Mariana",
+					"id": 1556094044,
+					"id_str": "1556094044",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Rockylou22",
+					"name": "Rochelle Lockridge",
+					"id": 58716218,
+					"id_str": "58716218",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "ronald_2008",
+					"name": "Ronald_2008 🤔🌻",
+					"id": 211458710,
+					"id_str": "211458710",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"screen_name": "kfasimpaur",
+					"name": "Karen Fasimpaur",
+					"id": 7461192,
+					"id_str": "7461192",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1608714634009219000,
+		"in_reply_to_status_id_str": "1608714634009219074",
+		"in_reply_to_user_id": 1556094044,
+		"in_reply_to_user_id_str": "1556094044",
+		"in_reply_to_screen_name": "mdvfunes",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10214,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mdvfunes @Rockylou22 @NomadWarMachine @dogtrax @ronald_2008 @ds106dc @grammasheri @Todd_Conaway @jimgroom @kfasimpaur The word is HULKA DOES NOT CARE IF YOU TWEET, TOOT OR KAHOOT AS LONG AS YOU COMMIT TO MAKING DS106 ART DAMNIT. Same personality…."
+	},
+	{
 		"created_at": "Fri Dec 30 06:13:56 +0000 2022",
 		"id": 1608707943234695200,
 		"id_str": "1608707943234695169",

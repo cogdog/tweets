@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 15:47:25 +0000 2023",
+		"id": 1611751365432180700,
+		"id_str": "1611751365432180738",
+		"full_text": "@ds106dc  #ds106 #dailycreate  #tdc4012 Album cover for a reprise and homage to the classic @xkcdComic hit \"Duty Calls\" \n\ncover based on @ImagesAlbum https://t.co/nQiwFJDhdu https://t.co/Dem0V00qmW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "dailycreate",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"text": "tdc4012",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "xkcdComic",
+					"name": "XKCD Comic",
+					"id": 2251623492,
+					"id_str": "2251623492",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "ImagesAlbum",
+					"name": "Images That Could Be Album Covers",
+					"id": 1504086687298822100,
+					"id_str": "1504086687298822149",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nQiwFJDhdu",
+					"expanded_url": "https://twitter.com/ImagesAlbum/status/1610984592646733824",
+					"display_url": "twitter.com/ImagesAlbum/st…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1611750493318955000,
+					"id_str": "1611750493318955009",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Fl4WiMTWQAEZX1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fl4WiMTWQAEZX1I.jpg",
+					"url": "https://t.co/Dem0V00qmW",
+					"display_url": "pic.twitter.com/Dem0V00qmW",
+					"expanded_url": "https://twitter.com/cogdog/status/1611751365432180738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1611750493318955000,
+					"id_str": "1611750493318955009",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Fl4WiMTWQAEZX1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fl4WiMTWQAEZX1I.jpg",
+					"url": "https://t.co/Dem0V00qmW",
+					"display_url": "pic.twitter.com/Dem0V00qmW",
+					"expanded_url": "https://twitter.com/cogdog/status/1611751365432180738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10199,
+			"friends_count": 1529,
+			"listed_count": 765,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1610984592646733800,
+		"quoted_status_id_str": "1610984592646733824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nQiwFJDhdu",
+			"expanded": "https://twitter.com/ImagesAlbum/status/1610984592646733824",
+			"display": "twitter.com/ImagesAlbum/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 05 13:00:32 +0000 2023",
+			"id": 1610984592646733800,
+			"id_str": "1610984592646733824",
+			"full_text": "https://t.co/vPY20ACWfA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1610948787500884000,
+						"id_str": "1610948787500883968",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Fls9YxZWIAAZNr_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fls9YxZWIAAZNr_.jpg",
+						"url": "https://t.co/vPY20ACWfA",
+						"display_url": "pic.twitter.com/vPY20ACWfA",
+						"expanded_url": "https://twitter.com/ImagesAlbum/status/1610984592646733824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 503,
+								"h": 527,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 503,
+								"h": 527,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 527,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1610948787500884000,
+						"id_str": "1610948787500883968",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Fls9YxZWIAAZNr_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fls9YxZWIAAZNr_.jpg",
+						"url": "https://t.co/vPY20ACWfA",
+						"display_url": "pic.twitter.com/vPY20ACWfA",
+						"expanded_url": "https://twitter.com/ImagesAlbum/status/1610984592646733824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 503,
+								"h": 527,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 503,
+								"h": 527,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 527,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1504086687298822100,
+				"id_str": "1504086687298822149",
+				"name": "Images That Could Be Album Covers",
+				"screen_name": "ImagesAlbum",
+				"location": "",
+				"description": "Images That Could Be Album Covers | DM For Removal/Credit | Submissions: https://t.co/oKi4Z5QhDP",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oKi4Z5QhDP",
+								"expanded_url": "http://reddit.com/r/ImagesAlbum",
+								"display_url": "reddit.com/r/ImagesAlbum",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1733755,
+				"friends_count": 60,
+				"listed_count": 1952,
+				"created_at": "Wed Mar 16 13:26:45 +0000 2022",
+				"favourites_count": 832,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 600,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1526057276766814209/ZD6_S51L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526057276766814209/ZD6_S51L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1504086687298822149/1662096355",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3927,
+			"favorite_count": 92999,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zxx"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc  #ds106 #dailycreate  #tdc4012 Album cover for a reprise and homage to the classic @xkcdComic hit \"Duty Calls\" \n\ncover based on @ImagesAlbum https://t.co/nQiwFJDhdu https://t.co/Dem0V00qmW"
+	},
+	{
 		"created_at": "Sat Jan 07 15:12:53 +0000 2023",
 		"id": 1611742676004573200,
 		"id_str": "1611742676004573188",

@@ -1,6 +1,696 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 10 17:39:15 +0000 2023",
+		"id": 1612866672687304700,
+		"id_str": "1612866672687304704",
+		"full_text": "@ds106dc  #tdc4015 #ds106  I need to disinfect after peer at Twitter Trends (this might be the first time I ever looked at these)... anything to complete a #dailycreate \n\nWritten by 100% non AI human using all the sketchy trend words https://t.co/5CxpmQNDDt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc4015",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "dailycreate",
+					"indices": [
+						156,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1612865780634325000,
+					"id_str": "1612865780634325029",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FmIM4dUXkCU9YaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmIM4dUXkCU9YaW.jpg",
+					"url": "https://t.co/5CxpmQNDDt",
+					"display_url": "pic.twitter.com/5CxpmQNDDt",
+					"expanded_url": "https://twitter.com/cogdog/status/1612866672687304704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 370,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 370,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 370,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1612865780634325000,
+					"id_str": "1612865780634325029",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FmIM4dUXkCU9YaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmIM4dUXkCU9YaW.jpg",
+					"url": "https://t.co/5CxpmQNDDt",
+					"display_url": "pic.twitter.com/5CxpmQNDDt",
+					"expanded_url": "https://twitter.com/cogdog/status/1612866672687304704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 370,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 370,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 370,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1612866218649686000,
+					"id_str": "1612866218649686027",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FmINR9DXkAs4wo0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmINR9DXkAs4wo0.jpg",
+					"url": "https://t.co/5CxpmQNDDt",
+					"display_url": "pic.twitter.com/5CxpmQNDDt",
+					"expanded_url": "https://twitter.com/cogdog/status/1612866672687304704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 514,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 514,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10201,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc  #tdc4015 #ds106  I need to disinfect after peer at Twitter Trends (this might be the first time I ever looked at these)... anything to complete a #dailycreate \n\nWritten by 100% non AI human using all the sketchy trend words https://t.co/5CxpmQNDDt"
+	},
+	{
+		"created_at": "Tue Jan 10 17:20:38 +0000 2023",
+		"id": 1612861989419716600,
+		"id_str": "1612861989419716642",
+		"full_text": "If my dog can use Openverse to fine tune searches for open licensed images and audio, surely you can too. https://t.co/7WtEnK0cyh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7WtEnK0cyh",
+					"expanded_url": "https://twitter.com/felixadog/status/1612833663179161600",
+					"display_url": "twitter.com/felixadog/stat…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10201,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1612833663179161600,
+		"quoted_status_id_str": "1612833663179161600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7WtEnK0cyh",
+			"expanded": "https://twitter.com/felixadog/status/1612833663179161600",
+			"display": "twitter.com/felixadog/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 10 15:28:04 +0000 2023",
+			"id": 1612833663179161600,
+			"id_str": "1612833663179161600",
+			"full_text": "Hey! This Openverse open licensed search thing that @cogdog showed me is AMAZING! I can search on \"felix dog\" and filtering for CC0 is nearly all me!\n\nhttps://t.co/kdglpYShpA https://t.co/kRR1lE99Uw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							52,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kdglpYShpA",
+						"expanded_url": "https://wordpress.org/openverse/search/image?q=dog%20felix&license=cc0",
+						"display_url": "wordpress.org/openverse/sear…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1612833411214856200,
+						"id_str": "1612833411214856192",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/FmHvcT1X0AAn7oZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmHvcT1X0AAn7oZ.jpg",
+						"url": "https://t.co/kRR1lE99Uw",
+						"display_url": "pic.twitter.com/kRR1lE99Uw",
+						"expanded_url": "https://twitter.com/felixadog/status/1612833663179161600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1612833411214856200,
+						"id_str": "1612833411214856192",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/FmHvcT1X0AAn7oZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmHvcT1X0AAn7oZ.jpg",
+						"url": "https://t.co/kRR1lE99Uw",
+						"display_url": "pic.twitter.com/kRR1lE99Uw",
+						"expanded_url": "https://twitter.com/felixadog/status/1612833663179161600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 725029637609381900,
+				"id_str": "725029637609381891",
+				"name": "Felix Dog",
+				"screen_name": "felixadog",
+				"location": "Archydal, SK",
+				"description": "It's a full time job being this adorable and being loyal to my humans @cogdog and @corisaas plus playing with my three cats (don't my dog pack know!)",
+				"url": "https://t.co/LI71xP8wqj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LI71xP8wqj",
+								"expanded_url": "https://flickr.com/photos/cogdog/tags/felix",
+								"display_url": "flickr.com/photos/cogdog/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54,
+				"friends_count": 57,
+				"listed_count": 2,
+				"created_at": "Tue Apr 26 18:31:50 +0000 2016",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1571,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725030244843839488/cFOWP04G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725030244843839488/cFOWP04G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/725029637609381891/1506288368",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If my dog can use Openverse to fine tune searches for open licensed images and audio, surely you can too. https://t.co/7WtEnK0cyh"
+	},
+	{
+		"created_at": "Tue Jan 10 17:19:45 +0000 2023",
+		"id": 1612861765842342000,
+		"id_str": "1612861765842341912",
+		"full_text": "@ResearchBuzz I am now giving Descript a try, it's very compelling for audio cleanup (removed 500 ums!). And you get a transcript.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchBuzz",
+					"name": "Tara Calishain",
+					"id": 6979102,
+					"id_str": "6979102",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1612857039163723800,
+		"in_reply_to_status_id_str": "1612857039163723776",
+		"in_reply_to_user_id": 6979102,
+		"in_reply_to_user_id_str": "6979102",
+		"in_reply_to_screen_name": "ResearchBuzz",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10201,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ResearchBuzz I am now giving Descript a try, it's very compelling for audio cleanup (removed 500 ums!). And you get a transcript."
+	},
+	{
 		"created_at": "Tue Jan 10 15:32:33 +0000 2023",
 		"id": 1612834789102420000,
 		"id_str": "1612834789102419971",

@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 10 19:09:53 +0000 2023",
+		"id": 1612751594986020900,
+		"id_str": "1612889482449063959",
+		"full_text": "Last call for #OER23 proposals. Submit your proposals by today, 10 January 2023, if you would like to take part in our Open Education Conference: Advancing Open Education Practices, 4 – 6 April 2023, Inverness, Scotland. https://t.co/4ihDJsmM5a #altc #OER https://t.co/9JANXNknpU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER23",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						245,
+						250
+					]
+				},
+				{
+					"text": "OER",
+					"indices": [
+						251,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ihDJsmM5a",
+					"expanded_url": "https://altc.alt.ac.uk/oer23/call-for-proposals/",
+					"display_url": "altc.alt.ac.uk/oer23/call-for…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1612751592687534000,
+					"id_str": "1612751592687534087",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FmGlB2EWAAcPEgf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmGlB2EWAAcPEgf.jpg",
+					"url": "https://t.co/9JANXNknpU",
+					"display_url": "pic.twitter.com/9JANXNknpU",
+					"expanded_url": "https://twitter.com/OERConf/status/1612751594986020864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1612751592687534000,
+					"id_str": "1612751592687534087",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FmGlB2EWAAcPEgf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmGlB2EWAAcPEgf.jpg",
+					"url": "https://t.co/9JANXNknpU",
+					"display_url": "pic.twitter.com/9JANXNknpU",
+					"expanded_url": "https://twitter.com/OERConf/status/1612751594986020864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2695133612,
+			"id_str": "2695133612",
+			"name": "OER Open Education Conference",
+			"screen_name": "OERConf",
+			"location": "Online",
+			"description": "Official account for the 14th annual OER Conference, organised by @A_L_T, UK.  Our next conference #OER23 takes place 4-6 April 2023, Inverness, Scotland",
+			"url": "https://t.co/ujiErRIJQi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ujiErRIJQi",
+							"expanded_url": "https://altc.alt.ac.uk/oer23/",
+							"display_url": "altc.alt.ac.uk/oer23/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1245,
+			"listed_count": 98,
+			"created_at": "Thu Jul 31 08:18:01 +0000 2014",
+			"favourites_count": 1872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597915480567779331/Yru2Ygtd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597915480567779331/Yru2Ygtd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695133612/1669807565",
+			"profile_link_color": "444444",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last call for #OER23 proposals. Submit your proposals by today, 10 January 2023, if you would like to take part in our Open Education Conference: Advancing Open Education Practices, 4 – 6 April 2023, Inverness, Scotland. https://t.co/4ihDJsmM5a #altc #OER https://t.co/9JANXNknpU"
+	},
+	{
 		"created_at": "Tue Jan 10 17:39:15 +0000 2023",
 		"id": 1612866672687304700,
 		"id_str": "1612866672687304704",

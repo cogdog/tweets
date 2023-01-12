@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 18:44:37 +0000 2023",
+		"id": 1613607898923270100,
+		"id_str": "1613607898923270162",
+		"full_text": "@ds106dc #tdc4017 #ds106 Hi, you have reached the Dominion of Serpens, home of  Alpha Serpentis. All of our options have recently changed.\n\nIf you're having difficulty with a serpens on the plain, press 3. If you would like to hear f-bombs, press 4.  Otherwise remain on the line https://t.co/fwZgnL6XMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc4017",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1613607486723920000,
+					"id_str": "1613607486723919873",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSvdb0XEAEKOuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSvdb0XEAEKOuR.jpg",
+					"url": "https://t.co/fwZgnL6XMB",
+					"display_url": "pic.twitter.com/fwZgnL6XMB",
+					"expanded_url": "https://twitter.com/cogdog/status/1613607898923270162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 641,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613607486723920000,
+					"id_str": "1613607486723919873",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSvdb0XEAEKOuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSvdb0XEAEKOuR.jpg",
+					"url": "https://t.co/fwZgnL6XMB",
+					"display_url": "pic.twitter.com/fwZgnL6XMB",
+					"expanded_url": "https://twitter.com/cogdog/status/1613607898923270162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 641,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10202,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc4017 #ds106 Hi, you have reached the Dominion of Serpens, home of  Alpha Serpentis. All of our options have recently changed.\n\nIf you're having difficulty with a serpens on the plain, press 3. If you would like to hear f-bombs, press 4.  Otherwise remain on the line https://t.co/fwZgnL6XMB"
+	},
+	{
+		"created_at": "Thu Jan 12 18:18:29 +0000 2023",
+		"id": 1613567488809123800,
+		"id_str": "1613601321646538752",
+		"full_text": "@OpenEdGlobal is excited to start the year with the launch of the #OEGlobal23 website. The annual conference is co-hosted by @NorQuest!\n\nTheme 👉 Building A Sustainable World Through Open Education\n📆 Oct 16-18\n📌 #Edmonton, Canada\n\nhttps://t.co/4CYpur6U3t\n\n#savethedate #opened https://t.co/Gfohu7RWcE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEGlobal23",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"text": "Edmonton",
+					"indices": [
+						211,
+						220
+					]
+				},
+				{
+					"text": "savethedate",
+					"indices": [
+						255,
+						267
+					]
+				},
+				{
+					"text": "opened",
+					"indices": [
+						268,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "NorQuest",
+					"name": "NorQuest College",
+					"id": 18700570,
+					"id_str": "18700570",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4CYpur6U3t",
+					"expanded_url": "https://conference.oeglobal.org/2023/",
+					"display_url": "conference.oeglobal.org/2023/",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1613567485789216800,
+					"id_str": "1613567485789216770",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSLFEuWIAIDKMB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSLFEuWIAIDKMB.jpg",
+					"url": "https://t.co/Gfohu7RWcE",
+					"display_url": "pic.twitter.com/Gfohu7RWcE",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1613567488809123853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 704,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1767,
+							"h": 1037,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613567485789216800,
+					"id_str": "1613567485789216770",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSLFEuWIAIDKMB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSLFEuWIAIDKMB.jpg",
+					"url": "https://t.co/Gfohu7RWcE",
+					"display_url": "pic.twitter.com/Gfohu7RWcE",
+					"expanded_url": "https://twitter.com/OpenEdGlobal/status/1613567488809123853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 704,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1767,
+							"h": 1037,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16548567,
+		"in_reply_to_user_id_str": "16548567",
+		"in_reply_to_screen_name": "OpenEdGlobal",
+		"user": {
+			"id": 16548567,
+			"id_str": "16548567",
+			"name": "Open Education Global",
+			"screen_name": "OpenEdGlobal",
+			"location": "Global",
+			"description": "Education should be open and available for all – everywhere for everyone. Build this open future with us. #openeducation #oer https://t.co/n2MAsLuKCK",
+			"url": "https://t.co/FolbQBh2Co",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FolbQBh2Co",
+							"expanded_url": "https://www.oeglobal.org/",
+							"display_url": "oeglobal.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n2MAsLuKCK",
+							"expanded_url": "https://connect.oeglobal.org",
+							"display_url": "connect.oeglobal.org",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11691,
+			"friends_count": 618,
+			"listed_count": 544,
+			"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+			"favourites_count": 2819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1661507322",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OpenEdGlobal is excited to start the year with the launch of the #OEGlobal23 website. The annual conference is co-hosted by @NorQuest!\n\nTheme 👉 Building A Sustainable World Through Open Education\n📆 Oct 16-18\n📌 #Edmonton, Canada\n\nhttps://t.co/4CYpur6U3t\n\n#savethedate #opened https://t.co/Gfohu7RWcE"
+	},
+	{
 		"created_at": "Wed Jan 11 23:44:42 +0000 2023",
 		"id": 1613321031791579100,
 		"id_str": "1613321031791579136",

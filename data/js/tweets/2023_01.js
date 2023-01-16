@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 16 17:32:49 +0000 2023",
+		"id": 1615039384277115000,
+		"id_str": "1615039384277114881",
+		"full_text": "Thanks @MarenDeepwell  for leaving the door open for me to sign up to be part of #oeg23 planning https://t.co/1YmlzMmo7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oeg23",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1YmlzMmo7y",
+					"expanded_url": "https://twitter.com/MarenDeepwell/status/1614987684358881281",
+					"display_url": "twitter.com/MarenDeepwell/…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10198,
+			"friends_count": 1529,
+			"listed_count": 766,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1614987684358881300,
+		"quoted_status_id_str": "1614987684358881281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1YmlzMmo7y",
+			"expanded": "https://twitter.com/MarenDeepwell/status/1614987684358881281",
+			"display": "twitter.com/MarenDeepwell/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 16 14:07:23 +0000 2023",
+			"id": 1614987684358881300,
+			"id_str": "1614987684358881281",
+			"full_text": "Excited to see the work of the #OER23 committee get underway. As there are so many committee members, 90+, we are using Discord to support this work and also the dedicated meetings. The first one is coming soon, on 24th January :) https://t.co/eexQ4i0jCA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER23",
+						"indices": [
+							31,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1614987324936409000,
+						"id_str": "1614987324936409089",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/FmmWaluX0AEafQi.png",
+						"media_url_https": "https://pbs.twimg.com/media/FmmWaluX0AEafQi.png",
+						"url": "https://t.co/eexQ4i0jCA",
+						"display_url": "pic.twitter.com/eexQ4i0jCA",
+						"expanded_url": "https://twitter.com/MarenDeepwell/status/1614987684358881281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 745,
+								"h": 554,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 745,
+								"h": 554,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1614987324936409000,
+						"id_str": "1614987324936409089",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/FmmWaluX0AEafQi.png",
+						"media_url_https": "https://pbs.twimg.com/media/FmmWaluX0AEafQi.png",
+						"url": "https://t.co/eexQ4i0jCA",
+						"display_url": "pic.twitter.com/eexQ4i0jCA",
+						"expanded_url": "https://twitter.com/MarenDeepwell/status/1614987684358881281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 745,
+								"h": 554,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 745,
+								"h": 554,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 323173367,
+				"id_str": "323173367",
+				"name": "Dr Maren Deepwell",
+				"screen_name": "MarenDeepwell",
+				"location": "Cardiff, Wales",
+				"description": "💻 CEO @A_L_T, the UK’s leading prof body for #EdTech\n📒 Author of Leading Virtual Teams Book\n💡Coach for #EdTech and #education professionals",
+				"url": "https://t.co/yD8CzN2z53",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yD8CzN2z53",
+								"expanded_url": "http://marendeepwell.com",
+								"display_url": "marendeepwell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5450,
+				"friends_count": 2060,
+				"listed_count": 201,
+				"created_at": "Fri Jun 24 11:30:35 +0000 2011",
+				"favourites_count": 31682,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15787,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1528393525854982145/t5NLlrXS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528393525854982145/t5NLlrXS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/323173367/1667753971",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @MarenDeepwell  for leaving the door open for me to sign up to be part of #oeg23 planning https://t.co/1YmlzMmo7y"
+	},
+	{
 		"created_at": "Sun Jan 15 23:52:51 +0000 2023",
 		"id": 1614772634729717800,
 		"id_str": "1614772634729717760",

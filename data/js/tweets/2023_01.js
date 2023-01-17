@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 19:30:01 +0000 2023",
+		"id": 1615367197613867000,
+		"id_str": "1615431264718184459",
+		"full_text": "Born #onthisday in 1574, the great occult philosopher Robert Fludd. Pictured here his image of the \"spiritual brain\". More about the man and his philosophy in our essay by Urszula Szulakowska: https://t.co/TJmKe0VhYZ #otd https://t.co/o5ROZTIpKp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onthisday",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"text": "otd",
+					"indices": [
+						217,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TJmKe0VhYZ",
+					"expanded_url": "https://publicdomainreview.org/essay/robert-fludd-and-his-images-of-the-divine",
+					"display_url": "publicdomainreview.org/essay/robert-f…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1615367194929500200,
+					"id_str": "1615367194929500160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmrv57uXkAACkaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmrv57uXkAACkaW.jpg",
+					"url": "https://t.co/o5ROZTIpKp",
+					"display_url": "pic.twitter.com/o5ROZTIpKp",
+					"expanded_url": "https://twitter.com/PublicDomainRev/status/1615367197613867012/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 726,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 411,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615367194929500200,
+					"id_str": "1615367194929500160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmrv57uXkAACkaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmrv57uXkAACkaW.jpg",
+					"url": "https://t.co/o5ROZTIpKp",
+					"display_url": "pic.twitter.com/o5ROZTIpKp",
+					"expanded_url": "https://twitter.com/PublicDomainRev/status/1615367197613867012/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 726,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 411,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://publicdomainreview.org/\" rel=\"nofollow\">The Public Domain Review</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203307838,
+			"id_str": "203307838",
+			"name": "The Public Domain Review",
+			"screen_name": "PublicDomainRev",
+			"location": "",
+			"description": "Online journal exploring works from the history of art, literature, and ideas. Featuring 300+ essays — ✍️ submissions welcome. @publicdomainrev@mastodon.social",
+			"url": "https://t.co/kauXVXnjeN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kauXVXnjeN",
+							"expanded_url": "http://publicdomainreview.org",
+							"display_url": "publicdomainreview.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79160,
+			"friends_count": 1653,
+			"listed_count": 2032,
+			"created_at": "Sat Oct 16 00:18:28 +0000 2010",
+			"favourites_count": 2874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1593541751196745728/Hpfl0u-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1593541751196745728/Hpfl0u-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203307838/1650795561",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Born #onthisday in 1574, the great occult philosopher Robert Fludd. Pictured here his image of the \"spiritual brain\". More about the man and his philosophy in our essay by Urszula Szulakowska: https://t.co/TJmKe0VhYZ #otd https://t.co/o5ROZTIpKp"
+	},
+	{
 		"created_at": "Tue Jan 17 19:01:28 +0000 2023",
 		"id": 1615424080664006700,
 		"id_str": "1615424080664006701",

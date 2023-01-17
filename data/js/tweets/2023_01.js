@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 15:02:07 +0000 2023",
+		"id": 1615038165001343000,
+		"id_str": "1615363843714056194",
+		"full_text": "A couple years ago, my parents moved onto an acreage. The place-based prairie history lover in me was intrigued by the old dugout at the back of the property and the rusting three strand fence line. What stories did this barbwire hold?\n\n1/5 https://t.co/HT5h97is1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1615038157862338600,
+					"id_str": "1615038157862338580",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FmnEpdIWABQKIKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmnEpdIWABQKIKm.jpg",
+					"url": "https://t.co/HT5h97is1z",
+					"display_url": "pic.twitter.com/HT5h97is1z",
+					"expanded_url": "https://twitter.com/JessyLeeSaas/status/1615038165001342978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615038157862338600,
+					"id_str": "1615038157862338580",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FmnEpdIWABQKIKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmnEpdIWABQKIKm.jpg",
+					"url": "https://t.co/HT5h97is1z",
+					"display_url": "pic.twitter.com/HT5h97is1z",
+					"expanded_url": "https://twitter.com/JessyLeeSaas/status/1615038165001342978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615038157858144300,
+					"id_str": "1615038157858144267",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FmnEpdHWAAs6I0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmnEpdHWAAs6I0X.jpg",
+					"url": "https://t.co/HT5h97is1z",
+					"display_url": "pic.twitter.com/HT5h97is1z",
+					"expanded_url": "https://twitter.com/JessyLeeSaas/status/1615038165001342978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 327469740,
+			"id_str": "327469740",
+			"name": "Jessy Lee Saas",
+			"screen_name": "JessyLeeSaas",
+			"location": "",
+			"description": "History PhD student, Halloween lover, coffee enthusiast, and prairie girl // Treaty 4 and Treaty 6 Land",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 275,
+			"listed_count": 2,
+			"created_at": "Fri Jul 01 16:30:20 +0000 2011",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1558676012606570496/s6Jd0kRE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1558676012606570496/s6Jd0kRE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/327469740/1474232470",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A couple years ago, my parents moved onto an acreage. The place-based prairie history lover in me was intrigued by the old dugout at the back of the property and the rusting three strand fence line. What stories did this barbwire hold?\n\n1/5 https://t.co/HT5h97is1z"
+	},
+	{
 		"created_at": "Tue Jan 17 02:39:45 +0000 2023",
 		"id": 1615177024879923200,
 		"id_str": "1615177024879923201",

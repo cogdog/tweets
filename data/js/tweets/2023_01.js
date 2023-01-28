@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 28 22:14:37 +0000 2023",
+		"id": 1619458955553525800,
+		"id_str": "1619458955553525760",
+		"full_text": "@dogtrax @Bali_Maha @mart_compton @thisaeshaw @HGCarbonel @remikalir OpenAI is on it too https://t.co/kYKv3HPLfa\n\nBut to play with something now try https://t.co/PLL5JlOoSD",
+		"truncated": false,
+		"display_text_range": [
+			69,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "HGCarbonel",
+					"name": "Henrietta Carbonel",
+					"id": 1437363186,
+					"id_str": "1437363186",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kYKv3HPLfa",
+					"expanded_url": "https://openai.com/blog/jukebox/",
+					"display_url": "openai.com/blog/jukebox/",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/PLL5JlOoSD",
+					"expanded_url": "https://www.riffusion.com/",
+					"display_url": "riffusion.com",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1619295945081897000,
+		"in_reply_to_status_id_str": "1619295945081896963",
+		"in_reply_to_user_id": 13307352,
+		"in_reply_to_user_id_str": "13307352",
+		"in_reply_to_screen_name": "dogtrax",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10198,
+			"friends_count": 1527,
+			"listed_count": 765,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dogtrax @Bali_Maha @mart_compton @thisaeshaw @HGCarbonel @remikalir OpenAI is on it too https://t.co/kYKv3HPLfa\n\nBut to play with something now try https://t.co/PLL5JlOoSD"
+	},
+	{
 		"created_at": "Sat Jan 28 20:29:42 +0000 2023",
 		"id": 1619432553319899100,
 		"id_str": "1619432553319899136",

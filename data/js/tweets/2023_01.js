@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 19:52:06 +0000 2023",
+		"id": 1620147555450630100,
+		"id_str": "1620147866713948160",
+		"full_text": "We're hiring a (PAID.) summer intern to work on @Glitch at @Fastly. If you're an undergrad who wants to get some amazing experience and mentorship while working on really interesting challenges, please do take a look: https://t.co/z4BHT7adjA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glitch",
+					"name": "🎏Glitch",
+					"id": 795717775989833700,
+					"id_str": "795717775989833729",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"screen_name": "fastly",
+					"name": "Fastly",
+					"id": 331912537,
+					"id_str": "331912537",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z4BHT7adjA",
+					"expanded_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4819921",
+					"display_url": "fastly.com/about/jobs/app…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36823,
+			"id_str": "36823",
+			"name": "find me at @anildash@me.dm or anildash.com",
+			"screen_name": "anildash",
+			"location": "NYC",
+			"description": "we make 🎏 @glitch (now part of @fastly!) so you can make the web • board member @eff @girlsclubny @themarkup • follow me instead at @anildash@me.dm",
+			"url": "https://t.co/Jk98rJi2re",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jk98rJi2re",
+							"expanded_url": "https://anildash.com/",
+							"display_url": "anildash.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574187,
+			"friends_count": 2161,
+			"listed_count": 8388,
+			"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+			"favourites_count": 811536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 251178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1593220093433057281/tYEbecqQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1593220093433057281/tYEbecqQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+			"profile_link_color": "800080",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're hiring a (PAID.) summer intern to work on @Glitch at @Fastly. If you're an undergrad who wants to get some amazing experience and mentorship while working on really interesting challenges, please do take a look: https://t.co/z4BHT7adjA"
+	},
+	{
 		"created_at": "Mon Jan 30 18:45:42 +0000 2023",
 		"id": 1620131155843375000,
 		"id_str": "1620131155843375109",

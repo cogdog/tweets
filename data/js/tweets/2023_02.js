@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 02 19:03:26 +0000 2023",
+		"id": 1621221886209446000,
+		"id_str": "1621222780137082882",
+		"full_text": "What might #ChatGPT \nmean for higher education?\nToday we're hosting @busynessgirl to explore generative AI and curricular transformation.  Join us right here:\n\nhttps://t.co/jyDOn5vPbe \n#FTTE \n#AI https://t.co/rjjDADXI6F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGPT",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "FTTE",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						192,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "busynessgirl",
+					"name": "Dr. Maria H. Andersen",
+					"id": 18555344,
+					"id_str": "18555344",
+					"indices": [
+						68,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jyDOn5vPbe",
+					"expanded_url": "https://shindig.com/login/event/andersonai",
+					"display_url": "shindig.com/login/event/an…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1621221439587373000,
+					"id_str": "1621221439587373056",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Fn-8T0jaUAAkf0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fn-8T0jaUAAkf0B.jpg",
+					"url": "https://t.co/rjjDADXI6F",
+					"display_url": "pic.twitter.com/rjjDADXI6F",
+					"expanded_url": "https://twitter.com/BryanAlexander/status/1621221886209445888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1308,
+							"h": 1382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1621221439587373000,
+					"id_str": "1621221439587373056",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Fn-8T0jaUAAkf0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fn-8T0jaUAAkf0B.jpg",
+					"url": "https://t.co/rjjDADXI6F",
+					"display_url": "pic.twitter.com/rjjDADXI6F",
+					"expanded_url": "https://twitter.com/BryanAlexander/status/1621221886209445888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1308,
+							"h": 1382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755991,
+			"id_str": "755991",
+			"name": "Bryan Alexander",
+			"screen_name": "BryanAlexander",
+			"location": "ÜT: 44.010713,-73.164997",
+			"description": "Education futurist.  Author of Universities on Fire and Academia Next.\nWriter, speaker, convener, consultant, teacher.\n\"The Ax-Wielding Futurist\" - Ozy",
+			"url": "https://t.co/eHuFGzB3hs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eHuFGzB3hs",
+							"expanded_url": "http://futureofeducation.us",
+							"display_url": "futureofeducation.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15828,
+			"friends_count": 2470,
+			"listed_count": 954,
+			"created_at": "Wed Feb 07 13:52:20 +0000 2007",
+			"favourites_count": 28317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304531570288742410/D7gYyrj__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304531570288742410/D7gYyrj__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755991/1674502847",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What might #ChatGPT \nmean for higher education?\nToday we're hosting @busynessgirl to explore generative AI and curricular transformation.  Join us right here:\n\nhttps://t.co/jyDOn5vPbe \n#FTTE \n#AI https://t.co/rjjDADXI6F"
+	},
+	{
 		"created_at": "Thu Feb 02 16:44:38 +0000 2023",
 		"id": 1621187848715075600,
 		"id_str": "1621187848715075585",

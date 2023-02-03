@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 20:30:01 +0000 2023",
+		"id": 1621599523733926000,
+		"id_str": "1621606956459769856",
+		"full_text": "Everyone has been so focused on ChatGPT that you may not have noticed how much AI image generation has improved in the last month. You can edit pictures with words in seconds. Its not perfect, but:\n\"A professor in a lab\"\n\"Make it night\"\n\"Add a space helmet\"\n\"Add a sandwich\" https://t.co/ASlE37iT3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1621598375748722700,
+					"id_str": "1621598375748722689",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FoETIZLaYAEAZPk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoETIZLaYAEAZPk.png",
+					"url": "https://t.co/ASlE37iT3H",
+					"display_url": "pic.twitter.com/ASlE37iT3H",
+					"expanded_url": "https://twitter.com/emollick/status/1621599523733925888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1621598375748722700,
+					"id_str": "1621598375748722689",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FoETIZLaYAEAZPk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoETIZLaYAEAZPk.png",
+					"url": "https://t.co/ASlE37iT3H",
+					"display_url": "pic.twitter.com/ASlE37iT3H",
+					"expanded_url": "https://twitter.com/emollick/status/1621599523733925888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1621598474516201500,
+					"id_str": "1621598474516201472",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FoETOJHagAAVOr9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoETOJHagAAVOr9.jpg",
+					"url": "https://t.co/ASlE37iT3H",
+					"display_url": "pic.twitter.com/ASlE37iT3H",
+					"expanded_url": "https://twitter.com/emollick/status/1621599523733925888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1621598499681996800,
+					"id_str": "1621598499681996805",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FoETPm3aEAUZmAG.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoETPm3aEAUZmAG.png",
+					"url": "https://t.co/ASlE37iT3H",
+					"display_url": "pic.twitter.com/ASlE37iT3H",
+					"expanded_url": "https://twitter.com/emollick/status/1621599523733925888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1621599460035010600,
+					"id_str": "1621599460035010561",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FoEUHgdaIAEp2ab.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoEUHgdaIAEp2ab.png",
+					"url": "https://t.co/ASlE37iT3H",
+					"display_url": "pic.twitter.com/ASlE37iT3H",
+					"expanded_url": "https://twitter.com/emollick/status/1621599523733925888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39125788,
+			"id_str": "39125788",
+			"name": "Ethan Mollick",
+			"screen_name": "emollick",
+			"location": "Philadelphia, PA",
+			"description": "Professor @Wharton studying innovation & startups. Democratizing business education with games (Play: https://t.co/wGEvJUzwOC) Substack: https://t.co/bizU3DII97",
+			"url": "https://t.co/uItckI9ujc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uItckI9ujc",
+							"expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+							"display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wGEvJUzwOC",
+							"expanded_url": "https://interactive.wharton.upenn.edu/",
+							"display_url": "interactive.wharton.upenn.edu",
+							"indices": [
+								102,
+								125
+							]
+						},
+						{
+							"url": "https://t.co/bizU3DII97",
+							"expanded_url": "https://oneusefulthing.substack.com/",
+							"display_url": "oneusefulthing.substack.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 100574,
+			"friends_count": 504,
+			"listed_count": 1865,
+			"created_at": "Sun May 10 22:33:52 +0000 2009",
+			"favourites_count": 5326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39125788/1629211229",
+			"profile_link_color": "032A96",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everyone has been so focused on ChatGPT that you may not have noticed how much AI image generation has improved in the last month. You can edit pictures with words in seconds. Its not perfect, but:\n\"A professor in a lab\"\n\"Make it night\"\n\"Add a space helmet\"\n\"Add a sandwich\" https://t.co/ASlE37iT3H"
+	},
+	{
 		"created_at": "Fri Feb 03 19:59:57 +0000 2023",
 		"id": 1621599392552599600,
 		"id_str": "1621599392552599552",

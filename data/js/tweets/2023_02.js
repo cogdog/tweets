@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 17:18:21 +0000 2023",
+		"id": 1622643250770083800,
+		"id_str": "1622645888496566276",
+		"full_text": "You only have until the end of the week to register for the in person experience at the Kawartha Teaching and Tech Day and get a free lunch! \nIf you are in the online/no lunch crowd you have some extra time but don't dilly dally!\nhttps://t.co/ofirv8VZlc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ofirv8VZlc",
+					"expanded_url": "https://www.eventbrite.ca/e/2023-kawartha-teaching-and-tech-conference-tickets-489987926077",
+					"display_url": "eventbrite.ca/e/2023-kawarth…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 212019344,
+			"id_str": "212019344",
+			"name": "Greene, Terry",
+			"screen_name": "greeneterry",
+			"location": "Nogojiwanong/Peterborough",
+			"description": "\"You look like a Canadian online learning wizard\" Jonathan Lashley, 2021. Host of the Gettin' Air Podcast on @voicedcanada. He/Him. @greeneterry@social.coop",
+			"url": "https://t.co/tPORNzdo7A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tPORNzdo7A",
+							"expanded_url": "https://learningnuggets.ca/",
+							"display_url": "learningnuggets.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2671,
+			"friends_count": 1636,
+			"listed_count": 86,
+			"created_at": "Thu Nov 04 22:34:28 +0000 2010",
+			"favourites_count": 27152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349095600680271872/Yd7Kzvo__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349095600680271872/Yd7Kzvo__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/212019344/1496450834",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You only have until the end of the week to register for the in person experience at the Kawartha Teaching and Tech Day and get a free lunch! \nIf you are in the online/no lunch crowd you have some extra time but don't dilly dally!\nhttps://t.co/ofirv8VZlc"
+	},
+	{
 		"created_at": "Mon Feb 06 16:04:28 +0000 2023",
 		"id": 1622627294274629600,
 		"id_str": "1622627294274629632",

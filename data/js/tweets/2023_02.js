@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 07 05:22:55 +0000 2023",
+		"id": 1622828229559042000,
+		"id_str": "1622828229559042049",
+		"full_text": "@tutormentorteam @SSpellmanCann @courosa @nobleknits2 @folynick @fryed @grammasheri @karenatsharon @rljessen @paulsignorelli @verenanz @tina_p @EHordyskiLuong @clhendricksbc @dendari @SISQITMAN Best ask @courosa I think he generated from a reg form-- one of these might be it\n\nhttps://t.co/cRl83cu6Le",
+		"truncated": false,
+		"display_text_range": [
+			194,
+			300
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tutormentorteam",
+					"name": "Daniel Bassill",
+					"id": 45338918,
+					"id_str": "45338918",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SSpellmanCann",
+					"name": "Susan Spellman Cann",
+					"id": 357925862,
+					"id_str": "357925862",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"screen_name": "nobleknits2",
+					"name": "Lisa Noble",
+					"id": 329426936,
+					"id_str": "329426936",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "folynick",
+					"name": "Fenella Olynick 🇺🇦🇺🇦🇺🇦",
+					"id": 301803313,
+					"id_str": "301803313",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "fryed",
+					"name": "Donna Miller Fry",
+					"id": 13210942,
+					"id_str": "13210942",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "karenatsharon",
+					"name": "Karen Young",
+					"id": 186307153,
+					"id_str": "186307153",
+					"indices": [
+						84,
+						98
+					]
+				},
+				{
+					"screen_name": "rljessen",
+					"name": "Rhonda Jessen (she/her)",
+					"id": 201893567,
+					"id_str": "201893567",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "paulsignorelli",
+					"name": "Paul Signorelli",
+					"id": 212475303,
+					"id_str": "212475303",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"screen_name": "verenanz",
+					"name": "Dr. Verena Roberts",
+					"id": 540380886,
+					"id_str": "540380886",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"screen_name": "tina_p",
+					"name": "Tina Photakis",
+					"id": 14162617,
+					"id_str": "14162617",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"screen_name": "EHordyskiLuong",
+					"name": "Erin Luong",
+					"id": 389131847,
+					"id_str": "389131847",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"screen_name": "clhendricksbc",
+					"name": "Christina Hendricks",
+					"id": 260919324,
+					"id_str": "260919324",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"screen_name": "dendari",
+					"name": "Brendan Murphy",
+					"id": 14299391,
+					"id_str": "14299391",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"screen_name": "SISQITMAN",
+					"name": "Glenn Hervieux",
+					"id": 149788214,
+					"id_str": "149788214",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						203,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cRl83cu6Le",
+					"expanded_url": "https://twitter.com/search?q=%20(%23etmooc)%20(from%3Acourosa)%20map&src=typed_query",
+					"display_url": "twitter.com/search?q=%20(%…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1622811627585167400,
+		"in_reply_to_status_id_str": "1622811627585167360",
+		"in_reply_to_user_id": 45338918,
+		"in_reply_to_user_id_str": "45338918",
+		"in_reply_to_screen_name": "tutormentorteam",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10190,
+			"friends_count": 1528,
+			"listed_count": 765,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tutormentorteam @SSpellmanCann @courosa @nobleknits2 @folynick @fryed @grammasheri @karenatsharon @rljessen @paulsignorelli @verenanz @tina_p @EHordyskiLuong @clhendricksbc @dendari @SISQITMAN Best ask @courosa I think he generated from a reg form-- one of these might be it\n\nhttps://t.co/cRl83cu6Le"
+	},
+	{
 		"created_at": "Tue Feb 07 05:14:48 +0000 2023",
 		"id": 1622826189344723000,
 		"id_str": "1622826189344722944",

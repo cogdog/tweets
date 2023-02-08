@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 17:05:48 +0000 2023",
+		"id": 1623367504285339600,
+		"id_str": "1623367504285339648",
+		"full_text": "@ds106dc #dailycreate #tdc4044 #ds106 It remains unclear whether @Twitter is breaking the public API or not, I guess we just wait and see what happens.\n\n@felixadog is confused too as to why anyone would destroy such a nifty thing for just sharing stuff. https://t.co/iLIh3zcSzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dailycreate",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "tdc4044",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						31,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"screen_name": "felixadog",
+					"name": "Felix Dog",
+					"id": 725029637609381900,
+					"id_str": "725029637609381891",
+					"indices": [
+						153,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623366957163548700,
+					"id_str": "1623366957163548702",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FodbpYXXEB4i5TZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FodbpYXXEB4i5TZ.jpg",
+					"url": "https://t.co/iLIh3zcSzk",
+					"display_url": "pic.twitter.com/iLIh3zcSzk",
+					"expanded_url": "https://twitter.com/cogdog/status/1623367504285339648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1481,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623366957163548700,
+					"id_str": "1623366957163548702",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FodbpYXXEB4i5TZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FodbpYXXEB4i5TZ.jpg",
+					"url": "https://t.co/iLIh3zcSzk",
+					"display_url": "pic.twitter.com/iLIh3zcSzk",
+					"expanded_url": "https://twitter.com/cogdog/status/1623367504285339648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1481,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10192,
+			"friends_count": 1528,
+			"listed_count": 765,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #dailycreate #tdc4044 #ds106 It remains unclear whether @Twitter is breaking the public API or not, I guess we just wait and see what happens.\n\n@felixadog is confused too as to why anyone would destroy such a nifty thing for just sharing stuff. https://t.co/iLIh3zcSzk"
+	},
+	{
 		"created_at": "Wed Feb 08 05:27:59 +0000 2023",
 		"id": 1623191895424868400,
 		"id_str": "1623191895424868352",

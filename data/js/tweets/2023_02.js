@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 14:13:54 +0000 2023",
+		"id": 1625136185902305300,
+		"id_str": "1625136185902305281",
+		"full_text": "@ds106dc #tdc4048 #ds106  Less Super Power and maybe just super lucky if I can get the #dailycreate site to collect responses from M****don before the bird's API goes up in $moke https://t.co/MdgY5w8Fsy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc4048",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "dailycreate",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"symbols": [
+				{
+					"text": "moke",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625135623542648800,
+					"id_str": "1625135623542648832",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo2kPUEXsAAjluI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo2kPUEXsAAjluI.jpg",
+					"url": "https://t.co/MdgY5w8Fsy",
+					"display_url": "pic.twitter.com/MdgY5w8Fsy",
+					"expanded_url": "https://twitter.com/cogdog/status/1625136185902305281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625135623542648800,
+					"id_str": "1625135623542648832",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo2kPUEXsAAjluI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo2kPUEXsAAjluI.jpg",
+					"url": "https://t.co/MdgY5w8Fsy",
+					"display_url": "pic.twitter.com/MdgY5w8Fsy",
+					"expanded_url": "https://twitter.com/cogdog/status/1625136185902305281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10188,
+			"friends_count": 1527,
+			"listed_count": 764,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc4048 #ds106  Less Super Power and maybe just super lucky if I can get the #dailycreate site to collect responses from M****don before the bird's API goes up in $moke https://t.co/MdgY5w8Fsy"
+	},
+	{
 		"created_at": "Mon Feb 13 00:51:13 +0000 2023",
 		"id": 1624934183498817500,
 		"id_str": "1624934183498817536",

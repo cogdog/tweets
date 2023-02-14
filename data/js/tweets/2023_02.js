@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 14 21:03:56 +0000 2023",
+		"id": 1625599352457625600,
+		"id_str": "1625601759929331717",
+		"full_text": "All Romes lead to Roads https://t.co/jzK6ZSfuv6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625599349857067000,
+					"id_str": "1625599349857067012",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo9J_vNWIAQacbC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo9J_vNWIAQacbC.jpg",
+					"url": "https://t.co/jzK6ZSfuv6",
+					"display_url": "pic.twitter.com/jzK6ZSfuv6",
+					"expanded_url": "https://twitter.com/TerribleMaps/status/1625599352457625603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625599349857067000,
+					"id_str": "1625599349857067012",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo9J_vNWIAQacbC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo9J_vNWIAQacbC.jpg",
+					"url": "https://t.co/jzK6ZSfuv6",
+					"display_url": "pic.twitter.com/jzK6ZSfuv6",
+					"expanded_url": "https://twitter.com/TerribleMaps/status/1625599352457625603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1663172653,
+			"id_str": "1663172653",
+			"name": "Terrible Maps",
+			"screen_name": "TerribleMaps",
+			"location": "",
+			"description": "The home of terrible maps with a pinch of humour    \nterriblemaps@gmail.com",
+			"url": "https://t.co/ZPHp6V80Ej",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZPHp6V80Ej",
+							"expanded_url": "https://linktr.ee/terriblemaps",
+							"display_url": "linktr.ee/terriblemaps",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1752406,
+			"friends_count": 967,
+			"listed_count": 3913,
+			"created_at": "Sun Aug 11 18:15:23 +0000 2013",
+			"favourites_count": 670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FCF7FC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1663172653/1454712717",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 3948,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All Romes lead to Roads https://t.co/jzK6ZSfuv6"
+	},
+	{
 		"created_at": "Tue Feb 14 19:45:28 +0000 2023",
 		"id": 1625582013745881000,
 		"id_str": "1625582013745881113",

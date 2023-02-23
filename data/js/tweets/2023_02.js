@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 03:28:25 +0000 2023",
+		"id": 1628597619499978800,
+		"id_str": "1628597619499978753",
+		"full_text": "This tech is cool! https://t.co/jXZmWcic1v - Your Personalized AI Tools Catalog https://t.co/xraG4EdbKX #cogdogcooltech\n\nFrom my stuff tagged \"cooltech\" on pinboard https://t.co/QRI2P5hCOg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cogdogcooltech",
+					"indices": [
+						104,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jXZmWcic1v",
+					"expanded_url": "http://DoMore.ai",
+					"display_url": "DoMore.ai",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/xraG4EdbKX",
+					"expanded_url": "https://domore.ai/",
+					"display_url": "domore.ai",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/QRI2P5hCOg",
+					"expanded_url": "https://ift.tt/1geHd43",
+					"display_url": "ift.tt/1geHd43",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10182,
+			"friends_count": 1527,
+			"listed_count": 763,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This tech is cool! https://t.co/jXZmWcic1v - Your Personalized AI Tools Catalog https://t.co/xraG4EdbKX #cogdogcooltech\n\nFrom my stuff tagged \"cooltech\" on pinboard https://t.co/QRI2P5hCOg"
+	},
+	{
 		"created_at": "Thu Feb 23 00:26:03 +0000 2023",
 		"id": 1628551726247690200,
 		"id_str": "1628551726247690241",

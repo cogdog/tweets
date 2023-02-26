@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 02:11:23 +0000 2023",
+		"id": 1629665398521053200,
+		"id_str": "1629665398521053185",
+		"full_text": "@ds106dc #dailycreate ... #tdc4054 #ds106  Searching For The Strange with Marginalia, what could be strange than SPLOT\n\nhttps://t.co/GR5tjm6bjv\n\nOf 8 results I am responsible for 6. Outliers are a kids book https://t.co/9KLwKPYPNn and a plotting program https://t.co/LJjYdqY43s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dailycreate",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "tdc4054",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GR5tjm6bjv",
+					"expanded_url": "https://search.marginalia.nu/search?query=splot",
+					"display_url": "search.marginalia.nu/search?query=s…",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/9KLwKPYPNn",
+					"expanded_url": "https://www.rif.org/literacy-central/book/big-orange-splot",
+					"display_url": "rif.org/literacy-centr…",
+					"indices": [
+						207,
+						230
+					]
+				},
+				{
+					"url": "https://t.co/LJjYdqY43s",
+					"expanded_url": "https://gnuplot.sourceforge.net/demo_5.0/surface1.html",
+					"display_url": "gnuplot.sourceforge.net/demo_5.0/surfa…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10181,
+			"friends_count": 1527,
+			"listed_count": 763,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #dailycreate ... #tdc4054 #ds106  Searching For The Strange with Marginalia, what could be strange than SPLOT\n\nhttps://t.co/GR5tjm6bjv\n\nOf 8 results I am responsible for 6. Outliers are a kids book https://t.co/9KLwKPYPNn and a plotting program https://t.co/LJjYdqY43s"
+	},
+	{
 		"created_at": "Sat Feb 25 16:52:03 +0000 2023",
 		"id": 1629524639595495400,
 		"id_str": "1629524639595495424",

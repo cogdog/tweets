@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 02 00:19:06 +0000 2023",
+		"id": 1631043537549623300,
+		"id_str": "1631086691581665281",
+		"full_text": "March 1st, 2023 update: today I cashed a cheque from Proctorio for several thousand dollars. It's only the start if we are successful in our full appeal. I await the judgment. https://t.co/1HEId9N0Hf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1HEId9N0Hf",
+					"expanded_url": "https://twitter.com/Linkletter/status/1620888076896845825",
+					"display_url": "twitter.com/Linkletter/sta…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804325,
+			"id_str": "804325",
+			"name": "Ian Linkletter",
+			"screen_name": "Linkletter",
+			"location": "Vancouver, BC",
+			"description": "Emerging Technology & Open Education Librarian. Dude being sued. Anti-SLAPPs. Previously at UBC. Let's go exploring! Pals: https://t.co/cD45s0EH9x\n\nHe/Him",
+			"url": "https://t.co/iGZfJQVT47",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iGZfJQVT47",
+							"expanded_url": "https://appeal.linkletter.org",
+							"display_url": "appeal.linkletter.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cD45s0EH9x",
+							"expanded_url": "http://mastodon.social/@Linkletter",
+							"display_url": "mastodon.social/@Linkletter",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3734,
+			"friends_count": 1961,
+			"listed_count": 91,
+			"created_at": "Thu Mar 01 20:34:51 +0000 2007",
+			"favourites_count": 16775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587993560976338944/Yi0ItLQC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587993560976338944/Yi0ItLQC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804325/1657086708",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1620888076896845800,
+		"quoted_status_id_str": "1620888076896845825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1HEId9N0Hf",
+			"expanded": "https://twitter.com/Linkletter/status/1620888076896845825",
+			"display": "twitter.com/Linkletter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 01 20:53:26 +0000 2023",
+			"id": 1620888076896845800,
+			"id_str": "1620888076896845825",
+			"full_text": "A year ago, Proctorio suffered a massive setback in the SLAPP they filed against me. Their appeal was quashed before they even got to argue their case. They were ordered to pay legal expenses I incurred fighting their meritless appeal. I am still waiting.\n\nhttps://t.co/0UZDkrg3cs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0UZDkrg3cs",
+						"expanded_url": "https://www.insidehighered.com/quicktakes/2022/01/31/proctorio-loses-appeal-lawsuit-against-academic-critic",
+						"display_url": "insidehighered.com/quicktakes/202…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804325,
+				"id_str": "804325",
+				"name": "Ian Linkletter",
+				"screen_name": "Linkletter",
+				"location": "Vancouver, BC",
+				"description": "Emerging Technology & Open Education Librarian. Dude being sued. Anti-SLAPPs. Previously at UBC. Let's go exploring! Pals: https://t.co/cD45s0EH9x\n\nHe/Him",
+				"url": "https://t.co/iGZfJQVT47",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iGZfJQVT47",
+								"expanded_url": "https://appeal.linkletter.org",
+								"display_url": "appeal.linkletter.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cD45s0EH9x",
+								"expanded_url": "http://mastodon.social/@Linkletter",
+								"display_url": "mastodon.social/@Linkletter",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3734,
+				"friends_count": 1961,
+				"listed_count": 91,
+				"created_at": "Thu Mar 01 20:34:51 +0000 2007",
+				"favourites_count": 16775,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8988,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587993560976338944/Yi0ItLQC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587993560976338944/Yi0ItLQC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804325/1657086708",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "March 1st, 2023 update: today I cashed a cheque from Proctorio for several thousand dollars. It's only the start if we are successful in our full appeal. I await the judgment. https://t.co/1HEId9N0Hf"
+	},
+	{
 		"created_at": "Wed Mar 01 21:41:04 +0000 2023",
 		"id": 1631046924550668300,
 		"id_str": "1631046924550668288",

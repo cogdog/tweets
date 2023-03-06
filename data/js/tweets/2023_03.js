@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 06 21:20:17 +0000 2023",
+		"id": 1631329521432420400,
+		"id_str": "1632853632545705985",
+		"full_text": "Open Educational Resources: What can you do with them? Where can you find them? On Thursday, March 9th at 11am MT, join OER Librarian Dan Cockcroft to learn all about Open Educational Resources (OER). Sign up here: https://t.co/cWO7oxPswR https://t.co/nBl8f89hed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cWO7oxPswR",
+					"expanded_url": "https://tinyurl.com/bddhnwb6",
+					"display_url": "tinyurl.com/bddhnwb6",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1631329519318564900,
+					"id_str": "1631329519318564867",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FqOljf6XgAM76Gi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqOljf6XgAM76Gi.jpg",
+					"url": "https://t.co/nBl8f89hed",
+					"display_url": "pic.twitter.com/nBl8f89hed",
+					"expanded_url": "https://twitter.com/aulibarchives/status/1631329521432420354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 843,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1631329519318564900,
+					"id_str": "1631329519318564867",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FqOljf6XgAM76Gi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqOljf6XgAM76Gi.jpg",
+					"url": "https://t.co/nBl8f89hed",
+					"display_url": "pic.twitter.com/nBl8f89hed",
+					"expanded_url": "https://twitter.com/aulibarchives/status/1631329521432420354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 843,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.canva.com\" rel=\"nofollow\">Canva</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159122567631786000,
+			"id_str": "1159122567631785984",
+			"name": "Athabasca University Library & Archives",
+			"screen_name": "aulibarchives",
+			"location": "",
+			"description": "Athabasca University \nLibrary & Scholarly Resources",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 368,
+			"listed_count": 6,
+			"created_at": "Wed Aug 07 15:22:10 +0000 2019",
+			"favourites_count": 1903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1577317542028546050/83c6HkBI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1577317542028546050/83c6HkBI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159122567631785984/1664895578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Open Educational Resources: What can you do with them? Where can you find them? On Thursday, March 9th at 11am MT, join OER Librarian Dan Cockcroft to learn all about Open Educational Resources (OER). Sign up here: https://t.co/cWO7oxPswR https://t.co/nBl8f89hed"
+	},
+	{
 		"created_at": "Mon Mar 06 19:35:36 +0000 2023",
 		"id": 1632827289007161300,
 		"id_str": "1632827289007161344",

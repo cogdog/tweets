@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 17:14:45 +0000 2023",
+		"id": 1633150746655957000,
+		"id_str": "1633154230268620802",
+		"full_text": "We asked your question \"What is the Open Movement?\" at the @oeweek #live session this afternoon - you can hear the personal definitions from  @celTatis  @greeneterry @mctoonish @sushumnarao &amp; @cogdog \nCatch their answers: https://t.co/BPZnsVtXe5 https://t.co/n8YGEmgNRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "live",
+					"indices": [
+						67,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OEWeek",
+					"name": "Open Education Week (OEWeek)",
+					"id": 396632857,
+					"id_str": "396632857",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"screen_name": "celTatis",
+					"name": "Bea de los Arcos 🇪🇺",
+					"id": 1550686328,
+					"id_str": "1550686328",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "Greene, Terry",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"screen_name": "mctoonish",
+					"name": "Heather M. Ross 🇺🇦",
+					"id": 26377999,
+					"id_str": "26377999",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"screen_name": "sushumnarao",
+					"name": "Sushumnarao",
+					"id": 20041286,
+					"id_str": "20041286",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						196,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BPZnsVtXe5",
+					"expanded_url": "https://www.youtube.com/watch?v=14P7_GXn9VI",
+					"display_url": "youtube.com/watch?v=14P7_G…",
+					"indices": [
+						226,
+						249
+					]
+				},
+				{
+					"url": "https://t.co/n8YGEmgNRM",
+					"expanded_url": "https://twitter.com/karenraycosta/status/1632739559082455041",
+					"display_url": "twitter.com/karenraycosta/…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16548567,
+			"id_str": "16548567",
+			"name": "Open Education Global",
+			"screen_name": "OpenEdGlobal",
+			"location": "Global",
+			"description": "Education should be open and available for all – everywhere for everyone. Build this open future with us. #openeducation #oer https://t.co/n2MAsLuKCK",
+			"url": "https://t.co/FolbQBh2Co",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FolbQBh2Co",
+							"expanded_url": "https://www.oeglobal.org/",
+							"display_url": "oeglobal.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n2MAsLuKCK",
+							"expanded_url": "https://connect.oeglobal.org",
+							"display_url": "connect.oeglobal.org",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11797,
+			"friends_count": 631,
+			"listed_count": 543,
+			"created_at": "Wed Oct 01 19:17:02 +0000 2008",
+			"favourites_count": 2834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445807809472471042/pi152R87_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16548567/1661507322",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1632739559082455000,
+		"quoted_status_id_str": "1632739559082455041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n8YGEmgNRM",
+			"expanded": "https://twitter.com/karenraycosta/status/1632739559082455041",
+			"display": "twitter.com/karenraycosta/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 06 13:47:00 +0000 2023",
+			"id": 1632739559082455000,
+			"id_str": "1632739559082455041",
+			"full_text": "If I wanted to speak to someone about the \"open movement\" beyond but inc. OER. Someone who can really explain the heart of this movement in layperson's terms in a grounded, accessible way, who would I speak to?\n\n#HigherEd \n#FacDev",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HigherEd",
+						"indices": [
+							212,
+							221
+						]
+					},
+					{
+						"text": "FacDev",
+						"indices": [
+							223,
+							230
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25416326,
+				"id_str": "25416326",
+				"name": "Karen Costa (she/her)",
+				"screen_name": "karenraycosta",
+				"location": "Massachusetts",
+				"description": "#HigherEd · course & community design · faculty & student success · online learning advocate · trauma-aware teaching · ADHD/VAST · adjunct · author of 99 tips",
+				"url": "https://t.co/4CvPpIYLLK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4CvPpIYLLK",
+								"expanded_url": "https://linktr.ee/KarenRayCosta",
+								"display_url": "linktr.ee/KarenRayCosta",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8833,
+				"friends_count": 935,
+				"listed_count": 208,
+				"created_at": "Fri Mar 20 00:10:09 +0000 2009",
+				"favourites_count": 50769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38096,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1501602778833199109/CQBPc5y6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501602778833199109/CQBPc5y6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25416326/1617038001",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We asked your question \"What is the Open Movement?\" at the @oeweek #live session this afternoon - you can hear the personal definitions from  @celTatis  @greeneterry @mctoonish @sushumnarao &amp; @cogdog \nCatch their answers: https://t.co/BPZnsVtXe5 https://t.co/n8YGEmgNRM"
+	},
+	{
+		"created_at": "Tue Mar 07 17:13:43 +0000 2023",
+		"id": 1633153968493981700,
+		"id_str": "1633153968493981698",
+		"full_text": "@mctoonish Thanks Heather for being on the show, and having the #OEWeek quote of the moment:\n\n\"AI has a brain but it does not have a heart\"",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEWeek",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mctoonish",
+					"name": "Heather M. Ross 🇺🇦",
+					"id": 26377999,
+					"id_str": "26377999",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1633135410326147000,
+		"in_reply_to_status_id_str": "1633135410326147074",
+		"in_reply_to_user_id": 26377999,
+		"in_reply_to_user_id_str": "26377999",
+		"in_reply_to_screen_name": "mctoonish",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 1526,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mctoonish Thanks Heather for being on the show, and having the #OEWeek quote of the moment:\n\n\"AI has a brain but it does not have a heart\""
+	},
+	{
+		"created_at": "Tue Mar 07 17:10:11 +0000 2023",
+		"id": 1633153079079239700,
+		"id_str": "1633153079079239682",
+		"full_text": "I was there in 1998 and will be there today! https://t.co/MXFGqCBeAm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MXFGqCBeAm",
+					"expanded_url": "https://twitter.com/opencontent/status/1633151431271149574",
+					"display_url": "twitter.com/opencontent/st…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 1526,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1633151431271149600,
+		"quoted_status_id_str": "1633151431271149574",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MXFGqCBeAm",
+			"expanded": "https://twitter.com/opencontent/status/1633151431271149574",
+			"display": "twitter.com/opencontent/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 07 17:03:38 +0000 2023",
+			"id": 1633151431271149600,
+			"id_str": "1633151431271149574",
+			"full_text": "This year, we're celebrating 25 years since the idea of #opencontent was first introduced in 1998! \n\nJoin me in 2 hours (2pm Eastern) as I review the first ten years of the US #openeducation movement (1998 - 2007), in an #oeweek23 presentation.\n\nhttps://t.co/sQmLWPRx7O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "opencontent",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"text": "openeducation",
+						"indices": [
+							176,
+							190
+						]
+					},
+					{
+						"text": "oeweek23",
+						"indices": [
+							221,
+							230
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sQmLWPRx7O",
+						"expanded_url": "https://oeweek.oeglobal.org/events/2023/celebrating-25-years-of-open-content-remembering-the-early-years/",
+						"display_url": "oeweek.oeglobal.org/events/2023/ce…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4514361,
+				"id_str": "4514361",
+				"name": "David Wiley",
+				"screen_name": "opencontent",
+				"location": "WV, USA",
+				"description": "#Learning, #StudentSuccess, #Pedagogy, #InstructionalDesign, #Open, #DataScience, #SocialEntrepreneurship, #Music, #WestVirginia. WV8EDU on #AmateurRadio",
+				"url": "https://t.co/cAhKaObC6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cAhKaObC6x",
+								"expanded_url": "http://davidwiley.org/",
+								"display_url": "davidwiley.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13159,
+				"friends_count": 458,
+				"listed_count": 808,
+				"created_at": "Fri Apr 13 16:07:05 +0000 2007",
+				"favourites_count": 6960,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7307,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781256117884030976/m0ZvHf4j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781256117884030976/m0ZvHf4j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4514361/1547424759",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was there in 1998 and will be there today! https://t.co/MXFGqCBeAm"
+	},
+	{
 		"created_at": "Tue Mar 07 13:45:05 +0000 2023",
 		"id": 1633101466050101200,
 		"id_str": "1633101466050101254",

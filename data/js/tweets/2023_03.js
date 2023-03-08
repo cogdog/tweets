@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 14:57:27 +0000 2023",
+		"id": 1633482066355470300,
+		"id_str": "1633482066355470338",
+		"full_text": "@OpenEdEdinburgh @OpenEdGlobal Speaking of key women earth scientists on #IWD2023 here is a shoutout to Katia Krafft who gave everything to her love of science. \n\nWhile not OER I cant recommend enough Fire of Love documentary https://t.co/R3QofBE6KW\n\nI met the Kraffts at a conference they spoke at in 1990.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			307
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IWD2023",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenEdEdinburgh",
+					"name": "Edinburgh Univ OERs",
+					"id": 2837920041,
+					"id_str": "2837920041",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "OpenEdGlobal",
+					"name": "Open Education Global",
+					"id": 16548567,
+					"id_str": "16548567",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R3QofBE6KW",
+					"expanded_url": "https://en.wikipedia.org/wiki/Fire_of_Love_(2022_film)",
+					"display_url": "en.wikipedia.org/wiki/Fire_of_L…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1633416653332439000,
+		"in_reply_to_status_id_str": "1633416653332439040",
+		"in_reply_to_user_id": 2837920041,
+		"in_reply_to_user_id_str": "2837920041",
+		"in_reply_to_screen_name": "OpenEdEdinburgh",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10176,
+			"friends_count": 1526,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OpenEdEdinburgh @OpenEdGlobal Speaking of key women earth scientists on #IWD2023 here is a shoutout to Katia Krafft who gave everything to her love of science. \n\nWhile not OER I cant recommend enough Fire of Love documentary https://t.co/R3QofBE6KW\n\nI met the Kraffts at a conference they spoke at in 1990."
+	},
+	{
 		"created_at": "Wed Mar 08 14:12:19 +0000 2023",
 		"id": 1633470705030291500,
 		"id_str": "1633470705030291459",

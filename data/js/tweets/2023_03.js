@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 14:12:19 +0000 2023",
+		"id": 1633470705030291500,
+		"id_str": "1633470705030291459",
+		"full_text": "Volcanoes and OER? I'm hooked. And what a rich set of activities.\n\nNow do we have enough biscuits, bananas, custard at home? #OEweek https://t.co/0uZkVCdXWz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEweek",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0uZkVCdXWz",
+					"expanded_url": "https://twitter.com/OpenEdEdinburgh/status/1633467619322765313",
+					"display_url": "twitter.com/OpenEdEdinburg…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10176,
+			"friends_count": 1526,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1633467619322765300,
+		"quoted_status_id_str": "1633467619322765313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0uZkVCdXWz",
+			"expanded": "https://twitter.com/OpenEdEdinburgh/status/1633467619322765313",
+			"display": "twitter.com/OpenEdEdinburg…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 08 14:00:03 +0000 2023",
+			"id": 1633467619322765300,
+			"id_str": "1633467619322765313",
+			"full_text": "Volcanoes and Volcanologists (IDL) created by @geo_outreach student Kim Greig. Created as an #OER teaching resource for the @Edinburgh_CC Council’s ‘Curiosity Club’.\n#IWD2023 #OEWeek23 \nhttps://t.co/wJFQjwHiYl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER",
+						"indices": [
+							93,
+							97
+						]
+					},
+					{
+						"text": "IWD2023",
+						"indices": [
+							166,
+							174
+						]
+					},
+					{
+						"text": "OEWeek23",
+						"indices": [
+							175,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "geo_outreach",
+						"name": "Geoscience Outreach",
+						"id": 823849429455216600,
+						"id_str": "823849429455216640",
+						"indices": [
+							46,
+							59
+						]
+					},
+					{
+						"screen_name": "Edinburgh_CC",
+						"name": "The City of Edinburgh Council",
+						"id": 36050142,
+						"id_str": "36050142",
+						"indices": [
+							124,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wJFQjwHiYl",
+						"expanded_url": "https://open.ed.ac.uk/volcanoes-and-volcanologists-idl/",
+						"display_url": "open.ed.ac.uk/volcanoes-and-…",
+						"indices": [
+							186,
+							209
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2837920041,
+				"id_str": "2837920041",
+				"name": "Edinburgh Univ OERs",
+				"screen_name": "OpenEdEdinburgh",
+				"location": "Edinburgh, Scotland",
+				"description": "Open Educational Resources service @EdinburghUni. \n#OER #OpenEducation activities & initiatives.\nTweets: @SFarley_Charlie @LornaMCampbell.",
+				"url": "https://t.co/1hpR57kMZL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1hpR57kMZL",
+								"expanded_url": "http://open.ed.ac.uk/",
+								"display_url": "open.ed.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1441,
+				"friends_count": 252,
+				"listed_count": 51,
+				"created_at": "Mon Oct 20 08:32:35 +0000 2014",
+				"favourites_count": 3924,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4830,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744826227714826240/n_jDvXP4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744826227714826240/n_jDvXP4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2837920041/1465217950",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Volcanoes and OER? I'm hooked. And what a rich set of activities.\n\nNow do we have enough biscuits, bananas, custard at home? #OEweek https://t.co/0uZkVCdXWz"
+	},
+	{
 		"created_at": "Tue Mar 07 21:36:23 +0000 2023",
 		"id": 1633220069911298000,
 		"id_str": "1633220069911298049",

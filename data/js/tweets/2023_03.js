@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 16:30:27 +0000 2023",
+		"id": 1633307954010267600,
+		"id_str": "1633505466818113538",
+		"full_text": "What a lovely way to start a presentation: @Bali_Maha asks 'how are we all?' and 'what nourishes you lately?' and authentically encourages us to respond as part of her @OEWeek presentation .\n\n#OER #OEP #empathy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "OEP",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "empathy",
+					"indices": [
+						202,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "OEWeek",
+					"name": "Open Education Week (OEWeek)",
+					"id": 396632857,
+					"id_str": "396632857",
+					"indices": [
+						168,
+						175
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3824912053,
+			"id_str": "3824912053",
+			"name": "Adrian Stagg",
+			"screen_name": "OpenKuroko",
+			"location": "Toowoomba, Queensland",
+			"description": "Manager (OEP) USQ, #GO_GN PhD student. \n'Everybody has a secret world inside of them. I mean everybody' (Neil Gaiman).\nProfile photos: Public Domain (Pixabay)",
+			"url": "https://t.co/vw0a9VNauX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vw0a9VNauX",
+							"expanded_url": "https://fiftyweeks.podbean.com/",
+							"display_url": "fiftyweeks.podbean.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 342,
+			"listed_count": 20,
+			"created_at": "Thu Oct 08 11:38:15 +0000 2015",
+			"favourites_count": 1119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981693680728784896/CNpztgY-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981693680728784896/CNpztgY-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3824912053/1522889173",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What a lovely way to start a presentation: @Bali_Maha asks 'how are we all?' and 'what nourishes you lately?' and authentically encourages us to respond as part of her @OEWeek presentation .\n\n#OER #OEP #empathy"
+	},
+	{
 		"created_at": "Wed Mar 08 14:57:27 +0000 2023",
 		"id": 1633482066355470300,
 		"id_str": "1633482066355470338",

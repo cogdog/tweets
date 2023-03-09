@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 09 21:44:38 +0000 2023",
+		"id": 1633946923764686800,
+		"id_str": "1633946923764686848",
+		"full_text": "Getting the #OEWeek Live studio prepped! Tune in and shout from the YouTube stream. https://t.co/pAMZJmYGjd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEWeek",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pAMZJmYGjd",
+					"expanded_url": "https://twitter.com/OEWeek/status/1633890405019205641",
+					"display_url": "twitter.com/OEWeek/status/…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 1526,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1633890405019205600,
+		"quoted_status_id_str": "1633890405019205641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pAMZJmYGjd",
+			"expanded": "https://twitter.com/OEWeek/status/1633890405019205641",
+			"display": "twitter.com/OEWeek/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 09 18:00:03 +0000 2023",
+			"id": 1633890405019205600,
+			"id_str": "1633890405019205641",
+			"full_text": "#OEWeek #Live! bilingual Late Show in #french #english\nGuests 👉 @todd_conaway @UWBothell\n Chris Lott @uwtacoma \n@moustaphadiack @SouthernU_BR \n@enkerli  &amp; \n@Kcarte02 @ConestogaC \n\n⏰22:00 (UTC) \n💬 #OEGConnect https://t.co/gDBewnRfye\n📺 YouTube: https://t.co/OAhFciKk1m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OEWeek",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "Live",
+						"indices": [
+							8,
+							13
+						]
+					},
+					{
+						"text": "french",
+						"indices": [
+							38,
+							45
+						]
+					},
+					{
+						"text": "english",
+						"indices": [
+							46,
+							54
+						]
+					},
+					{
+						"text": "OEGConnect",
+						"indices": [
+							200,
+							211
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Todd_Conaway",
+						"name": "Todd Conaway",
+						"id": 7664302,
+						"id_str": "7664302",
+						"indices": [
+							64,
+							77
+						]
+					},
+					{
+						"screen_name": "UWBothell",
+						"name": "UW Bothell",
+						"id": 26302517,
+						"id_str": "26302517",
+						"indices": [
+							78,
+							88
+						]
+					},
+					{
+						"screen_name": "uwtacoma",
+						"name": "UW Tacoma",
+						"id": 27892153,
+						"id_str": "27892153",
+						"indices": [
+							101,
+							110
+						]
+					},
+					{
+						"screen_name": "moustaphadiack",
+						"name": "Moustapha Diack",
+						"id": 84552367,
+						"id_str": "84552367",
+						"indices": [
+							112,
+							127
+						]
+					},
+					{
+						"screen_name": "SouthernU_BR",
+						"name": "Southern University",
+						"id": 259847685,
+						"id_str": "259847685",
+						"indices": [
+							128,
+							141
+						]
+					},
+					{
+						"screen_name": "enkerli",
+						"name": "Alexandre Enkerli",
+						"id": 4132991,
+						"id_str": "4132991",
+						"indices": [
+							143,
+							151
+						]
+					},
+					{
+						"screen_name": "Kcarte02",
+						"name": "Kim Carter (she/her)",
+						"id": 1245025976,
+						"id_str": "1245025976",
+						"indices": [
+							160,
+							169
+						]
+					},
+					{
+						"screen_name": "ConestogaC",
+						"name": "Conestoga College",
+						"id": 289459240,
+						"id_str": "289459240",
+						"indices": [
+							170,
+							181
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gDBewnRfye",
+						"expanded_url": "https://connect.oeglobal.org/t/-/4686",
+						"display_url": "connect.oeglobal.org/t/-/4686",
+						"indices": [
+							212,
+							235
+						]
+					},
+					{
+						"url": "https://t.co/OAhFciKk1m",
+						"expanded_url": "https://oeg.pub/3LaKmAi",
+						"display_url": "oeg.pub/3LaKmAi",
+						"indices": [
+							247,
+							270
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 396632857,
+				"id_str": "396632857",
+				"name": "Open Education Week (OEWeek)",
+				"screen_name": "OEWeek",
+				"location": "Worldwide",
+				"description": "#oeweek23 –March 6-10\nJoin us! Celebrate #openeducation that's available to all. @OpenEdGlobal hosted \n#share #collaborate #discuss #inspire\nhttps://t.co/2C4pbra5fH",
+				"url": "https://t.co/hh3Lx2lFyB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hh3Lx2lFyB",
+								"expanded_url": "https://oeweek.oeglobal.org",
+								"display_url": "oeweek.oeglobal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2C4pbra5fH",
+								"expanded_url": "http://oeweek.oeglobal.org",
+								"display_url": "oeweek.oeglobal.org",
+								"indices": [
+									141,
+									164
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6454,
+				"friends_count": 114,
+				"listed_count": 286,
+				"created_at": "Sun Oct 23 15:13:33 +0000 2011",
+				"favourites_count": 247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4622,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5FB2A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1618969865724854272/e4sdnBTa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618969865724854272/e4sdnBTa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/396632857/1674827471",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Getting the #OEWeek Live studio prepped! Tune in and shout from the YouTube stream. https://t.co/pAMZJmYGjd"
+	},
+	{
 		"created_at": "Thu Mar 09 20:17:42 +0000 2023",
 		"id": 1633925046367588400,
 		"id_str": "1633925046367588352",

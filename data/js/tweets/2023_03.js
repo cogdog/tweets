@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 15:08:24 +0000 2023",
+		"id": 1637832189390848000,
+		"id_str": "1637833472638169094",
+		"full_text": "“The most valuable resource you have is what you do with your time.”\n\nWonderful conversation with \"Humans of New York\" creator Brandon Stanton https://t.co/dnKkeTQlO9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnKkeTQlO9",
+					"expanded_url": "https://www.themarginalian.org/2016/03/15/humans-of-new-york-brandon-stanton-design-matters-interview/",
+					"display_url": "themarginalian.org/2016/03/15/hum…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9207632,
+			"id_str": "9207632",
+			"name": "Maria Popova",
+			"screen_name": "brainpicker",
+			"location": "Brooklyn, NY",
+			"description": "Reader. Writer. Creator of The Marginalian (long ago named Brain Pickings). Author of #Figuring. Lover of trees. Petter of moss. Rider of a cobalt blue bicycle.",
+			"url": "https://t.co/HqM7jE118Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HqM7jE118Q",
+							"expanded_url": "http://themarginalian.org",
+							"display_url": "themarginalian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 937912,
+			"friends_count": 376,
+			"listed_count": 23262,
+			"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+			"favourites_count": 2822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 145126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFDB00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1604460545",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEAE5",
+			"profile_text_color": "3F3F3F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The most valuable resource you have is what you do with your time.”\n\nWonderful conversation with \"Humans of New York\" creator Brandon Stanton https://t.co/dnKkeTQlO9"
+	},
+	{
+		"created_at": "Mon Mar 20 14:46:16 +0000 2023",
+		"id": 1637827904968032300,
+		"id_str": "1637827904968032264",
+		"full_text": "Humanery and/or Machinery https://t.co/dWrGE2e1hY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dWrGE2e1hY",
+					"expanded_url": "https://cogdogblog.com/2023/03/humanery-and-or-machinery/",
+					"display_url": "cogdogblog.com/2023/03/humane…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">Jetpack.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10173,
+			"friends_count": 1523,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Humanery and/or Machinery https://t.co/dWrGE2e1hY"
+	},
+	{
 		"created_at": "Sun Mar 19 18:34:49 +0000 2023",
 		"id": 1637523034348089300,
 		"id_str": "1637523034348089344",

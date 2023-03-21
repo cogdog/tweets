@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 21 14:43:40 +0000 2023",
+		"id": 1638189638786379800,
+		"id_str": "1638189638786379781",
+		"full_text": "@courosa Well when AI gets good a making lists of links, what will we do?\nhttps://t.co/Bzs01xm2Tz\n\nhttps://t.co/yG5Kae90Md\n\nhttps://t.co/UqsCdvGYLQ\n\nhttps://t.co/sIpRbqL81P",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bzs01xm2Tz",
+					"expanded_url": "https://creativehecommunity.wordpress.com/2023/02/02/creating-a-collection-of-101-creative-ideas-to-use-ai-in-education/",
+					"display_url": "creativehecommunity.wordpress.com/2023/02/02/cre…",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/yG5Kae90Md",
+					"expanded_url": "https://wac.colostate.edu/repository/collections/ai-text-generators-and-teaching-writing-starting-points-for-inquiry/",
+					"display_url": "wac.colostate.edu/repository/col…",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/UqsCdvGYLQ",
+					"expanded_url": "http://tjkendon.ucalgaryblogs.ca/my-perspective-on-chatgpt-and-creativity-and-teaching/",
+					"display_url": "tjkendon.ucalgaryblogs.ca/my-perspective…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/sIpRbqL81P",
+					"expanded_url": "https://taccleai.eu/",
+					"display_url": "taccleai.eu",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1638022795014598700,
+		"in_reply_to_status_id_str": "1638022795014598657",
+		"in_reply_to_user_id": 739293,
+		"in_reply_to_user_id_str": "739293",
+		"in_reply_to_screen_name": "courosa",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10172,
+			"friends_count": 1523,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@courosa Well when AI gets good a making lists of links, what will we do?\nhttps://t.co/Bzs01xm2Tz\n\nhttps://t.co/yG5Kae90Md\n\nhttps://t.co/UqsCdvGYLQ\n\nhttps://t.co/sIpRbqL81P"
+	},
+	{
 		"created_at": "Tue Mar 21 05:20:04 +0000 2023",
 		"id": 1638047804894355500,
 		"id_str": "1638047804894355456",

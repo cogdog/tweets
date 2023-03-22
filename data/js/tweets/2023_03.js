@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 23:07:47 +0000 2023",
+		"id": 1638669886783385600,
+		"id_str": "1638678889789800451",
+		"full_text": "Advice on writing from former U.S. Poet Laureate Billy Collins, who turns 82 today https://t.co/EfNI4qzJdr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EfNI4qzJdr",
+					"expanded_url": "https://www.themarginalian.org/2017/05/25/billy-collins-advice-to-writers/",
+					"display_url": "themarginalian.org/2017/05/25/bil…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9207632,
+			"id_str": "9207632",
+			"name": "Maria Popova",
+			"screen_name": "brainpicker",
+			"location": "Brooklyn, NY",
+			"description": "Reader. Writer. Creator of The Marginalian (long ago named Brain Pickings). Author of #Figuring. Lover of trees. Petter of moss. Rider of a cobalt blue bicycle.",
+			"url": "https://t.co/HqM7jE118Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HqM7jE118Q",
+							"expanded_url": "http://themarginalian.org",
+							"display_url": "themarginalian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 937659,
+			"friends_count": 376,
+			"listed_count": 23250,
+			"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+			"favourites_count": 2822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 145158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFDB00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1604460545",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEAE5",
+			"profile_text_color": "3F3F3F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Advice on writing from former U.S. Poet Laureate Billy Collins, who turns 82 today https://t.co/EfNI4qzJdr"
+	},
+	{
 		"created_at": "Wed Mar 22 20:04:22 +0000 2023",
 		"id": 1638632733412044800,
 		"id_str": "1638632733412044811",

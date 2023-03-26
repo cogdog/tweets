@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sun Mar 26 16:39:00 +0000 2023",
+		"id": 1640030602236682200,
+		"id_str": "1640030602236682241",
+		"full_text": "Apparently Second Life is quite \"not dead yet\"! No surprised to hear the assuring, welcoming, wise voice of @lyrlobo https://t.co/1DOHwtbttA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lyrlobo",
+					"name": "Lyr Lobo",
+					"id": 10907172,
+					"id_str": "10907172",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1DOHwtbttA",
+					"expanded_url": "https://twitter.com/OlivetreeLight/status/1638965564017352704",
+					"display_url": "twitter.com/OlivetreeLight…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10168,
+			"friends_count": 1522,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1638965564017352700,
+		"quoted_status_id_str": "1638965564017352704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1DOHwtbttA",
+			"expanded": "https://twitter.com/OlivetreeLight/status/1638965564017352704",
+			"display": "twitter.com/OlivetreeLight…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 23 18:06:55 +0000 2023",
+			"id": 1638965564017352700,
+			"id_str": "1638965564017352704",
+			"full_text": "Now join us in Secondlife for Uncommon Insightful Thinking From Immersive Gaming at #VWBPE 2023. https://t.co/T4uDkGmnwK \nor watch here https://t.co/1OOkOgB4FV\n#EdTech #Games4Ed #VirtualWorlds #Opensim #VR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VWBPE",
+						"indices": [
+							84,
+							90
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							160,
+							167
+						]
+					},
+					{
+						"text": "Games4Ed",
+						"indices": [
+							168,
+							177
+						]
+					},
+					{
+						"text": "VirtualWorlds",
+						"indices": [
+							178,
+							192
+						]
+					},
+					{
+						"text": "Opensim",
+						"indices": [
+							193,
+							201
+						]
+					},
+					{
+						"text": "VR",
+						"indices": [
+							202,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T4uDkGmnwK",
+						"expanded_url": "https://www.vwbpe.org/",
+						"display_url": "vwbpe.org",
+						"indices": [
+							97,
+							120
+						]
+					},
+					{
+						"url": "https://t.co/1OOkOgB4FV",
+						"expanded_url": "https://www.youtube.com/live/NQW9O5QK1K0?feature=share",
+						"display_url": "youtube.com/live/NQW9O5QK1…",
+						"indices": [
+							136,
+							159
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 704996518042996700,
+				"id_str": "704996518042996736",
+				"name": "Olivetree Lighthouse",
+				"screen_name": "OlivetreeLight",
+				"location": "",
+				"description": "Learning & Development ,  Training, Life & Executive Coaching, Languages.\nAlways learning\n  #Opensim #Secondlife , #Warcraft,  #Minecraft",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106,
+				"friends_count": 137,
+				"listed_count": 5,
+				"created_at": "Wed Mar 02 11:47:22 +0000 2016",
+				"favourites_count": 96,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 342,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1483900777198493697/QSfoL6AN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483900777198493697/QSfoL6AN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/704996518042996736/1642624880",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apparently Second Life is quite \"not dead yet\"! No surprised to hear the assuring, welcoming, wise voice of @lyrlobo https://t.co/1DOHwtbttA"
+	},
+	{
 		"created_at": "Sun Mar 26 15:39:05 +0000 2023",
 		"id": 1640015524762361900,
 		"id_str": "1640015524762361859",

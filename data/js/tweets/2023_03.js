@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 31 20:58:59 +0000 2023",
+		"id": 1641907966839251000,
+		"id_str": "1641907966839250945",
+		"full_text": "@thatpsychprof I was peripherally involved with the updated version of Principles of Psychology authored by SomePsychProf ;-) that was augmented with interactive H5P activities https://t.co/IjsIiF3xm2",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatpsychprof",
+					"name": "Dr. Rajiv Jhangiani",
+					"id": 39835900,
+					"id_str": "39835900",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IjsIiF3xm2",
+					"expanded_url": "https://collection.bccampus.ca/textbooks/principles-of-social-psychology-1st-international-h5p-edition-bccampus-289",
+					"display_url": "collection.bccampus.ca/textbooks/prin…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1641881964537065500,
+		"in_reply_to_status_id_str": "1641881964537065472",
+		"in_reply_to_user_id": 39835900,
+		"in_reply_to_user_id_str": "39835900",
+		"in_reply_to_screen_name": "thatpsychprof",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10161,
+			"friends_count": 1522,
+			"listed_count": 761,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@thatpsychprof I was peripherally involved with the updated version of Principles of Psychology authored by SomePsychProf ;-) that was augmented with interactive H5P activities https://t.co/IjsIiF3xm2"
+	},
+	{
+		"created_at": "Fri Mar 31 20:32:25 +0000 2023",
+		"id": 1641881964537065500,
+		"id_str": "1641901282528051200",
+		"full_text": "Hey #OER and #psychology folks, what are your favourite examples of Open Educational Resources for Psychology? Happy to receive examples of OER in any format. I'll go first...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "psychology",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39835900,
+			"id_str": "39835900",
+			"name": "Dr. Rajiv Jhangiani",
+			"screen_name": "thatpsychprof",
+			"location": "Canada",
+			"description": "Vice Provost, Teaching and Learning @BrockUniversity Father, ukulelist, tennis player, ret’d dancer, open educator, current fediverse resident (he/him/his)",
+			"url": "https://t.co/yoSzLJd35v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yoSzLJd35v",
+							"expanded_url": "https://thatpsychprof.com/",
+							"display_url": "thatpsychprof.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7301,
+			"friends_count": 3309,
+			"listed_count": 213,
+			"created_at": "Wed May 13 21:10:53 +0000 2009",
+			"favourites_count": 25140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1631132028719489025/d298RJpv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1631132028719489025/d298RJpv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39835900/1677727156",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey #OER and #psychology folks, what are your favourite examples of Open Educational Resources for Psychology? Happy to receive examples of OER in any format. I'll go first..."
+	},
+	{
 		"created_at": "Fri Mar 31 09:40:23 +0000 2023",
 		"id": 1641737193075925000,
 		"id_str": "1641737193075924993",

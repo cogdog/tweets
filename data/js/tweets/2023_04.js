@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 00:57:44 +0000 2023",
+		"id": 1643055216235884500,
+		"id_str": "1643055216235884544",
+		"full_text": "@EnglishOER @Marc__Watkins @timbocop @Bali_Maha This whole piece but the closing paragraphs as a call for AI literacy, a Manhattan Project? https://t.co/AUZMwdVYqS",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Marc__Watkins",
+					"name": "Marc Watkins",
+					"id": 2282914009,
+					"id_str": "2282914009",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AUZMwdVYqS",
+					"expanded_url": "https://aiguide.substack.com/p/thoughts-on-a-crazy-week-in-ai-news",
+					"display_url": "aiguide.substack.com/p/thoughts-on-…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": 1642751301871353900,
+		"in_reply_to_status_id_str": "1642751301871353856",
+		"in_reply_to_user_id": 1283804252482048000,
+		"in_reply_to_user_id_str": "1283804252482048005",
+		"in_reply_to_screen_name": "EnglishOER",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10157,
+			"friends_count": 1522,
+			"listed_count": 759,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EnglishOER @Marc__Watkins @timbocop @Bali_Maha This whole piece but the closing paragraphs as a call for AI literacy, a Manhattan Project? https://t.co/AUZMwdVYqS"
+	},
+	{
 		"created_at": "Mon Apr 03 16:54:17 +0000 2023",
 		"id": 1642933552269475800,
 		"id_str": "1642933552269475854",

@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 19:15:08 +0000 2023",
+		"id": 1643693772155281400,
+		"id_str": "1643693772155281408",
+		"full_text": "@colinmadland @edtechfactotum @laurapasquini @Stephen_Hurley Not off hand, but would imagine there is stuff out there. You mean effects like how people respond? comprehension factors? \n\nPress 1 to hear more excuses.\nPress 2 to read an article.\nPress 3....",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colinmadland",
+					"name": "Colin Madland 🇺🇦🇮🇷",
+					"id": 81038069,
+					"id_str": "81038069",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde (he/him)",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "laurapasquini",
+					"name": "Laura Pasquini, PhD",
+					"id": 16708242,
+					"id_str": "16708242",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "Stephen_Hurley",
+					"name": "Stephen Hurley",
+					"id": 23057694,
+					"id_str": "23057694",
+					"indices": [
+						45,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1643679924493111300,
+		"in_reply_to_status_id_str": "1643679924493111297",
+		"in_reply_to_user_id": 81038069,
+		"in_reply_to_user_id_str": "81038069",
+		"in_reply_to_screen_name": "colinmadland",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10155,
+			"friends_count": 1522,
+			"listed_count": 759,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@colinmadland @edtechfactotum @laurapasquini @Stephen_Hurley Not off hand, but would imagine there is stuff out there. You mean effects like how people respond? comprehension factors? \n\nPress 1 to hear more excuses.\nPress 2 to read an article.\nPress 3...."
+	},
+	{
+		"created_at": "Wed Apr 05 19:02:40 +0000 2023",
+		"id": 1643690634681671700,
+		"id_str": "1643690634681671685",
+		"full_text": "More air, yes! https://t.co/CTTupMy7ds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CTTupMy7ds",
+					"expanded_url": "https://twitter.com/greeneterry/status/1643690095730384897",
+					"display_url": "twitter.com/greeneterry/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10155,
+			"friends_count": 1522,
+			"listed_count": 759,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1643690095730385000,
+		"quoted_status_id_str": "1643690095730384897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CTTupMy7ds",
+			"expanded": "https://twitter.com/greeneterry/status/1643690095730384897",
+			"display": "twitter.com/greeneterry/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 05 19:00:31 +0000 2023",
+			"id": 1643690095730385000,
+			"id_str": "1643690095730384897",
+			"full_text": "Planned upcoming episodes of Gettin' Air include:\nStephanie Moore @steph_moore and (hopefully) Heather Tillberg-Webb, co-authors of Ethics and Ed Tech\nYasin Dahi @ymdahi founder of @LearnfulLabs\nBea De Los Arcos @celTatis of @TUDelftOnline \nhttps://t.co/X1K7QcZFaU https://t.co/RB5mUncHic",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "steph_moore",
+						"name": "Stephanie Moore ☀️",
+						"id": 15636128,
+						"id_str": "15636128",
+						"indices": [
+							66,
+							78
+						]
+					},
+					{
+						"screen_name": "ymdahi",
+						"name": "Yasin Dahi",
+						"id": 972250261,
+						"id_str": "972250261",
+						"indices": [
+							162,
+							169
+						]
+					},
+					{
+						"screen_name": "LearnfulLabs",
+						"name": "Learnful 🇨🇦",
+						"id": 1151183095007260700,
+						"id_str": "1151183095007260672",
+						"indices": [
+							181,
+							194
+						]
+					},
+					{
+						"screen_name": "celTatis",
+						"name": "Bea de los Arcos 🇪🇺",
+						"id": 1550686328,
+						"id_str": "1550686328",
+						"indices": [
+							212,
+							221
+						]
+					},
+					{
+						"screen_name": "TUDelftOnline",
+						"name": "TUDelft Online Learn",
+						"id": 1197639715,
+						"id_str": "1197639715",
+						"indices": [
+							225,
+							239
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X1K7QcZFaU",
+						"expanded_url": "https://www.spreaker.com/show/gettin-air-with-terry-greene",
+						"display_url": "spreaker.com/show/gettin-ai…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1643690088788906000,
+						"id_str": "1643690088788905984",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fs-PbVcX0AAx--V.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fs-PbVcX0AAx--V.jpg",
+						"url": "https://t.co/RB5mUncHic",
+						"display_url": "pic.twitter.com/RB5mUncHic",
+						"expanded_url": "https://twitter.com/greeneterry/status/1643690095730384897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1643690088788906000,
+						"id_str": "1643690088788905984",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fs-PbVcX0AAx--V.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fs-PbVcX0AAx--V.jpg",
+						"url": "https://t.co/RB5mUncHic",
+						"display_url": "pic.twitter.com/RB5mUncHic",
+						"expanded_url": "https://twitter.com/greeneterry/status/1643690095730384897/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								55,
+								31
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Fs-PbVcX0AAx--V.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 212019344,
+				"id_str": "212019344",
+				"name": "Greene, Terry",
+				"screen_name": "greeneterry",
+				"location": "Nogojiwanong/Peterborough",
+				"description": "\"You look like a Canadian online learning wizard\" Jonathan Lashley, 2021. Host of the Gettin' Air Podcast on @voicedcanada. He/Him. @greeneterry@social.coop",
+				"url": "https://t.co/tPORNzdo7A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tPORNzdo7A",
+								"expanded_url": "https://learningnuggets.ca/",
+								"display_url": "learningnuggets.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2676,
+				"friends_count": 1635,
+				"listed_count": 86,
+				"created_at": "Thu Nov 04 22:34:28 +0000 2010",
+				"favourites_count": 27286,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21833,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349095600680271872/Yd7Kzvo__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349095600680271872/Yd7Kzvo__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/212019344/1496450834",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More air, yes! https://t.co/CTTupMy7ds"
+	},
+	{
+		"created_at": "Wed Apr 05 19:01:39 +0000 2023",
+		"id": 1643690377994461200,
+		"id_str": "1643690377994461211",
+		"full_text": "@BryanAlexander @UWStoutLibrary Hand raised to hear more, thanks!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "UWStoutLibrary",
+					"name": "UW-Stout University Library",
+					"id": 343614116,
+					"id_str": "343614116",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1643687783238627300,
+		"in_reply_to_status_id_str": "1643687783238627328",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10155,
+			"friends_count": 1522,
+			"listed_count": 759,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BryanAlexander @UWStoutLibrary Hand raised to hear more, thanks!"
+	},
+	{
 		"created_at": "Wed Apr 05 04:36:08 +0000 2023",
 		"id": 1643472563987775500,
 		"id_str": "1643472563987775488",

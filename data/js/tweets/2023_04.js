@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 14:35:53 +0000 2023",
+		"id": 1643985886818992000,
+		"id_str": "1643985886818992134",
+		"full_text": "Relating and head nodding vigorously. Thanks for the slides, hoping to catch up on recording. \n\nThe banana slide was my winner. \n\nNo it wasn't, it was... all of them. #oer23 https://t.co/nauMARKaGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oer23",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nauMARKaGt",
+					"expanded_url": "https://twitter.com/bonstewart/status/1643982903423172610",
+					"display_url": "twitter.com/bonstewart/sta…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Archydal, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10154,
+			"friends_count": 1522,
+			"listed_count": 759,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1643982903423172600,
+		"quoted_status_id_str": "1643982903423172610",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nauMARKaGt",
+			"expanded": "https://twitter.com/bonstewart/status/1643982903423172610",
+			"display": "twitter.com/bonstewart/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 06 14:24:02 +0000 2023",
+			"id": 1643982903423172600,
+			"id_str": "1643982903423172610",
+			"full_text": "my #OER23 slides, or...here's the crossroads i find myself at in my career in digital ed at this point, &amp; can youse relate? \n\nthanks to all who came. what a wonderful conference.\nhttps://t.co/1KvMj00gBy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER23",
+						"indices": [
+							3,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1KvMj00gBy",
+						"expanded_url": "https://docs.google.com/presentation/d/1jsqWS9XI_OxDT_vtSPs5NFza_pkYpnep_jhLt22xoQY/edit?usp=sharing",
+						"display_url": "docs.google.com/presentation/d…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6532522,
+				"id_str": "6532522",
+				"name": "Bonnie Stewart",
+				"screen_name": "bonstewart",
+				"location": "Three Fires Confederacy land",
+				"description": "likes piña coladas & dead/dying technologies\n\ndigital educator. Associate Professor of Online Pedagogy & Workplace Learning, UWindsor. they/she/cyborg ;)",
+				"url": "https://t.co/UGOYThfwih",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UGOYThfwih",
+								"expanded_url": "http://bonstewart.com",
+								"display_url": "bonstewart.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15778,
+				"friends_count": 2931,
+				"listed_count": 694,
+				"created_at": "Sun Jun 03 00:53:25 +0000 2007",
+				"favourites_count": 47862,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 84243,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1126158515251437569/G1hdWBER_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126158515251437569/G1hdWBER_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6532522/1606421218",
+				"profile_link_color": "72A848",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Relating and head nodding vigorously. Thanks for the slides, hoping to catch up on recording. \n\nThe banana slide was my winner. \n\nNo it wasn't, it was... all of them. #oer23 https://t.co/nauMARKaGt"
+	},
+	{
 		"created_at": "Thu Apr 06 13:23:58 +0000 2023",
 		"id": 1643967785964380200,
 		"id_str": "1643967785964380160",

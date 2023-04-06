@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 20:06:43 +0000 2023",
+		"id": 1644035841507881000,
+		"id_str": "1644069141177946114",
+		"full_text": "Archeologies of the heart\n\nhttps://t.co/fhIChYpA9v\n\nMy talk today at  #OER23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER23",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fhIChYpA9v",
+					"expanded_url": "https://docs.google.com/presentation/d/1_Qz7j_1GCuamDsFqr-6F6eM9YvUmIM6vR75wHZyjQos/edit?usp=sharing",
+					"display_url": "docs.google.com/presentation/d…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210901,
+			"id_str": "1210901",
+			"name": "☀️ Eamon Costello",
+			"screen_name": "eam0",
+			"location": "Dublin City, Ireland",
+			"description": "What will we learn? And who will teach us?\n\nNot just #EdTech or #OpenEd but many and all other things #LearningDesign",
+			"url": "https://t.co/dY5Ve3IQFL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dY5Ve3IQFL",
+							"expanded_url": "https://www.dcu.ie/stemeducationinnovationglobalstudies/people/eamon-costello",
+							"display_url": "dcu.ie/stemeducationi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2868,
+			"friends_count": 4267,
+			"listed_count": 105,
+			"created_at": "Thu Mar 15 09:16:09 +0000 2007",
+			"favourites_count": 15901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1640444386637914141/pgunceEg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1640444386637914141/pgunceEg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210901/1595114729",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Archeologies of the heart\n\nhttps://t.co/fhIChYpA9v\n\nMy talk today at  #OER23"
+	},
+	{
 		"created_at": "Thu Apr 06 14:35:53 +0000 2023",
 		"id": 1643985886818992000,
 		"id_str": "1643985886818992134",

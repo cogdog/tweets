@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 21:26:32 +0000 2023",
+		"id": 1668332638237499400,
+		"id_str": "1668369216754405382",
+		"full_text": "How will universities be impacted by the climate crisis and what can they offer humanity as it navigates “climate breakdown”? \n\nEducation futurist @BryanAlexander explores these critical questions in a new book, reviewed here:https://t.co/eqvh4YvL3Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eqvh4YvL3Z",
+					"expanded_url": "http://bit.ly/3Nkl2sb",
+					"display_url": "bit.ly/3Nkl2sb",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80344952,
+			"id_str": "80344952",
+			"name": "University Affairs",
+			"screen_name": "UA_magazine",
+			"location": "Ottawa, Ontario",
+			"description": "A bilingual magazine for and about Canada's university community.  Un magazine qui porte sur le milieu universitaire canadien et s’adresse à celui-ci.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19425,
+			"friends_count": 1208,
+			"listed_count": 523,
+			"created_at": "Tue Oct 06 16:42:19 +0000 2009",
+			"favourites_count": 3000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1656751519004258305/NNIVqgDe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1656751519004258305/NNIVqgDe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80344952/1683905682",
+			"profile_link_color": "E60909",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "808080",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How will universities be impacted by the climate crisis and what can they offer humanity as it navigates “climate breakdown”? \n\nEducation futurist @BryanAlexander explores these critical questions in a new book, reviewed here:https://t.co/eqvh4YvL3Z"
+	},
+	{
 		"created_at": "Mon Jun 12 18:00:11 +0000 2023",
 		"id": 1668317284618625000,
 		"id_str": "1668317284618625026",
